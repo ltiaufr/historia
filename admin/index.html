@@ -1,17 +1,23 @@
-<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>História · Cadastro experimental</title><style>body{font:16px system-ui,sans-serif;max-width:790px;margin:0 auto;padding:24px;background:#f6f7f4;color:#24343b}h1{font-family:Georgia,serif}form{background:white;padding:24px;border-radius:12px;display:grid;gap:14px}label{display:grid;gap:6px;font-weight:600}input,textarea,button{font:inherit;padding:10px;border:1px solid #b7c5c1;border-radius:7px}textarea{min-height:90px}button{background:#214852;color:#fff;cursor:pointer}fieldset{border:1px solid #ddd;border-radius:7px}small,.warning{color:#5b676c}.warning{padding:12px;background:#fff1d5;border-radius:8px}#result{white-space:pre-wrap;overflow-wrap:anywhere}a{color:#214852}</style></head><body><p><a href="../">← Voltar à galeria</a></p><h1>Cadastro de fotografias</h1><p class="warning"><strong>Protótipo local — não autenticado.</strong> Este formulário não envia fotos ao Drive nem publica registros diretamente. Os campos geram um JSON para revisão. Não informe senhas ou dados privados. Antes de habilitar envio real, será necessário implantar autenticação e backend seguro.</p><form id="form"><label>Título *<input name="titulo" required maxlength="150"></label><label>Descrição<textarea name="descricao" maxlength="1500"></textarea></label><label>Ano ou data<input name="ano" maxlength="60" placeholder="Ex.: 1985 ou década de 1970"></label><label>Fonte<input name="fonte" maxlength="200" placeholder="Ex.: acervo da família, arquivo municipal"></label><button type="submit">Gerar registro JSON</button></form><h2>Registro gerado</h2><p><small>O registro é preparado apenas neste navegador. Faça o download e guarde-o para a próxima etapa de integração.</small></p><button type="button" id="download" disabled>Baixar registro .json</button><pre id="result" aria-live="polite">Preencha o formulário.</pre><script>
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>História · Cadastro experimental</title>
+<style>body{font:16px system-ui,sans-serif;max-width:800px;margin:0 auto;padding:24px;background:#f6f7f4;color:#24343b}h1{font-family:Georgia,serif}form{background:white;padding:24px;border-radius:12px;display:grid;gap:14px}label{display:grid;gap:6px;font-weight:600}input,textarea,button{font:inherit;padding:10px;border:1px solid #b7c5c1;border-radius:7px}textarea{min-height:90px}button{background:#214852;color:#fff;cursor:pointer}button:disabled{opacity:.5;cursor:not-allowed}small,.warning{color:#5b676c}.warning{padding:12px;background:#fff1d5;border-radius:8px}#result{white-space:pre-wrap;overflow-wrap:anywhere}a{color:#214852}.actions{display:flex;gap:10px;flex-wrap:wrap}.secondary{background:#dce5e3;color:#214852}li{margin:8px 0}</style></head><body>
+<p><a href="../">← Voltar à galeria</a></p><h1>Cadastro de fotografias</h1>
+<p class="warning"><strong>Protótipo sem autenticação.</strong> Os registros são acumulados neste navegador e podem ser exportados como catálogo único. <strong>Salvar aqui não publica no site nem grava no GitHub ou no Google Drive.</strong> Não informe dados privados. A sincronização automática precisará de um serviço autenticado.</p>
+<form id="form"><label>Título *<input name="titulo" required maxlength="150"></label><label>Descrição<textarea name="descricao" maxlength="1500"></textarea></label><label>Ano ou data<input name="ano" maxlength="60" placeholder="Ex.: 1985 ou década de 1970"></label><label>Fonte<input name="fonte" maxlength="200" placeholder="Ex.: acervo da família, arquivo municipal"></label><button type="submit">Adicionar ao catálogo local</button></form>
+<h2>Catálogo de trabalho</h2><p id="status" role="status">Carregando registros…</p><ol id="entries"></ol>
+<div class="actions"><button type="button" id="download" disabled>Baixar catálogo completo (.json)</button><button type="button" class="secondary" id="clear">Limpar cadastros locais</button></div>
+<p><small>O catálogo exportado preserva também os registros já publicados, quando a leitura da galeria for bem-sucedida. Guarde o arquivo exportado para revisão antes de substituir <code>dados/acervo.json</code> no repositório. Ao limpar, apenas cadastros deste navegador são removidos; a galeria pública não é alterada.</small></p>
+<script>
 "use strict";
-let last=null;
-const form=document.getElementById('form'),result=document.getElementById('result'),download=document.getElementById('download');
-form.addEventListener('submit',e=>{
-  e.preventDefault();
-  const d=new FormData(form);
-  last={id:'foto-'+Date.now(),titulo:String(d.get('titulo')).trim(),descricao:String(d.get('descricao')).trim(),ano:String(d.get('ano')).trim(),fonte:String(d.get('fonte')).trim()};
-  result.textContent=JSON.stringify(last,null,2);
-  download.disabled=false;
-});
-download.addEventListener('click',()=>{
-  if(!last)return;
-  const b=new Blob([JSON.stringify(last,null,2)],{type:'application/json'}),u=URL.createObjectURL(b),a=document.createElement('a');
-  a.href=u;a.download=last.id+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(u),1000);
-});
+const KEY='historia-cadastros-v1',form=document.getElementById('form'),status=document.getElementById('status'),entries=document.getElementById('entries'),download=document.getElementById('download');
+let base=[],drafts=[],loaded=false;
+function readDrafts(){try{const a=JSON.parse(localStorage.getItem(KEY)||'[]');return Array.isArray(a)?a:[]}catch{return []}}
+function saveDrafts(){try{localStorage.setItem(KEY,JSON.stringify(drafts));return true}catch{return false}}
+function catalog(){const map=new Map();for(const p of base)if(p&&p.id)map.set(p.id,p);for(const p of drafts)map.set(p.id,p);return Array.from(map.values())}
+function render(){entries.replaceChildren();for(const p of drafts){const li=document.createElement('li');li.textContent=[p.titulo,p.ano,p.fonte].filter(Boolean).join(' · ');entries.append(li)}status.textContent=loaded?'Registros no catálogo publicado: '+base.length+'. Novos cadastros neste navegador: '+drafts.length+'. Total para exportação: '+catalog().length+'.':'Não foi possível carregar o catálogo publicado. Nenhum arquivo completo será exportado para evitar perda de registros.';download.disabled=!loaded}
+drafts=readDrafts();render();
+fetch('../dados/acervo.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Falha ao carregar catálogo');return r.json()}).then(a=>{if(!Array.isArray(a))throw Error('Catálogo inválido');base=a;loaded=true;render()}).catch(()=>render());
+form.addEventListener('submit',e=>{e.preventDefault();const d=new FormData(form),p={id:'foto-'+Date.now()+'-'+Math.random().toString(36).slice(2,8),titulo:String(d.get('titulo')).trim(),descricao:String(d.get('descricao')).trim(),ano:String(d.get('ano')).trim(),fonte:String(d.get('fonte')).trim(),miniatura:'',original:''};if(!p.titulo)return;drafts.push(p);if(!saveDrafts()){drafts.pop();alert('Não foi possível guardar o registro neste navegador.');return}form.reset();render()});
+download.addEventListener('click',()=>{if(!loaded)return;const b=new Blob([JSON.stringify(catalog(),null,2)+'\n'],{type:'application/json'}),u=URL.createObjectURL(b),a=document.createElement('a');a.href=u;a.download='acervo.json';a.click();setTimeout(()=>URL.revokeObjectURL(u),1000)});
+document.getElementById('clear').addEventListener('click',()=>{if(!confirm('Apagar somente os novos cadastros salvos neste navegador?'))return;drafts=[];saveDrafts();render()});
 </script></body></html>
