@@ -28,3 +28,9 @@ Em **Settings → Pages**, escolha **Deploy from a branch**, branch **main** e p
 ## Observações de segurança
 
 Como o GitHub Pages é público, **não coloque senhas, tokens do GitHub, credenciais do Google, planilhas privadas ou imagens sem autorização neste repositório**. Um formulário HTML público não pode proteger o acesso administrativo por si só. O cadastro definitivo será publicado somente após implantação de backend com controle de acesso e validação no servidor. Esta etapa é apenas de interface e exportação local.
+
+## Cadastro acumulativo — versão experimental
+
+O formulário em `/admin/` agora mantém novos registros no `localStorage` do próprio navegador e permite exportar um único `acervo.json` contendo os registros publicados e os novos cadastros. **Essa exportação não atualiza automaticamente o repositório, e os registros locais não são compartilhados entre dispositivos.** Para publicar, o arquivo precisa ser revisado e enviado para `dados/acervo.json` via GitHub. O formulário bloqueia exportação integral caso não consiga carregar o catálogo publicado, evitando apagá-lo acidentalmente.
+
+A futura inclusão automática depende de um backend autenticado (por exemplo, Google Apps Script com integração protegida). Nunca incluir credenciais de escrita no HTML ou JavaScript do GitHub Pages.
