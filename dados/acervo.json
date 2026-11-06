@@ -1,0 +1,17 @@
+[
+  {
+    "id": "exemplo-001",
+    "titulo": "Fotografia demonstrativa",
+    "descricao": "Registro de exemplo para testar a pesquisa. Substitua por uma fotografia autorizada antes de divulgar o acervo.",
+    "local": "Local de exemplo",
+    "ano": "1980",
+    "autor": "Acervo experimental",
+    "palavras_chave": [
+      "história",
+      "exemplo",
+      "memória"
+    ],
+    "miniatura": "",
+    "original": ""
+  }
+]
