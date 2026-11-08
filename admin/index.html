@@ -1,25 +1,40 @@
 <!doctype html>
-<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>História · Cadastro experimental</title>
-<style>body{font:16px system-ui,sans-serif;max-width:800px;margin:0 auto;padding:24px;background:#f6f7f4;color:#24343b}h1{font-family:Georgia,serif}form{background:white;padding:24px;border-radius:12px;display:grid;gap:14px}label{display:grid;gap:6px;font-weight:600}input,textarea,button{font:inherit;padding:10px;border:1px solid #b7c5c1;border-radius:7px}textarea{min-height:90px}button{background:#214852;color:#fff;cursor:pointer}button:disabled{opacity:.5;cursor:not-allowed}small,.warning{color:#5b676c}.warning{padding:12px;background:#fff1d5;border-radius:8px}#result{white-space:pre-wrap;overflow-wrap:anywhere}a{color:#214852}.actions{display:flex;gap:10px;flex-wrap:wrap}.secondary{background:#dce5e3;color:#214852}li{margin:8px 0}</style></head><body>
-<p><a href="../">← Voltar à galeria</a></p><h1>Cadastro de fotografias</h1>
-<p class="warning"><strong>Cadastro experimental, ainda sem autenticação.</strong> Os dados são armazenados apenas neste navegador e não são enviados ao GitHub nem ao Google Drive. Não informe dados privados ou utilize este formulário para cadastros definitivos.</p>
-<form id="form"><label>Título *<input name="titulo" required maxlength="150"></label><label>Descrição<textarea name="descricao" maxlength="1500"></textarea></label><label>Ano ou data<input name="ano" maxlength="60" placeholder="Ex.: 1985 ou década de 1970"></label><label>Fonte<input name="fonte" maxlength="200" placeholder="Ex.: acervo da família, arquivo municipal"></label><button type="submit">Salvar cadastro experimental</button></form>
-<p id="status" role="status" aria-live="polite"></p>
-<script>
-"use strict";
-const KEY='historia-cadastros-v1';
-const form=document.getElementById('form'),status=document.getElementById('status');
-function readDrafts(){try{const items=JSON.parse(localStorage.getItem(KEY)||'[]');return Array.isArray(items)?items:[]}catch{return []}}
-function saveDrafts(items){try{localStorage.setItem(KEY,JSON.stringify(items));return true}catch{return false}}
-form.addEventListener('submit',e=>{
- e.preventDefault();
- const d=new FormData(form);
- const p={id:'foto-'+Date.now()+'-'+Math.random().toString(36).slice(2,8),titulo:String(d.get('titulo')).trim(),descricao:String(d.get('descricao')).trim(),ano:String(d.get('ano')).trim(),fonte:String(d.get('fonte')).trim(),miniatura:'',original:''};
- if(!p.titulo)return;
- const drafts=readDrafts();
- drafts.push(p);
- if(!saveDrafts(drafts)){status.textContent='Não foi possível salvar neste navegador. Nenhum registro foi enviado.';return}
- form.reset();
- status.textContent='Cadastro de teste salvo neste navegador. Ainda não foi publicado no acervo central.';
-});
-</script></body></html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Acesso ao cadastro seguro de fotografias do Acervo Histórico">
+<title>História · Cadastro de fotografias</title>
+<style>
+:root{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;color:#24343b;background:#f6f7f4}
+*{box-sizing:border-box}body{margin:0}
+header{background:#182b32;color:#fff;padding:26px max(20px,calc((100vw - 820px)/2))}
+header h1{font:normal clamp(1.9rem,5vw,2.8rem) Georgia,serif;margin:0}
+header p{margin:7px 0 0;color:#d9e1dd}
+main{max-width:820px;margin:auto;padding:32px 20px}
+.card{background:white;border:1px solid #dbe0dc;border-radius:14px;padding:26px;box-shadow:0 5px 16px #14281d0a}
+h2{margin-top:0;font-size:1.45rem}
+p,li{line-height:1.65}
+a{color:#214852}
+.button{display:inline-block;border-radius:9px;background:#214852;color:#fff;text-decoration:none;padding:14px 20px;font-weight:650;margin:12px 0}
+.button:hover{background:#163740}
+.note{padding:13px 16px;border-left:4px solid #9caf9f;background:#f3f6f3;border-radius:5px;font-size:.96rem}
+.small{color:#53636b;font-size:.93rem}
+footer{margin-top:24px;color:#53636b;font-size:.9rem}
+a:focus-visible{outline:3px solid #d69c37;outline-offset:3px}
+</style>
+</head>
+<body>
+<header><h1>História</h1><p>Cadastro de fotografias do acervo histórico</p></header>
+<main>
+<p><a href="../">← Voltar à pesquisa pública</a></p>
+<section class="card" aria-labelledby="heading">
+<h2 id="heading">Cadastrar uma fotografia</h2>
+<p>O cadastro utiliza um aplicativo Google Apps Script, executado com autorização da conta responsável pelo acervo. Para manter o Google Drive protegido, o envio de fotografias acontece na página autenticada, e não diretamente neste site público.</p>
+<a class="button" href="https://script.google.com/macros/s/AKfycbwuWxu1TGYtMSr8pVNn9gHBAFi8bNtP6TY6ynPtdxvylpQL6ofSHkh8FKxJIEeuO1zeWQ/exec" target="_blank" rel="noopener noreferrer">Abrir formulário seguro de cadastro</a>
+<p class="small">A página será aberta em outra guia. Entre com a conta Google autorizada, se solicitado.</p>
+<div class="note"><strong>Teste de upload:</strong> selecione uma imagem JPEG, PNG ou WebP (até 8 MB), informe título, descrição, ano/data e fonte e envie o cadastro. O original e os metadados serão armazenados no Google Drive. A fotografia só aparecerá na pesquisa pública após a configuração da publicação no GitHub.</div>
+</section>
+<footer>Acervo Histórico · LTIA/UFR · Etapa de integração</footer>
+</main>
+</body></html>
