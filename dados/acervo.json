@@ -2453,5 +2453,35 @@
     },
     "sha256": "3a7995084f4d6f5e5ca36e6ff99b14ba37db9e9641984bfef0431e5a88381435",
     "dhash": "0989e8f2e2606262"
+  },
+  {
+    "id": "ab5354a9-5167-41cd-9377-7c7e8d6f3bfa",
+    "titulo": "25 ANTIGO CORREIO AVENIDA MARECHAL RONDON PROXIMO A PONTE DECAD",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ab5354a9-5167-41cd-9377-7c7e8d6f3bfa.jpg",
+    "original": "./imagens/visualizacao/ab5354a9-5167-41cd-9377-7c7e8d6f3bfa.jpg",
+    "criado_em": "2026-11-11T21:26:05.442706+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1143,
+        "altura": 788,
+        "bytes": 514968,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          153,
+          130,
+          131
+        ],
+        "luminosidade_media": 136.9,
+        "contraste_desvio": 44.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "5610759eb00e0ea8269ef3fc882a0736a63566de147f439a7d0c306f78d8dd46",
+    "dhash": "c0e008063637a340"
   }
 ]
