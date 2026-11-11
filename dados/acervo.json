@@ -2333,5 +2333,35 @@
     },
     "sha256": "b16cf1a5ffcd69214c12629a0a1ae222ce7f0923935e4e6acb699ad1435ba023",
     "dhash": "13084626c6010998"
+  },
+  {
+    "id": "f3cc6af1-c3aa-4660-9350-a94bfed5ac35",
+    "titulo": "248 Diocese de Rondonopolis",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f3cc6af1-c3aa-4660-9350-a94bfed5ac35.jpg",
+    "original": "./imagens/visualizacao/f3cc6af1-c3aa-4660-9350-a94bfed5ac35.jpg",
+    "criado_em": "2026-11-11T21:24:42.566954+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1613,
+        "altura": 788,
+        "bytes": 531067,
+        "exif_data_digital": "2011:02:11 08:07:27",
+        "cor_media_rgb": [
+          151,
+          135,
+          99
+        ],
+        "luminosidade_media": 135.9,
+        "contraste_desvio": 45.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "764b652bfd71c85b0c9ccc6f0ee1d73571b137824acdde9cc9001839fb046c02",
+    "dhash": "0f0f83989cbb9b0f"
   }
 ]
