@@ -2273,5 +2273,35 @@
     },
     "sha256": "fffec39a62be0685df144f2ee0234e1bf8723ba997f09b6b6a730efe07fcc3f4",
     "dhash": "989acadc32230305"
+  },
+  {
+    "id": "38fd174b-e834-4790-91dc-cbeb879ad0ca",
+    "titulo": "246 DESFILE ESCOLAR DE 7 DE SETEMBRO RONDONOPOLIS DECADA DE 50",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/38fd174b-e834-4790-91dc-cbeb879ad0ca.jpg",
+    "original": "./imagens/visualizacao/38fd174b-e834-4790-91dc-cbeb879ad0ca.jpg",
+    "criado_em": "2026-11-11T21:24:04.261554+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 733,
+        "altura": 694,
+        "bytes": 285582,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          204,
+          202,
+          185
+        ],
+        "luminosidade_media": 200.3,
+        "contraste_desvio": 41.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e0347a591b52dc7b72c4d83bcc9ee2ed7c6d1ad2bd8c3083ff4a55423a8ff8f7",
+    "dhash": "082411110327b636"
   }
 ]
