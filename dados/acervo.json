@@ -7313,5 +7313,35 @@
     },
     "sha256": "c679f5459c3bedd9da8aadb5202730c811199872196d8c3f1202c375d03d7d35",
     "dhash": "2f63514d5b0f3f3f"
+  },
+  {
+    "id": "14f2c0b2-5e8c-48ec-9d45-1db9ee0d257c",
+    "titulo": "51 AVENIDA MARECHAL RONDON RONDONOPOLIS NA DECADA DE 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/14f2c0b2-5e8c-48ec-9d45-1db9ee0d257c.jpg",
+    "original": "./imagens/visualizacao/14f2c0b2-5e8c-48ec-9d45-1db9ee0d257c.jpg",
+    "criado_em": "2026-11-11T22:21:22.527205+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1033,
+        "altura": 687,
+        "bytes": 181039,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          230,
+          226,
+          203
+        ],
+        "luminosidade_media": 224.5,
+        "contraste_desvio": 47.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2d98dc8c39a2467dc79cfae825beef53539cf68b0ecf3c1724bef87d3a0ad044",
+    "dhash": "cc6cecc686e4007c"
   }
 ]
