@@ -7043,5 +7043,35 @@
     },
     "sha256": "c7ad853957333c8083072656b7eafc33554abb7aec5b18c7b2ba45609cba91a2",
     "dhash": "90d8d8a020a0a098"
+  },
+  {
+    "id": "5a997166-8934-4053-bf0f-e8aa61f3e882",
+    "titulo": "505 Matriculas C P R 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5a997166-8934-4053-bf0f-e8aa61f3e882.jpg",
+    "original": "./imagens/visualizacao/5a997166-8934-4053-bf0f-e8aa61f3e882.jpg",
+    "criado_em": "2026-11-11T22:18:11.837516+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1104,
+        "altura": 768,
+        "bytes": 261503,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          198,
+          141,
+          129
+        ],
+        "luminosidade_media": 156.4,
+        "contraste_desvio": 36.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1999dd95edff9e79b82a3c2a6d85333b42285a46ca217ca2dab24b58c7633af1",
+    "dhash": "acace4ace8ecf0f1"
   }
 ]
