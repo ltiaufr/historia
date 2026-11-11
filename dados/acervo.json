@@ -2363,5 +2363,35 @@
     },
     "sha256": "764b652bfd71c85b0c9ccc6f0ee1d73571b137824acdde9cc9001839fb046c02",
     "dhash": "0f0f83989cbb9b0f"
+  },
+  {
+    "id": "7e4b2d20-9ef0-44d5-9a1b-f4239f9d6ffb",
+    "titulo": "24 ANTIGOS MOTORES DE LUZ CEMAT RUA MAJOR OTAVIO PITALUGA DECA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7e4b2d20-9ef0-44d5-9a1b-f4239f9d6ffb.jpg",
+    "original": "./imagens/visualizacao/7e4b2d20-9ef0-44d5-9a1b-f4239f9d6ffb.jpg",
+    "criado_em": "2026-11-11T21:25:01.995637+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1380,
+        "bytes": 1000897,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          220,
+          212,
+          191
+        ],
+        "luminosidade_media": 212.1,
+        "contraste_desvio": 45.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "101e5fd3c2cfad756419524e737c9476157e064d68255ed52258442a068d7730",
+    "dhash": "8d0d0136b29290e4"
   }
 ]
