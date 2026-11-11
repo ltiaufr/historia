@@ -2573,5 +2573,35 @@
     },
     "sha256": "9bde97b8055ba81dbe46f10f0cbcb89487917050fbb6aa35f2431d04b8c1c2fa",
     "dhash": "e9a98dacbcbcbcde"
+  },
+  {
+    "id": "ce11cdc0-f939-4fa1-adfa-60e87eca250a",
+    "titulo": "265 D Vunibaldo 1944",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ce11cdc0-f939-4fa1-adfa-60e87eca250a.jpg",
+    "original": "./imagens/visualizacao/ce11cdc0-f939-4fa1-adfa-60e87eca250a.jpg",
+    "criado_em": "2026-11-11T21:27:24.518382+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1165,
+        "altura": 1673,
+        "bytes": 746163,
+        "exif_data_digital": "2011:02:11 07:40:41",
+        "cor_media_rgb": [
+          139,
+          120,
+          76
+        ],
+        "luminosidade_media": 120.9,
+        "contraste_desvio": 54.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "fa868cc9915e533a4236c73328fcd69e50aa0424abb846f572f741472191a432",
+    "dhash": "787478f5f2cb7b1d"
   }
 ]
