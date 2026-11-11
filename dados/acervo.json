@@ -5333,5 +5333,35 @@
     },
     "sha256": "1b9d03019e144ca3de0b4ba8f79e8c79907e8174ed948fddbe8a70d756dad23d",
     "dhash": "1b0e9682a3276767"
+  },
+  {
+    "id": "0be372fc-d727-4cbe-9317-0c11ec72eef2",
+    "titulo": "418 Instalacao Diocese 1986",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0be372fc-d727-4cbe-9317-0c11ec72eef2.jpg",
+    "original": "./imagens/visualizacao/0be372fc-d727-4cbe-9317-0c11ec72eef2.jpg",
+    "criado_em": "2026-11-11T21:58:50.759311+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1308,
+        "altura": 1781,
+        "bytes": 978859,
+        "exif_data_digital": "2011:02:11 07:59:32",
+        "cor_media_rgb": [
+          138,
+          109,
+          100
+        ],
+        "luminosidade_media": 116.7,
+        "contraste_desvio": 51.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "924e44426535596b405e9305094a5c4af3d82f2e257c69c20566b2882109315e",
+    "dhash": "737171e1e2d0dac2"
   }
 ]
