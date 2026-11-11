@@ -5363,5 +5363,35 @@
     },
     "sha256": "924e44426535596b405e9305094a5c4af3d82f2e257c69c20566b2882109315e",
     "dhash": "737171e1e2d0dac2"
+  },
+  {
+    "id": "2d991107-7f72-4f39-8fad-c38c7b9e3e70",
+    "titulo": "419 Instalacao Diocese D Osorio pe Anisio D Bonifacio",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2d991107-7f72-4f39-8fad-c38c7b9e3e70.jpg",
+    "original": "./imagens/visualizacao/2d991107-7f72-4f39-8fad-c38c7b9e3e70.jpg",
+    "criado_em": "2026-11-11T21:59:12.784894+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1725,
+        "altura": 1194,
+        "bytes": 841058,
+        "exif_data_digital": "2011:02:11 08:00:23",
+        "cor_media_rgb": [
+          147,
+          129,
+          103
+        ],
+        "luminosidade_media": 131.4,
+        "contraste_desvio": 36.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "8b937118ee7dedba10d58b6edf4f36ac13869adb3a46eacc626d1a5cc820d66b",
+    "dhash": "634b694d49493199"
   }
 ]
