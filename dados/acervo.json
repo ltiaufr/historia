@@ -3323,5 +3323,35 @@
     },
     "sha256": "4d7a60c9bbc8a6036c1eb432ef3afdfbc13ddcfdbe9dc9d1343abe652d4aac0e",
     "dhash": "f9159f4387cfc7cf"
+  },
+  {
+    "id": "b0105b71-0096-4ec0-970e-1d27442bea27",
+    "titulo": "302 ESTACAO METEOROLOGICA CUR 1995",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b0105b71-0096-4ec0-970e-1d27442bea27.jpg",
+    "original": "./imagens/visualizacao/b0105b71-0096-4ec0-970e-1d27442bea27.jpg",
+    "criado_em": "2026-11-11T21:35:41.964467+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1147,
+        "altura": 806,
+        "bytes": 369398,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          192,
+          174,
+          161
+        ],
+        "luminosidade_media": 177.6,
+        "contraste_desvio": 65.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "97c9828c369b2267e9d6751fc63d13659a37c6befa6fb1a16f2aed0184c54552",
+    "dhash": "52525352327677c6"
   }
 ]
