@@ -6923,5 +6923,35 @@
     },
     "sha256": "87eb95478461f17f9ebd6adee850658f781340d12ea7fdc3f7cc04246a0b296e",
     "dhash": "d89c9c98989c683e"
+  },
+  {
+    "id": "1ff3759e-3809-4ad3-a016-eced3b00e6d6",
+    "titulo": "498 MARECHAL CANDIDO MARIANO RONDON E FAMILIARES",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1ff3759e-3809-4ad3-a016-eced3b00e6d6.jpg",
+    "original": "./imagens/visualizacao/1ff3759e-3809-4ad3-a016-eced3b00e6d6.jpg",
+    "criado_em": "2026-11-11T22:16:51.810449+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1520,
+        "altura": 1587,
+        "bytes": 1666303,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          79,
+          79,
+          82
+        ],
+        "luminosidade_media": 79.7,
+        "contraste_desvio": 44.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "22d0422008c1571a1f3d1f0a559cfcce09e4728a617d8efe9af58f2f22458d0a",
+    "dhash": "e0e69aaeae8e8793"
   }
 ]
