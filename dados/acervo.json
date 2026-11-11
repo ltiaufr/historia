@@ -10583,5 +10583,35 @@
     },
     "sha256": "a724eba90d777ea872f08ce9791903e4ad81241f0aa84e142efb67a5a0a8f427",
     "dhash": "5921611923061627"
+  },
+  {
+    "id": "418df6cf-40dc-4850-a569-71aa691c6f57",
+    "titulo": "91 Carro de boi Jaciara",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/418df6cf-40dc-4850-a569-71aa691c6f57.jpg",
+    "original": "./imagens/visualizacao/418df6cf-40dc-4850-a569-71aa691c6f57.jpg",
+    "criado_em": "2026-11-11T22:58:57.534028+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1923,
+        "altura": 983,
+        "bytes": 815622,
+        "exif_data_digital": "2011:02:11 07:36:24",
+        "cor_media_rgb": [
+          135,
+          124,
+          98
+        ],
+        "luminosidade_media": 124.5,
+        "contraste_desvio": 61.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ef30118276b58a2008dd483667033a1f52f7cc4829c7108bf300ecca7398a3c6",
+    "dhash": "4f0b074e4f8ff61f"
   }
 ]
