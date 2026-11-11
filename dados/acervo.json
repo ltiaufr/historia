@@ -743,5 +743,35 @@
     },
     "sha256": "125c16fd562715f19a1b09b4a78f37e7055f44d8392903bfa18428c1ccfa2f95",
     "dhash": "2c275cf40d634389"
+  },
+  {
+    "id": "3f695a17-8e07-411f-8dd6-b3925d6936e0",
+    "titulo": "14 ABERTURA DE ESTRADA ROO C GRANDE",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3f695a17-8e07-411f-8dd6-b3925d6936e0.jpg",
+    "original": "./imagens/visualizacao/3f695a17-8e07-411f-8dd6-b3925d6936e0.jpg",
+    "criado_em": "2026-11-11T21:07:46.205617+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1147,
+        "altura": 806,
+        "bytes": 532161,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          150,
+          128,
+          139
+        ],
+        "luminosidade_media": 135.8,
+        "contraste_desvio": 71.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "8f1e403a6920bc466e6660aa5935ab3da8c3080bcdec55bbde1ef7f8a790e896",
+    "dhash": "8c9c8ec8bcc4ccc9"
   }
 ]
