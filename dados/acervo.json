@@ -5273,5 +5273,35 @@
     },
     "sha256": "855c579404d94e97f550671b6f6884e11180a21cbac793887e4a97b509dcd3eb",
     "dhash": "4dcf42713322e373"
+  },
+  {
+    "id": "3620c075-8986-49a8-bde7-f6d7f7cd68b4",
+    "titulo": "416 Instalacao Diocese 13 julho 1986",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3620c075-8986-49a8-bde7-f6d7f7cd68b4.jpg",
+    "original": "./imagens/visualizacao/3620c075-8986-49a8-bde7-f6d7f7cd68b4.jpg",
+    "criado_em": "2026-11-11T21:58:05.438651+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1760,
+        "altura": 1169,
+        "bytes": 871057,
+        "exif_data_digital": "2011:02:11 07:59:42",
+        "cor_media_rgb": [
+          132,
+          99,
+          89
+        ],
+        "luminosidade_media": 108.1,
+        "contraste_desvio": 51.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "27f7be94d807989ff080658c235eb37362524000ca32f63f54612cdff039b9a3",
+    "dhash": "4d8b1ba364392b2b"
   }
 ]
