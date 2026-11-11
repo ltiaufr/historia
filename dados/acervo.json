@@ -9983,5 +9983,35 @@
     },
     "sha256": "1fe6a34ee7dc21a50eda7d2c901140f0ce842b9edee63704c63bc2c4e3ffbaec",
     "dhash": "0001ca99b3c78f8e"
+  },
+  {
+    "id": "5557b6b1-8d49-4486-8cc0-2838487d5055",
+    "titulo": "70 BIBLIOTECA DO CENTRO PEDAGOGICO",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5557b6b1-8d49-4486-8cc0-2838487d5055.jpg",
+    "original": "./imagens/visualizacao/5557b6b1-8d49-4486-8cc0-2838487d5055.jpg",
+    "criado_em": "2026-11-11T22:51:46.194319+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1140,
+        "altura": 806,
+        "bytes": 349338,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          192,
+          148,
+          131
+        ],
+        "luminosidade_media": 158.9,
+        "contraste_desvio": 43.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "722c94a6790658a1e60ca22695280fc0676aaf12b5e9e951897b39316fcde2a6",
+    "dhash": "a288c0c0e0f0c4c4"
   }
 ]
