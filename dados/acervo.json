@@ -1793,5 +1793,35 @@
     },
     "sha256": "7b50eb557fb08a2584f9abd92ca60bf8115c93c328516c6aab61ea0da2f42875",
     "dhash": "0f9696bbbb4b451f"
+  },
+  {
+    "id": "242c616f-e182-4531-9aa0-4fd32437863e",
+    "titulo": "1944 visita a povos indígenas",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/242c616f-e182-4531-9aa0-4fd32437863e.jpg",
+    "original": "./imagens/visualizacao/242c616f-e182-4531-9aa0-4fd32437863e.jpg",
+    "criado_em": "2026-11-11T21:19:02.322834+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1446,
+        "altura": 975,
+        "bytes": 589624,
+        "exif_data_digital": "2011:02:11 07:27:58",
+        "cor_media_rgb": [
+          120,
+          112,
+          85
+        ],
+        "luminosidade_media": 111.3,
+        "contraste_desvio": 56.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e1e9abc04cb7830d14203b4cd488252e20a07a6884592f6692584c93426d5725",
+    "dhash": "0f1aad8d97c3c381"
   }
 ]
