@@ -7103,5 +7103,35 @@
     },
     "sha256": "72acb9cda3fb867cb7f6f0040a690897ff8fedbb63ecc075214bc51aec9b5839",
     "dhash": "ccdeccdc924a9082"
+  },
+  {
+    "id": "e7fff5b3-20f2-438d-9f46-7cec1b5a2b7a",
+    "titulo": "508 Matriz em Chapada 1944",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e7fff5b3-20f2-438d-9f46-7cec1b5a2b7a.jpg",
+    "original": "./imagens/visualizacao/e7fff5b3-20f2-438d-9f46-7cec1b5a2b7a.jpg",
+    "criado_em": "2026-11-11T22:18:52.619864+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1174,
+        "altura": 816,
+        "bytes": 443857,
+        "exif_data_digital": "2011:02:11 08:02:31",
+        "cor_media_rgb": [
+          126,
+          112,
+          75
+        ],
+        "luminosidade_media": 111.8,
+        "contraste_desvio": 36.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e41990caa89143d59460dabdfcc282b78965c8619e5aa23ade5933926ea48ad0",
+    "dhash": "68e86a6dbfd0e8ea"
   }
 ]
