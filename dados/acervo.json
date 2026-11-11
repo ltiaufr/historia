@@ -6053,5 +6053,35 @@
     },
     "sha256": "42ab806c6a8292c7e02260fcd3ec4fbac5c8ce9962bc6ff0747b24eb38e33119",
     "dhash": "6060ece8f8a2b200"
+  },
+  {
+    "id": "370d5109-09d6-4a98-9a38-8b05293bc1c2",
+    "titulo": "448 Laboratorio Mato de 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/370d5109-09d6-4a98-9a38-8b05293bc1c2.jpg",
+    "original": "./imagens/visualizacao/370d5109-09d6-4a98-9a38-8b05293bc1c2.jpg",
+    "criado_em": "2026-11-11T22:06:50.558226+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1888,
+        "altura": 1392,
+        "bytes": 1265773,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          167,
+          160,
+          141
+        ],
+        "luminosidade_media": 159.9,
+        "contraste_desvio": 55.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "141485008e57a47e8f657f42a9aa6bc6a7f3aa0b57506c0cd75df3c44038a550",
+    "dhash": "e844e6f4cbe74ba0"
   }
 ]
