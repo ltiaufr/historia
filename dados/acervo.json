@@ -7433,5 +7433,35 @@
     },
     "sha256": "1670cc3e8eb92da3a77cbaf8badb8fdce0ca63d6929c18ea8ef8cf66b9922e0f",
     "dhash": "061b3334724a2a9b"
+  },
+  {
+    "id": "aa2141a6-68a4-49e4-83f8-8998a76bd430",
+    "titulo": "52 AVENIDA MARECHAL RONDON RESIDENCIA DA DONA ALICE LIBERTA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/aa2141a6-68a4-49e4-83f8-8998a76bd430.jpg",
+    "original": "./imagens/visualizacao/aa2141a6-68a4-49e4-83f8-8998a76bd430.jpg",
+    "criado_em": "2026-11-11T22:22:43.269271+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1128,
+        "altura": 788,
+        "bytes": 579568,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          138,
+          120,
+          124
+        ],
+        "luminosidade_media": 126.1,
+        "contraste_desvio": 64.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "25b7c8588f5f587c458c47520e86824eadfafffa178cb95ed63045e8295227ec",
+    "dhash": "f2f0a86448686860"
   }
 ]
