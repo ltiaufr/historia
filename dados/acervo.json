@@ -9383,5 +9383,35 @@
     },
     "sha256": "a72e9c0e4ee867ee81e35b9d97875b0b8f71311995de46867c4b20d6409ee450",
     "dhash": "653d19392d842525"
+  },
+  {
+    "id": "b78ea8aa-93dd-4665-bd13-ca0353d3bb86",
+    "titulo": "669 Secretaria do C P R 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b78ea8aa-93dd-4665-bd13-ca0353d3bb86.jpg",
+    "original": "./imagens/visualizacao/b78ea8aa-93dd-4665-bd13-ca0353d3bb86.jpg",
+    "criado_em": "2026-11-11T22:44:49.372984+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1360,
+        "altura": 928,
+        "bytes": 555515,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          186,
+          179,
+          160
+        ],
+        "luminosidade_media": 178.9,
+        "contraste_desvio": 63.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1d39014c731e0ca0ae7a9cc6cb4d79641890849fde96559123352b7a2b02dc3a",
+    "dhash": "696eeeb6da3b1313"
   }
 ]
