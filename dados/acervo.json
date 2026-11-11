@@ -2723,5 +2723,35 @@
     },
     "sha256": "53800533f1691bf39d2dff8381ec16148785c09da0dc17b3ee291c946314a016",
     "dhash": "049ccc99b4b46078"
+  },
+  {
+    "id": "abdb0ef8-cd50-4feb-be11-bf918d69b5b7",
+    "titulo": "26 APRESENTACAO NA II SEMANA CULTURAL 1982 C P R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/abdb0ef8-cd50-4feb-be11-bf918d69b5b7.jpg",
+    "original": "./imagens/visualizacao/abdb0ef8-cd50-4feb-be11-bf918d69b5b7.jpg",
+    "criado_em": "2026-11-11T21:29:00.845811+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1114,
+        "altura": 900,
+        "bytes": 382707,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          175,
+          175,
+          164
+        ],
+        "luminosidade_media": 173.6,
+        "contraste_desvio": 53.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "08c3d0fd545f15f87ab56fb23d10a8b054306701b3b863d5b78dddbcd5f8cf12",
+    "dhash": "9c9c3836c3c3c7d2"
   }
 ]
