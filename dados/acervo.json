@@ -2423,5 +2423,35 @@
     },
     "sha256": "15fefa343d5b3e9a4daa5329a4a393a73be3ffdd8872937efe108978829be5fd",
     "dhash": "aaab3b5958ecece9"
+  },
+  {
+    "id": "2f248b4b-6541-4bb1-8cd6-1658ea830d6f",
+    "titulo": "259 D Juventino 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2f248b4b-6541-4bb1-8cd6-1658ea830d6f.jpg",
+    "original": "./imagens/visualizacao/2f248b4b-6541-4bb1-8cd6-1658ea830d6f.jpg",
+    "criado_em": "2026-11-11T21:25:47.107278+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 807,
+        "altura": 1314,
+        "bytes": 470455,
+        "exif_data_digital": "2011:01:05 14:40:59",
+        "cor_media_rgb": [
+          151,
+          137,
+          129
+        ],
+        "luminosidade_media": 140.1,
+        "contraste_desvio": 69.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "3a7995084f4d6f5e5ca36e6ff99b14ba37db9e9641984bfef0431e5a88381435",
+    "dhash": "0989e8f2e2606262"
   }
 ]
