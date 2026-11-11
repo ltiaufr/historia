@@ -1673,5 +1673,35 @@
     },
     "sha256": "6c63bb40d5699ec71db58c7c1d8dff2a6f9aea938410a9fe345ac2ca1c855e82",
     "dhash": "fbfefefa742cc030"
+  },
+  {
+    "id": "eb389a32-4260-4c0e-a01d-e7e2da67cbab",
+    "titulo": "18 Aldeia Bororo de Tadarimana 1992",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/eb389a32-4260-4c0e-a01d-e7e2da67cbab.jpg",
+    "original": "./imagens/visualizacao/eb389a32-4260-4c0e-a01d-e7e2da67cbab.jpg",
+    "criado_em": "2026-11-11T21:17:48.721176+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1040,
+        "altura": 720,
+        "bytes": 340810,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          177,
+          164,
+          158
+        ],
+        "luminosidade_media": 167.0,
+        "contraste_desvio": 38.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b501cca08360e1784e4d7b719b495bc58f0706994eea4e44f901c70fba6f9e63",
+    "dhash": "8084528c8c828c8c"
   }
 ]
