@@ -6113,5 +6113,35 @@
     },
     "sha256": "40dfe15b231092ad024eb89a907e1c91092ee4b371bfd9d986afe0d976f5a1bd",
     "dhash": "e2e8ec706256591d"
+  },
+  {
+    "id": "3a4512e9-003a-4fff-88b0-924307e5ad99",
+    "titulo": "44 AVENIDA MAL RONDON PROXIMO A PONTE DECADA DE 90",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3a4512e9-003a-4fff-88b0-924307e5ad99.jpg",
+    "original": "./imagens/visualizacao/3a4512e9-003a-4fff-88b0-924307e5ad99.jpg",
+    "criado_em": "2026-11-11T22:07:30.651264+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 780,
+        "altura": 1093,
+        "bytes": 376349,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          165,
+          144,
+          151
+        ],
+        "luminosidade_media": 151.1,
+        "contraste_desvio": 55.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f86b0f9fb502fb089fabdaa72276a80ab4d45663af14a2a07394db7dd49680b0",
+    "dhash": "b8ceb8b0313d9483"
   }
 ]
