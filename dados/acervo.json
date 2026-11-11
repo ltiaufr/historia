@@ -1043,5 +1043,35 @@
     },
     "sha256": "b298ef29414aeb0116e6a6fca0daa19c7e8fdbe3a787aeec79f88be96c532cde",
     "dhash": "d81898d8785c2d8c"
+  },
+  {
+    "id": "fec0ef3b-abfc-4b7a-a513-d068006aa70e",
+    "titulo": "160 CONSTRUCAO Centro Pedagogico Rondonopolis 1981",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/fec0ef3b-abfc-4b7a-a513-d068006aa70e.jpg",
+    "original": "./imagens/visualizacao/fec0ef3b-abfc-4b7a-a513-d068006aa70e.jpg",
+    "criado_em": "2026-11-11T21:11:00.546916+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 944,
+        "altura": 800,
+        "bytes": 233542,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          204,
+          155,
+          136
+        ],
+        "luminosidade_media": 167.2,
+        "contraste_desvio": 53.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7355a9f4904c7230c47367d2c18b087c2e4401e8f22d89c5bae8335b0bd05f02",
+    "dhash": "84c2717066928281"
   }
 ]
