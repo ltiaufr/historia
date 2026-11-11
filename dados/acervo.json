@@ -3743,5 +3743,35 @@
     },
     "sha256": "ce01f52a315e4836570816d5ac09dc650a8a296b74c216b2ad2f8b7e3c1a12ac",
     "dhash": "0160ec9e9c9cdc9c"
+  },
+  {
+    "id": "ad5c14dc-4527-4802-b9b8-1e9f490afebc",
+    "titulo": "327 Freis na Chapada 1944",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ad5c14dc-4527-4802-b9b8-1e9f490afebc.jpg",
+    "original": "./imagens/visualizacao/ad5c14dc-4527-4802-b9b8-1e9f490afebc.jpg",
+    "criado_em": "2026-11-11T21:40:27.643521+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1995,
+        "altura": 1014,
+        "bytes": 755789,
+        "exif_data_digital": "2011:02:11 07:33:32",
+        "cor_media_rgb": [
+          122,
+          107,
+          72
+        ],
+        "luminosidade_media": 107.5,
+        "contraste_desvio": 34.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c50f6bdc6716eb78ed4c60a51dbb3ad4e20f452e2c98a741cc1b1b05197497de",
+    "dhash": "ada5e7e7c7c7cf37"
   }
 ]
