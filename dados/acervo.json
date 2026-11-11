@@ -3413,5 +3413,35 @@
     },
     "sha256": "63c37ffec19ceb28d28255070b57f2e136d92e7932a128bd01100cb85d3f8381",
     "dhash": "3ed36366c6d2c6f0"
+  },
+  {
+    "id": "a63b4a82-0652-493e-96bb-87a1f3522080",
+    "titulo": "306 FAMILIARES DE MARECHAL RONDON",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a63b4a82-0652-493e-96bb-87a1f3522080.jpg",
+    "original": "./imagens/visualizacao/a63b4a82-0652-493e-96bb-87a1f3522080.jpg",
+    "criado_em": "2026-11-11T21:36:43.200614+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1894,
+        "altura": 1443,
+        "bytes": 1663205,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          137,
+          137,
+          136
+        ],
+        "luminosidade_media": 136.8,
+        "contraste_desvio": 69.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "6264b2587445b397abf717e442516bf4660d2018e144a1d8b90b992bec3479df",
+    "dhash": "3a29b3efefe7ee6c"
   }
 ]
