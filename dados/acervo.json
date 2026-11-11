@@ -1973,5 +1973,35 @@
     },
     "sha256": "f191591ae7032aec5575ad6b1651831ea66eaa6cac1557d556fa4ee8cb520e94",
     "dhash": "858099dcf8f0f4f0"
+  },
+  {
+    "id": "54a62d81-324d-45a3-9c5c-a25597657e77",
+    "titulo": "200 C P R 1 982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/54a62d81-324d-45a3-9c5c-a25597657e77.jpg",
+    "original": "./imagens/visualizacao/54a62d81-324d-45a3-9c5c-a25597657e77.jpg",
+    "criado_em": "2026-11-11T21:20:55.628203+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 960,
+        "altura": 672,
+        "bytes": 144221,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          225,
+          174,
+          155
+        ],
+        "luminosidade_media": 187.2,
+        "contraste_desvio": 19.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "21fa2405a3dc3289977e778b1d87d50896dbd52fdfdae25dfb55207a43d703a2",
+    "dhash": "993d37cdd6f63fbf"
   }
 ]
