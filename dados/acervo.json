@@ -1283,5 +1283,35 @@
     },
     "sha256": "3ace2551241817be7c6bb1d83734dbf8fcdd2be4f1e80159760f5c617af2f902",
     "dhash": "cbcbd75535b7a4a4"
+  },
+  {
+    "id": "1b951599-46db-4dbe-9ba0-5c4ad51ab2ae",
+    "titulo": "176 CURSO REPENSANDO O ENSINO DE HISTORIA CUR 1996",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1b951599-46db-4dbe-9ba0-5c4ad51ab2ae.jpg",
+    "original": "./imagens/visualizacao/1b951599-46db-4dbe-9ba0-5c4ad51ab2ae.jpg",
+    "criado_em": "2026-11-11T21:13:35.386762+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1147,
+        "altura": 780,
+        "bytes": 428065,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          164,
+          159,
+          150
+        ],
+        "luminosidade_media": 159.6,
+        "contraste_desvio": 58.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c71a1d46f626eb575b15d843028c496aca898a2833ed914bcc939bf0e4f5aa47",
+    "dhash": "65edd0e48ae7d54d"
   }
 ]
