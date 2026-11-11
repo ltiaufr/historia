@@ -7493,5 +7493,35 @@
     },
     "sha256": "b4485c08316dffb88878edce5d1e63272ae7849fadae71ce271f57652f22580c",
     "dhash": "0121490f39686868"
+  },
+  {
+    "id": "c630e742-32fb-41c7-8e90-d599db8c42ea",
+    "titulo": "535 PAROQUIA NOSSA SENHORA APARECIDA DECADA DE 90",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c630e742-32fb-41c7-8e90-d599db8c42ea.jpg",
+    "original": "./imagens/visualizacao/c630e742-32fb-41c7-8e90-d599db8c42ea.jpg",
+    "criado_em": "2026-11-11T22:23:22.095808+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 787,
+        "altura": 1126,
+        "bytes": 393149,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          147,
+          132,
+          144
+        ],
+        "luminosidade_media": 138.1,
+        "contraste_desvio": 48.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "bc6532d8e3295f40e6d0963779b9904098f506a8d3f288217bea6a7356d5fc87",
+    "dhash": "5adad89839393836"
   }
 ]
