@@ -3203,5 +3203,35 @@
     },
     "sha256": "d00dbb673567a419091c00133e9a29ae2580ccc4c2c3d21828a738de9692ccc3",
     "dhash": "d879d9f471b1f4cc"
+  },
+  {
+    "id": "616b16eb-2271-41e3-84e2-be3fdba15b15",
+    "titulo": "297 Escola La Salle 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/616b16eb-2271-41e3-84e2-be3fdba15b15.jpg",
+    "original": "./imagens/visualizacao/616b16eb-2271-41e3-84e2-be3fdba15b15.jpg",
+    "criado_em": "2026-11-11T21:34:24.255957+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1484,
+        "altura": 1029,
+        "bytes": 633822,
+        "exif_data_digital": "2011:02:11 07:24:34",
+        "cor_media_rgb": [
+          146,
+          93,
+          73
+        ],
+        "luminosidade_media": 106.6,
+        "contraste_desvio": 32.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "012250783d214afee4ccb2e48a5ba9568477ba49406587ea96057f87c3c52583",
+    "dhash": "160f261d17061f1f"
   }
 ]
