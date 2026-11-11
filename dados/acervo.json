@@ -4403,5 +4403,35 @@
     },
     "sha256": "c67b1de9a1bf928c1f824901064435c3c9d4c2d0a7335c410a2f10adaf79956f",
     "dhash": "74e0705c8e4c9a19"
+  },
+  {
+    "id": "e15dd28e-e85e-4bd2-98e6-1cf230a5f96d",
+    "titulo": "376 II SEMANA CULTURAL 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e15dd28e-e85e-4bd2-98e6-1cf230a5f96d.jpg",
+    "original": "./imagens/visualizacao/e15dd28e-e85e-4bd2-98e6-1cf230a5f96d.jpg",
+    "criado_em": "2026-11-11T21:48:05.255559+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 687,
+        "altura": 1180,
+        "bytes": 408051,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          160,
+          157,
+          144
+        ],
+        "luminosidade_media": 156.5,
+        "contraste_desvio": 74.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "3a01c53ce97ea2fc7d8b253f1c349221d70466d77e6c56b6b12d57d63cfb41af",
+    "dhash": "e6a4e68fa2d20612"
   }
 ]
