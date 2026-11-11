@@ -5033,5 +5033,35 @@
     },
     "sha256": "2d3d947379e7ad868606fe0472da313bd110ba5dc49fcfc605f59845be208b61",
     "dhash": "bcb596a336566766"
+  },
+  {
+    "id": "7469eee8-3cb9-4d2c-a852-9798d6ac795c",
+    "titulo": "398 II Semana Cultural C P R 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7469eee8-3cb9-4d2c-a852-9798d6ac795c.jpg",
+    "original": "./imagens/visualizacao/7469eee8-3cb9-4d2c-a852-9798d6ac795c.jpg",
+    "criado_em": "2026-11-11T21:55:16.822181+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 674,
+        "altura": 1153,
+        "bytes": 406795,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          139,
+          135,
+          123
+        ],
+        "luminosidade_media": 134.8,
+        "contraste_desvio": 66.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f6ad4bc263bd05b53e094e38a462afa294a7f820a01ae7b8ff729149e6ad4634",
+    "dhash": "8e8ece9672f3f7fb"
   }
 ]
