@@ -1343,5 +1343,35 @@
     },
     "sha256": "8726bdb683ba9af1758be8c039f70cfbd5e3018e8a3d02d3005ad8b026136631",
     "dhash": "36b2b6d4222d294b"
+  },
+  {
+    "id": "4465647b-cd76-4920-ad04-63b5d08e7e81",
+    "titulo": "178 CUR 1995",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4465647b-cd76-4920-ad04-63b5d08e7e81.jpg",
+    "original": "./imagens/visualizacao/4465647b-cd76-4920-ad04-63b5d08e7e81.jpg",
+    "criado_em": "2026-11-11T21:14:14.725383+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 767,
+        "altura": 1173,
+        "bytes": 529942,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          167,
+          156,
+          144
+        ],
+        "luminosidade_media": 158.2,
+        "contraste_desvio": 60.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "40e963490e4d95d1709e3518d76dd5a2027f6523191f8a34bf5e981378648e64",
+    "dhash": "8b8b8b872684c740"
   }
 ]
