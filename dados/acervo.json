@@ -5153,5 +5153,35 @@
     },
     "sha256": "1ade75341324f4874808fbfd48a800360b1591e93ebe7b329b70d2ad41a35b1d",
     "dhash": "6f6e6c6e786c6637"
+  },
+  {
+    "id": "b084f888-d4a7-43e6-bd1d-7ae0c2c41dcb",
+    "titulo": "410 INAUGURACAO DO GRUPO ESCOLAR VILA OPERARIA 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b084f888-d4a7-43e6-bd1d-7ae0c2c41dcb.jpg",
+    "original": "./imagens/visualizacao/b084f888-d4a7-43e6-bd1d-7ae0c2c41dcb.jpg",
+    "criado_em": "2026-11-11T21:56:37.217628+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1380,
+        "bytes": 1046972,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          208,
+          202,
+          180
+        ],
+        "luminosidade_media": 201.7,
+        "contraste_desvio": 59.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b90666116a984eaad63e8fe71cb62cbb814e6e77ac49520d628fcd741d541f0e",
+    "dhash": "4c0909896b6b0320"
   }
 ]
