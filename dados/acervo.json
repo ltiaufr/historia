@@ -2933,5 +2933,35 @@
     },
     "sha256": "cd0737475cc8dea8c44fd58ed2d0624aafe9884c6dd3a41e1db61299967e3670",
     "dhash": "6f2f6363cbc9d953"
+  },
+  {
+    "id": "2cd97cf1-2fe0-460c-9ceb-9b7b38414d97",
+    "titulo": "276 D Vunibaldo e Pe Lothar final anos 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2cd97cf1-2fe0-460c-9ceb-9b7b38414d97.jpg",
+    "original": "./imagens/visualizacao/2cd97cf1-2fe0-460c-9ceb-9b7b38414d97.jpg",
+    "criado_em": "2026-11-11T21:31:25.709307+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 932,
+        "altura": 1104,
+        "bytes": 380698,
+        "exif_data_digital": "2011:01:06 14:29:29",
+        "cor_media_rgb": [
+          134,
+          130,
+          120
+        ],
+        "luminosidade_media": 129.9,
+        "contraste_desvio": 31.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "160a77aaf6efd9d80cfc0287784b57844f35fbcd0eb43ee440346521128817f2",
+    "dhash": "06ccc8a9080e6a31"
   }
 ]
