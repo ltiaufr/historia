@@ -7763,5 +7763,35 @@
     },
     "sha256": "72f4ce56edf2bad09281c3ec3dfa49f12eeeddc94248d44978766c4517fa1ae9",
     "dhash": "16b62e74785e5efc"
+  },
+  {
+    "id": "3ead52fd-a25f-461e-8360-98c7a10c0541",
+    "titulo": "55 Av MARECHAL RONDON DECADA DE 50",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3ead52fd-a25f-461e-8360-98c7a10c0541.jpg",
+    "original": "./imagens/visualizacao/3ead52fd-a25f-461e-8360-98c7a10c0541.jpg",
+    "criado_em": "2026-11-11T22:26:17.745011+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1198,
+        "altura": 804,
+        "bytes": 253227,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          214,
+          210,
+          193
+        ],
+        "luminosidade_media": 209.1,
+        "contraste_desvio": 49.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c69082500a3808c3bf765ea531f89c80df11ba1c5bbf0530a51ae8e86b0b707a",
+    "dhash": "5922c6c206c6e1cc"
   }
 ]
