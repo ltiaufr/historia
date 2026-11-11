@@ -1823,5 +1823,35 @@
     },
     "sha256": "e1e9abc04cb7830d14203b4cd488252e20a07a6884592f6692584c93426d5725",
     "dhash": "0f1aad8d97c3c381"
+  },
+  {
+    "id": "0a30ef4a-5d41-43a8-b97e-0bce7ecb9bb3",
+    "titulo": "195 C P R 1982 7",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0a30ef4a-5d41-43a8-b97e-0bce7ecb9bb3.jpg",
+    "original": "./imagens/visualizacao/0a30ef4a-5d41-43a8-b97e-0bce7ecb9bb3.jpg",
+    "criado_em": "2026-11-11T21:19:21.393275+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 990,
+        "altura": 656,
+        "bytes": 187189,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          208,
+          159,
+          134
+        ],
+        "luminosidade_media": 170.7,
+        "contraste_desvio": 41.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "85a271122367152a87b8ad021a78ac64bdc2d95f5eb29385f7c0e556aba12d2c",
+    "dhash": "3efcfb2a3af9ce82"
   }
 ]
