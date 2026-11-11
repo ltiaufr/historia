@@ -4313,5 +4313,35 @@
     },
     "sha256": "1f197015c2f99aed9352dc6fcde42a25429daa4a874f8af7629074f6ff41635c",
     "dhash": "c6c8b2924ac54c40"
+  },
+  {
+    "id": "d84afee6-3ed7-4568-9195-4d1cb2fab4dd",
+    "titulo": "369 IGREJA MATRIZ SAGRADO CORACAO DE JESUS DECADA DE 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/d84afee6-3ed7-4568-9195-4d1cb2fab4dd.jpg",
+    "original": "./imagens/visualizacao/d84afee6-3ed7-4568-9195-4d1cb2fab4dd.jpg",
+    "criado_em": "2026-11-11T21:47:04.922021+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 926,
+        "altura": 674,
+        "bytes": 329919,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          182,
+          177,
+          158
+        ],
+        "luminosidade_media": 176.1,
+        "contraste_desvio": 51.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b9c4f05490e97399863a1693033746b98193c4676daedf63207788a7af09bf9c",
+    "dhash": "183531f0ccf07460"
   }
 ]
