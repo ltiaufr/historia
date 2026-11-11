@@ -293,5 +293,35 @@
     },
     "sha256": "d736ecc2a12b1e4e49b029a98d8791a64ec961ef971e3d1018986a88485f551a",
     "dhash": "835859694959d8d0"
+  },
+  {
+    "id": "1a7d9ca9-8d84-4861-881f-f910378b6d11",
+    "titulo": "114 CENTRO PEDAGOGICO DE RONDONOPOLIS DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1a7d9ca9-8d84-4861-881f-f910378b6d11.jpg",
+    "original": "./imagens/visualizacao/1a7d9ca9-8d84-4861-881f-f910378b6d11.jpg",
+    "criado_em": "2026-11-11T21:02:51.654552+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 974,
+        "altura": 686,
+        "bytes": 369787,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          133,
+          109,
+          109
+        ],
+        "luminosidade_media": 116.3,
+        "contraste_desvio": 43.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "08db7cc30ef30dea1884c158c059c79816cdb9e2455b7888ad4c890cc3c3f7c3",
+    "dhash": "e161e3dbebe3dbfd"
   }
 ]
