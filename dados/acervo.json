@@ -1763,5 +1763,35 @@
     },
     "sha256": "d3e6122c060c5fa1a3ce93af0c5d45cefac6b4c64f26d244dc3abb0157913453",
     "dhash": "99909090f7d0c4e0"
+  },
+  {
+    "id": "12b2fa8a-ad2b-4834-80e9-5743d917c680",
+    "titulo": "1944 Dom Vunibaldo visita povos indígenas",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/12b2fa8a-ad2b-4834-80e9-5743d917c680.jpg",
+    "original": "./imagens/visualizacao/12b2fa8a-ad2b-4834-80e9-5743d917c680.jpg",
+    "criado_em": "2026-11-11T21:18:43.505708+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1268,
+        "altura": 849,
+        "bytes": 378135,
+        "exif_data_digital": "2011:02:11 07:27:18",
+        "cor_media_rgb": [
+          139,
+          134,
+          105
+        ],
+        "luminosidade_media": 131.9,
+        "contraste_desvio": 37.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7b50eb557fb08a2584f9abd92ca60bf8115c93c328516c6aab61ea0da2f42875",
+    "dhash": "0f9696bbbb4b451f"
   }
 ]
