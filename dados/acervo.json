@@ -413,5 +413,35 @@
     },
     "sha256": "c09196fee11cd191e9edac4400d22ff1acf4c3a3535620e8c828a21844890668",
     "dhash": "d8f0e0e0f0f0f8e4"
+  },
+  {
+    "id": "a7339aca-005c-4342-8714-8fb37e7bcf70",
+    "titulo": "118 CENTRO UNIVERSITARIO DE RONDONOPOLIS 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a7339aca-005c-4342-8714-8fb37e7bcf70.jpg",
+    "original": "./imagens/visualizacao/a7339aca-005c-4342-8714-8fb37e7bcf70.jpg",
+    "criado_em": "2026-11-11T21:04:10.300543+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1094,
+        "altura": 806,
+        "bytes": 349203,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          197,
+          171,
+          152
+        ],
+        "luminosidade_media": 176.4,
+        "contraste_desvio": 73.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "0a095c2ac47a1ec318adc031977a2663bdb32130b8e0f8074adbc6f917e91e1e",
+    "dhash": "83291581c1070f83"
   }
 ]
