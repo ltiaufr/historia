@@ -10433,5 +10433,35 @@
     },
     "sha256": "a2aa14b726af35276d3773cb755f9a0e698dfc52432d401a9a4c37cb2368986c",
     "dhash": "b08ac7c1e12183cd"
+  },
+  {
+    "id": "d6b941a9-c0a4-4999-b5f1-48f3ab0e8283",
+    "titulo": "7 1980 ESCOLA JOAQUIM NUNES ROCHA onde funcionava o CENTRO",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/d6b941a9-c0a4-4999-b5f1-48f3ab0e8283.jpg",
+    "original": "./imagens/visualizacao/d6b941a9-c0a4-4999-b5f1-48f3ab0e8283.jpg",
+    "criado_em": "2026-11-11T22:57:16.090227+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1533,
+        "altura": 1386,
+        "bytes": 950982,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          148,
+          145,
+          133
+        ],
+        "luminosidade_media": 144.6,
+        "contraste_desvio": 60.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "00b601e4aeb81a31ce45b1bcc353ded2f4482497b8afe8512ea55adb52f761aa",
+    "dhash": "e4f4f0f0c0f0f0e4"
   }
 ]
