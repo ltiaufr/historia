@@ -8543,5 +8543,35 @@
     },
     "sha256": "759b5a0eb1caea46c1f1d1ffd176f4c0844dffd1cb1c280d2d49552ebc38e283",
     "dhash": "a16565d5963e2ede"
+  },
+  {
+    "id": "4a3e3507-3d69-4e2f-9391-19c8c558f4bf",
+    "titulo": "624 Sagracao D Vunibaldo 1940",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4a3e3507-3d69-4e2f-9391-19c8c558f4bf.jpg",
+    "original": "./imagens/visualizacao/4a3e3507-3d69-4e2f-9391-19c8c558f4bf.jpg",
+    "criado_em": "2026-11-11T22:35:01.346753+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1524,
+        "altura": 896,
+        "bytes": 630572,
+        "exif_data_digital": "2011:02:11 08:02:47",
+        "cor_media_rgb": [
+          136,
+          121,
+          85
+        ],
+        "luminosidade_media": 121.4,
+        "contraste_desvio": 50.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2945fc563c1182f7098fbb3d1bead47a50e1cd4c5edaf2099de354fb7c71391b",
+    "dhash": "d6d3c3dcd8f8bcb4"
   }
 ]
