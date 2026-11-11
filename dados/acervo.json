@@ -3023,5 +3023,35 @@
     },
     "sha256": "f9b3aa00a95679a13ca8c1ce9821009f51ee44ff70681651253394d3b3f9609d",
     "dhash": "85fd9dbcb63a0919"
+  },
+  {
+    "id": "70731dc7-e80a-49df-aa28-1e7fc6c3edce",
+    "titulo": "279 D Vunibaldo recebe um porco de presente",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/70731dc7-e80a-49df-aa28-1e7fc6c3edce.jpg",
+    "original": "./imagens/visualizacao/70731dc7-e80a-49df-aa28-1e7fc6c3edce.jpg",
+    "criado_em": "2026-11-11T21:32:26.441957+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 837,
+        "altura": 1243,
+        "bytes": 475378,
+        "exif_data_digital": "2011:01:06 14:44:02",
+        "cor_media_rgb": [
+          136,
+          88,
+          97
+        ],
+        "luminosidade_media": 103.9,
+        "contraste_desvio": 57.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c82cdaaddce49a5c8bddb6139ea9b2fcce9beae5abe235e4556c0d371f910911",
+    "dhash": "8e4fb979d39292a0"
   }
 ]
