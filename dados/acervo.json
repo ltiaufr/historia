@@ -7163,5 +7163,35 @@
     },
     "sha256": "254af2070db02d8627f7b8e71852aee3d578bd0d7781bfe9d51c7f27f3bb2626",
     "dhash": "97d256dc8585a534"
+  },
+  {
+    "id": "501c4d4a-dd22-4fc9-98d4-25e11cd634c2",
+    "titulo": "50 AVENIDA MARECHAL RONDON PERTO DO ANTIGO CORREIO DECADA DE 90",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/501c4d4a-dd22-4fc9-98d4-25e11cd634c2.jpg",
+    "original": "./imagens/visualizacao/501c4d4a-dd22-4fc9-98d4-25e11cd634c2.jpg",
+    "criado_em": "2026-11-11T22:19:35.459354+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1133,
+        "altura": 767,
+        "bytes": 410570,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          157,
+          136,
+          139
+        ],
+        "luminosidade_media": 142.3,
+        "contraste_desvio": 45.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "bb917ebc37636c82285fa0223d124c0ba1db692d789792b5f0a2e0b79597ad9f",
+    "dhash": "4020109088e2a373"
   }
 ]
