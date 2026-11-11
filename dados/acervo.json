@@ -1553,5 +1553,35 @@
     },
     "sha256": "41f010e3afa78c0e6da43dc41d214df78f1e15fbca94c5ea730911070c0b1cbb",
     "dhash": "3749488ec96f07c7"
+  },
+  {
+    "id": "ee9cd9ca-1b74-4655-9fac-6559c61a807a",
+    "titulo": "186 C P R TURMA DE CIENCIAS EXATAS ESCOLA JOAQUIM NUNES ROCHA 19",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ee9cd9ca-1b74-4655-9fac-6559c61a807a.jpg",
+    "original": "./imagens/visualizacao/ee9cd9ca-1b74-4655-9fac-6559c61a807a.jpg",
+    "criado_em": "2026-11-11T21:16:29.972698+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1880,
+        "altura": 1387,
+        "bytes": 1114822,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          172,
+          168,
+          153
+        ],
+        "luminosidade_media": 167.6,
+        "contraste_desvio": 52.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f35493fab8543ea1422cd7d8c78aab4b4346c807f27e2ea482444e819ef7fa46",
+    "dhash": "4ee6e6e6391b1908"
   }
 ]
