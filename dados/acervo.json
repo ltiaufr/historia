@@ -1523,5 +1523,35 @@
     },
     "sha256": "38bd1e6fc5f621e29bf3fd5abb04454231971975b50bba864f017c37aa2c657a",
     "dhash": "c8e8f0d9e9e98820"
+  },
+  {
+    "id": "dffbdf63-1a6f-4fa3-8ce1-ae74c160b217",
+    "titulo": "185 C P R DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/dffbdf63-1a6f-4fa3-8ce1-ae74c160b217.jpg",
+    "original": "./imagens/visualizacao/dffbdf63-1a6f-4fa3-8ce1-ae74c160b217.jpg",
+    "criado_em": "2026-11-11T21:16:09.410846+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1094,
+        "altura": 806,
+        "bytes": 421245,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          154,
+          131,
+          116
+        ],
+        "luminosidade_media": 136.1,
+        "contraste_desvio": 80.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "41f010e3afa78c0e6da43dc41d214df78f1e15fbca94c5ea730911070c0b1cbb",
+    "dhash": "3749488ec96f07c7"
   }
 ]
