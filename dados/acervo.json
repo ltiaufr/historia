@@ -2693,5 +2693,35 @@
     },
     "sha256": "844d39ddbf72c36078b5a64f187bdc4056ac64c34f5017d7e898e05f3527d642",
     "dhash": "495495991818189b"
+  },
+  {
+    "id": "fcdcf1ec-140f-4ff6-a03d-6cf544489481",
+    "titulo": "269 D Vunibaldo em Roma",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/fcdcf1ec-140f-4ff6-a03d-6cf544489481.jpg",
+    "original": "./imagens/visualizacao/fcdcf1ec-140f-4ff6-a03d-6cf544489481.jpg",
+    "criado_em": "2026-11-11T21:28:41.969272+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1141,
+        "altura": 762,
+        "bytes": 312487,
+        "exif_data_digital": "2011:02:11 07:45:39",
+        "cor_media_rgb": [
+          135,
+          125,
+          93
+        ],
+        "luminosidade_media": 124.4,
+        "contraste_desvio": 63.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "53800533f1691bf39d2dff8381ec16148785c09da0dc17b3ee291c946314a016",
+    "dhash": "049ccc99b4b46078"
   }
 ]
