@@ -653,5 +653,35 @@
     },
     "sha256": "748c252f09514248aa988971cf928291c72196e88b1006d2b7b9ff04971a779f",
     "dhash": "474d533301010371"
+  },
+  {
+    "id": "0c78c526-2e52-46d1-8b3b-b7c13b51549c",
+    "titulo": "131 COMISSAO RONDON ESTENDE CARRETEIS DE LINHA TELEGRAFICA ALT",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0c78c526-2e52-46d1-8b3b-b7c13b51549c.jpg",
+    "original": "./imagens/visualizacao/0c78c526-2e52-46d1-8b3b-b7c13b51549c.jpg",
+    "criado_em": "2026-11-11T21:06:49.327946+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1160,
+        "altura": 787,
+        "bytes": 599507,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          175,
+          147,
+          157
+        ],
+        "luminosidade_media": 156.3,
+        "contraste_desvio": 58.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "43baa60cc08dd63addb97aa0309ac60c84504dd72f6e9f8479bf159de80c79ed",
+    "dhash": "b674669793329876"
   }
 ]
