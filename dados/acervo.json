@@ -2663,5 +2663,35 @@
     },
     "sha256": "90e75daffddfffca295fc495bd7d88bdcc384a52d8f516817960cd3aa2b81021",
     "dhash": "220e460c480908c8"
+  },
+  {
+    "id": "503a8b29-9ac2-4583-8bb4-b2ec72dbc353",
+    "titulo": "268 D Vunibaldo em Roma 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/503a8b29-9ac2-4583-8bb4-b2ec72dbc353.jpg",
+    "original": "./imagens/visualizacao/503a8b29-9ac2-4583-8bb4-b2ec72dbc353.jpg",
+    "criado_em": "2026-11-11T21:28:23.071865+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1270,
+        "altura": 1548,
+        "bytes": 710016,
+        "exif_data_digital": "2011:02:11 07:44:13",
+        "cor_media_rgb": [
+          134,
+          48,
+          95
+        ],
+        "luminosidade_media": 79.1,
+        "contraste_desvio": 37.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "844d39ddbf72c36078b5a64f187bdc4056ac64c34f5017d7e898e05f3527d642",
+    "dhash": "495495991818189b"
   }
 ]
