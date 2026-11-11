@@ -2483,5 +2483,35 @@
     },
     "sha256": "5610759eb00e0ea8269ef3fc882a0736a63566de147f439a7d0c306f78d8dd46",
     "dhash": "c0e008063637a340"
+  },
+  {
+    "id": "76484118-f2af-4cc7-8c52-129b84f15d55",
+    "titulo": "260 D Juventino 3",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/76484118-f2af-4cc7-8c52-129b84f15d55.jpg",
+    "original": "./imagens/visualizacao/76484118-f2af-4cc7-8c52-129b84f15d55.jpg",
+    "criado_em": "2026-11-11T21:26:24.842151+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 875,
+        "altura": 1331,
+        "bytes": 449330,
+        "exif_data_digital": "2011:01:05 14:41:55",
+        "cor_media_rgb": [
+          73,
+          68,
+          65
+        ],
+        "luminosidade_media": 68.8,
+        "contraste_desvio": 65.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2750dfef6a2ed5b1b1317ff6ff738ccbd4ff34d18856d69f131666aedb8785e4",
+    "dhash": "5c2c4e68cc92b0b2"
   }
 ]
