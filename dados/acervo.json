@@ -9863,5 +9863,35 @@
     },
     "sha256": "473ceac773103cbf299b0afb1e1e1507b7e2980346c757d2fada974f7c8860ea",
     "dhash": "7b78241a5a1b92ea"
+  },
+  {
+    "id": "36b13dc2-104a-49cc-a895-3da665f4879c",
+    "titulo": "704 Urna Funeraria 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/36b13dc2-104a-49cc-a895-3da665f4879c.jpg",
+    "original": "./imagens/visualizacao/36b13dc2-104a-49cc-a895-3da665f4879c.jpg",
+    "criado_em": "2026-11-11T22:50:25.439018+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1184,
+        "altura": 816,
+        "bytes": 335409,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          171,
+          146,
+          142
+        ],
+        "luminosidade_media": 153.1,
+        "contraste_desvio": 67.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f80743b5f689829044bf753c2c698007096c9ba6c4c9d90d4b1857511e5e3bf7",
+    "dhash": "3415971772636347"
   }
 ]
