@@ -7343,5 +7343,35 @@
     },
     "sha256": "2d98dc8c39a2467dc79cfae825beef53539cf68b0ecf3c1724bef87d3a0ad044",
     "dhash": "cc6cecc686e4007c"
+  },
+  {
+    "id": "abc48c31-286b-4de4-a0f6-9812f837db7e",
+    "titulo": "520 Moradores de Chapada e D Vunibaldo 1948",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/abc48c31-286b-4de4-a0f6-9812f837db7e.jpg",
+    "original": "./imagens/visualizacao/abc48c31-286b-4de4-a0f6-9812f837db7e.jpg",
+    "criado_em": "2026-11-11T22:21:42.657726+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1519,
+        "altura": 859,
+        "bytes": 592890,
+        "exif_data_digital": "2011:02:11 08:02:56",
+        "cor_media_rgb": [
+          126,
+          114,
+          81
+        ],
+        "luminosidade_media": 114.0,
+        "contraste_desvio": 49.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "415cccb6067d755343ef37cd6244b9bccac1221a5bc2a8a2281ffbfbdbda3dfa",
+    "dhash": "e9a91a9ab6a6870e"
   }
 ]
