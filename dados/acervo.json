@@ -5843,5 +5843,35 @@
     },
     "sha256": "77b65ccbf55888dacfe765aa9aec2c8bca9bd15fd9b9f8d29929e0b1f3ac3ea6",
     "dhash": "fafeddf8caf2cc88"
+  },
+  {
+    "id": "1e6fcda0-2a3c-4058-949a-a49bb054311e",
+    "titulo": "441 JORNAL TRIBUNA DO LESTE AVENIDA BANDEIRANTES DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1e6fcda0-2a3c-4058-949a-a49bb054311e.jpg",
+    "original": "./imagens/visualizacao/1e6fcda0-2a3c-4058-949a-a49bb054311e.jpg",
+    "criado_em": "2026-11-11T22:04:27.620912+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1013,
+        "altura": 700,
+        "bytes": 253705,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          226,
+          216,
+          184
+        ],
+        "luminosidade_media": 215.6,
+        "contraste_desvio": 50.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1d7ba06ec48ea001563619a92ac2afc5c2044826676b609aa7e7eb0e2169b83c",
+    "dhash": "9c1d43daf0ced8c4"
   }
 ]
