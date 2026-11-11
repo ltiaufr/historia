@@ -233,5 +233,35 @@
     },
     "sha256": "6344d928a58a549dc147af8f001bad14b2a605814a5e27102d46c74d81ae762e",
     "dhash": "1b33b72523339796"
+  },
+  {
+    "id": "783ebedd-4a96-4ded-afb4-1a22ebe29982",
+    "titulo": "10 1982 II SEMANA CULTURAL DO C P R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/783ebedd-4a96-4ded-afb4-1a22ebe29982.jpg",
+    "original": "./imagens/visualizacao/783ebedd-4a96-4ded-afb4-1a22ebe29982.jpg",
+    "criado_em": "2026-11-11T21:02:10.600474+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1080,
+        "altura": 693,
+        "bytes": 247707,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          162,
+          162,
+          154
+        ],
+        "luminosidade_media": 161.3,
+        "contraste_desvio": 22.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "5c60d49c9b852c4a9eacb590a6a616e90e4a9b2e06d4373b6c207170385af835",
+    "dhash": "c446c4a5e29298c6"
   }
 ]
