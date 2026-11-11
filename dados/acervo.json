@@ -2183,5 +2183,35 @@
     },
     "sha256": "cfd9066d505711873f55c99b9e33ae5c1115b260ec993f7ff35c118c8f81b5c6",
     "dhash": "939290d46423a712"
+  },
+  {
+    "id": "fb26a46d-31bc-4c90-bad6-2b74b43ef3df",
+    "titulo": "243 DECADA DE 80 RUA RIO BRANCO",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/fb26a46d-31bc-4c90-bad6-2b74b43ef3df.jpg",
+    "original": "./imagens/visualizacao/fb26a46d-31bc-4c90-bad6-2b74b43ef3df.jpg",
+    "criado_em": "2026-11-11T21:23:06.661151+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 780,
+        "altura": 400,
+        "bytes": 102653,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          200,
+          199,
+          192
+        ],
+        "luminosidade_media": 198.4,
+        "contraste_desvio": 81.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f48d7c0b0cc2730de95fd09bfc3afbf540cd323b7541f420da99be85782bb644",
+    "dhash": "0a01030c27b2494d"
   }
 ]
