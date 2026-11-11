@@ -8303,5 +8303,35 @@
     },
     "sha256": "7c94582c161a0bfec21f2b58ed5a63109b51c69d3cd9480c92d4222aea6b945c",
     "dhash": "fc9d511d216101c1"
+  },
+  {
+    "id": "9321dd4e-0cbd-44b6-b774-7f69c9367a52",
+    "titulo": "614 RONDONOPOLIS DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9321dd4e-0cbd-44b6-b774-7f69c9367a52.jpg",
+    "original": "./imagens/visualizacao/9321dd4e-0cbd-44b6-b774-7f69c9367a52.jpg",
+    "criado_em": "2026-11-11T22:32:11.651479+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 965,
+        "altura": 654,
+        "bytes": 303468,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          201,
+          195,
+          174
+        ],
+        "luminosidade_media": 194.7,
+        "contraste_desvio": 56.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9db8a9f77c6a26b11f19e713b2da84eaf0dc50e9177ba108fa1f1faf625e0771",
+    "dhash": "e470f0b8b3f2d8e3"
   }
 ]
