@@ -4523,5 +4523,35 @@
     },
     "sha256": "1d7f93759e198a141b9a1cd09541f46197b6bcd4d59e117ad77444824eaa2ba4",
     "dhash": "8a8a8a8eac19a1b2"
+  },
+  {
+    "id": "e5c2d987-4503-490d-b6fb-8002421a52fc",
+    "titulo": "381 II SEMANA CULTURAL 1982 C P R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e5c2d987-4503-490d-b6fb-8002421a52fc.jpg",
+    "original": "./imagens/visualizacao/e5c2d987-4503-490d-b6fb-8002421a52fc.jpg",
+    "criado_em": "2026-11-11T21:49:24.817024+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 827,
+        "altura": 1093,
+        "bytes": 52796,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          176,
+          176,
+          168
+        ],
+        "luminosidade_media": 174.8,
+        "contraste_desvio": 42.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ee185f2503becf8118c6274cdac6361d99fd21e39ed0a21bc5d5b8364c8639f1",
+    "dhash": "d7ddd5d3d3cfcfcf"
   }
 ]
