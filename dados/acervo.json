@@ -9653,5 +9653,35 @@
     },
     "sha256": "7ef4cb27f7af88ff961087314e6c06d645012cc101234596ebcdc924266a4f5b",
     "dhash": "85819979789cb8e0"
+  },
+  {
+    "id": "005dc144-bc3f-4ebf-b4ce-c39e426c7fc9",
+    "titulo": "694 Transporte anos 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/005dc144-bc3f-4ebf-b4ce-c39e426c7fc9.jpg",
+    "original": "./imagens/visualizacao/005dc144-bc3f-4ebf-b4ce-c39e426c7fc9.jpg",
+    "criado_em": "2026-11-11T22:47:52.020224+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1144067,
+        "exif_data_digital": "2011:01:06 14:46:21",
+        "cor_media_rgb": [
+          140,
+          120,
+          122
+        ],
+        "luminosidade_media": 126.1,
+        "contraste_desvio": 59.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "899b268e9437305d2d0d44a33d82aa24e4d5057c257f2194ca004a4408290a8e",
+    "dhash": "03000c8989a98004"
   }
 ]
