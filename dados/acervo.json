@@ -4193,5 +4193,35 @@
     },
     "sha256": "14a1213a1892bb1df5beb14bfb2cbdab0b4da6a1c8777aad4eaed85f566f9f5b",
     "dhash": "0f0d0f0d0e4f873e"
+  },
+  {
+    "id": "72fb4aed-eb87-42a3-913c-963021464ba6",
+    "titulo": "363 Igreja em Chapada 1946",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/72fb4aed-eb87-42a3-913c-963021464ba6.jpg",
+    "original": "./imagens/visualizacao/72fb4aed-eb87-42a3-913c-963021464ba6.jpg",
+    "criado_em": "2026-11-11T21:45:45.279488+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1412,
+        "altura": 946,
+        "bytes": 449635,
+        "exif_data_digital": "2011:02:11 07:32:33",
+        "cor_media_rgb": [
+          133,
+          120,
+          82
+        ],
+        "luminosidade_media": 119.9,
+        "contraste_desvio": 59.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "604bafa08d0121ef7c3985ac94affa0b0f563a8f5ca60fdd1a82a6ab4a7e1683",
+    "dhash": "0f7cae9e1b66f7ec"
   }
 ]
