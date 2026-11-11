@@ -10493,5 +10493,35 @@
     },
     "sha256": "9c939d2c7eef1d3f53db29459ed902f339bbd38720d68aaf8d5c1ef68d83208e",
     "dhash": "447038f931017ef0"
+  },
+  {
+    "id": "e85cc2b0-3602-49a9-aa35-479d3b31fda0",
+    "titulo": "87 Cantina 1982 2 C P R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e85cc2b0-3602-49a9-aa35-479d3b31fda0.jpg",
+    "original": "./imagens/visualizacao/e85cc2b0-3602-49a9-aa35-479d3b31fda0.jpg",
+    "criado_em": "2026-11-11T22:57:57.134289+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1136,
+        "altura": 768,
+        "bytes": 272638,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          196,
+          141,
+          132
+        ],
+        "luminosidade_media": 156.2,
+        "contraste_desvio": 34.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1a81c469bb466d9d3cb457ea6b24336532b95d482f8cc898e61ed3bdb11e9073",
+    "dhash": "1e8c8c939b8807fe"
   }
 ]
