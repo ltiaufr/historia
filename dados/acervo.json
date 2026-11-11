@@ -6893,5 +6893,35 @@
     },
     "sha256": "9bdc34fc38f396a5a5c878cd8f6b27d88f6109119e813e2e3473049046785d79",
     "dhash": "f8f4acc4c0f0f0f8"
+  },
+  {
+    "id": "e5b070e2-6826-4e39-a40b-4ccc9a5369f6",
+    "titulo": "494 MAJOR AMARANTE GENRO DO GENERAL RONDON ESPOSO DA FILHA MAI",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e5b070e2-6826-4e39-a40b-4ccc9a5369f6.jpg",
+    "original": "./imagens/visualizacao/e5b070e2-6826-4e39-a40b-4ccc9a5369f6.jpg",
+    "criado_em": "2026-11-11T22:16:28.880068+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1269,
+        "altura": 1778,
+        "bytes": 2026851,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          153,
+          155,
+          157
+        ],
+        "luminosidade_media": 154.8,
+        "contraste_desvio": 49.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "87eb95478461f17f9ebd6adee850658f781340d12ea7fdc3f7cc04246a0b296e",
+    "dhash": "d89c9c98989c683e"
   }
 ]
