@@ -5423,5 +5423,35 @@
     },
     "sha256": "dde65ac4b322ea5fc0e1db4375276298d43cfc68b8b86a510e56d2b954fda9af",
     "dhash": "c018382c28302080"
+  },
+  {
+    "id": "0200e06f-8ced-4d5e-87c2-6108e1866070",
+    "titulo": "425 INTERIOR DA IGREJA ASSEMBLEIA DE DEUS",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0200e06f-8ced-4d5e-87c2-6108e1866070.jpg",
+    "original": "./imagens/visualizacao/0200e06f-8ced-4d5e-87c2-6108e1866070.jpg",
+    "criado_em": "2026-11-11T21:59:56.457327+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1194,
+        "altura": 760,
+        "bytes": 422392,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          166,
+          169,
+          152
+        ],
+        "luminosidade_media": 165.9,
+        "contraste_desvio": 43.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ebd735d1a99f8acc952c7277965b020097db2fab3a71ab741923e23d6eb6c7b9",
+    "dhash": "f4f9e9d269ecec8d"
   }
 ]
