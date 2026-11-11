@@ -7583,5 +7583,35 @@
     },
     "sha256": "c69877761e91e795af096673960107263c7d0a62e3ddc76c52655e53a4ab285b",
     "dhash": "e9c198fdecfc79f9"
+  },
+  {
+    "id": "9df40d30-239d-4e60-99ac-00f0f0e6817f",
+    "titulo": "548 PASSAGEIROS EMIGRANTES atravessando boi na balda sobre can",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9df40d30-239d-4e60-99ac-00f0f0e6817f.jpg",
+    "original": "./imagens/visualizacao/9df40d30-239d-4e60-99ac-00f0f0e6817f.jpg",
+    "criado_em": "2026-11-11T22:24:19.859170+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1160,
+        "altura": 774,
+        "bytes": 457578,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          186,
+          128,
+          122
+        ],
+        "luminosidade_media": 144.9,
+        "contraste_desvio": 45.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "0194a0f7cc2a551bee9973b8b85dbb1e254274381218753af07e63459b14e716",
+    "dhash": "72023616a2ae9ec2"
   }
 ]
