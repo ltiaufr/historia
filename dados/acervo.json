@@ -2903,5 +2903,35 @@
     },
     "sha256": "4593f8806347150d31df18db2d788c3a13095255117969e1776cc036e61114fb",
     "dhash": "c0f4eacc8cdc9999"
+  },
+  {
+    "id": "823f8b38-b091-4d4c-91a4-2fcc16d80ee2",
+    "titulo": "275 D Vunibaldo e freis",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/823f8b38-b091-4d4c-91a4-2fcc16d80ee2.jpg",
+    "original": "./imagens/visualizacao/823f8b38-b091-4d4c-91a4-2fcc16d80ee2.jpg",
+    "criado_em": "2026-11-11T21:31:05.904983+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1441741,
+        "exif_data_digital": "2011:02:11 07:54:38",
+        "cor_media_rgb": [
+          134,
+          125,
+          99
+        ],
+        "luminosidade_media": 124.6,
+        "contraste_desvio": 48.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "cd0737475cc8dea8c44fd58ed2d0624aafe9884c6dd3a41e1db61299967e3670",
+    "dhash": "6f2f6363cbc9d953"
   }
 ]
