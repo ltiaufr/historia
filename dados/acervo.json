@@ -3443,5 +3443,35 @@
     },
     "sha256": "6264b2587445b397abf717e442516bf4660d2018e144a1d8b90b992bec3479df",
     "dhash": "3a29b3efefe7ee6c"
+  },
+  {
+    "id": "320f297e-eebc-4ee4-9870-87150d5d1b24",
+    "titulo": "307 FANFARRA DA ESCOLA LA SALLE 1965",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/320f297e-eebc-4ee4-9870-87150d5d1b24.jpg",
+    "original": "./imagens/visualizacao/320f297e-eebc-4ee4-9870-87150d5d1b24.jpg",
+    "criado_em": "2026-11-11T21:37:03.101234+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1153,
+        "altura": 794,
+        "bytes": 448440,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          150,
+          107,
+          113
+        ],
+        "luminosidade_media": 120.4,
+        "contraste_desvio": 43.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e02ca8a50d7631b75f34cea1f1ba9fbf4227a57bb4d0eb28346963c278d867e5",
+    "dhash": "a4f63e96e6a2c6ca"
   }
 ]
