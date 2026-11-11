@@ -2993,5 +2993,35 @@
     },
     "sha256": "6211dec12a88e4b8139ca27978eda4d991a6760ca75488a8054b426a7959e442",
     "dhash": "3b37ce4d4f46c4dc"
+  },
+  {
+    "id": "cdbe41b0-3314-4ed2-8ace-0e074d1aadfb",
+    "titulo": "278 D Vunibaldo preparando o altar",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/cdbe41b0-3314-4ed2-8ace-0e074d1aadfb.jpg",
+    "original": "./imagens/visualizacao/cdbe41b0-3314-4ed2-8ace-0e074d1aadfb.jpg",
+    "criado_em": "2026-11-11T21:32:06.190385+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1482,
+        "altura": 1021,
+        "bytes": 495047,
+        "exif_data_digital": "2011:02:11 07:50:30",
+        "cor_media_rgb": [
+          127,
+          129,
+          112
+        ],
+        "luminosidade_media": 126.5,
+        "contraste_desvio": 33.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f9b3aa00a95679a13ca8c1ce9821009f51ee44ff70681651253394d3b3f9609d",
+    "dhash": "85fd9dbcb63a0919"
   }
 ]
