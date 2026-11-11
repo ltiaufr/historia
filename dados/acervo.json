@@ -6623,5 +6623,35 @@
     },
     "sha256": "4ab30114e2fe76eed9d805fae2448ebb8199977a287c32c804639473c7a5e079",
     "dhash": "3515013776f9f8e9"
+  },
+  {
+    "id": "9053c9b7-afed-45ac-9a71-553b1cde705d",
+    "titulo": "481 Lavadeiras Rio Arareau 1967",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9053c9b7-afed-45ac-9a71-553b1cde705d.jpg",
+    "original": "./imagens/visualizacao/9053c9b7-afed-45ac-9a71-553b1cde705d.jpg",
+    "criado_em": "2026-11-11T22:13:21.422309+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 786,
+        "altura": 1115,
+        "bytes": 418086,
+        "exif_data_digital": "2011:02:11 07:21:57",
+        "cor_media_rgb": [
+          114,
+          65,
+          58
+        ],
+        "luminosidade_media": 78.7,
+        "contraste_desvio": 35.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b23d4f7304b19b191917a4f1ea6c26c99833ba4f8a5024f01052fac96fbe6065",
+    "dhash": "8e866ee6b49c3f07"
   }
 ]
