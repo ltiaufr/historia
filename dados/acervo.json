@@ -3233,5 +3233,35 @@
     },
     "sha256": "012250783d214afee4ccb2e48a5ba9568477ba49406587ea96057f87c3c52583",
     "dhash": "160f261d17061f1f"
+  },
+  {
+    "id": "2ab3eb5e-2a19-4204-bad8-4fc9f692217b",
+    "titulo": "298 Escola La Salle Anos 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2ab3eb5e-2a19-4204-bad8-4fc9f692217b.jpg",
+    "original": "./imagens/visualizacao/2ab3eb5e-2a19-4204-bad8-4fc9f692217b.jpg",
+    "criado_em": "2026-11-11T21:34:44.391339+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1299,
+        "altura": 839,
+        "bytes": 501947,
+        "exif_data_digital": "2011:01:06 14:49:57",
+        "cor_media_rgb": [
+          107,
+          99,
+          93
+        ],
+        "luminosidade_media": 100.6,
+        "contraste_desvio": 46.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a1b3c18bebd77446c43f27d8def1c49dfc0d30889535e252b1a8e594672487fa",
+    "dhash": "602020050d140590"
   }
 ]
