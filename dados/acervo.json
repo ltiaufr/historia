@@ -9203,5 +9203,35 @@
     },
     "sha256": "682ccf64b4db21ee736b40d7365d60d3748384bc65f009ed17dc63108f971088",
     "dhash": "f829f9e1c9fc7d7d"
+  },
+  {
+    "id": "b2dfacf4-a958-4e75-b2d3-7cf27490c9ba",
+    "titulo": "661 SANTA CASA DE MISERICORDIA DE RONDONOPOLIS DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b2dfacf4-a958-4e75-b2d3-7cf27490c9ba.jpg",
+    "original": "./imagens/visualizacao/b2dfacf4-a958-4e75-b2d3-7cf27490c9ba.jpg",
+    "criado_em": "2026-11-11T22:42:48.673454+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1020,
+        "altura": 700,
+        "bytes": 204717,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          236,
+          227,
+          202
+        ],
+        "luminosidade_media": 227.3,
+        "contraste_desvio": 37.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "deb9f36611900064c62f39d9afdeea8ea63718bcaed409b401878fed2454d948",
+    "dhash": "a488a0b1a9e0b0f2"
   }
 ]
