@@ -2963,5 +2963,35 @@
     },
     "sha256": "160a77aaf6efd9d80cfc0287784b57844f35fbcd0eb43ee440346521128817f2",
     "dhash": "06ccc8a9080e6a31"
+  },
+  {
+    "id": "bf813453-2ecd-45c8-8350-978d7016f267",
+    "titulo": "277 D Vunibaldo na fazenda",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/bf813453-2ecd-45c8-8350-978d7016f267.jpg",
+    "original": "./imagens/visualizacao/bf813453-2ecd-45c8-8350-978d7016f267.jpg",
+    "criado_em": "2026-11-11T21:31:46.229883+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1664,
+        "altura": 1167,
+        "bytes": 820759,
+        "exif_data_digital": "2011:02:11 08:03:34",
+        "cor_media_rgb": [
+          138,
+          125,
+          88
+        ],
+        "luminosidade_media": 124.5,
+        "contraste_desvio": 43.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "6211dec12a88e4b8139ca27978eda4d991a6760ca75488a8054b426a7959e442",
+    "dhash": "3b37ce4d4f46c4dc"
   }
 ]
