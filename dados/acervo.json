@@ -7553,5 +7553,35 @@
     },
     "sha256": "a2fbafd7671da4484cac2fa884244b3e61fe5f2ec5ff11f6a475f7bfddb1e9dc",
     "dhash": "29f23269cc8497fc"
+  },
+  {
+    "id": "afc807eb-3952-4b86-8768-5afd9e95628d",
+    "titulo": "538 PARQUE DE EXPOSICAO DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/afc807eb-3952-4b86-8768-5afd9e95628d.jpg",
+    "original": "./imagens/visualizacao/afc807eb-3952-4b86-8768-5afd9e95628d.jpg",
+    "criado_em": "2026-11-11T22:24:01.058465+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1020,
+        "altura": 707,
+        "bytes": 264718,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          234,
+          224,
+          191
+        ],
+        "luminosidade_media": 223.7,
+        "contraste_desvio": 34.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c69877761e91e795af096673960107263c7d0a62e3ddc76c52655e53a4ab285b",
+    "dhash": "e9c198fdecfc79f9"
   }
 ]
