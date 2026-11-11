@@ -10613,5 +10613,35 @@
     },
     "sha256": "ef30118276b58a2008dd483667033a1f52f7cc4829c7108bf300ecca7398a3c6",
     "dhash": "4f0b074e4f8ff61f"
+  },
+  {
+    "id": "2fb798f9-979f-4668-a5d0-95c925bfe095",
+    "titulo": "94 CASARIO AVENIDA MARECHAL RONDON ESQUINA COM A RUA 15 DE NOVE",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2fb798f9-979f-4668-a5d0-95c925bfe095.jpg",
+    "original": "./imagens/visualizacao/2fb798f9-979f-4668-a5d0-95c925bfe095.jpg",
+    "criado_em": "2026-11-11T22:59:17.723295+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 926,
+        "altura": 595,
+        "bytes": 68823,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          210,
+          209,
+          198
+        ],
+        "luminosidade_media": 208.0,
+        "contraste_desvio": 61.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "09e17ea5b934be6362b22a611a1ec6578ae14a124613829e8a2beee1dd3079b9",
+    "dhash": "2180c1717000077c"
   }
 ]
