@@ -2213,5 +2213,35 @@
     },
     "sha256": "f48d7c0b0cc2730de95fd09bfc3afbf540cd323b7541f420da99be85782bb644",
     "dhash": "0a01030c27b2494d"
+  },
+  {
+    "id": "973e138f-b2e6-479e-a4ff-3e3e15e23e8d",
+    "titulo": "244 DESFILE 07 DE SETEMBRO DECADA DE 50",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/973e138f-b2e6-479e-a4ff-3e3e15e23e8d.jpg",
+    "original": "./imagens/visualizacao/973e138f-b2e6-479e-a4ff-3e3e15e23e8d.jpg",
+    "criado_em": "2026-11-11T21:23:26.239549+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 886,
+        "bytes": 618674,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          189,
+          186,
+          171
+        ],
+        "luminosidade_media": 184.9,
+        "contraste_desvio": 48.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "5210f725f9ed8d6c2ff442cbe57a1d9c1f4e233abbf521c7723b112e69133b75",
+    "dhash": "c01585868488b838"
   }
 ]
