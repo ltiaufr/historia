@@ -3143,5 +3143,35 @@
     },
     "sha256": "1f695838ca1c907c362f5c59efdbaaf5b005d936491c75a5447f5267003a9f6d",
     "dhash": "e4acb432f2b4b0e4"
+  },
+  {
+    "id": "5583d64e-92b2-4c61-84ca-60c876fb17bf",
+    "titulo": "292 Entrevista 5",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5583d64e-92b2-4c61-84ca-60c876fb17bf.jpg",
+    "original": "./imagens/visualizacao/5583d64e-92b2-4c61-84ca-60c876fb17bf.jpg",
+    "criado_em": "2026-11-11T21:33:45.574793+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1280,
+        "altura": 960,
+        "bytes": 417179,
+        "exif_data_digital": "2008:01:01 12:00:00",
+        "cor_media_rgb": [
+          109,
+          115,
+          97
+        ],
+        "luminosidade_media": 111.4,
+        "contraste_desvio": 56.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "cdb002b943eb9eece3da21d371cded3640dfd357b8e03e2f059efba564f08e7d",
+    "dhash": "2f2ebae6d68c4cca"
   }
 ]
