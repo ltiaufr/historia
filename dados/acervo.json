@@ -5573,5 +5573,35 @@
     },
     "sha256": "41acf3bca2bc8cf1677769eac0ac2708194353aea9cf7f810f52a3333f276aa2",
     "dhash": "fcfcf4f5e7c7c787"
+  },
+  {
+    "id": "67a95b4d-7515-4295-ae2d-8bf3332c2909",
+    "titulo": "42 AVENIDA AMAZONAS ESQUINA COM DOM PEDRO II DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/67a95b4d-7515-4295-ae2d-8bf3332c2909.jpg",
+    "original": "./imagens/visualizacao/67a95b4d-7515-4295-ae2d-8bf3332c2909.jpg",
+    "criado_em": "2026-11-11T22:01:31.578036+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1020,
+        "altura": 706,
+        "bytes": 260735,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          223,
+          221,
+          212
+        ],
+        "luminosidade_media": 220.8,
+        "contraste_desvio": 59.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ade111fad99b215bcb7a95259d4ff0a83cfd3da71ddf2b74f144f843f402cdfe",
+    "dhash": "61688081a0a0f8e0"
   }
 ]
