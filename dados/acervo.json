@@ -9293,5 +9293,35 @@
     },
     "sha256": "3783619d226159a7ea397cf49f5ea58c72f5f8bca23f26ae2aa83b19a5afcec3",
     "dhash": "797cfc7cf4f839d3"
+  },
+  {
+    "id": "ac89acec-026d-46a3-91c5-046dc2674a4d",
+    "titulo": "664 SECRETARIA C P R ESCOLA JOAQUIM NUNES ROCHA 1981 1",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ac89acec-026d-46a3-91c5-046dc2674a4d.jpg",
+    "original": "./imagens/visualizacao/ac89acec-026d-46a3-91c5-046dc2674a4d.jpg",
+    "criado_em": "2026-11-11T22:43:49.866153+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1893,
+        "altura": 1367,
+        "bytes": 1348269,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          153,
+          150,
+          137
+        ],
+        "luminosidade_media": 149.2,
+        "contraste_desvio": 53.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "eb5689a6f79cb36c39985dd5cf2b8b7e37d72fc9bbf0e1281728b4f9025fe99d",
+    "dhash": "833391b2989c343a"
   }
 ]
