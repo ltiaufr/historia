@@ -5393,5 +5393,35 @@
     },
     "sha256": "8b937118ee7dedba10d58b6edf4f36ac13869adb3a46eacc626d1a5cc820d66b",
     "dhash": "634b694d49493199"
+  },
+  {
+    "id": "74890635-4f07-4834-97f7-5df13392f666",
+    "titulo": "424 INTERIOR DA ESCOLA RURAL DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/74890635-4f07-4834-97f7-5df13392f666.jpg",
+    "original": "./imagens/visualizacao/74890635-4f07-4834-97f7-5df13392f666.jpg",
+    "criado_em": "2026-11-11T21:59:35.972175+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1380,
+        "bytes": 1088801,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          131,
+          122,
+          106
+        ],
+        "luminosidade_media": 122.9,
+        "contraste_desvio": 32.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "dde65ac4b322ea5fc0e1db4375276298d43cfc68b8b86a510e56d2b954fda9af",
+    "dhash": "c018382c28302080"
   }
 ]
