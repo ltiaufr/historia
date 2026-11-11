@@ -7463,5 +7463,35 @@
     },
     "sha256": "25b7c8588f5f587c458c47520e86824eadfafffa178cb95ed63045e8295227ec",
     "dhash": "f2f0a86448686860"
+  },
+  {
+    "id": "a565ce83-00c4-4e4f-93f9-0ce8bf0374b8",
+    "titulo": "531 Ordenacao padre Miguel Ortiz 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a565ce83-00c4-4e4f-93f9-0ce8bf0374b8.jpg",
+    "original": "./imagens/visualizacao/a565ce83-00c4-4e4f-93f9-0ce8bf0374b8.jpg",
+    "criado_em": "2026-11-11T22:23:02.728619+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 989,
+        "altura": 846,
+        "bytes": 352117,
+        "exif_data_digital": "2011:01:06 14:49:11",
+        "cor_media_rgb": [
+          91,
+          93,
+          98
+        ],
+        "luminosidade_media": 93.2,
+        "contraste_desvio": 60.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b4485c08316dffb88878edce5d1e63272ae7849fadae71ce271f57652f22580c",
+    "dhash": "0121490f39686868"
   }
 ]
