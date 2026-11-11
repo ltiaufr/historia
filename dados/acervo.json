@@ -9413,5 +9413,35 @@
     },
     "sha256": "1d39014c731e0ca0ae7a9cc6cb4d79641890849fde96559123352b7a2b02dc3a",
     "dhash": "696eeeb6da3b1313"
+  },
+  {
+    "id": "85ba277c-8163-4976-acc1-a6f6ce02a2b0",
+    "titulo": "672 SEMANA CULTURAL 1979 C P R RONDONOPOLIS CLUB",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/85ba277c-8163-4976-acc1-a6f6ce02a2b0.jpg",
+    "original": "./imagens/visualizacao/85ba277c-8163-4976-acc1-a6f6ce02a2b0.jpg",
+    "criado_em": "2026-11-11T22:45:09.558089+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 987,
+        "altura": 700,
+        "bytes": 326385,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          148,
+          146,
+          137
+        ],
+        "luminosidade_media": 145.6,
+        "contraste_desvio": 49.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "77a9bd151fa6c369c00f34f878ece1669bf4d8ce3ad721038a2aff1222d4d374",
+    "dhash": "3737a737321adaaa"
   }
 ]
