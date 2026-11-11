@@ -173,5 +173,35 @@
     },
     "sha256": "0c0cfd31df66993e9a7d7debd699a115dbdf6a61f86a7e4fbb1b5af0aef5446a",
     "dhash": "eeced6c6ced8189c"
+  },
+  {
+    "id": "ab5e4917-77ba-4b7c-a6e3-dfe0aa1b8891",
+    "titulo": "104 CASEMAT SILOS DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ab5e4917-77ba-4b7c-a6e3-dfe0aa1b8891.jpg",
+    "original": "./imagens/visualizacao/ab5e4917-77ba-4b7c-a6e3-dfe0aa1b8891.jpg",
+    "criado_em": "2026-11-11T21:01:28.697084+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1380,
+        "bytes": 781404,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          203,
+          201,
+          185
+        ],
+        "luminosidade_media": 199.5,
+        "contraste_desvio": 70.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a735286272001ca09968b5d787e9e95d5f6f5386280d5ff58d95e806c1e84845",
+    "dhash": "7f2d725232134641"
   }
 ]
