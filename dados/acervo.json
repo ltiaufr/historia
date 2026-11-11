@@ -9593,5 +9593,35 @@
     },
     "sha256": "65155fefaae36ed5a1e7b09a0c8a7d78bc8017ef624154837283a98bed574237",
     "dhash": "01343478b0f97342"
+  },
+  {
+    "id": "4bd8840f-7b30-453e-889f-b5bfbea61420",
+    "titulo": "691 SR DJALMA PIMENTA ASSOCIACaO COMERCIAL DE RONDONOPOLIS DECAD",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4bd8840f-7b30-453e-889f-b5bfbea61420.jpg",
+    "original": "./imagens/visualizacao/4bd8840f-7b30-453e-889f-b5bfbea61420.jpg",
+    "criado_em": "2026-11-11T22:47:10.942309+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 906,
+        "altura": 694,
+        "bytes": 274221,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          170,
+          165,
+          148
+        ],
+        "luminosidade_media": 164.6,
+        "contraste_desvio": 71.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "dd04c3a7e0bc07b29a6db16b8b49f1d1eac2ef036a1834386df15c3058f802e9",
+    "dhash": "ce4fc7ccc4e5e5cc"
   }
 ]
