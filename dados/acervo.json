@@ -10553,5 +10553,35 @@
     },
     "sha256": "12f7aa5dfb9e7218ea3b83005fe057c43fe3c250974b7278efcf604238681588",
     "dhash": "0168686b67861e27"
+  },
+  {
+    "id": "9e192b4e-4710-44cc-894d-f95e3cf4432e",
+    "titulo": "8 1982 II SEMANA CULTURAL",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9e192b4e-4710-44cc-894d-f95e3cf4432e.jpg",
+    "original": "./imagens/visualizacao/9e192b4e-4710-44cc-894d-f95e3cf4432e.jpg",
+    "criado_em": "2026-11-11T22:58:37.181920+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1367,
+        "altura": 913,
+        "bytes": 479146,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          157,
+          156,
+          146
+        ],
+        "luminosidade_media": 155.4,
+        "contraste_desvio": 49.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a724eba90d777ea872f08ce9791903e4ad81241f0aa84e142efb67a5a0a8f427",
+    "dhash": "5921611923061627"
   }
 ]
