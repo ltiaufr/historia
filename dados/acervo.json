@@ -2123,5 +2123,35 @@
     },
     "sha256": "e9644453ea2061e6b9fee543ffc6cf16b91e657bb232ad3e2fc24a7a4671e1c2",
     "dhash": "316d396869397c33"
+  },
+  {
+    "id": "ccf6ebee-a8eb-432d-99ff-04c3676ee946",
+    "titulo": "22 ALUNOS DO SAGRADO CORACAO DE JESUS COMEMORANDO O CENTENARIO",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ccf6ebee-a8eb-432d-99ff-04c3676ee946.jpg",
+    "original": "./imagens/visualizacao/ccf6ebee-a8eb-432d-99ff-04c3676ee946.jpg",
+    "criado_em": "2026-11-11T21:22:28.609777+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1160,
+        "altura": 787,
+        "bytes": 537671,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          153,
+          108,
+          115
+        ],
+        "luminosidade_media": 122.2,
+        "contraste_desvio": 39.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "386f64df7eeee366bbf49473434b9172fdd5fa647a307bb13cea24242bbde754",
+    "dhash": "e070fab2b83066a8"
   }
 ]
