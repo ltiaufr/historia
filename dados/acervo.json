@@ -3683,5 +3683,35 @@
     },
     "sha256": "03fd4b8aa5077dcfdb9dec42a3dc7fa2dd0edc8e6ccb183b87da1efa8031f007",
     "dhash": "89edeb7d5d5e1696"
+  },
+  {
+    "id": "09920dc7-fb8f-450e-8ce5-54e67d6bacac",
+    "titulo": "325 Freis franciscanos",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/09920dc7-fb8f-450e-8ce5-54e67d6bacac.jpg",
+    "original": "./imagens/visualizacao/09920dc7-fb8f-450e-8ce5-54e67d6bacac.jpg",
+    "criado_em": "2026-11-11T21:39:46.215968+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1648,
+        "altura": 1070,
+        "bytes": 716301,
+        "exif_data_digital": "2011:02:11 07:41:09",
+        "cor_media_rgb": [
+          108,
+          94,
+          61
+        ],
+        "luminosidade_media": 94.1,
+        "contraste_desvio": 45.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "d99e1a0eebd20cf04459aee88e56e5bb61f7918fba7b818e84e0114d9548b424",
+    "dhash": "c9d9c9c1578cbabe"
   }
 ]
