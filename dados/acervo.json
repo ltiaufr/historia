@@ -3173,5 +3173,35 @@
     },
     "sha256": "cdb002b943eb9eece3da21d371cded3640dfd357b8e03e2f059efba564f08e7d",
     "dhash": "2f2ebae6d68c4cca"
+  },
+  {
+    "id": "671658e9-2062-4db9-b138-88d49805f987",
+    "titulo": "296 ESCOLA LA SALLE DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/671658e9-2062-4db9-b138-88d49805f987.jpg",
+    "original": "./imagens/visualizacao/671658e9-2062-4db9-b138-88d49805f987.jpg",
+    "criado_em": "2026-11-11T21:34:03.751137+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 893,
+        "altura": 574,
+        "bytes": 187863,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          236,
+          221,
+          173
+        ],
+        "luminosidade_media": 220.0,
+        "contraste_desvio": 14.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "d00dbb673567a419091c00133e9a29ae2580ccc4c2c3d21828a738de9692ccc3",
+    "dhash": "d879d9f471b1f4cc"
   }
 ]
