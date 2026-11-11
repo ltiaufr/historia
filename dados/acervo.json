@@ -7223,5 +7223,35 @@
     },
     "sha256": "e8b3e29b39fda71b568f4be732263d7974a92ea539984e17246f296ca0c6bd4f",
     "dhash": "6666d2c6e622a2ec"
+  },
+  {
+    "id": "e270e743-780e-4142-bea6-154a7fd0550c",
+    "titulo": "511 Menino Bororo apos ritual de iniacao do Aije 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e270e743-780e-4142-bea6-154a7fd0550c.jpg",
+    "original": "./imagens/visualizacao/e270e743-780e-4142-bea6-154a7fd0550c.jpg",
+    "criado_em": "2026-11-11T22:20:18.627530+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 800,
+        "bytes": 465990,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          154,
+          113,
+          97
+        ],
+        "luminosidade_media": 123.4,
+        "contraste_desvio": 53.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "db31ffee3b944c6f2476a49e429af2ace79c2f6c83afe089710a56b8b073c597",
+    "dhash": "044c4c4c28b9b4f2"
   }
 ]
