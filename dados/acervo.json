@@ -3863,5 +3863,35 @@
     },
     "sha256": "246601ded917c1395f1c711c1bae3387dd0c1d072fd9a85ada97d6a3543749bb",
     "dhash": "3f2f9b9b71282f4b"
+  },
+  {
+    "id": "4c248637-bdea-406d-b224-5c39927476c8",
+    "titulo": "331 Frei Proesis Chapada 1944",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4c248637-bdea-406d-b224-5c39927476c8.jpg",
+    "original": "./imagens/visualizacao/4c248637-bdea-406d-b224-5c39927476c8.jpg",
+    "criado_em": "2026-11-11T21:42:01.285345+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1167,
+        "altura": 790,
+        "bytes": 395245,
+        "exif_data_digital": "2011:02:11 07:31:57",
+        "cor_media_rgb": [
+          144,
+          129,
+          89
+        ],
+        "luminosidade_media": 129.1,
+        "contraste_desvio": 53.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "166ff0c86de9861591d93e2ff01bfb1d973dbb968ec07a9b6fb158c9559b5c3a",
+    "dhash": "2e9f9db3b74f8391"
   }
 ]
