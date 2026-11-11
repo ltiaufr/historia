@@ -7733,5 +7733,35 @@
     },
     "sha256": "ab7eb077c72041a97620cac5b93fc2cc7cf031fe3a6643da0e8ea99fbcbf3988",
     "dhash": "3271d082c08081a4"
+  },
+  {
+    "id": "9225174d-e2d5-4c5d-9f6c-38f888f0eb17",
+    "titulo": "559 PONTO DE TAXI AVENIDA CUIABA DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9225174d-e2d5-4c5d-9f6c-38f888f0eb17.jpg",
+    "original": "./imagens/visualizacao/9225174d-e2d5-4c5d-9f6c-38f888f0eb17.jpg",
+    "criado_em": "2026-11-11T22:25:58.148060+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 934,
+        "altura": 660,
+        "bytes": 345982,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          210,
+          203,
+          176
+        ],
+        "luminosidade_media": 202.2,
+        "contraste_desvio": 49.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "72f4ce56edf2bad09281c3ec3dfa49f12eeeddc94248d44978766c4517fa1ae9",
+    "dhash": "16b62e74785e5efc"
   }
 ]
