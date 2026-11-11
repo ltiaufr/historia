@@ -2393,5 +2393,35 @@
     },
     "sha256": "101e5fd3c2cfad756419524e737c9476157e064d68255ed52258442a068d7730",
     "dhash": "8d0d0136b29290e4"
+  },
+  {
+    "id": "653cd126-61eb-4f62-90ce-ca86f854b7b2",
+    "titulo": "257 D Vunibaldo e freis em viagem de desobriga",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/653cd126-61eb-4f62-90ce-ca86f854b7b2.jpg",
+    "original": "./imagens/visualizacao/653cd126-61eb-4f62-90ce-ca86f854b7b2.jpg",
+    "criado_em": "2026-11-11T21:25:22.020019+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1634,
+        "altura": 1163,
+        "bytes": 883461,
+        "exif_data_digital": "2011:02:11 08:03:21",
+        "cor_media_rgb": [
+          120,
+          111,
+          81
+        ],
+        "luminosidade_media": 110.6,
+        "contraste_desvio": 42.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "15fefa343d5b3e9a4daa5329a4a393a73be3ffdd8872937efe108978829be5fd",
+    "dhash": "aaab3b5958ecece9"
   }
 ]
