@@ -8573,5 +8573,35 @@
     },
     "sha256": "2945fc563c1182f7098fbb3d1bead47a50e1cd4c5edaf2099de354fb7c71391b",
     "dhash": "d6d3c3dcd8f8bcb4"
+  },
+  {
+    "id": "29e1ff2b-a990-424d-a9dc-1529a19de0ff",
+    "titulo": "626 SAGUAO I ELEICAO DE COORD C P R 1984",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/29e1ff2b-a990-424d-a9dc-1529a19de0ff.jpg",
+    "original": "./imagens/visualizacao/29e1ff2b-a990-424d-a9dc-1529a19de0ff.jpg",
+    "criado_em": "2026-11-11T22:35:21.232984+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1367,
+        "altura": 933,
+        "bytes": 511671,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          216,
+          158,
+          132
+        ],
+        "luminosidade_media": 172.3,
+        "contraste_desvio": 29.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "fc71f87883f31f04c30d98990871ed1a5f9162d18da90de43d39efaacbfe5a39",
+    "dhash": "d14066cec2c2c2c8"
   }
 ]
