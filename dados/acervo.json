@@ -5693,5 +5693,35 @@
     },
     "sha256": "d5480263cff0b7b35892f851a10f7bb8ac0ab526da0d47f304d083077dd27db1",
     "dhash": "2081c0c0d19995b0"
+  },
+  {
+    "id": "7b4703fb-8e67-4b4a-a6d1-85aa107fb43b",
+    "titulo": "433 I Eleicao para Coodernador 1984 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7b4703fb-8e67-4b4a-a6d1-85aa107fb43b.jpg",
+    "original": "./imagens/visualizacao/7b4703fb-8e67-4b4a-a6d1-85aa107fb43b.jpg",
+    "criado_em": "2026-11-11T22:02:50.054940+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1440,
+        "altura": 992,
+        "bytes": 552050,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          214,
+          171,
+          151
+        ],
+        "luminosidade_media": 181.9,
+        "contraste_desvio": 46.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "418011f270b96119fd0ae58bbe21079f00c635dc12518d59160cfcd8401455e9",
+    "dhash": "e4cae2d6f5fff8f4"
   }
 ]
