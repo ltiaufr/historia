@@ -63,5 +63,15 @@
     "miniatura": "./imagens/miniaturas/b30a892c-5dec-476a-9532-2880b7846be8.jpg",
     "original": "./imagens/visualizacao/b30a892c-5dec-476a-9532-2880b7846be8.jpg",
     "criado_em": "2026-11-10T23:42:18.509Z"
+  },
+  {
+    "id": "6e4d5292-3555-4b6d-901a-f7a6303cfbe2",
+    "titulo": "Augusta Ada Byron King",
+    "descricao": "Condessa de Lovelace (nascida Byron, 10 de dezembro de 1815 — 27 de novembro de 1852), atualmente conhecida como Ada Lovelace, foi uma matemática e escritora inglesa. Hoje é reconhecida principalmente por ter escrito o primeiro algoritmo para ser processado por uma máquina, a máquina analítica de Charles Babbage.",
+    "ano": "1815",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/6e4d5292-3555-4b6d-901a-f7a6303cfbe2.jpg",
+    "original": "./imagens/visualizacao/6e4d5292-3555-4b6d-901a-f7a6303cfbe2.jpg",
+    "criado_em": "2026-11-10T23:39:04.606Z"
   }
 ]
