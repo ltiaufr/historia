@@ -3113,5 +3113,35 @@
     },
     "sha256": "e3f9313a571575b65f7a6b6ed2bf4d343978ed9b058e3e931402f0fcdfe3a2df",
     "dhash": "27131b6c4c65858e"
+  },
+  {
+    "id": "770fa79d-a67e-4a1b-ac22-f3dbbe964867",
+    "titulo": "291 Entrevista 4",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/770fa79d-a67e-4a1b-ac22-f3dbbe964867.jpg",
+    "original": "./imagens/visualizacao/770fa79d-a67e-4a1b-ac22-f3dbbe964867.jpg",
+    "criado_em": "2026-11-11T21:33:26.552019+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1280,
+        "altura": 960,
+        "bytes": 383562,
+        "exif_data_digital": "2008:01:01 12:00:00",
+        "cor_media_rgb": [
+          141,
+          142,
+          122
+        ],
+        "luminosidade_media": 139.3,
+        "contraste_desvio": 59.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1f695838ca1c907c362f5c59efdbaaf5b005d936491c75a5447f5267003a9f6d",
+    "dhash": "e4acb432f2b4b0e4"
   }
 ]
