@@ -6503,5 +6503,35 @@
     },
     "sha256": "6df45bb04099e450e25419b861a3f13c11736e6d68ee0e817c4aa41bd4073a5a",
     "dhash": "dfced2cb89290b2b"
+  },
+  {
+    "id": "e4768400-bede-47d1-a190-e07206ee6d5b",
+    "titulo": "476 LANCAMENTO DO LIVRO HISTORIA DA EDUCACAO EM RONDONOPOLIS 1 9",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e4768400-bede-47d1-a190-e07206ee6d5b.jpg",
+    "original": "./imagens/visualizacao/e4768400-bede-47d1-a190-e07206ee6d5b.jpg",
+    "criado_em": "2026-11-11T22:11:57.976584+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1147,
+        "altura": 806,
+        "bytes": 500818,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          133,
+          120,
+          119
+        ],
+        "luminosidade_media": 123.6,
+        "contraste_desvio": 58.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e1aed78fdbf3887386cdc87bd0ef3197a58ece809882a296523203501f560878",
+    "dhash": "939bb0b133313141"
   }
 ]
