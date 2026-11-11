@@ -9623,5 +9623,35 @@
     },
     "sha256": "dd04c3a7e0bc07b29a6db16b8b49f1d1eac2ef036a1834386df15c3058f802e9",
     "dhash": "ce4fc7ccc4e5e5cc"
+  },
+  {
+    "id": "3a66a43e-25a7-4729-b867-a87f6e45c758",
+    "titulo": "692 TIBURCIO II SEMANA CULTURAL 1982 C P R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3a66a43e-25a7-4729-b867-a87f6e45c758.jpg",
+    "original": "./imagens/visualizacao/3a66a43e-25a7-4729-b867-a87f6e45c758.jpg",
+    "criado_em": "2026-11-11T22:47:30.045074+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 920,
+        "altura": 1393,
+        "bytes": 486854,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          168,
+          166,
+          157
+        ],
+        "luminosidade_media": 165.7,
+        "contraste_desvio": 57.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7ef4cb27f7af88ff961087314e6c06d645012cc101234596ebcdc924266a4f5b",
+    "dhash": "85819979789cb8e0"
   }
 ]
