@@ -8003,5 +8003,35 @@
     },
     "sha256": "159996e7f5a9c0755ecb8bed64bacb15ba2dc5a4a02f7a09c1ef1b7b59db0b67",
     "dhash": "0020017878ccc0e0"
+  },
+  {
+    "id": "f9a0d04f-36ce-4580-a868-1d92da6ced46",
+    "titulo": "578 Predio do Centro Pedagogico de Rondonopolis 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f9a0d04f-36ce-4580-a868-1d92da6ced46.jpg",
+    "original": "./imagens/visualizacao/f9a0d04f-36ce-4580-a868-1d92da6ced46.jpg",
+    "criado_em": "2026-11-11T22:28:52.649639+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 976,
+        "altura": 704,
+        "bytes": 233338,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          186,
+          133,
+          116
+        ],
+        "luminosidade_media": 146.8,
+        "contraste_desvio": 46.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e1184a585c53d03e7544e21946c99ee3dcf9a7715053b86428c048b99619d8ed",
+    "dhash": "48a084d0d9d18d64"
   }
 ]
