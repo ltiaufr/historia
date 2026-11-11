@@ -1493,5 +1493,35 @@
     },
     "sha256": "8c7081a4da54202c58d2fd12203d480ab0a3a64ed65bebc80c88e2eb316730df",
     "dhash": "e9f1e1a9a9a90820"
+  },
+  {
+    "id": "33859a85-a3ce-432f-bb8d-6944065a20b4",
+    "titulo": "184 C P R 1982 2 Professores",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/33859a85-a3ce-432f-bb8d-6944065a20b4.jpg",
+    "original": "./imagens/visualizacao/33859a85-a3ce-432f-bb8d-6944065a20b4.jpg",
+    "criado_em": "2026-11-11T21:15:50.231773+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1312,
+        "altura": 912,
+        "bytes": 380734,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          232,
+          230,
+          220
+        ],
+        "luminosidade_media": 229.2,
+        "contraste_desvio": 41.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "38bd1e6fc5f621e29bf3fd5abb04454231971975b50bba864f017c37aa2c657a",
+    "dhash": "c8e8f0d9e9e98820"
   }
 ]
