@@ -863,5 +863,35 @@
     },
     "sha256": "a5abd8f25301546379184f38c001b6b8f36faf1476b877d13c648ac42cee164d",
     "dhash": "bd75a9a084e6b2e5"
+  },
+  {
+    "id": "21e396ae-85f0-418a-8197-2d8b2c80e7fb",
+    "titulo": "155 CONSTRUCAO do C P R 1981",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/21e396ae-85f0-418a-8197-2d8b2c80e7fb.jpg",
+    "original": "./imagens/visualizacao/21e396ae-85f0-418a-8197-2d8b2c80e7fb.jpg",
+    "criado_em": "2026-11-11T21:09:03.468425+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1008,
+        "altura": 800,
+        "bytes": 203284,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          217,
+          180,
+          162
+        ],
+        "luminosidade_media": 189.3,
+        "contraste_desvio": 35.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "bba9714178f80046f0e1dede02ab64f6fe74e5da06171283b3cc9ab483340dbd",
+    "dhash": "fa787474f0f0c2d2"
   }
 ]
