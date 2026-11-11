@@ -4643,5 +4643,35 @@
     },
     "sha256": "d456b35d5c0cc4b584fb9dbc1dc29bf8001e3eb1f9672c510502fc6667da344e",
     "dhash": "aeae8e8e8c39a392"
+  },
+  {
+    "id": "14fbdcc6-27a1-4e32-953e-392e8b0ad927",
+    "titulo": "385 II semana cultural c p r 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/14fbdcc6-27a1-4e32-953e-392e8b0ad927.jpg",
+    "original": "./imagens/visualizacao/14fbdcc6-27a1-4e32-953e-392e8b0ad927.jpg",
+    "criado_em": "2026-11-11T21:50:50.224832+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1127,
+        "altura": 706,
+        "bytes": 392689,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          160,
+          156,
+          143
+        ],
+        "luminosidade_media": 155.6,
+        "contraste_desvio": 55.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f7f3dccf48e896418a1568212aa4f535fa74b563267b9a4c21569c222dfa869f",
+    "dhash": "8eda98989b8e8486"
   }
 ]
