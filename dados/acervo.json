@@ -2873,5 +2873,35 @@
     },
     "sha256": "4def866e5c4954e73c2ee99c037b286b720df5c0af9e78b999df4e7aa28a77a5",
     "dhash": "78eabc98484c8ccc"
+  },
+  {
+    "id": "28ce4595-2eff-41f3-ab63-b48325ec3da6",
+    "titulo": "274 D Vunibaldo e freis Chapada",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/28ce4595-2eff-41f3-ab63-b48325ec3da6.jpg",
+    "original": "./imagens/visualizacao/28ce4595-2eff-41f3-ab63-b48325ec3da6.jpg",
+    "criado_em": "2026-11-11T21:30:43.708710+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1329,
+        "altura": 996,
+        "bytes": 584318,
+        "exif_data_digital": "2011:02:11 07:42:42",
+        "cor_media_rgb": [
+          130,
+          118,
+          84
+        ],
+        "luminosidade_media": 117.8,
+        "contraste_desvio": 57.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4593f8806347150d31df18db2d788c3a13095255117969e1776cc036e61114fb",
+    "dhash": "c0f4eacc8cdc9999"
   }
 ]
