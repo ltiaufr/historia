@@ -3923,5 +3923,35 @@
     },
     "sha256": "58e36141ba3a4c5899cc30d0a0a7afa09e9e40f367eeddd214442b5492b7d857",
     "dhash": "4e4e5b77e7d7e7ef"
+  },
+  {
+    "id": "af7b3c9a-322c-4263-8ce5-110c7d695974",
+    "titulo": "333 Frei Vunibaldo na Alemanha",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/af7b3c9a-322c-4263-8ce5-110c7d695974.jpg",
+    "original": "./imagens/visualizacao/af7b3c9a-322c-4263-8ce5-110c7d695974.jpg",
+    "criado_em": "2026-11-11T21:42:41.905049+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1293,
+        "altura": 872,
+        "bytes": 378187,
+        "exif_data_digital": "2011:02:11 07:34:53",
+        "cor_media_rgb": [
+          115,
+          102,
+          77
+        ],
+        "luminosidade_media": 103.4,
+        "contraste_desvio": 58.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1e1f045fe97c69d3d37c0720e261143b93097bc7914496752e33b3815f2e33c9",
+    "dhash": "830fcf079b53552d"
   }
 ]
