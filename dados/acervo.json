@@ -8393,5 +8393,35 @@
     },
     "sha256": "1185743b82ab4e9abd04250fe90ac6e119585d7fea782952e4320e1a6027e1e0",
     "dhash": "39194c6c60521b6c"
+  },
+  {
+    "id": "9c46bbb4-c9db-4b49-9c53-d1c91738c8e0",
+    "titulo": "618 RUA DOM PEDRO II ENTR AS AVENIDAS AMAZONAS EMAL RONDON DECAD",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9c46bbb4-c9db-4b49-9c53-d1c91738c8e0.jpg",
+    "original": "./imagens/visualizacao/9c46bbb4-c9db-4b49-9c53-d1c91738c8e0.jpg",
+    "criado_em": "2026-11-11T22:33:17.883650+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1033,
+        "altura": 687,
+        "bytes": 301201,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          201,
+          198,
+          190
+        ],
+        "luminosidade_media": 198.0,
+        "contraste_desvio": 78.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "6ce1dc50a4202abbf597966adb8803b1b35e815ff0ad9efb084f3a44354a051e",
+    "dhash": "1186cad804000002"
   }
 ]
