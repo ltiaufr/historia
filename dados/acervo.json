@@ -9323,5 +9323,35 @@
     },
     "sha256": "eb5689a6f79cb36c39985dd5cf2b8b7e37d72fc9bbf0e1281728b4f9025fe99d",
     "dhash": "833391b2989c343a"
+  },
+  {
+    "id": "e9246cb3-10fe-4cc2-bfbb-0a9431f6f9c1",
+    "titulo": "667 Secretaria do Campus Universitario de Rondonopolis 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e9246cb3-10fe-4cc2-bfbb-0a9431f6f9c1.jpg",
+    "original": "./imagens/visualizacao/e9246cb3-10fe-4cc2-bfbb-0a9431f6f9c1.jpg",
+    "criado_em": "2026-11-11T22:44:09.902841+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1134,
+        "altura": 800,
+        "bytes": 320567,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          196,
+          148,
+          131
+        ],
+        "luminosidade_media": 160.4,
+        "contraste_desvio": 36.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "829b3f3dd1ea223e1d6c0bc659734e9ac80a157fc80e9c8b7418254233a7ce09",
+    "dhash": "c0d0d3c381c1c2e3"
   }
 ]
