@@ -113,5 +113,35 @@
     },
     "sha256": "c9ce309ee61ad175ce422da203d58a6f86652090bc2177799303eb7d4ad1743a",
     "dhash": "3c30290b18000008"
+  },
+  {
+    "id": "f263e2ed-821f-4e44-aacc-562620fb04c7",
+    "titulo": "102 Casa do bispo 20 novembro 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f263e2ed-821f-4e44-aacc-562620fb04c7.jpg",
+    "original": "./imagens/visualizacao/f263e2ed-821f-4e44-aacc-562620fb04c7.jpg",
+    "criado_em": "2026-11-11T21:00:48.845720+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 775,
+        "altura": 1054,
+        "bytes": 395921,
+        "exif_data_digital": "2011:01:06 14:44:43",
+        "cor_media_rgb": [
+          120,
+          74,
+          81
+        ],
+        "luminosidade_media": 88.5,
+        "contraste_desvio": 40.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e75e777be74e576927e606fbb2c4ad2bf174d1d978db520e2e5cdf3805c37aaf",
+    "dhash": "8f4f16030e4c0a38"
   }
 ]
