@@ -2813,5 +2813,35 @@
     },
     "sha256": "b87177c4ef8c754259036f961ad7f47c59384f894c8b0f349973eb30f2aec353",
     "dhash": "82604868ccccccc6"
+  },
+  {
+    "id": "5d4196a9-3d9d-4019-a887-eec77bd900fe",
+    "titulo": "272 D Vunibaldo e freis franciscanos",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5d4196a9-3d9d-4019-a887-eec77bd900fe.jpg",
+    "original": "./imagens/visualizacao/5d4196a9-3d9d-4019-a887-eec77bd900fe.jpg",
+    "criado_em": "2026-11-11T21:30:04.050505+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1489,
+        "altura": 1078,
+        "bytes": 668166,
+        "exif_data_digital": "2011:02:11 07:40:48",
+        "cor_media_rgb": [
+          99,
+          88,
+          63
+        ],
+        "luminosidade_media": 88.4,
+        "contraste_desvio": 49.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9618ba50e3f56a6667ecda00975ad21b6bb9f792f5b13f38309cd4216db6b0f2",
+    "dhash": "cccbe9a4fcece4d0"
   }
 ]
