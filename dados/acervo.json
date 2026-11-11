@@ -8783,5 +8783,35 @@
     },
     "sha256": "7e5d3d708d12d1976d34b2e2c7542fc4b2bec1c4c39b831e67bbec7c9867e7aa",
     "dhash": "51973a3a8a8a0c1a"
+  },
+  {
+    "id": "bb111bb9-c892-45db-89f6-f02581a50088",
+    "titulo": "640 Sala de memoria da Diocese 6",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/bb111bb9-c892-45db-89f6-f02581a50088.jpg",
+    "original": "./imagens/visualizacao/bb111bb9-c892-45db-89f6-f02581a50088.jpg",
+    "criado_em": "2026-11-11T22:37:52.327617+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1307964,
+        "exif_data_digital": "2011:02:11 08:10:18",
+        "cor_media_rgb": [
+          110,
+          93,
+          71
+        ],
+        "luminosidade_media": 95.3,
+        "contraste_desvio": 45.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "52e162f26916d8884c3e72fdb25e42ba39c6a9855c4cea299eaf64787ff976fb",
+    "dhash": "2707890119150f1e"
   }
 ]
