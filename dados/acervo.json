@@ -3503,5 +3503,35 @@
     },
     "sha256": "061e45f9015313438ac15c912a58d0c765a09e922ea648a08e7ce52fd1e4ed70",
     "dhash": "9ce6d65666d226a2"
+  },
+  {
+    "id": "907bac5f-b849-4b75-9515-166562af47f7",
+    "titulo": "311 FARMACIA SANTA TEREZINHA DECADA DE 50",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/907bac5f-b849-4b75-9515-166562af47f7.jpg",
+    "original": "./imagens/visualizacao/907bac5f-b849-4b75-9515-166562af47f7.jpg",
+    "criado_em": "2026-11-11T21:37:48.108769+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 883,
+        "bytes": 410334,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          210,
+          203,
+          179
+        ],
+        "luminosidade_media": 202.3,
+        "contraste_desvio": 38.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f4e3361b901985b7ba1fe4026461cc8aa00cddc0fb03b84532597f6657c04369",
+    "dhash": "e8e8c5d1e1e9f8c4"
   }
 ]
