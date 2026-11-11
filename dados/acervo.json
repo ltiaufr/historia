@@ -8903,5 +8903,35 @@
     },
     "sha256": "12d86573bc1ffc728c53aa4e7c2974eba1eb0c4f135ee6e92eeeb98b313cb4b6",
     "dhash": "c8cc99f9f0b99905"
+  },
+  {
+    "id": "7b3aec1e-a47c-4bf1-b31f-24505c486be5",
+    "titulo": "644 Sala de Memoria Diocese",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7b3aec1e-a47c-4bf1-b31f-24505c486be5.jpg",
+    "original": "./imagens/visualizacao/7b3aec1e-a47c-4bf1-b31f-24505c486be5.jpg",
+    "criado_em": "2026-11-11T22:39:20.969075+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1456266,
+        "exif_data_digital": "2011:02:11 08:10:06",
+        "cor_media_rgb": [
+          123,
+          104,
+          98
+        ],
+        "luminosidade_media": 109.0,
+        "contraste_desvio": 37.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4ed25f488eca139063b3b5bc3977388c2c96cd8f7442355860efbf7626d3f02e",
+    "dhash": "1b1a1b3939135931"
   }
 ]
