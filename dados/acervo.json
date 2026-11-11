@@ -8213,5 +8213,35 @@
     },
     "sha256": "1b1c7ad80939a884ff07f553b2018f1e3190cd98980dd1efa5e86c6eca7d5482",
     "dhash": "9b95b0dadad83ee2"
+  },
+  {
+    "id": "9522c57d-22a5-45b1-83b4-233819bd8615",
+    "titulo": "604 RIVAUTO AVENIDA PRESIDENTE MEDICE DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9522c57d-22a5-45b1-83b4-233819bd8615.jpg",
+    "original": "./imagens/visualizacao/9522c57d-22a5-45b1-83b4-233819bd8615.jpg",
+    "criado_em": "2026-11-11T22:31:11.476265+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 960,
+        "altura": 687,
+        "bytes": 352083,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          204,
+          200,
+          182
+        ],
+        "luminosidade_media": 198.7,
+        "contraste_desvio": 47.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c5b0f09f600484f5a109782bd35b3962e987bfc9492205795ceac11fd8ad2bf1",
+    "dhash": "e16ff0f1589cd8c8"
   }
 ]
