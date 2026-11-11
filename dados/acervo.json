@@ -4613,5 +4613,35 @@
     },
     "sha256": "e23584edbb8bff1f5c8e1862926b539d5337f90aa4f8e8f8875fc8d32032dffc",
     "dhash": "094ded9582e26767"
+  },
+  {
+    "id": "9f97350a-216b-41c3-9ca5-ae9ec1517373",
+    "titulo": "384 II SEMANA CULTURAL 1 982 C P R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9f97350a-216b-41c3-9ca5-ae9ec1517373.jpg",
+    "original": "./imagens/visualizacao/9f97350a-216b-41c3-9ca5-ae9ec1517373.jpg",
+    "criado_em": "2026-11-11T21:50:30.089616+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1120,
+        "altura": 686,
+        "bytes": 404153,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          139,
+          136,
+          123
+        ],
+        "luminosidade_media": 135.5,
+        "contraste_desvio": 73.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "d456b35d5c0cc4b584fb9dbc1dc29bf8001e3eb1f9672c510502fc6667da344e",
+    "dhash": "aeae8e8e8c39a392"
   }
 ]
