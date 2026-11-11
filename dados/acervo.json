@@ -3383,5 +3383,35 @@
     },
     "sha256": "464774b0b43643d27ed44f005cc8045f33671e30fe8c53d610893ec7c4b9afd8",
     "dhash": "aac5c2b1f9cc6e3c"
+  },
+  {
+    "id": "57099ff0-1290-493c-ba50-adc46ac1d78a",
+    "titulo": "305 EXPOSICAO DOS PRODUTOS MARAJA DECADA DE 60 SR DJALMA PIMENTA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/57099ff0-1290-493c-ba50-adc46ac1d78a.jpg",
+    "original": "./imagens/visualizacao/57099ff0-1290-493c-ba50-adc46ac1d78a.jpg",
+    "criado_em": "2026-11-11T21:36:21.056206+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1380,
+        "altura": 1700,
+        "bytes": 1262396,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          162,
+          156,
+          138
+        ],
+        "luminosidade_media": 155.9,
+        "contraste_desvio": 68.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "63c37ffec19ceb28d28255070b57f2e136d92e7932a128bd01100cb85d3f8381",
+    "dhash": "3ed36366c6d2c6f0"
   }
 ]
