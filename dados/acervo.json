@@ -5813,5 +5813,35 @@
     },
     "sha256": "f1584ac143d9eb69aef1963cc7b59447dc807481e9889f3cce9a8359ff72e9d9",
     "dhash": "cb83430343030302"
+  },
+  {
+    "id": "9830c30d-98f4-4d92-a4dc-7f5c6298265e",
+    "titulo": "437 I PREFEITO DE RONDONOPOLIS DANIEL MARTINS MOURA DECADA DE 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9830c30d-98f4-4d92-a4dc-7f5c6298265e.jpg",
+    "original": "./imagens/visualizacao/9830c30d-98f4-4d92-a4dc-7f5c6298265e.jpg",
+    "criado_em": "2026-11-11T22:04:07.416788+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 787,
+        "altura": 1153,
+        "bytes": 351406,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          175,
+          128,
+          131
+        ],
+        "luminosidade_media": 142.4,
+        "contraste_desvio": 47.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "77b65ccbf55888dacfe765aa9aec2c8bca9bd15fd9b9f8d29929e0b1f3ac3ea6",
+    "dhash": "fafeddf8caf2cc88"
   }
 ]
