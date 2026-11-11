@@ -2543,5 +2543,35 @@
     },
     "sha256": "6ae253b65af43a45b11a6e65fcf43e2516ca8a8ba2bd3b3567ef3521fb53bfd5",
     "dhash": "b9b2a003c3c31a56"
+  },
+  {
+    "id": "420691cb-2dbd-4931-ab64-a7e50f697135",
+    "titulo": "264 D Vunibadlo e freis Chapada",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/420691cb-2dbd-4931-ab64-a7e50f697135.jpg",
+    "original": "./imagens/visualizacao/420691cb-2dbd-4931-ab64-a7e50f697135.jpg",
+    "criado_em": "2026-11-11T21:27:03.385557+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1499,
+        "altura": 1080,
+        "bytes": 710697,
+        "exif_data_digital": "2011:02:11 08:03:04",
+        "cor_media_rgb": [
+          114,
+          108,
+          84
+        ],
+        "luminosidade_media": 107.1,
+        "contraste_desvio": 44.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9bde97b8055ba81dbe46f10f0cbcb89487917050fbb6aa35f2431d04b8c1c2fa",
+    "dhash": "e9a98dacbcbcbcde"
   }
 ]
