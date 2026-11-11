@@ -10703,5 +10703,35 @@
     },
     "sha256": "21f043eed21367333431bc4ac9ed2b9d082714037b11897f6f2ac1a938f143d8",
     "dhash": "134fee36367efc0f"
+  },
+  {
+    "id": "05a10a06-d25f-4448-a5a2-24d56dd4e1f4",
+    "titulo": "97 CASA DE ADOBE AVENIDA MARECHAL RONDON DECADA DE 90",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/05a10a06-d25f-4448-a5a2-24d56dd4e1f4.jpg",
+    "original": "./imagens/visualizacao/05a10a06-d25f-4448-a5a2-24d56dd4e1f4.jpg",
+    "criado_em": "2026-11-11T23:00:18.835087+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1143,
+        "altura": 788,
+        "bytes": 513900,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          151,
+          127,
+          129
+        ],
+        "luminosidade_media": 134.6,
+        "contraste_desvio": 58.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c384192a370942f32c2288df0605b8424e7d90c2c035d49ef99e668437e584c6",
+    "dhash": "3060e82c4d4d45b3"
   }
 ]
