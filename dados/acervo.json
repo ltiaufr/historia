@@ -3623,5 +3623,35 @@
     },
     "sha256": "841db7bb0a525d71b0b952bd99e77d2aad6e07bc10d3c93627dcfb6a33b8f6fd",
     "dhash": "637372b64e4d5c49"
+  },
+  {
+    "id": "07cccb02-7cdf-4e28-9e0d-9a3250a66ee6",
+    "titulo": "321 Freiras da Acao pastoral",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/07cccb02-7cdf-4e28-9e0d-9a3250a66ee6.jpg",
+    "original": "./imagens/visualizacao/07cccb02-7cdf-4e28-9e0d-9a3250a66ee6.jpg",
+    "criado_em": "2026-11-11T21:39:04.886320+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 776,
+        "altura": 1017,
+        "bytes": 276239,
+        "exif_data_digital": "2011:01:06 15:08:49",
+        "cor_media_rgb": [
+          87,
+          88,
+          87
+        ],
+        "luminosidade_media": 87.5,
+        "contraste_desvio": 48.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ac3dd144c2a3b09eabf7771c62cca29c46a386641911da1ca5dd44808039c8fd",
+    "dhash": "364a0b9990783003"
   }
 ]
