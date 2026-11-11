@@ -1943,5 +1943,35 @@
     },
     "sha256": "4f6f109cfb38aa89628825a9f78ae37d2b1e43a91e125a1cdbedf2e08bb4cebf",
     "dhash": "8ca5eb6bd1b99180"
+  },
+  {
+    "id": "6322a216-994c-44ea-9116-bcd36b2ccb69",
+    "titulo": "1 18 GAC EM RONDONOPOLIS NA DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/6322a216-994c-44ea-9116-bcd36b2ccb69.jpg",
+    "original": "./imagens/visualizacao/6322a216-994c-44ea-9116-bcd36b2ccb69.jpg",
+    "criado_em": "2026-11-11T21:20:36.735434+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 957,
+        "altura": 706,
+        "bytes": 400610,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          188,
+          182,
+          161
+        ],
+        "luminosidade_media": 181.0,
+        "contraste_desvio": 54.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f191591ae7032aec5575ad6b1651831ea66eaa6cac1557d556fa4ee8cb520e94",
+    "dhash": "858099dcf8f0f4f0"
   }
 ]
