@@ -4823,5 +4823,35 @@
     },
     "sha256": "941157382e1b1b8972d55c9814ddb80a8f773fe454c4ecf7d42f943cacbd997e",
     "dhash": "91163222b086183d"
+  },
+  {
+    "id": "0980301b-92bb-4c07-a80d-a71b95f2644e",
+    "titulo": "391 II SEMANA CULTURAL DO C P R 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0980301b-92bb-4c07-a80d-a71b95f2644e.jpg",
+    "original": "./imagens/visualizacao/0980301b-92bb-4c07-a80d-a71b95f2644e.jpg",
+    "criado_em": "2026-11-11T21:52:54.619762+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1367,
+        "altura": 926,
+        "bytes": 481633,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          163,
+          161,
+          150
+        ],
+        "luminosidade_media": 160.2,
+        "contraste_desvio": 48.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "aadbede4751197d3f9fe45f1b844a042c6294601890fdbbfeda7a7bcc74a669c",
+    "dhash": "8edad8181b1f0c06"
   }
 ]
