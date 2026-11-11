@@ -6683,5 +6683,35 @@
     },
     "sha256": "7812ef6d196c288b792f261a26a8577e570497a5060788e6a869d980602443e5",
     "dhash": "b636be798cc25325"
+  },
+  {
+    "id": "80e74cdb-ea75-425e-83d8-4d19519073b1",
+    "titulo": "484 LOCAL ONDE HAVIA O PRIMEIRO CARREIRO EM RONDONOPOLIS DECADA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/80e74cdb-ea75-425e-83d8-4d19519073b1.jpg",
+    "original": "./imagens/visualizacao/80e74cdb-ea75-425e-83d8-4d19519073b1.jpg",
+    "criado_em": "2026-11-11T22:14:01.927213+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 919,
+        "altura": 725,
+        "bytes": 166140,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          163,
+          161,
+          153
+        ],
+        "luminosidade_media": 160.9,
+        "contraste_desvio": 72.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e436c83799f03efe7a807e5e2237d728dd6980cebbb41c2ffdacd20941ac2c02",
+    "dhash": "70e84ecee4100a41"
   }
 ]
