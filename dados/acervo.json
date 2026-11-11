@@ -8663,5 +8663,35 @@
     },
     "sha256": "351a35deb4826928c9c84dc396776919cc9b9c514bd103799a4278d340ef0c73",
     "dhash": "6150261b191a2613"
+  },
+  {
+    "id": "b0aa7dcb-8b9b-41b4-84d4-4d8507e0c27e",
+    "titulo": "636 Sala de memoria da Diocese 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b0aa7dcb-8b9b-41b4-84d4-4d8507e0c27e.jpg",
+    "original": "./imagens/visualizacao/b0aa7dcb-8b9b-41b4-84d4-4d8507e0c27e.jpg",
+    "criado_em": "2026-11-11T22:36:24.961626+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1347411,
+        "exif_data_digital": "2011:02:11 08:10:12",
+        "cor_media_rgb": [
+          129,
+          113,
+          86
+        ],
+        "luminosidade_media": 114.5,
+        "contraste_desvio": 47.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f7f8a47f6503c1be15e87a7e07e0ebcc88c4227e4ac7c934e8016c0e081a7017",
+    "dhash": "1d19191d1d193333"
   }
 ]
