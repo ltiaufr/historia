@@ -1223,5 +1223,35 @@
     },
     "sha256": "3b8affb650124646555ed40728725cf7bfb456d17641d0bd1e29769f00f29c82",
     "dhash": "7d3541c171711181"
+  },
+  {
+    "id": "02e3700a-a982-4d07-a186-0a5821f9f6b7",
+    "titulo": "171 Cozinha Chapada",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/02e3700a-a982-4d07-a186-0a5821f9f6b7.jpg",
+    "original": "./imagens/visualizacao/02e3700a-a982-4d07-a186-0a5821f9f6b7.jpg",
+    "criado_em": "2026-11-11T21:12:54.493219+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1006,
+        "altura": 1548,
+        "bytes": 656203,
+        "exif_data_digital": "2011:02:11 07:38:31",
+        "cor_media_rgb": [
+          115,
+          105,
+          77
+        ],
+        "luminosidade_media": 104.9,
+        "contraste_desvio": 45.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "06f890889a8315581f511fa3b73a7a480fe4dc655119cbe04bea44a75c3dcfab",
+    "dhash": "f0dcdcd8f838030f"
   }
 ]
