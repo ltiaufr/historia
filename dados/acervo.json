@@ -443,5 +443,35 @@
     },
     "sha256": "0a095c2ac47a1ec318adc031977a2663bdb32130b8e0f8074adbc6f917e91e1e",
     "dhash": "83291581c1070f83"
+  },
+  {
+    "id": "f2fbe496-6384-4cb7-9333-bddd7e6c291b",
+    "titulo": "11 25 anos ordenacao D Osorio",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f2fbe496-6384-4cb7-9333-bddd7e6c291b.jpg",
+    "original": "./imagens/visualizacao/f2fbe496-6384-4cb7-9333-bddd7e6c291b.jpg",
+    "criado_em": "2026-11-11T21:04:31.044214+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1661,
+        "altura": 1011,
+        "bytes": 752026,
+        "exif_data_digital": "2011:01:05 14:08:45",
+        "cor_media_rgb": [
+          91,
+          90,
+          101
+        ],
+        "luminosidade_media": 91.4,
+        "contraste_desvio": 50.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "558b2b7fc8cf30d8f0691d2ea3782449d933d9690bbb83f6c3bcd5ac5198c76e",
+    "dhash": "68685442c66aace0"
   }
 ]
