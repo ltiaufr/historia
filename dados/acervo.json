@@ -4223,5 +4223,35 @@
     },
     "sha256": "604bafa08d0121ef7c3985ac94affa0b0f563a8f5ca60fdd1a82a6ab4a7e1683",
     "dhash": "0f7cae9e1b66f7ec"
+  },
+  {
+    "id": "44c23b42-57f2-4493-b14d-1f5d7ba515c4",
+    "titulo": "364 Igreja Matriz 1969",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/44c23b42-57f2-4493-b14d-1f5d7ba515c4.jpg",
+    "original": "./imagens/visualizacao/44c23b42-57f2-4493-b14d-1f5d7ba515c4.jpg",
+    "criado_em": "2026-11-11T21:46:04.638111+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1232,
+        "altura": 875,
+        "bytes": 426019,
+        "exif_data_digital": "2011:02:11 07:20:23",
+        "cor_media_rgb": [
+          82,
+          79,
+          67
+        ],
+        "luminosidade_media": 78.5,
+        "contraste_desvio": 64.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a60f42e87a362be4a5d18920b6a3f101ae2f60ad1c2bc4a33b413f5ce007356e",
+    "dhash": "4fb332530a8523a3"
   }
 ]
