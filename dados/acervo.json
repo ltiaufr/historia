@@ -10073,5 +10073,35 @@
     },
     "sha256": "fc83e8908e0a777d2e825e6bf95d918ee0e45e07a9b7be188ade764a817759bf",
     "dhash": "6406c0c0e8c4c4c4"
+  },
+  {
+    "id": "c8d11eb6-2350-47bf-a761-082435c22de6",
+    "titulo": "716 Visita aos Bororo Aldeia Tadarimana",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c8d11eb6-2350-47bf-a761-082435c22de6.jpg",
+    "original": "./imagens/visualizacao/c8d11eb6-2350-47bf-a761-082435c22de6.jpg",
+    "criado_em": "2026-11-11T22:52:55.026097+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1443100,
+        "exif_data_digital": "2011:01:06 14:50:29",
+        "cor_media_rgb": [
+          122,
+          111,
+          105
+        ],
+        "luminosidade_media": 113.8,
+        "contraste_desvio": 48.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1553a45b39c3a85f95cbe97182bc5ce14e81bd8febec3835ff5c2085f000a4f5",
+    "dhash": "00c2ccdc188a4e03"
   }
 ]
