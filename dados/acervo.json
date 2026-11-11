@@ -1013,5 +1013,35 @@
     },
     "sha256": "4b4abba3fdcbb329d7640a82cc568c121f4b34e97ef16017076a2c1bd376a77c",
     "dhash": "236838e4e5c5c0f1"
+  },
+  {
+    "id": "02f37dee-57a9-45b6-adde-d2e405c4e86a",
+    "titulo": "15 ADMINISTRACAO C P R 1980",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/02f37dee-57a9-45b6-adde-d2e405c4e86a.jpg",
+    "original": "./imagens/visualizacao/02f37dee-57a9-45b6-adde-d2e405c4e86a.jpg",
+    "criado_em": "2026-11-11T21:10:41.202399+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1880,
+        "altura": 1380,
+        "bytes": 1440469,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          129,
+          125,
+          113
+        ],
+        "luminosidade_media": 125.0,
+        "contraste_desvio": 48.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b298ef29414aeb0116e6a6fca0daa19c7e8fdbe3a787aeec79f88be96c532cde",
+    "dhash": "d81898d8785c2d8c"
   }
 ]
