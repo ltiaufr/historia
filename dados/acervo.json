@@ -10523,5 +10523,35 @@
     },
     "sha256": "1a81c469bb466d9d3cb457ea6b24336532b95d482f8cc898e61ed3bdb11e9073",
     "dhash": "1e8c8c939b8807fe"
+  },
+  {
+    "id": "c2eda577-2ce8-437e-8e2b-532e0569758c",
+    "titulo": "88 Cantina C P R 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c2eda577-2ce8-437e-8e2b-532e0569758c.jpg",
+    "original": "./imagens/visualizacao/c2eda577-2ce8-437e-8e2b-532e0569758c.jpg",
+    "criado_em": "2026-11-11T22:58:16.506187+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1376,
+        "altura": 960,
+        "bytes": 442833,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          199,
+          196,
+          186
+        ],
+        "luminosidade_media": 195.7,
+        "contraste_desvio": 69.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "12f7aa5dfb9e7218ea3b83005fe057c43fe3c250974b7278efcf604238681588",
+    "dhash": "0168686b67861e27"
   }
 ]
