@@ -7523,5 +7523,35 @@
     },
     "sha256": "bc6532d8e3295f40e6d0963779b9904098f506a8d3f288217bea6a7356d5fc87",
     "dhash": "5adad89839393836"
+  },
+  {
+    "id": "2fc3f480-aabb-431b-8337-cf364a731deb",
+    "titulo": "536 PAROQUIA SANTA TEREZINHA ANO 2000",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2fc3f480-aabb-431b-8337-cf364a731deb.jpg",
+    "original": "./imagens/visualizacao/2fc3f480-aabb-431b-8337-cf364a731deb.jpg",
+    "criado_em": "2026-11-11T22:23:41.699810+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1166,
+        "altura": 734,
+        "bytes": 332436,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          156,
+          147,
+          148
+        ],
+        "luminosidade_media": 150.0,
+        "contraste_desvio": 74.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a2fbafd7671da4484cac2fa884244b3e61fe5f2ec5ff11f6a475f7bfddb1e9dc",
+    "dhash": "29f23269cc8497fc"
   }
 ]
