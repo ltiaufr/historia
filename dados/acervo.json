@@ -4493,5 +4493,35 @@
     },
     "sha256": "589c2a26cdf6e02bd049a5f52ec163747758ef29e38095a61e43be4ab006f969",
     "dhash": "071c212099991d27"
+  },
+  {
+    "id": "1530a8ec-44f6-4515-a7bd-05a3c33cb748",
+    "titulo": "380 II SEMANA CULTURAL 1982 C P R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1530a8ec-44f6-4515-a7bd-05a3c33cb748.jpg",
+    "original": "./imagens/visualizacao/1530a8ec-44f6-4515-a7bd-05a3c33cb748.jpg",
+    "criado_em": "2026-11-11T21:49:05.534355+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1367,
+        "altura": 893,
+        "bytes": 544123,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          138,
+          138,
+          129
+        ],
+        "luminosidade_media": 136.7,
+        "contraste_desvio": 66.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1d7f93759e198a141b9a1cd09541f46197b6bcd4d59e117ad77444824eaa2ba4",
+    "dhash": "8a8a8a8eac19a1b2"
   }
 ]
