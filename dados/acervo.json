@@ -3533,5 +3533,35 @@
     },
     "sha256": "f4e3361b901985b7ba1fe4026461cc8aa00cddc0fb03b84532597f6657c04369",
     "dhash": "e8e8c5d1e1e9f8c4"
+  },
+  {
+    "id": "89051e5f-8e48-4ed1-808c-da1b2a56815d",
+    "titulo": "317 FESTIVIDADES DE ANIVERSARIO DE RONDONOPOLIS 1975",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/89051e5f-8e48-4ed1-808c-da1b2a56815d.jpg",
+    "original": "./imagens/visualizacao/89051e5f-8e48-4ed1-808c-da1b2a56815d.jpg",
+    "criado_em": "2026-11-11T21:38:07.909360+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1033,
+        "altura": 694,
+        "bytes": 360874,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          182,
+          179,
+          166
+        ],
+        "luminosidade_media": 178.5,
+        "contraste_desvio": 67.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "920e880bb28416807b89a81812af08782e3038b078c9c583a587c8088e2edb0d",
+    "dhash": "cfcb9391ab8891e2"
   }
 ]
