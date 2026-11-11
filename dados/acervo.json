@@ -10733,5 +10733,35 @@
     },
     "sha256": "c384192a370942f32c2288df0605b8424e7d90c2c035d49ef99e668437e584c6",
     "dhash": "3060e82c4d4d45b3"
+  },
+  {
+    "id": "0340d00a-65da-42d4-8c39-c4978511ec7f",
+    "titulo": "98 Casa de uma Familia Bororo 1992",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0340d00a-65da-42d4-8c39-c4978511ec7f.jpg",
+    "original": "./imagens/visualizacao/0340d00a-65da-42d4-8c39-c4978511ec7f.jpg",
+    "criado_em": "2026-11-11T23:00:38.906864+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1024,
+        "altura": 720,
+        "bytes": 489681,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          178,
+          157,
+          147
+        ],
+        "luminosidade_media": 162.4,
+        "contraste_desvio": 64.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "309373c926c506be0b4e9d1af49614b4ee349d5fd185b11c3b615088b5bfc004",
+    "dhash": "f4c68ea4f0620e0e"
   }
 ]
