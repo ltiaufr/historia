@@ -5123,5 +5123,35 @@
     },
     "sha256": "43111439af56051916aeabf46f4dc1ce06c5af65154cc38f4c85f46e3a2c7974",
     "dhash": "9690c6869a9b8246"
+  },
+  {
+    "id": "08bd2e90-e670-403c-8aea-22e68d35c370",
+    "titulo": "408 INAUGURACAO DA BIBLIOTECA DO CUR 1995",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/08bd2e90-e670-403c-8aea-22e68d35c370.jpg",
+    "original": "./imagens/visualizacao/08bd2e90-e670-403c-8aea-22e68d35c370.jpg",
+    "criado_em": "2026-11-11T21:56:15.864448+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 760,
+        "altura": 1146,
+        "bytes": 339405,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          121,
+          114,
+          132
+        ],
+        "luminosidade_media": 118.1,
+        "contraste_desvio": 50.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1ade75341324f4874808fbfd48a800360b1591e93ebe7b329b70d2ad41a35b1d",
+    "dhash": "6f6e6c6e786c6637"
   }
 ]
