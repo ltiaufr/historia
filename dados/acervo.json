@@ -9113,5 +9113,35 @@
     },
     "sha256": "3df9eafb8c052fba22f8ce20737a76acc240de05137e3dbc809233459af0272f",
     "dhash": "eab9febe864146e6"
+  },
+  {
+    "id": "a2915501-ab53-4768-a46c-08dad5399d1f",
+    "titulo": "659 SANTA CASA DE MISERICORDIA DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a2915501-ab53-4768-a46c-08dad5399d1f.jpg",
+    "original": "./imagens/visualizacao/a2915501-ab53-4768-a46c-08dad5399d1f.jpg",
+    "criado_em": "2026-11-11T22:41:48.401207+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1127,
+        "bytes": 1082276,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          225,
+          216,
+          191
+        ],
+        "luminosidade_media": 215.9,
+        "contraste_desvio": 35.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "d6fd1fd1cb8597c89c2b3a056dec63e7e12ebec0415bf2cd58ee9904c65bc7f3",
+    "dhash": "ddcd3379ffb97979"
   }
 ]
