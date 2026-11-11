@@ -2513,5 +2513,35 @@
     },
     "sha256": "2750dfef6a2ed5b1b1317ff6ff738ccbd4ff34d18856d69f131666aedb8785e4",
     "dhash": "5c2c4e68cc92b0b2"
+  },
+  {
+    "id": "ca4bb9fd-186e-45ab-ba38-d949da8f979f",
+    "titulo": "263 D Osorio instalacao Diocese 1986",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ca4bb9fd-186e-45ab-ba38-d949da8f979f.jpg",
+    "original": "./imagens/visualizacao/ca4bb9fd-186e-45ab-ba38-d949da8f979f.jpg",
+    "criado_em": "2026-11-11T21:26:44.503322+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1264,
+        "altura": 1748,
+        "bytes": 823533,
+        "exif_data_digital": "2011:02:11 08:00:33",
+        "cor_media_rgb": [
+          147,
+          131,
+          106
+        ],
+        "luminosidade_media": 133.0,
+        "contraste_desvio": 43.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "6ae253b65af43a45b11a6e65fcf43e2516ca8a8ba2bd3b3567ef3521fb53bfd5",
+    "dhash": "b9b2a003c3c31a56"
   }
 ]
