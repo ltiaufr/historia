@@ -593,5 +593,35 @@
     },
     "sha256": "29a729627213f8cc490bbe46489466948188f608523b7839bfacef87cfa9e842",
     "dhash": "0f0f7ebfb3f3a1cb"
+  },
+  {
+    "id": "10c1bc0b-ebb2-4d16-96a6-0b9459d98377",
+    "titulo": "129 COMEMORACAO PELO DIA DO TRABALHO DECADA DE 50",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/10c1bc0b-ebb2-4d16-96a6-0b9459d98377.jpg",
+    "original": "./imagens/visualizacao/10c1bc0b-ebb2-4d16-96a6-0b9459d98377.jpg",
+    "criado_em": "2026-11-11T21:06:09.992138+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1013,
+        "altura": 694,
+        "bytes": 288491,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          207,
+          205,
+          191
+        ],
+        "luminosidade_media": 204.4,
+        "contraste_desvio": 57.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9b47ea0b36d542a2d0a43a51b49e2bcbd1500c7b9d62853dce231a851130ef2c",
+    "dhash": "c3d1222c8ac23212"
   }
 ]
