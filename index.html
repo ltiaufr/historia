@@ -13,7 +13,38 @@ let photos=[];
 const clean=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
 function safeUrl(raw){try{const url=new URL(String(raw),location.href);return ['https:','http:'].includes(url.protocol)?url.href:null}catch{return null}}
 function showPhoto(p){document.getElementById('detail-title').textContent=p.titulo||'Sem título';const img=document.getElementById('detail-image');img.src=safeUrl(p.miniatura)||'';img.alt=p.descricao||p.titulo||'Fotografia';document.getElementById('detail-description').textContent=p.descricao||'';document.getElementById('detail-meta').textContent=[p.local,p.ano,p.fonte||p.autor].filter(Boolean).join(' · ');document.getElementById('detail-tags').textContent=(p.palavras_chave||[]).join(' · ');const a=document.getElementById('detail-original'),href=safeUrl(p.original);a.hidden=!href;if(href)a.href=href;dialog.showModal()}
-function render(){grid.replaceChildren();const term=clean(search.value.trim());const matches=photos.filter(p=>clean([p.titulo,p.descricao,p.local,p.ano,p.autor,p.fonte,...(p.palavras_chave||[])].join(' ')).includes(term));for(const p of matches){const article=document.createElement('article');article.className='item';const img=document.createElement('img');img.loading='lazy';img.alt=p.descricao||p.titulo||'Fotografia';img.src=safeUrl(p.miniatura)||'';const body=document.createElement('div');body.className='content';const h=document.createElement('h2');h.textContent=p.titulo||'Sem título';const info=document.createElement('p');info.textContent=[p.local,p.ano].filter(Boolean).join(' · ');const btn=document.createElement('button');btn.type='button';btn.textContent='Ver detalhes';btn.addEventListener('click',()=>showPhoto(p));body.append(h,info,btn);article.append(img,body);grid.append(article)}count.textContent=matches.length+' fotografia(s) encontrada(s)';empty.hidden=matches.length>0}
+function render(){
+  grid.replaceChildren();
+  const term=clean(search.value.trim());
+  const searching=term.length>0;
+  // Na abertura, mostrar somente as quatro últimas fotografias com miniaturas.
+  // Sem termo de busca, registros sem data ou miniatura não ocupam a vitrine.
+  const recentes=photos
+    .filter(p=>safeUrl(p.miniatura))
+    .sort((a,b)=>(Date.parse(b.criado_em)||0)-(Date.parse(a.criado_em)||0))
+    .slice(0,4);
+  // A pesquisa continua considerando todo o catálogo, sem limitar a quatro.
+  const matches=searching
+    ?photos.filter(p=>clean([p.titulo,p.descricao,p.local,p.ano,p.autor,p.fonte,...(Array.isArray(p.palavras_chave)?p.palavras_chave:[])].join(' ')).includes(term))
+    :recentes;
+  for(const p of matches){
+    const article=document.createElement('article');article.className='item';
+    const img=document.createElement('img');img.loading='lazy';img.alt=p.descricao||p.titulo||'Fotografia';img.src=safeUrl(p.miniatura)||'';
+    const body=document.createElement('div');body.className='content';
+    const h=document.createElement('h2');h.textContent=p.titulo||'Sem título';
+    const info=document.createElement('p');info.textContent=[p.local,p.ano].filter(Boolean).join(' · ');
+    const btn=document.createElement('button');btn.type='button';btn.textContent='Ver detalhes';
+    btn.addEventListener('click',()=>showPhoto(p));
+    body.append(h,info,btn);article.append(img,body);grid.append(article);
+  }
+  count.textContent=searching
+    ?matches.length+' fotografia(s) encontrada(s)'
+    :'Últimas '+matches.length+' fotografia(s) publicadas · '+photos.filter(p=>safeUrl(p.miniatura)).length+' no acervo';
+  empty.hidden=matches.length>0;
+  empty.textContent=searching
+    ?'Nenhuma fotografia encontrada. Tente outros termos.'
+    :'Ainda não há fotografias publicadas.';
+}
 search.addEventListener('input',render);document.getElementById('clear').addEventListener('click',()=>{search.value='';render();search.focus()});document.getElementById('close').addEventListener('click',()=>dialog.close());
 fetch('./dados/acervo.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Falha '+r.status);return r.json()}).then(d=>{photos=Array.isArray(d)?d:[];render()}).catch(()=>{count.textContent='Não foi possível carregar o acervo.';empty.hidden=false;empty.textContent='Verifique o arquivo dados/acervo.json.'});
 </script></body></html>
