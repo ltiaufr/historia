@@ -8753,5 +8753,35 @@
     },
     "sha256": "45a6be4bd22293ccb8a485f7388b2d7bc59f21b32bb0d2417a0968e4fbd4cfaf",
     "dhash": "1605e96969615115"
+  },
+  {
+    "id": "22837f63-99a2-416a-9efa-8added1968ef",
+    "titulo": "639 Sala de memoria da Diocese 5",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/22837f63-99a2-416a-9efa-8added1968ef.jpg",
+    "original": "./imagens/visualizacao/22837f63-99a2-416a-9efa-8added1968ef.jpg",
+    "criado_em": "2026-11-11T22:37:31.192070+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1348663,
+        "exif_data_digital": "2011:02:11 08:10:26",
+        "cor_media_rgb": [
+          118,
+          88,
+          64
+        ],
+        "luminosidade_media": 94.1,
+        "contraste_desvio": 49.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7e5d3d708d12d1976d34b2e2c7542fc4b2bec1c4c39b831e67bbec7c9867e7aa",
+    "dhash": "51973a3a8a8a0c1a"
   }
 ]
