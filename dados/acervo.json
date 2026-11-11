@@ -3653,5 +3653,35 @@
     },
     "sha256": "ac3dd144c2a3b09eabf7771c62cca29c46a386641911da1ca5dd44808039c8fd",
     "dhash": "364a0b9990783003"
+  },
+  {
+    "id": "c0eebe65-f0e7-4025-a42b-6ac75854c226",
+    "titulo": "322 Freiras e D Vunibaldo",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c0eebe65-f0e7-4025-a42b-6ac75854c226.jpg",
+    "original": "./imagens/visualizacao/c0eebe65-f0e7-4025-a42b-6ac75854c226.jpg",
+    "criado_em": "2026-11-11T21:39:25.748539+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1738,
+        "altura": 1174,
+        "bytes": 752891,
+        "exif_data_digital": "2011:02:11 07:42:06",
+        "cor_media_rgb": [
+          99,
+          87,
+          58
+        ],
+        "luminosidade_media": 87.5,
+        "contraste_desvio": 60.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "03fd4b8aa5077dcfdb9dec42a3dc7fa2dd0edc8e6ccb183b87da1efa8031f007",
+    "dhash": "89edeb7d5d5e1696"
   }
 ]
