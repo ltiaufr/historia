@@ -5543,5 +5543,35 @@
     },
     "sha256": "7bd9f16de00fd7e76a370dba8f10622f848c8aedaab2233524f032f26c074796",
     "dhash": "fc5ddd9c8e8f8ece"
+  },
+  {
+    "id": "74e96b4a-86c9-4ac8-9d77-95f5bfa4b565",
+    "titulo": "429 INTERIOR DA PAROQUIA SANTA TEREZINHA ANO 2000",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/74e96b4a-86c9-4ac8-9d77-95f5bfa4b565.jpg",
+    "original": "./imagens/visualizacao/74e96b4a-86c9-4ac8-9d77-95f5bfa4b565.jpg",
+    "criado_em": "2026-11-11T22:01:12.618477+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1166,
+        "altura": 754,
+        "bytes": 329181,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          132,
+          137,
+          121
+        ],
+        "luminosidade_media": 133.8,
+        "contraste_desvio": 35.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "41acf3bca2bc8cf1677769eac0ac2708194353aea9cf7f810f52a3333f276aa2",
+    "dhash": "fcfcf4f5e7c7c787"
   }
 ]
