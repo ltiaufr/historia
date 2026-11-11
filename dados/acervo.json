@@ -9833,5 +9833,35 @@
     },
     "sha256": "527b99ae1cbc4b2f9a8b4094d67acd213d8668925631e2ed96a006ca316ba480",
     "dhash": "64c8f8c6eecccccc"
+  },
+  {
+    "id": "e3fa734d-a42c-4acc-b70f-0ddd444fc6f2",
+    "titulo": "703 Urna Funeraria",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e3fa734d-a42c-4acc-b70f-0ddd444fc6f2.jpg",
+    "original": "./imagens/visualizacao/e3fa734d-a42c-4acc-b70f-0ddd444fc6f2.jpg",
+    "criado_em": "2026-11-11T22:50:04.824004+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 800,
+        "bytes": 405084,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          164,
+          126,
+          114
+        ],
+        "luminosidade_media": 136.0,
+        "contraste_desvio": 29.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "473ceac773103cbf299b0afb1e1e1507b7e2980346c757d2fada974f7c8860ea",
+    "dhash": "7b78241a5a1b92ea"
   }
 ]
