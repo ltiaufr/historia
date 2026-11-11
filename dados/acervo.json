@@ -2093,5 +2093,35 @@
     },
     "sha256": "a9c50f38afc630649d3a17636f91d048087bd768a611c6d6ee68e2e04d144b46",
     "dhash": "90904058e0c99301"
+  },
+  {
+    "id": "208d3f91-d64b-47f6-961f-a5ef39fe0077",
+    "titulo": "208 C P R 1 982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/208d3f91-d64b-47f6-961f-a5ef39fe0077.jpg",
+    "original": "./imagens/visualizacao/208d3f91-d64b-47f6-961f-a5ef39fe0077.jpg",
+    "criado_em": "2026-11-11T21:22:09.521724+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 976,
+        "altura": 720,
+        "bytes": 262016,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          176,
+          100,
+          80
+        ],
+        "luminosidade_media": 120.4,
+        "contraste_desvio": 31.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e9644453ea2061e6b9fee543ffc6cf16b91e657bb232ad3e2fc24a7a4671e1c2",
+    "dhash": "316d396869397c33"
   }
 ]
