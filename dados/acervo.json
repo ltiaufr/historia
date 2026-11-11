@@ -3773,5 +3773,35 @@
     },
     "sha256": "c50f6bdc6716eb78ed4c60a51dbb3ad4e20f452e2c98a741cc1b1b05197497de",
     "dhash": "ada5e7e7c7c7cf37"
+  },
+  {
+    "id": "1ace6c70-33b6-4843-8508-08b726864ad6",
+    "titulo": "328 Frei Boaventura 1966 Aeroporto",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1ace6c70-33b6-4843-8508-08b726864ad6.jpg",
+    "original": "./imagens/visualizacao/1ace6c70-33b6-4843-8508-08b726864ad6.jpg",
+    "criado_em": "2026-11-11T21:41:03.467219+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1030,
+        "altura": 724,
+        "bytes": 308914,
+        "exif_data_digital": "2011:02:11 07:24:12",
+        "cor_media_rgb": [
+          116,
+          77,
+          71
+        ],
+        "luminosidade_media": 87.9,
+        "contraste_desvio": 41.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7da16bcca3ab5538a1a83e39ba5d1c26a4b24be0f273dc0521270cb7d3766cb2",
+    "dhash": "2c3403038a8f0e0f"
   }
 ]
