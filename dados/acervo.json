@@ -4793,5 +4793,35 @@
     },
     "sha256": "43207f80723951c5447ec97f2ca24346950dff985ea1beafdb332b1f6a3088a0",
     "dhash": "0135b5a523370123"
+  },
+  {
+    "id": "c27156a3-7eaa-4f89-a536-90d307a44c43",
+    "titulo": "390 II SEMANA CULTURAL DO C P R NO RONDONOPOLIS CLUB 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c27156a3-7eaa-4f89-a536-90d307a44c43.jpg",
+    "original": "./imagens/visualizacao/c27156a3-7eaa-4f89-a536-90d307a44c43.jpg",
+    "criado_em": "2026-11-11T21:52:33.611325+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1367,
+        "altura": 920,
+        "bytes": 503060,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          148,
+          147,
+          138
+        ],
+        "luminosidade_media": 146.5,
+        "contraste_desvio": 45.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "941157382e1b1b8972d55c9814ddb80a8f773fe454c4ecf7d42f943cacbd997e",
+    "dhash": "91163222b086183d"
   }
 ]
