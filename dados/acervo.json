@@ -3893,5 +3893,35 @@
     },
     "sha256": "166ff0c86de9861591d93e2ff01bfb1d973dbb968ec07a9b6fb158c9559b5c3a",
     "dhash": "2e9f9db3b74f8391"
+  },
+  {
+    "id": "46c96db6-884c-4783-b703-3f9305079c2c",
+    "titulo": "332 Frei Vunibaldo e familiares na Alemanha",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/46c96db6-884c-4783-b703-3f9305079c2c.jpg",
+    "original": "./imagens/visualizacao/46c96db6-884c-4783-b703-3f9305079c2c.jpg",
+    "criado_em": "2026-11-11T21:42:21.746020+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1395,
+        "altura": 920,
+        "bytes": 561717,
+        "exif_data_digital": "2011:02:11 07:57:07",
+        "cor_media_rgb": [
+          108,
+          89,
+          68
+        ],
+        "luminosidade_media": 92.0,
+        "contraste_desvio": 29.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "58e36141ba3a4c5899cc30d0a0a7afa09e9e40f367eeddd214442b5492b7d857",
+    "dhash": "4e4e5b77e7d7e7ef"
   }
 ]
