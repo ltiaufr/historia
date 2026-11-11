@@ -7253,5 +7253,35 @@
     },
     "sha256": "db31ffee3b944c6f2476a49e429af2ace79c2f6c83afe089710a56b8b073c597",
     "dhash": "044c4c4c28b9b4f2"
+  },
+  {
+    "id": "626a5e6a-f869-4065-9710-0610ce56adf2",
+    "titulo": "518 MOBRAL 1972",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/626a5e6a-f869-4065-9710-0610ce56adf2.jpg",
+    "original": "./imagens/visualizacao/626a5e6a-f869-4065-9710-0610ce56adf2.jpg",
+    "criado_em": "2026-11-11T22:20:38.281871+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1026,
+        "altura": 694,
+        "bytes": 353769,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          209,
+          200,
+          171
+        ],
+        "luminosidade_media": 199.3,
+        "contraste_desvio": 61.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "0ac96bc058a67e37104530e9048987d1a730ad7ba113f85d5fb86c68660e43ab",
+    "dhash": "720a1a1c0212e0c6"
   }
 ]
