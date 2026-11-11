@@ -83,5 +83,35 @@
     "miniatura": "./imagens/miniaturas/1cec1a64-2d23-41fc-8d3a-2abc74dddabb.jpg",
     "original": "./imagens/visualizacao/1cec1a64-2d23-41fc-8d3a-2abc74dddabb.jpg",
     "criado_em": "2026-11-11T02:46:12.727Z"
+  },
+  {
+    "id": "ba024ded-8456-4d30-a82e-20111c0a34cb",
+    "titulo": "100 Casa dos solteiros no centro da Aldeia",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ba024ded-8456-4d30-a82e-20111c0a34cb.jpg",
+    "original": "./imagens/visualizacao/ba024ded-8456-4d30-a82e-20111c0a34cb.jpg",
+    "criado_em": "2026-11-11T21:00:28.740099+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 992,
+        "altura": 704,
+        "bytes": 294547,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          189,
+          158,
+          145
+        ],
+        "luminosidade_media": 165.9,
+        "contraste_desvio": 41.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c9ce309ee61ad175ce422da203d58a6f86652090bc2177799303eb7d4ad1743a",
+    "dhash": "3c30290b18000008"
   }
 ]
