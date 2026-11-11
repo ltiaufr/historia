@@ -4133,5 +4133,35 @@
     },
     "sha256": "4fa76c04748a5c2a85b9f6d5781ea5512b56917b104b814701e7afd71f120df6",
     "dhash": "b0270d757542220f"
+  },
+  {
+    "id": "d075fc75-f2ba-4efc-8e7f-afa54d99a8d3",
+    "titulo": "361 Igreja de Santa Ana Chapada 1940",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/d075fc75-f2ba-4efc-8e7f-afa54d99a8d3.jpg",
+    "original": "./imagens/visualizacao/d075fc75-f2ba-4efc-8e7f-afa54d99a8d3.jpg",
+    "criado_em": "2026-11-11T21:45:05.110662+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1653,
+        "altura": 1110,
+        "bytes": 765206,
+        "exif_data_digital": "2011:02:11 07:31:15",
+        "cor_media_rgb": [
+          141,
+          126,
+          85
+        ],
+        "luminosidade_media": 125.9,
+        "contraste_desvio": 49.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "5f9e3d7e49ea48ad31e3d86494e88e1e25b752287316f35b36aa58670f5b5c75",
+    "dhash": "a3e66668a637f2c2"
   }
 ]
