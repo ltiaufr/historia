@@ -8243,5 +8243,35 @@
     },
     "sha256": "c5b0f09f600484f5a109782bd35b3962e987bfc9492205795ceac11fd8ad2bf1",
     "dhash": "e16ff0f1589cd8c8"
+  },
+  {
+    "id": "75bbf2f5-c180-4362-843c-6185980f1cde",
+    "titulo": "606 RODOVIARIA DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/75bbf2f5-c180-4362-843c-6185980f1cde.jpg",
+    "original": "./imagens/visualizacao/75bbf2f5-c180-4362-843c-6185980f1cde.jpg",
+    "criado_em": "2026-11-11T22:31:31.664673+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1026,
+        "altura": 700,
+        "bytes": 243909,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          235,
+          228,
+          202
+        ],
+        "luminosidade_media": 227.3,
+        "contraste_desvio": 46.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "096a0fae05101a33d6a4062973188f717e4b6e86785fbe163a18e0c71c3bccd2",
+    "dhash": "cc93b3c7fbfb07ff"
   }
 ]
