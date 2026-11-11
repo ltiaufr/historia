@@ -5453,5 +5453,35 @@
     },
     "sha256": "ebd735d1a99f8acc952c7277965b020097db2fab3a71ab741923e23d6eb6c7b9",
     "dhash": "f4f9e9d269ecec8d"
+  },
+  {
+    "id": "44220a41-d4fd-4feb-845a-7b799f87e98a",
+    "titulo": "426 INTERIOR DA IGREJA MATRIZ SAGRADO CORACAO DE JESUS ANO 2000",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/44220a41-d4fd-4feb-845a-7b799f87e98a.jpg",
+    "original": "./imagens/visualizacao/44220a41-d4fd-4feb-845a-7b799f87e98a.jpg",
+    "criado_em": "2026-11-11T22:00:16.554741+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1166,
+        "altura": 767,
+        "bytes": 371352,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          133,
+          141,
+          138
+        ],
+        "luminosidade_media": 138.3,
+        "contraste_desvio": 43.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f0b0d0f737e467d59f403b67ecb7fab72afc1351e34d3e96d89d8686c8328b75",
+    "dhash": "f3fa6c3b96e4adac"
   }
 ]
