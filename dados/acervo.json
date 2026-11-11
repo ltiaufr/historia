@@ -773,5 +773,35 @@
     },
     "sha256": "8f1e403a6920bc466e6660aa5935ab3da8c3080bcdec55bbde1ef7f8a790e896",
     "dhash": "8c9c8ec8bcc4ccc9"
+  },
+  {
+    "id": "1901dbfa-1950-45a8-ac97-31acce199969",
+    "titulo": "152 CONSTRUCAO C P R 1981",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1901dbfa-1950-45a8-ac97-31acce199969.jpg",
+    "original": "./imagens/visualizacao/1901dbfa-1950-45a8-ac97-31acce199969.jpg",
+    "criado_em": "2026-11-11T21:08:05.539271+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 932,
+        "altura": 688,
+        "bytes": 220872,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          207,
+          173,
+          155
+        ],
+        "luminosidade_media": 180.9,
+        "contraste_desvio": 63.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "74ba58f80a47bc3b0b85af9f04cccf1a9e13d04bfe9bf9debf685843bb5a6a19",
+    "dhash": "060bb6242246cc2f"
   }
 ]
