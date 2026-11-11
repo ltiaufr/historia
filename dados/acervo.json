@@ -3803,5 +3803,35 @@
     },
     "sha256": "7da16bcca3ab5538a1a83e39ba5d1c26a4b24be0f273dc0521270cb7d3766cb2",
     "dhash": "2c3403038a8f0e0f"
+  },
+  {
+    "id": "c69f98a7-49d5-4907-80c8-eda0cf142fd8",
+    "titulo": "329 Frei Engelberto e D Vunibaldo",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c69f98a7-49d5-4907-80c8-eda0cf142fd8.jpg",
+    "original": "./imagens/visualizacao/c69f98a7-49d5-4907-80c8-eda0cf142fd8.jpg",
+    "criado_em": "2026-11-11T21:41:22.216750+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 654,
+        "altura": 945,
+        "bytes": 205721,
+        "exif_data_digital": "2011:02:11 07:33:09",
+        "cor_media_rgb": [
+          96,
+          84,
+          57
+        ],
+        "luminosidade_media": 84.5,
+        "contraste_desvio": 50.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "11f78b3302109baaae1938c3bde176ddb734ef1dfa47ef338f6b93839b4e8951",
+    "dhash": "88f9f89c34a6e6a6"
   }
 ]
