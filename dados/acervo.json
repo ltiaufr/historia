@@ -1883,5 +1883,35 @@
     },
     "sha256": "99c211c014680b773975150f7d54b770183860c51e1d1a1168d4a3c478cc8d50",
     "dhash": "a6fbbcf474fc3f97"
+  },
+  {
+    "id": "024dbb61-8d4e-4fb6-97ff-dd4d28960fb1",
+    "titulo": "199 C P R 1 982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/024dbb61-8d4e-4fb6-97ff-dd4d28960fb1.jpg",
+    "original": "./imagens/visualizacao/024dbb61-8d4e-4fb6-97ff-dd4d28960fb1.jpg",
+    "criado_em": "2026-11-11T21:19:58.070379+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1008,
+        "altura": 736,
+        "bytes": 174435,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          235,
+          189,
+          166
+        ],
+        "luminosidade_media": 200.2,
+        "contraste_desvio": 34.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f64dc47380eceebc3a4645ca5ee3b44c44e24068fb6d2c92ea741bf2b998800c",
+    "dhash": "b9b9acd9f9f97eb9"
   }
 ]
