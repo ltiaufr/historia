@@ -4553,5 +4553,35 @@
     },
     "sha256": "ee185f2503becf8118c6274cdac6361d99fd21e39ed0a21bc5d5b8364c8639f1",
     "dhash": "d7ddd5d3d3cfcfcf"
+  },
+  {
+    "id": "2bd35656-c8f3-4b46-a75d-21c62ff6dc84",
+    "titulo": "382 II SEMANA CULTURAL 1982 RONDONOPOLIS CLUB",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2bd35656-c8f3-4b46-a75d-21c62ff6dc84.jpg",
+    "original": "./imagens/visualizacao/2bd35656-c8f3-4b46-a75d-21c62ff6dc84.jpg",
+    "criado_em": "2026-11-11T21:49:46.070385+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 920,
+        "altura": 1393,
+        "bytes": 525546,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          120,
+          119,
+          112
+        ],
+        "luminosidade_media": 118.4,
+        "contraste_desvio": 53.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "21d229f26aae9638fc29f72e2e0630592ea3bc75518f4b9e3b204582006d10b0",
+    "dhash": "bcbc8e8c7c7f7b7f"
   }
 ]
