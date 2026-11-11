@@ -9803,5 +9803,35 @@
     },
     "sha256": "4647c6c9866afa081b4d949fa833687f4a2c33c3025b3d7bffbdad86000d500e",
     "dhash": "c8d0d0d0ccc4c0c1"
+  },
+  {
+    "id": "af7470c9-ec8b-4010-9939-dcc44b0130a6",
+    "titulo": "702 ULTIMA FOTO DE MARECHAL RONDON AO LADO DOS INDIOS BOROROS X",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/af7470c9-ec8b-4010-9939-dcc44b0130a6.jpg",
+    "original": "./imagens/visualizacao/af7470c9-ec8b-4010-9939-dcc44b0130a6.jpg",
+    "criado_em": "2026-11-11T22:49:45.014633+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1160,
+        "altura": 774,
+        "bytes": 550154,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          152,
+          124,
+          136
+        ],
+        "luminosidade_media": 134.1,
+        "contraste_desvio": 65.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "527b99ae1cbc4b2f9a8b4094d67acd213d8668925631e2ed96a006ca316ba480",
+    "dhash": "64c8f8c6eecccccc"
   }
 ]
