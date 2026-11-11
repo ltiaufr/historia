@@ -6173,5 +6173,35 @@
     },
     "sha256": "5f9c1594bfe67acf89b3859b1e6dbb336b1cde3e07ee695c32fc8b6f10f64e59",
     "dhash": "4303b636b63f1e1e"
+  },
+  {
+    "id": "793883e6-4dcc-4f10-a950-ad9a528bb592",
+    "titulo": "451 Laboratorio C P R 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/793883e6-4dcc-4f10-a950-ad9a528bb592.jpg",
+    "original": "./imagens/visualizacao/793883e6-4dcc-4f10-a950-ad9a528bb592.jpg",
+    "criado_em": "2026-11-11T22:08:11.518532+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1360,
+        "altura": 1920,
+        "bytes": 974163,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          208,
+          201,
+          181
+        ],
+        "luminosidade_media": 200.7,
+        "contraste_desvio": 38.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a7767de825479f7d63eef8ca1d13d6368f23461782631dc08990c54860b3e270",
+    "dhash": "f8b8b8f8e9e3dce4"
   }
 ]
