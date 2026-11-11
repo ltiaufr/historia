@@ -8183,5 +8183,35 @@
     },
     "sha256": "809d9428c08c1b53d0616874b030796dbb11e29e3e3e32000bfb6445e92b5981",
     "dhash": "9edff0dca72f3b3e"
+  },
+  {
+    "id": "2ff28efd-a1a2-4af3-bec2-d33fb39eaefe",
+    "titulo": "603 Ritual de passagem para a vida a Adulta",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2ff28efd-a1a2-4af3-bec2-d33fb39eaefe.jpg",
+    "original": "./imagens/visualizacao/2ff28efd-a1a2-4af3-bec2-d33fb39eaefe.jpg",
+    "criado_em": "2026-11-11T22:30:51.369834+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1168,
+        "altura": 784,
+        "bytes": 254754,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          177,
+          124,
+          92
+        ],
+        "luminosidade_media": 136.2,
+        "contraste_desvio": 18.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1b1c7ad80939a884ff07f553b2018f1e3190cd98980dd1efa5e86c6eca7d5482",
+    "dhash": "9b95b0dadad83ee2"
   }
 ]
