@@ -323,5 +323,35 @@
     },
     "sha256": "08db7cc30ef30dea1884c158c059c79816cdb9e2455b7888ad4c890cc3c3f7c3",
     "dhash": "e161e3dbebe3dbfd"
+  },
+  {
+    "id": "5a32f2d2-0b99-43ef-8775-394f07825920",
+    "titulo": "115 Centro Pedagogico de Rondonopolis 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5a32f2d2-0b99-43ef-8775-394f07825920.jpg",
+    "original": "./imagens/visualizacao/5a32f2d2-0b99-43ef-8775-394f07825920.jpg",
+    "criado_em": "2026-11-11T21:03:11.596145+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 944,
+        "altura": 784,
+        "bytes": 190211,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          215,
+          174,
+          154
+        ],
+        "luminosidade_media": 183.8,
+        "contraste_desvio": 40.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "0e6ac97909604c375fa53d62287bfdf016bc3a641db71ac3296a4fe3c1f004ef",
+    "dhash": "9bcaf838f6de8e96"
   }
 ]
