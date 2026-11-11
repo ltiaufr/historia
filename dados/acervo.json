@@ -1253,5 +1253,35 @@
     },
     "sha256": "06f890889a8315581f511fa3b73a7a480fe4dc655119cbe04bea44a75c3dcfab",
     "dhash": "f0dcdcd8f838030f"
+  },
+  {
+    "id": "e6b2ef24-ea24-4097-b5ca-089fcdd9344f",
+    "titulo": "175 Curso de criatividade anos 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e6b2ef24-ea24-4097-b5ca-089fcdd9344f.jpg",
+    "original": "./imagens/visualizacao/e6b2ef24-ea24-4097-b5ca-089fcdd9344f.jpg",
+    "criado_em": "2026-11-11T21:13:14.559510+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1558,
+        "altura": 1108,
+        "bytes": 614596,
+        "exif_data_digital": "2011:01:06 15:10:36",
+        "cor_media_rgb": [
+          104,
+          101,
+          95
+        ],
+        "luminosidade_media": 100.8,
+        "contraste_desvio": 56.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "3ace2551241817be7c6bb1d83734dbf8fcdd2be4f1e80159760f5c617af2f902",
+    "dhash": "cbcbd75535b7a4a4"
   }
 ]
