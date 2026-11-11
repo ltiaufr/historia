@@ -10403,5 +10403,35 @@
     },
     "sha256": "0fcf959d4e47914a991338fca023bf389235415f540c19224faa9af71b23d20d",
     "dhash": "4c20286b1a5ea4ca"
+  },
+  {
+    "id": "aced6552-1783-4cfa-848e-346fcc1ae19a",
+    "titulo": "79 BIBLIOTECA REGIONAL DO CUR 1996",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/aced6552-1783-4cfa-848e-346fcc1ae19a.jpg",
+    "original": "./imagens/visualizacao/aced6552-1783-4cfa-848e-346fcc1ae19a.jpg",
+    "criado_em": "2026-11-11T22:56:54.475036+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1147,
+        "altura": 806,
+        "bytes": 459246,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          182,
+          161,
+          150
+        ],
+        "luminosidade_media": 165.9,
+        "contraste_desvio": 59.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a2aa14b726af35276d3773cb755f9a0e698dfc52432d401a9a4c37cb2368986c",
+    "dhash": "b08ac7c1e12183cd"
   }
 ]
