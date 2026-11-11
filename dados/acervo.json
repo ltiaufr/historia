@@ -5483,5 +5483,35 @@
     },
     "sha256": "f0b0d0f737e467d59f403b67ecb7fab72afc1351e34d3e96d89d8686c8328b75",
     "dhash": "f3fa6c3b96e4adac"
+  },
+  {
+    "id": "4bb7bf92-35ef-4590-b9da-88ee20fdb3e7",
+    "titulo": "427 INTERIOR DA IGREJA METODISTA ANO 2000",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4bb7bf92-35ef-4590-b9da-88ee20fdb3e7.jpg",
+    "original": "./imagens/visualizacao/4bb7bf92-35ef-4590-b9da-88ee20fdb3e7.jpg",
+    "criado_em": "2026-11-11T22:00:35.962603+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1166,
+        "altura": 767,
+        "bytes": 295978,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          133,
+          141,
+          130
+        ],
+        "luminosidade_media": 137.4,
+        "contraste_desvio": 44.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2a37395cbc1e729ba1ee794c0f972fe39403e596b2afe2eb44424b9508c1ea60",
+    "dhash": "fcf4ecec4c6cd0e4"
   }
 ]
