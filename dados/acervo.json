@@ -3563,5 +3563,35 @@
     },
     "sha256": "920e880bb28416807b89a81812af08782e3038b078c9c583a587c8088e2edb0d",
     "dhash": "cfcb9391ab8891e2"
+  },
+  {
+    "id": "78cd7b52-6b64-4536-acb1-b1ede2bd157b",
+    "titulo": "318 FOTO TIPICA DA DECADA DE 40",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/78cd7b52-6b64-4536-acb1-b1ede2bd157b.jpg",
+    "original": "./imagens/visualizacao/78cd7b52-6b64-4536-acb1-b1ede2bd157b.jpg",
+    "criado_em": "2026-11-11T21:38:27.695931+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 787,
+        "altura": 1160,
+        "bytes": 380342,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          169,
+          127,
+          128
+        ],
+        "luminosidade_media": 139.6,
+        "contraste_desvio": 38.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2b4e2b5ab64bdb81482bb4084c5506f505f8a202446cb8bec6e1a21b2ca98bed",
+    "dhash": "ccfcaca4b4b4bed4"
   }
 ]
