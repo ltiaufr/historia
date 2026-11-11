@@ -3983,5 +3983,35 @@
     },
     "sha256": "312615060a4fd121a3948e9835d0be72ac5da09556b9dfd0bf67d95447c59fc1",
     "dhash": "b37ab4261d131e0e"
+  },
+  {
+    "id": "2e37daa8-b967-4611-913d-20c4ce74428f",
+    "titulo": "338 Funeral Queimando os Pertences do Finado",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2e37daa8-b967-4611-913d-20c4ce74428f.jpg",
+    "original": "./imagens/visualizacao/2e37daa8-b967-4611-913d-20c4ce74428f.jpg",
+    "criado_em": "2026-11-11T21:43:21.757112+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1168,
+        "altura": 768,
+        "bytes": 284965,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          170,
+          140,
+          130
+        ],
+        "luminosidade_media": 147.9,
+        "contraste_desvio": 42.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2b1fc950c6427f57bb8b153e68c9c87b5b40658f9bbb92f45838d4772868634f",
+    "dhash": "0f63c353d323038f"
   }
 ]
