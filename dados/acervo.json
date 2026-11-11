@@ -2243,5 +2243,35 @@
     },
     "sha256": "5210f725f9ed8d6c2ff442cbe57a1d9c1f4e233abbf521c7723b112e69133b75",
     "dhash": "c01585868488b838"
+  },
+  {
+    "id": "c8702942-a722-4618-9099-c7e25c934f36",
+    "titulo": "245 Desfile anos 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c8702942-a722-4618-9099-c7e25c934f36.jpg",
+    "original": "./imagens/visualizacao/c8702942-a722-4618-9099-c7e25c934f36.jpg",
+    "criado_em": "2026-11-11T21:23:45.233452+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1359,
+        "altura": 800,
+        "bytes": 510450,
+        "exif_data_digital": "2011:01:06 14:41:13",
+        "cor_media_rgb": [
+          126,
+          127,
+          125
+        ],
+        "luminosidade_media": 126.5,
+        "contraste_desvio": 49.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "fffec39a62be0685df144f2ee0234e1bf8723ba997f09b6b6a730efe07fcc3f4",
+    "dhash": "989acadc32230305"
   }
 ]
