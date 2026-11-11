@@ -9053,5 +9053,35 @@
     },
     "sha256": "12537785dee119de04d46da64f10b8d19765995fb3384b8c7a56f06fd1c83f8a",
     "dhash": "c1c0c1db72d2c048"
+  },
+  {
+    "id": "eec4826b-8cac-467d-9244-6419b7fffafb",
+    "titulo": "654 SALA DOS PROFESSORES JOAQUIM NUNES ROCHA C P R 1981",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/eec4826b-8cac-467d-9244-6419b7fffafb.jpg",
+    "original": "./imagens/visualizacao/eec4826b-8cac-467d-9244-6419b7fffafb.jpg",
+    "criado_em": "2026-11-11T22:41:07.618725+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1367,
+        "altura": 913,
+        "bytes": 533123,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          199,
+          195,
+          178
+        ],
+        "luminosidade_media": 194.0,
+        "contraste_desvio": 59.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e39cb9688da79d8f4f824fdf6c263fa7f8c4dacecba0df2ad0c3d6e033bc8aac",
+    "dhash": "b8b09b9b9aa4bd4d"
   }
 ]
