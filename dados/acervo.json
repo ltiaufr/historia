@@ -8153,5 +8153,35 @@
     },
     "sha256": "821ba69f2b375d04ada6ca786e7e071dcb8e23f0945753b1515f7a098d1ffeae",
     "dhash": "89696879686426e4"
+  },
+  {
+    "id": "652a2329-149e-4e92-af6c-68ff2d2a8cb7",
+    "titulo": "593 Reforma Igreja Chapada",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/652a2329-149e-4e92-af6c-68ff2d2a8cb7.jpg",
+    "original": "./imagens/visualizacao/652a2329-149e-4e92-af6c-68ff2d2a8cb7.jpg",
+    "criado_em": "2026-11-11T22:30:31.959091+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1654,
+        "altura": 1047,
+        "bytes": 685997,
+        "exif_data_digital": "2011:02:11 07:39:29",
+        "cor_media_rgb": [
+          144,
+          134,
+          98
+        ],
+        "luminosidade_media": 133.2,
+        "contraste_desvio": 39.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "809d9428c08c1b53d0616874b030796dbb11e29e3e3e32000bfb6445e92b5981",
+    "dhash": "9edff0dca72f3b3e"
   }
 ]
