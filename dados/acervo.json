@@ -10673,5 +10673,35 @@
     },
     "sha256": "f06a6db08251deb33349dc38cc22a61171086d2a7df69efc55fb76fe5ee9a802",
     "dhash": "e8f8e8bbf8e0f0f4"
+  },
+  {
+    "id": "1b00ea2f-39c0-4089-a04d-9b7b19dcf76f",
+    "titulo": "96 Casa Bororo 1992",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1b00ea2f-39c0-4089-a04d-9b7b19dcf76f.jpg",
+    "original": "./imagens/visualizacao/1b00ea2f-39c0-4089-a04d-9b7b19dcf76f.jpg",
+    "criado_em": "2026-11-11T22:59:58.643745+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1008,
+        "altura": 720,
+        "bytes": 467160,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          166,
+          146,
+          138
+        ],
+        "luminosidade_media": 151.2,
+        "contraste_desvio": 61.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "21f043eed21367333431bc4ac9ed2b9d082714037b11897f6f2ac1a938f143d8",
+    "dhash": "134fee36367efc0f"
   }
 ]
