@@ -8933,5 +8933,35 @@
     },
     "sha256": "4ed25f488eca139063b3b5bc3977388c2c96cd8f7442355860efbf7626d3f02e",
     "dhash": "1b1a1b3939135931"
+  },
+  {
+    "id": "3d4e9d81-e00f-48d1-bb83-4dd2c68bf19d",
+    "titulo": "645 Sala de Memoria Diocese 2011",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3d4e9d81-e00f-48d1-bb83-4dd2c68bf19d.jpg",
+    "original": "./imagens/visualizacao/3d4e9d81-e00f-48d1-bb83-4dd2c68bf19d.jpg",
+    "criado_em": "2026-11-11T22:39:43.173454+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1338888,
+        "exif_data_digital": "2011:02:11 07:15:19",
+        "cor_media_rgb": [
+          140,
+          120,
+          103
+        ],
+        "luminosidade_media": 124.3,
+        "contraste_desvio": 53.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "3706e06af69d8086c9ad2f9fc12bf82c6a4627a8eb66ce5ed05397777f99972c",
+    "dhash": "01646c6aa6878f83"
   }
 ]
