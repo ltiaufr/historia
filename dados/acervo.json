@@ -9503,5 +9503,35 @@
     },
     "sha256": "8e0e6840a94a12230a49ce505d2ca3abb8515aeb11100369f211f30dc6e94d2b",
     "dhash": "7f2d725232134641"
+  },
+  {
+    "id": "dc8d4acf-8b9c-4699-9c8f-1ebda4060c97",
+    "titulo": "686 SOMAI AVENIDA PRES MEDICE DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/dc8d4acf-8b9c-4699-9c8f-1ebda4060c97.jpg",
+    "original": "./imagens/visualizacao/dc8d4acf-8b9c-4699-9c8f-1ebda4060c97.jpg",
+    "criado_em": "2026-11-11T22:46:10.425434+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 993,
+        "altura": 707,
+        "bytes": 211230,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          242,
+          233,
+          200
+        ],
+        "luminosidade_media": 231.8,
+        "contraste_desvio": 23.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e8127f04041fb42e5bd4a308475059a872774b69d395d8941ca88a2960abb4b5",
+    "dhash": "80831ce6f1c8e0c1"
   }
 ]
