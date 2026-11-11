@@ -7643,5 +7643,35 @@
     },
     "sha256": "92f829108df69017687611ddf827d711e84f29311ea77f923680fdcead403841",
     "dhash": "9796ccd4e1c9cd3d"
+  },
+  {
+    "id": "773a6f06-d2f8-4827-80ab-fc869cab99a6",
+    "titulo": "54 AV MARECHAL RONDON DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/773a6f06-d2f8-4827-80ab-fc869cab99a6.jpg",
+    "original": "./imagens/visualizacao/773a6f06-d2f8-4827-80ab-fc869cab99a6.jpg",
+    "criado_em": "2026-11-11T22:24:59.980232+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1393,
+        "altura": 1867,
+        "bytes": 842396,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          199,
+          197,
+          183
+        ],
+        "luminosidade_media": 196.0,
+        "contraste_desvio": 62.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a513e8bb67ababa0809fd97523759e429c7ab13cb2480662a95d2c7ae8863ba0",
+    "dhash": "5f4b1b47e26b7f67"
   }
 ]
