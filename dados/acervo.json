@@ -9533,5 +9533,35 @@
     },
     "sha256": "e8127f04041fb42e5bd4a308475059a872774b69d395d8941ca88a2960abb4b5",
     "dhash": "80831ce6f1c8e0c1"
+  },
+  {
+    "id": "b605d2e1-c0a9-4855-bb42-ae6a7c087878",
+    "titulo": "687 SOMAI AVENIDA PRESIDENTE MEDICE DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b605d2e1-c0a9-4855-bb42-ae6a7c087878.jpg",
+    "original": "./imagens/visualizacao/b605d2e1-c0a9-4855-bb42-ae6a7c087878.jpg",
+    "criado_em": "2026-11-11T22:46:30.127539+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 993,
+        "altura": 694,
+        "bytes": 216599,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          233,
+          222,
+          186
+        ],
+        "luminosidade_media": 221.0,
+        "contraste_desvio": 33.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f58cdf9ad2338bda559634dc44a36a69edafed785c40755f5760b274a233dfbd",
+    "dhash": "b3bcccfad8d870f0"
   }
 ]
