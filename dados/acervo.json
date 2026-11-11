@@ -683,5 +683,35 @@
     },
     "sha256": "43baa60cc08dd63addb97aa0309ac60c84504dd72f6e9f8479bf159de80c79ed",
     "dhash": "b674669793329876"
+  },
+  {
+    "id": "5fe6e332-cccd-429a-a2f0-1ce1386a88a0",
+    "titulo": "135 CONJUNTO MARINHO DECADA DE 50",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5fe6e332-cccd-429a-a2f0-1ce1386a88a0.jpg",
+    "original": "./imagens/visualizacao/5fe6e332-cccd-429a-a2f0-1ce1386a88a0.jpg",
+    "criado_em": "2026-11-11T21:07:08.280004+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 886,
+        "bytes": 419552,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          204,
+          196,
+          172
+        ],
+        "luminosidade_media": 195.5,
+        "contraste_desvio": 36.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2a1f4441b520e4939d80178b41d6e460b27e62fce51c1c576597dcd999516211",
+    "dhash": "f4f99bb95ac2c2ec"
   }
 ]
