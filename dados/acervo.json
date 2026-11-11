@@ -4163,5 +4163,35 @@
     },
     "sha256": "5f9e3d7e49ea48ad31e3d86494e88e1e25b752287316f35b36aa58670f5b5c75",
     "dhash": "a3e66668a637f2c2"
+  },
+  {
+    "id": "6338d246-3043-4a92-9e76-f6880b6e468d",
+    "titulo": "362 Igreja em Chapada 1944",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/6338d246-3043-4a92-9e76-f6880b6e468d.jpg",
+    "original": "./imagens/visualizacao/6338d246-3043-4a92-9e76-f6880b6e468d.jpg",
+    "criado_em": "2026-11-11T21:45:25.882386+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1403,
+        "altura": 950,
+        "bytes": 523460,
+        "exif_data_digital": "2011:02:11 07:32:54",
+        "cor_media_rgb": [
+          141,
+          131,
+          95
+        ],
+        "luminosidade_media": 129.7,
+        "contraste_desvio": 46.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "14a1213a1892bb1df5beb14bfb2cbdab0b4da6a1c8777aad4eaed85f566f9f5b",
+    "dhash": "0f0d0f0d0e4f873e"
   }
 ]
