@@ -7613,5 +7613,35 @@
     },
     "sha256": "0194a0f7cc2a551bee9973b8b85dbb1e254274381218753af07e63459b14e716",
     "dhash": "72023616a2ae9ec2"
+  },
+  {
+    "id": "2184dc26-eead-42ff-aed0-f163424557e1",
+    "titulo": "549 PATIO DA PAROQUIA NOSSA SENHORA APARECIDA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2184dc26-eead-42ff-aed0-f163424557e1.jpg",
+    "original": "./imagens/visualizacao/2184dc26-eead-42ff-aed0-f163424557e1.jpg",
+    "criado_em": "2026-11-11T22:24:39.419789+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1153,
+        "altura": 787,
+        "bytes": 482132,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          139,
+          127,
+          129
+        ],
+        "luminosidade_media": 130.9,
+        "contraste_desvio": 63.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "92f829108df69017687611ddf827d711e84f29311ea77f923680fdcead403841",
+    "dhash": "9796ccd4e1c9cd3d"
   }
 ]
