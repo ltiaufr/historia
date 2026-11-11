@@ -5003,5 +5003,35 @@
     },
     "sha256": "e5436c74a337bafdc2756f674a45c6327bb18a9fc487e05129334d802e21ee91",
     "dhash": "031d5deb91da5363"
+  },
+  {
+    "id": "7e115485-f845-4aec-8a1f-0ffa35c0d364",
+    "titulo": "397 II SEMANA CULTURAL C P R 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7e115485-f845-4aec-8a1f-0ffa35c0d364.jpg",
+    "original": "./imagens/visualizacao/7e115485-f845-4aec-8a1f-0ffa35c0d364.jpg",
+    "criado_em": "2026-11-11T21:54:57.121689+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1367,
+        "altura": 886,
+        "bytes": 464081,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          155,
+          154,
+          144
+        ],
+        "luminosidade_media": 153.4,
+        "contraste_desvio": 56.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2d3d947379e7ad868606fe0472da313bd110ba5dc49fcfc605f59845be208b61",
+    "dhash": "bcb596a336566766"
   }
 ]
