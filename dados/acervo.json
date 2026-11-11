@@ -10013,5 +10013,35 @@
     },
     "sha256": "722c94a6790658a1e60ca22695280fc0676aaf12b5e9e951897b39316fcde2a6",
     "dhash": "a288c0c0e0f0c4c4"
+  },
+  {
+    "id": "8bb3c5b7-a8df-4eb2-977e-219ae212af95",
+    "titulo": "712 Vila Bela da Santissima Trindade",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8bb3c5b7-a8df-4eb2-977e-219ae212af95.jpg",
+    "original": "./imagens/visualizacao/8bb3c5b7-a8df-4eb2-977e-219ae212af95.jpg",
+    "criado_em": "2026-11-11T22:52:06.828095+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1184,
+        "altura": 768,
+        "bytes": 410007,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          110,
+          105,
+          101
+        ],
+        "luminosidade_media": 106.0,
+        "contraste_desvio": 45.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "202c424bd069b379b9510d298f013d43be7101d41da75f01a1145f9366388bf8",
+    "dhash": "1a43636723230303"
   }
 ]
