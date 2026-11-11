@@ -803,5 +803,35 @@
     },
     "sha256": "74ba58f80a47bc3b0b85af9f04cccf1a9e13d04bfe9bf9debf685843bb5a6a19",
     "dhash": "060bb6242246cc2f"
+  },
+  {
+    "id": "b980744d-64e7-4367-b879-a36ac588d010",
+    "titulo": "153 CONSTRUCAO DA COOPHARONDON DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b980744d-64e7-4367-b879-a36ac588d010.jpg",
+    "original": "./imagens/visualizacao/b980744d-64e7-4367-b879-a36ac588d010.jpg",
+    "criado_em": "2026-11-11T21:08:24.952914+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 930,
+        "altura": 738,
+        "bytes": 224234,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          227,
+          213,
+          175
+        ],
+        "luminosidade_media": 212.6,
+        "contraste_desvio": 24.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "3ae79a12ef88b108e74c10459039b35a390a0aa3a9f7bd29ce5a85fb5345e37c",
+    "dhash": "2181c0e0f8f0f8e0"
   }
 ]
