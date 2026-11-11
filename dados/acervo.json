@@ -10643,5 +10643,35 @@
     },
     "sha256": "09e17ea5b934be6362b22a611a1ec6578ae14a124613829e8a2beee1dd3079b9",
     "dhash": "2180c1717000077c"
+  },
+  {
+    "id": "b7e73a40-8b32-460b-aca5-73cced7dfcc9",
+    "titulo": "95 CASA BORGES AV AMAZONAS DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b7e73a40-8b32-460b-aca5-73cced7dfcc9.jpg",
+    "original": "./imagens/visualizacao/b7e73a40-8b32-460b-aca5-73cced7dfcc9.jpg",
+    "criado_em": "2026-11-11T22:59:37.254505+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 674,
+        "altura": 500,
+        "bytes": 152905,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          228,
+          214,
+          175
+        ],
+        "luminosidade_media": 213.9,
+        "contraste_desvio": 35.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f06a6db08251deb33349dc38cc22a61171086d2a7df69efc55fb76fe5ee9a802",
+    "dhash": "e8f8e8bbf8e0f0f4"
   }
 ]
