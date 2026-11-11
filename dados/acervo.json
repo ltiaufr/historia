@@ -10253,5 +10253,35 @@
     },
     "sha256": "756fd4283f10425fd2a29a3f83f85c24900ad08fd98c5fac599de10fa3e87f4f",
     "dhash": "9989091834386062"
+  },
+  {
+    "id": "56aa1991-a7e8-497c-b107-b3a1128b6d92",
+    "titulo": "74 Biblioteca do C P R 1984",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/56aa1991-a7e8-497c-b107-b3a1128b6d92.jpg",
+    "original": "./imagens/visualizacao/56aa1991-a7e8-497c-b107-b3a1128b6d92.jpg",
+    "criado_em": "2026-11-11T22:55:09.699854+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1376,
+        "altura": 976,
+        "bytes": 717786,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          183,
+          177,
+          160
+        ],
+        "luminosidade_media": 177.0,
+        "contraste_desvio": 57.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "d0ce13cf2a1d53d6d34d3a68da311173e68b81ae4804009d1eddd4da23108f66",
+    "dhash": "a0a0d93933191997"
   }
 ]
