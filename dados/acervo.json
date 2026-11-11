@@ -5093,5 +5093,35 @@
     },
     "sha256": "da0cfd0a506510792445f342694bca25aece0bedfa2a77a8712c89f18cd7565b",
     "dhash": "a303256686275be1"
+  },
+  {
+    "id": "ce38141a-ec24-486d-8c1f-c5dd4f2048b0",
+    "titulo": "3 18 GAG DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ce38141a-ec24-486d-8c1f-c5dd4f2048b0.jpg",
+    "original": "./imagens/visualizacao/ce38141a-ec24-486d-8c1f-c5dd4f2048b0.jpg",
+    "criado_em": "2026-11-11T21:55:56.104031+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 660,
+        "altura": 920,
+        "bytes": 208354,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          215,
+          206,
+          175
+        ],
+        "luminosidade_media": 205.5,
+        "contraste_desvio": 46.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "43111439af56051916aeabf46f4dc1ce06c5af65154cc38f4c85f46e3a2c7974",
+    "dhash": "9690c6869a9b8246"
   }
 ]
