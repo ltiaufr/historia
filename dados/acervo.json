@@ -2633,5 +2633,35 @@
     },
     "sha256": "bc8bd931b100d04f94e6b4a9d93f1f8d7c870f0067ef53c633dc42bcfc7c981f",
     "dhash": "98f0f2383032300a"
+  },
+  {
+    "id": "7e7db104-f409-4187-b60f-2636ca65ffa1",
+    "titulo": "267 D Vunibaldo em Roma",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7e7db104-f409-4187-b60f-2636ca65ffa1.jpg",
+    "original": "./imagens/visualizacao/7e7db104-f409-4187-b60f-2636ca65ffa1.jpg",
+    "criado_em": "2026-11-11T21:28:03.005763+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 987,
+        "altura": 1514,
+        "bytes": 497150,
+        "exif_data_digital": "2011:02:11 07:45:27",
+        "cor_media_rgb": [
+          156,
+          111,
+          124
+        ],
+        "luminosidade_media": 125.9,
+        "contraste_desvio": 52.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "90e75daffddfffca295fc495bd7d88bdcc384a52d8f516817960cd3aa2b81021",
+    "dhash": "220e460c480908c8"
   }
 ]
