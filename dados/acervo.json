@@ -4433,5 +4433,35 @@
     },
     "sha256": "3a01c53ce97ea2fc7d8b253f1c349221d70466d77e6c56b6b12d57d63cfb41af",
     "dhash": "e6a4e68fa2d20612"
+  },
+  {
+    "id": "8b37b917-a977-4bcd-a7a3-d4928add4ac4",
+    "titulo": "378 II SEMANA CULTURAL 1982 CENTRO PEDAGOGICO DE RONDONOPOLIS",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8b37b917-a977-4bcd-a7a3-d4928add4ac4.jpg",
+    "original": "./imagens/visualizacao/8b37b917-a977-4bcd-a7a3-d4928add4ac4.jpg",
+    "criado_em": "2026-11-11T21:48:24.858019+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 914,
+        "altura": 1393,
+        "bytes": 495876,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          152,
+          151,
+          142
+        ],
+        "luminosidade_media": 150.0,
+        "contraste_desvio": 59.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c4287dad931749379f4d36fd8d7034c461d170cbb72274b32cfa5ec0fc62daf5",
+    "dhash": "cccccc943337777a"
   }
 ]
