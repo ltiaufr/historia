@@ -2153,5 +2153,35 @@
     },
     "sha256": "386f64df7eeee366bbf49473434b9172fdd5fa647a307bb13cea24242bbde754",
     "dhash": "e070fab2b83066a8"
+  },
+  {
+    "id": "0996ebeb-690a-4170-8344-79c9c2285601",
+    "titulo": "242 da Eco da Serra Chapada 1944",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0996ebeb-690a-4170-8344-79c9c2285601.jpg",
+    "original": "./imagens/visualizacao/0996ebeb-690a-4170-8344-79c9c2285601.jpg",
+    "criado_em": "2026-11-11T21:22:47.933474+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1608,
+        "altura": 1047,
+        "bytes": 571526,
+        "exif_data_digital": "2011:02:11 07:32:11",
+        "cor_media_rgb": [
+          138,
+          127,
+          95
+        ],
+        "luminosidade_media": 126.9,
+        "contraste_desvio": 62.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "cfd9066d505711873f55c99b9e33ae5c1115b260ec993f7ff35c118c8f81b5c6",
+    "dhash": "939290d46423a712"
   }
 ]
