@@ -4073,5 +4073,35 @@
     },
     "sha256": "02d8e150bf68acbc322f32a2b17867cdb77ea2ee407845ac7e4faccb01aee726",
     "dhash": "8dc5c30919950d59"
+  },
+  {
+    "id": "f357a659-b6f5-43c6-9940-b33100d7e42a",
+    "titulo": "343 GINASIO LA SALLE DECADA DE 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f357a659-b6f5-43c6-9940-b33100d7e42a.jpg",
+    "original": "./imagens/visualizacao/f357a659-b6f5-43c6-9940-b33100d7e42a.jpg",
+    "criado_em": "2026-11-11T21:44:24.342267+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 873,
+        "bytes": 500631,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          198,
+          182,
+          152
+        ],
+        "luminosidade_media": 183.4,
+        "contraste_desvio": 39.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "48838aa4e0f0aba3b3c62fa836c6287a35194386a5280f70408bd88457654977",
+    "dhash": "f0f0f2caabe2e8e0"
   }
 ]
