@@ -3263,5 +3263,35 @@
     },
     "sha256": "a1b3c18bebd77446c43f27d8def1c49dfc0d30889535e252b1a8e594672487fa",
     "dhash": "602020050d140590"
+  },
+  {
+    "id": "843a98aa-c3dc-420b-97a4-d61d1289d162",
+    "titulo": "299 ESCOLA MANUEL PINHEIRO EMOP DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/843a98aa-c3dc-420b-97a4-d61d1289d162.jpg",
+    "original": "./imagens/visualizacao/843a98aa-c3dc-420b-97a4-d61d1289d162.jpg",
+    "criado_em": "2026-11-11T21:35:04.310146+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 934,
+        "altura": 680,
+        "bytes": 238235,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          206,
+          196,
+          164
+        ],
+        "luminosidade_media": 195.7,
+        "contraste_desvio": 59.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "51c9d6493940b18ccbf73005d536f3080317fb9783d856bde5b9b8a1ae5585f3",
+    "dhash": "c10121890b824261"
   }
 ]
