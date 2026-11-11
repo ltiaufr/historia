@@ -143,5 +143,35 @@
     },
     "sha256": "e75e777be74e576927e606fbb2c4ad2bf174d1d978db520e2e5cdf3805c37aaf",
     "dhash": "8f4f16030e4c0a38"
+  },
+  {
+    "id": "dbe1a496-513d-40fd-94aa-6c9bbd7d312d",
+    "titulo": "103 CASEMAT DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/dbe1a496-513d-40fd-94aa-6c9bbd7d312d.jpg",
+    "original": "./imagens/visualizacao/dbe1a496-513d-40fd-94aa-6c9bbd7d312d.jpg",
+    "criado_em": "2026-11-11T21:01:08.795779+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1020,
+        "altura": 693,
+        "bytes": 329421,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          193,
+          188,
+          171
+        ],
+        "luminosidade_media": 187.6,
+        "contraste_desvio": 54.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "0c0cfd31df66993e9a7d7debd699a115dbdf6a61f86a7e4fbb1b5af0aef5446a",
+    "dhash": "eeced6c6ced8189c"
   }
 ]
