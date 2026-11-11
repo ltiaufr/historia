@@ -7703,5 +7703,35 @@
     },
     "sha256": "b328a3078c46d9166d530fc56d4c1caea9fa649cad9e813d686e922d2fa0a913",
     "dhash": "3e723e1e163a383a"
+  },
+  {
+    "id": "8fbd9159-dbc7-43aa-9ab9-dea0ac5ccd8e",
+    "titulo": "558 PLACA DA CAMARA MUNICIPAL DE RONDONOPOLIS DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8fbd9159-dbc7-43aa-9ab9-dea0ac5ccd8e.jpg",
+    "original": "./imagens/visualizacao/8fbd9159-dbc7-43aa-9ab9-dea0ac5ccd8e.jpg",
+    "criado_em": "2026-11-11T22:25:38.302373+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 962,
+        "altura": 675,
+        "bytes": 263870,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          221,
+          219,
+          204
+        ],
+        "luminosidade_media": 217.7,
+        "contraste_desvio": 54.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ab7eb077c72041a97620cac5b93fc2cc7cf031fe3a6643da0e8ea99fbcbf3988",
+    "dhash": "3271d082c08081a4"
   }
 ]
