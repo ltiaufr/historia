@@ -6983,5 +6983,35 @@
     },
     "sha256": "198a4a5156cd7890564bf268b52fcf80b9fc0079a79059075c75b060ed54062b",
     "dhash": "b2b2b2923826462e"
+  },
+  {
+    "id": "8338780b-4526-45ef-92fb-17d7de88adfe",
+    "titulo": "49 AVENIDA MARECHAL RONDON ESQUINA COM A 13 DE MAIO DECADA DE 8",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8338780b-4526-45ef-92fb-17d7de88adfe.jpg",
+    "original": "./imagens/visualizacao/8338780b-4526-45ef-92fb-17d7de88adfe.jpg",
+    "criado_em": "2026-11-11T22:17:32.248486+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 687,
+        "altura": 926,
+        "bytes": 260692,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          228,
+          221,
+          192
+        ],
+        "luminosidade_media": 219.4,
+        "contraste_desvio": 41.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "661808b379a7cdb7c629beb1cf2755266faae583ded463ad828b25adcd6305f1",
+    "dhash": "0f204dc3618dc383"
   }
 ]
