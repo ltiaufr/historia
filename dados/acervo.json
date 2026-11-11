@@ -8363,5 +8363,35 @@
     },
     "sha256": "448f5e44bfd4a2e53c6321a06d25b898b4a2aa0230488eb7c6e1701cc962bfeb",
     "dhash": "0142eccad68c8c90"
+  },
+  {
+    "id": "2e4ff315-3934-4850-903c-0262afb83508",
+    "titulo": "617 rua dom pedro II construcao da ponte sobre o rio arareau dec",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2e4ff315-3934-4850-903c-0262afb83508.jpg",
+    "original": "./imagens/visualizacao/2e4ff315-3934-4850-903c-0262afb83508.jpg",
+    "criado_em": "2026-11-11T22:32:58.493523+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1374,
+        "bytes": 1055655,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          196,
+          193,
+          178
+        ],
+        "luminosidade_media": 192.0,
+        "contraste_desvio": 52.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1185743b82ab4e9abd04250fe90ac6e119585d7fea782952e4320e1a6027e1e0",
+    "dhash": "39194c6c60521b6c"
   }
 ]
