@@ -6593,5 +6593,35 @@
     },
     "sha256": "74b0bbc26cb8d5ce8010811207504ae5bc9c97b65e6ef0ba4807a667fc25d7bd",
     "dhash": "86c672383c1d4d46"
+  },
+  {
+    "id": "064f7910-7fe1-4f76-9af0-e45987813306",
+    "titulo": "47 AVENIDA MARECHAL RONDON DECADA DE 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/064f7910-7fe1-4f76-9af0-e45987813306.jpg",
+    "original": "./imagens/visualizacao/064f7910-7fe1-4f76-9af0-e45987813306.jpg",
+    "criado_em": "2026-11-11T22:13:00.630005+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1380,
+        "altura": 1867,
+        "bytes": 745948,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          210,
+          208,
+          197
+        ],
+        "luminosidade_media": 207.1,
+        "contraste_desvio": 59.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4ab30114e2fe76eed9d805fae2448ebb8199977a287c32c804639473c7a5e079",
+    "dhash": "3515013776f9f8e9"
   }
 ]
