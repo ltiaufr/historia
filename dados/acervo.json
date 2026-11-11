@@ -6443,5 +6443,35 @@
     },
     "sha256": "4151abdd14b5195598a3c09e3f667b7dfa421c8ae8f4093ca168f3aaa8b1a9f9",
     "dhash": "464d0c4c89a92292"
+  },
+  {
+    "id": "fd5d7843-a659-451b-a940-23c26290ade7",
+    "titulo": "474 LANCAMENTO DO LIVRO DA LACI C U R 1995",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/fd5d7843-a659-451b-a940-23c26290ade7.jpg",
+    "original": "./imagens/visualizacao/fd5d7843-a659-451b-a940-23c26290ade7.jpg",
+    "criado_em": "2026-11-11T22:11:18.146678+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 754,
+        "altura": 1166,
+        "bytes": 436318,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          116,
+          104,
+          101
+        ],
+        "luminosidade_media": 106.9,
+        "contraste_desvio": 62.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c6bed696fb02c562ed49c3d22968ce1d2f2cce622c8a8f1a3c8bd216fb3f7518",
+    "dhash": "edc69333323232f1"
   }
 ]
