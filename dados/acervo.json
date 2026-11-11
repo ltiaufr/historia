@@ -6383,5 +6383,35 @@
     },
     "sha256": "ac7bef4e194840512f459708fb4a068ab0d28c6f78e7f4b4a551bb467995fd97",
     "dhash": "f2aba3a783ebcbcc"
+  },
+  {
+    "id": "fa146d08-9786-4d7a-b991-27d288e74532",
+    "titulo": "46 AVENIDA MARECHAL RONDON DECADA DE 50 RONDONOPOLIS",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/fa146d08-9786-4d7a-b991-27d288e74532.jpg",
+    "original": "./imagens/visualizacao/fa146d08-9786-4d7a-b991-27d288e74532.jpg",
+    "criado_em": "2026-11-11T22:10:38.275221+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 920,
+        "altura": 674,
+        "bytes": 316503,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          210,
+          195,
+          156
+        ],
+        "luminosidade_media": 195.2,
+        "contraste_desvio": 55.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e341ce6d105387725804f45cbf64403d2047b27f3d221f25cbaee7458547fc08",
+    "dhash": "d233338ccc8cdcd0"
   }
 ]
