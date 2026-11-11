@@ -3053,5 +3053,35 @@
     },
     "sha256": "c82cdaaddce49a5c8bddb6139ea9b2fcce9beae5abe235e4556c0d371f910911",
     "dhash": "8e4fb979d39292a0"
+  },
+  {
+    "id": "2a581241-f302-4b26-a685-44cea27e72ae",
+    "titulo": "280 D Vunibaldo Talleur",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2a581241-f302-4b26-a685-44cea27e72ae.jpg",
+    "original": "./imagens/visualizacao/2a581241-f302-4b26-a685-44cea27e72ae.jpg",
+    "criado_em": "2026-11-11T21:32:47.863918+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1779,
+        "altura": 1238,
+        "bytes": 823343,
+        "exif_data_digital": "2011:02:11 07:44:55",
+        "cor_media_rgb": [
+          98,
+          92,
+          69
+        ],
+        "luminosidade_media": 90.9,
+        "contraste_desvio": 48.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "bb3e095c8080868672e930e1172f19e36e32e8a580dab6a79f56df2a9e842965",
+    "dhash": "3031303131355137"
   }
 ]
