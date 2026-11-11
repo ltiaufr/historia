@@ -10283,5 +10283,35 @@
     },
     "sha256": "d0ce13cf2a1d53d6d34d3a68da311173e68b81ae4804009d1eddd4da23108f66",
     "dhash": "a0a0d93933191997"
+  },
+  {
+    "id": "f0d09ad7-0d0c-499c-aaff-f1a69a0a5d9a",
+    "titulo": "75 Biblioteca do C P R 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f0d09ad7-0d0c-499c-aaff-f1a69a0a5d9a.jpg",
+    "original": "./imagens/visualizacao/f0d09ad7-0d0c-499c-aaff-f1a69a0a5d9a.jpg",
+    "criado_em": "2026-11-11T22:55:31.098956+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1344,
+        "altura": 944,
+        "bytes": 719465,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          177,
+          171,
+          155
+        ],
+        "luminosidade_media": 170.9,
+        "contraste_desvio": 56.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "42eb6105a1aaf51c8715895df0eaa85fc46ece491e69473721a02576fc6f67f1",
+    "dhash": "4dcdd2664e46e571"
   }
 ]
