@@ -6743,5 +6743,35 @@
     },
     "sha256": "60f94dfeebda11b90c3d3d50f56f90b3cb96af1904a60701f222e90f2b2799b0",
     "dhash": "e66ff7f7e7cadac8"
+  },
+  {
+    "id": "60b9051b-4f77-4991-bbe8-96e84f679b86",
+    "titulo": "486 local onde se realizam as assembleias da comunidade",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/60b9051b-4f77-4991-bbe8-96e84f679b86.jpg",
+    "original": "./imagens/visualizacao/60b9051b-4f77-4991-bbe8-96e84f679b86.jpg",
+    "criado_em": "2026-11-11T22:14:43.865526+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1024,
+        "altura": 720,
+        "bytes": 360203,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          173,
+          160,
+          154
+        ],
+        "luminosidade_media": 163.5,
+        "contraste_desvio": 71.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "6244cb5e3dde66badb51ee9162c8b84ba936f1548d7455c51906638f2b4b456b",
+    "dhash": "c979f4fa3836f88a"
   }
 ]
