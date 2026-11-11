@@ -4343,5 +4343,35 @@
     },
     "sha256": "b9c4f05490e97399863a1693033746b98193c4676daedf63207788a7af09bf9c",
     "dhash": "183531f0ccf07460"
+  },
+  {
+    "id": "c6e5bf16-e60e-42c9-8621-6d03d024be0e",
+    "titulo": "371 IGREJA METODISTA ANO 2000",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c6e5bf16-e60e-42c9-8621-6d03d024be0e.jpg",
+    "original": "./imagens/visualizacao/c6e5bf16-e60e-42c9-8621-6d03d024be0e.jpg",
+    "criado_em": "2026-11-11T21:47:26.071224+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1153,
+        "altura": 774,
+        "bytes": 684148,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          143,
+          137,
+          91
+        ],
+        "luminosidade_media": 133.7,
+        "contraste_desvio": 60.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7e64f557a72b4a6209844e80d9647caad8519733ced1d1150d7d5795f9cc5af1",
+    "dhash": "5a1a1a1a1c2f7f73"
   }
 ]
