@@ -8723,5 +8723,35 @@
     },
     "sha256": "2dcdf655bd3808d58926b2e2442ed087e1d9cbc914b8d49c34b1991677d3387b",
     "dhash": "0605717979783373"
+  },
+  {
+    "id": "a03e31ac-36ef-41af-8c74-9b76b905cf4c",
+    "titulo": "638 Sala de memoria da Diocese 4",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a03e31ac-36ef-41af-8c74-9b76b905cf4c.jpg",
+    "original": "./imagens/visualizacao/a03e31ac-36ef-41af-8c74-9b76b905cf4c.jpg",
+    "criado_em": "2026-11-11T22:37:09.255092+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1372143,
+        "exif_data_digital": "2011:02:11 08:10:51",
+        "cor_media_rgb": [
+          125,
+          99,
+          79
+        ],
+        "luminosidade_media": 104.5,
+        "contraste_desvio": 47.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "45a6be4bd22293ccb8a485f7388b2d7bc59f21b32bb0d2417a0968e4fbd4cfaf",
+    "dhash": "1605e96969615115"
   }
 ]
