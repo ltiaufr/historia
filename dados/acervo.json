@@ -5633,5 +5633,35 @@
     },
     "sha256": "5f6bd1560b32f0f988821cccbf3cddc3d36fb84b4c4e2f045a6afde044149e58",
     "dhash": "8486d6978dcc8f8d"
+  },
+  {
+    "id": "cb8949e9-d834-4e6d-86e5-7909811e92eb",
+    "titulo": "431 Ir Thereza 2011",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/cb8949e9-d834-4e6d-86e5-7909811e92eb.jpg",
+    "original": "./imagens/visualizacao/cb8949e9-d834-4e6d-86e5-7909811e92eb.jpg",
+    "criado_em": "2026-11-11T22:02:11.302347+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1280,
+        "altura": 960,
+        "bytes": 356799,
+        "exif_data_digital": "2008:01:01 12:00:00",
+        "cor_media_rgb": [
+          105,
+          116,
+          103
+        ],
+        "luminosidade_media": 111.4,
+        "contraste_desvio": 52.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7ccc9d46ce4345c3f034a6c003ef5f464c882151f93a6fa21fe9581de1394562",
+    "dhash": "7efc9e4c6868a8f8"
   }
 ]
