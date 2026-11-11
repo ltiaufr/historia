@@ -10463,5 +10463,35 @@
     },
     "sha256": "00b601e4aeb81a31ce45b1bcc353ded2f4482497b8afe8512ea55adb52f761aa",
     "dhash": "e4f4f0f0c0f0f0e4"
+  },
+  {
+    "id": "b960681f-59cc-44fb-b3e0-9b44dcdf957a",
+    "titulo": "86 CANTINA DO CUR 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b960681f-59cc-44fb-b3e0-9b44dcdf957a.jpg",
+    "original": "./imagens/visualizacao/b960681f-59cc-44fb-b3e0-9b44dcdf957a.jpg",
+    "criado_em": "2026-11-11T22:57:37.473268+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 907,
+        "altura": 680,
+        "bytes": 222193,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          168,
+          165,
+          151
+        ],
+        "luminosidade_media": 164.1,
+        "contraste_desvio": 56.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9c939d2c7eef1d3f53db29459ed902f339bbd38720d68aaf8d5c1ef68d83208e",
+    "dhash": "447038f931017ef0"
   }
 ]
