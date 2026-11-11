@@ -8123,5 +8123,35 @@
     },
     "sha256": "372cc34b9ad857b94d8bd44f4d2a755e774480c198749e5a11b35367d0452a99",
     "dhash": "706565656467e092"
+  },
+  {
+    "id": "b3cedb8b-1987-42b6-a6a4-0c337ebd256c",
+    "titulo": "590 Professores do C P R 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b3cedb8b-1987-42b6-a6a4-0c337ebd256c.jpg",
+    "original": "./imagens/visualizacao/b3cedb8b-1987-42b6-a6a4-0c337ebd256c.jpg",
+    "criado_em": "2026-11-11T22:30:10.892959+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 880,
+        "altura": 1392,
+        "bytes": 272523,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          239,
+          235,
+          220
+        ],
+        "luminosidade_media": 234.5,
+        "contraste_desvio": 36.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "821ba69f2b375d04ada6ca786e7e071dcb8e23f0945753b1515f7a098d1ffeae",
+    "dhash": "89696879686426e4"
   }
 ]
