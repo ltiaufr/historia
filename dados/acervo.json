@@ -5243,5 +5243,35 @@
     },
     "sha256": "9561239bc89ffdf060c6c93162021fc6057e388a123041062c51b76c92cfd475",
     "dhash": "e93939d83407ae2e"
+  },
+  {
+    "id": "70b5834a-4900-44a3-be28-22c536e9ced2",
+    "titulo": "415 Instalacao Diocese 13 de julho de 1986 D Osorio",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/70b5834a-4900-44a3-be28-22c536e9ced2.jpg",
+    "original": "./imagens/visualizacao/70b5834a-4900-44a3-be28-22c536e9ced2.jpg",
+    "criado_em": "2026-11-11T21:57:42.580768+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1925,
+        "altura": 1275,
+        "bytes": 1052570,
+        "exif_data_digital": "2011:02:11 08:00:42",
+        "cor_media_rgb": [
+          146,
+          126,
+          105
+        ],
+        "luminosidade_media": 129.3,
+        "contraste_desvio": 49.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "855c579404d94e97f550671b6f6884e11180a21cbac793887e4a97b509dcd3eb",
+    "dhash": "4dcf42713322e373"
   }
 ]
