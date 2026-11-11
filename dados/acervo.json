@@ -9563,5 +9563,35 @@
     },
     "sha256": "f58cdf9ad2338bda559634dc44a36a69edafed785c40755f5760b274a233dfbd",
     "dhash": "b3bcccfad8d870f0"
+  },
+  {
+    "id": "b8009070-d96a-429a-a736-72be73c6f914",
+    "titulo": "689 Sr Brunildo Secretario Diocese 2011 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b8009070-d96a-429a-a736-72be73c6f914.jpg",
+    "original": "./imagens/visualizacao/b8009070-d96a-429a-a736-72be73c6f914.jpg",
+    "criado_em": "2026-11-11T22:46:51.524606+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1261967,
+        "exif_data_digital": "2011:02:11 08:20:37",
+        "cor_media_rgb": [
+          166,
+          159,
+          157
+        ],
+        "luminosidade_media": 160.8,
+        "contraste_desvio": 71.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "65155fefaae36ed5a1e7b09a0c8a7d78bc8017ef624154837283a98bed574237",
+    "dhash": "01343478b0f97342"
   }
 ]
