@@ -7073,5 +7073,35 @@
     },
     "sha256": "1999dd95edff9e79b82a3c2a6d85333b42285a46ca217ca2dab24b58c7633af1",
     "dhash": "acace4ace8ecf0f1"
+  },
+  {
+    "id": "0b5d5dcc-0c3a-4077-8e24-3abb9b4f6a6a",
+    "titulo": "507 Matriculas C P R 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0b5d5dcc-0c3a-4077-8e24-3abb9b4f6a6a.jpg",
+    "original": "./imagens/visualizacao/0b5d5dcc-0c3a-4077-8e24-3abb9b4f6a6a.jpg",
+    "criado_em": "2026-11-11T22:18:31.515617+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1152,
+        "altura": 816,
+        "bytes": 305113,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          196,
+          147,
+          134
+        ],
+        "luminosidade_media": 160.4,
+        "contraste_desvio": 43.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "72acb9cda3fb867cb7f6f0040a690897ff8fedbb63ecc075214bc51aec9b5839",
+    "dhash": "ccdeccdc924a9082"
   }
 ]
