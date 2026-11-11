@@ -9893,5 +9893,35 @@
     },
     "sha256": "f80743b5f689829044bf753c2c698007096c9ba6c4c9d90d4b1857511e5e3bf7",
     "dhash": "3415971772636347"
+  },
+  {
+    "id": "ecec10ad-0497-462b-a27b-5f1025b10e22",
+    "titulo": "705 VALMAQ DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ecec10ad-0497-462b-a27b-5f1025b10e22.jpg",
+    "original": "./imagens/visualizacao/ecec10ad-0497-462b-a27b-5f1025b10e22.jpg",
+    "criado_em": "2026-11-11T22:50:45.870284+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 933,
+        "altura": 514,
+        "bytes": 204426,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          202,
+          195,
+          169
+        ],
+        "luminosidade_media": 194.3,
+        "contraste_desvio": 56.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "0fe84c12f53acd8041f7e8d506fa118119e956b3148455f84ff5ef417d4b4f1e",
+    "dhash": "14132dabb6923a12"
   }
 ]
