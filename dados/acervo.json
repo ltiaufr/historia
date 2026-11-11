@@ -5183,5 +5183,35 @@
     },
     "sha256": "b90666116a984eaad63e8fe71cb62cbb814e6e77ac49520d628fcd741d541f0e",
     "dhash": "4c0909896b6b0320"
+  },
+  {
+    "id": "92ceaf83-075d-413d-b756-3a9f59167d0f",
+    "titulo": "411 INAUGURACAO Santa Casa 1974",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/92ceaf83-075d-413d-b756-3a9f59167d0f.jpg",
+    "original": "./imagens/visualizacao/92ceaf83-075d-413d-b756-3a9f59167d0f.jpg",
+    "criado_em": "2026-11-11T21:57:00.463725+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1603,
+        "altura": 1024,
+        "bytes": 756150,
+        "exif_data_digital": "2011:01:05 14:05:43",
+        "cor_media_rgb": [
+          105,
+          111,
+          125
+        ],
+        "luminosidade_media": 110.8,
+        "contraste_desvio": 47.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f891a3704a8884b0c301062f3121e9ff2af3301196e3c26ab233e29a0ae3e2e2",
+    "dhash": "a8f0f0989890c4c4"
   }
 ]
