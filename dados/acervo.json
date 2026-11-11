@@ -9263,5 +9263,35 @@
     },
     "sha256": "c459768b7ad3293ff0e2a82edddbac83a7946d2934a60a828736fcedcff3fa71",
     "dhash": "7470d0f131f8f2e4"
+  },
+  {
+    "id": "75b98beb-49de-4e44-83d3-a5b61e058c61",
+    "titulo": "663 SECRETARIA C P R 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/75b98beb-49de-4e44-83d3-a5b61e058c61.jpg",
+    "original": "./imagens/visualizacao/75b98beb-49de-4e44-83d3-a5b61e058c61.jpg",
+    "criado_em": "2026-11-11T22:43:27.028364+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1367,
+        "altura": 933,
+        "bytes": 551437,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          223,
+          211,
+          182
+        ],
+        "luminosidade_media": 211.5,
+        "contraste_desvio": 39.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "3783619d226159a7ea397cf49f5ea58c72f5f8bca23f26ae2aa83b19a5afcec3",
+    "dhash": "797cfc7cf4f839d3"
   }
 ]
