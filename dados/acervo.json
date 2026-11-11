@@ -9743,5 +9743,35 @@
     },
     "sha256": "bee76fbd48eded33b4993664d7680d5f72f8719310b7097fab634d63f96f23cb",
     "dhash": "0d30301156553033"
+  },
+  {
+    "id": "cef27d16-b3e2-477a-8064-f353044b7ea4",
+    "titulo": "6 1968 DESFILE DE 07 DE SETEMBRO COM AS ALUNAS DO MAGISTERIO",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/cef27d16-b3e2-477a-8064-f353044b7ea4.jpg",
+    "original": "./imagens/visualizacao/cef27d16-b3e2-477a-8064-f353044b7ea4.jpg",
+    "criado_em": "2026-11-11T22:49:01.888509+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1153,
+        "altura": 774,
+        "bytes": 344919,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          217,
+          192,
+          193
+        ],
+        "luminosidade_media": 199.7,
+        "contraste_desvio": 36.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "acb3ad8d5f4138cd24f37675ed70f366049b147d326d50a0ad6ab257e1525151",
+    "dhash": "3030b05c5bcaeaf8"
   }
 ]
