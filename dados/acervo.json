@@ -10313,5 +10313,35 @@
     },
     "sha256": "42eb6105a1aaf51c8715895df0eaa85fc46ece491e69473721a02576fc6f67f1",
     "dhash": "4dcdd2664e46e571"
+  },
+  {
+    "id": "105d6ef2-2a55-4efe-9c17-420b50599cb1",
+    "titulo": "76 Biblioteca do C P R 1982 2 Reitor Prof Pedro Dorileo",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/105d6ef2-2a55-4efe-9c17-420b50599cb1.jpg",
+    "original": "./imagens/visualizacao/105d6ef2-2a55-4efe-9c17-420b50599cb1.jpg",
+    "criado_em": "2026-11-11T22:55:52.796843+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1344,
+        "altura": 928,
+        "bytes": 576816,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          215,
+          209,
+          189
+        ],
+        "luminosidade_media": 208.4,
+        "contraste_desvio": 51.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9ee66bedd76b3b702dbe2f2add6a1f7fb8151097d77bc79c62d121560603e3b1",
+    "dhash": "32785b333634193c"
   }
 ]
