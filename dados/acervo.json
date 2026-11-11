@@ -1073,5 +1073,35 @@
     },
     "sha256": "7355a9f4904c7230c47367d2c18b087c2e4401e8f22d89c5bae8335b0bd05f02",
     "dhash": "84c2717066928281"
+  },
+  {
+    "id": "1805f909-506d-4f76-b9eb-907484eeba7e",
+    "titulo": "161 CONSTRUCAO C P R 1981",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1805f909-506d-4f76-b9eb-907484eeba7e.jpg",
+    "original": "./imagens/visualizacao/1805f909-506d-4f76-b9eb-907484eeba7e.jpg",
+    "criado_em": "2026-11-11T21:11:19.438905+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 932,
+        "altura": 688,
+        "bytes": 223380,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          205,
+          165,
+          148
+        ],
+        "luminosidade_media": 174.7,
+        "contraste_desvio": 56.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "63b0b95df129f99e7e4e74b8169d3bbb56dcd4c476363d085b581fc230f33d2b",
+    "dhash": "2208c95372aeda38"
   }
 ]
