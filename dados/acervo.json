@@ -6023,5 +6023,35 @@
     },
     "sha256": "295241452716c767872668e5cdea80bcca7dee5c848d6da2d2363e87449c573b",
     "dhash": "b4b6b2993c381061"
+  },
+  {
+    "id": "7f51d2fc-5b0e-4ebf-9512-56502deb415f",
+    "titulo": "447 Laboratorio Mato de 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7f51d2fc-5b0e-4ebf-9512-56502deb415f.jpg",
+    "original": "./imagens/visualizacao/7f51d2fc-5b0e-4ebf-9512-56502deb415f.jpg",
+    "criado_em": "2026-11-11T22:06:30.161084+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1392,
+        "altura": 1664,
+        "bytes": 730162,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          216,
+          210,
+          190
+        ],
+        "luminosidade_media": 209.7,
+        "contraste_desvio": 44.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "42ab806c6a8292c7e02260fcd3ec4fbac5c8ce9962bc6ff0747b24eb38e33119",
+    "dhash": "6060ece8f8a2b200"
   }
 ]
