@@ -4013,5 +4013,35 @@
     },
     "sha256": "2b1fc950c6427f57bb8b153e68c9c87b5b40658f9bbb92f45838d4772868634f",
     "dhash": "0f63c353d323038f"
+  },
+  {
+    "id": "364f6558-9cc4-4f86-8968-78e5352c2566",
+    "titulo": "339 Futura Sede do Centro Universitario de Rondonopolis 15 11 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/364f6558-9cc4-4f86-8968-78e5352c2566.jpg",
+    "original": "./imagens/visualizacao/364f6558-9cc4-4f86-8968-78e5352c2566.jpg",
+    "criado_em": "2026-11-11T21:43:41.380797+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 656,
+        "altura": 848,
+        "bytes": 210285,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          175,
+          174,
+          149
+        ],
+        "luminosidade_media": 171.1,
+        "contraste_desvio": 51.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ea830570b76260fd63671207e4bb804231fd750aa4b535f8026b71736a1064e7",
+    "dhash": "938b87a78f878779"
   }
 ]
