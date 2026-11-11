@@ -9443,5 +9443,35 @@
     },
     "sha256": "77a9bd151fa6c369c00f34f878ece1669bf4d8ce3ad721038a2aff1222d4d374",
     "dhash": "3737a737321adaaa"
+  },
+  {
+    "id": "cdbd4225-1fb0-4708-aa62-46a5bc5f67d7",
+    "titulo": "675 Seminaristas e bispo D Juventino",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/cdbd4225-1fb0-4708-aa62-46a5bc5f67d7.jpg",
+    "original": "./imagens/visualizacao/cdbd4225-1fb0-4708-aa62-46a5bc5f67d7.jpg",
+    "criado_em": "2026-11-11T22:45:29.766856+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1448,
+        "altura": 950,
+        "bytes": 524721,
+        "exif_data_digital": "2011:01:06 14:28:39",
+        "cor_media_rgb": [
+          89,
+          96,
+          97
+        ],
+        "luminosidade_media": 94.4,
+        "contraste_desvio": 47.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "dde0b23cce3433527d0341eecd79a9aa399ea9b728dbc597f885209bf206e61c",
+    "dhash": "8cb2b63125262e2c"
   }
 ]
