@@ -9773,5 +9773,35 @@
     },
     "sha256": "acb3ad8d5f4138cd24f37675ed70f366049b147d326d50a0ad6ab257e1525151",
     "dhash": "3030b05c5bcaeaf8"
+  },
+  {
+    "id": "b796eeeb-1948-4b7b-a4fd-0c63520c4c05",
+    "titulo": "700 TURMA DE ESTUDOS SOCIAIS C P R 1980 ESCOLA JOAQUIM NUNES",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b796eeeb-1948-4b7b-a4fd-0c63520c4c05.jpg",
+    "original": "./imagens/visualizacao/b796eeeb-1948-4b7b-a4fd-0c63520c4c05.jpg",
+    "criado_em": "2026-11-11T22:49:23.913761+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2320,
+        "altura": 1374,
+        "bytes": 1050864,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          197,
+          194,
+          180
+        ],
+        "luminosidade_media": 193.1,
+        "contraste_desvio": 58.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4647c6c9866afa081b4d949fa833687f4a2c33c3025b3d7bffbdad86000d500e",
+    "dhash": "c8d0d0d0ccc4c0c1"
   }
 ]
