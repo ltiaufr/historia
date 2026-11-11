@@ -983,5 +983,35 @@
     },
     "sha256": "2b60cbc0a28e46ca4eff76a3c26177bd4f43ae34e875585fc9be0a9e3f3405a3",
     "dhash": "ac3d90c8c3fbacf4"
+  },
+  {
+    "id": "adb3b82f-db36-4a11-9840-1c428a439104",
+    "titulo": "159 CONSTRUCAO TIPICA DA DECADA DE 50 AVENIDA MARECHAL DUTRA ESQ",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/adb3b82f-db36-4a11-9840-1c428a439104.jpg",
+    "original": "./imagens/visualizacao/adb3b82f-db36-4a11-9840-1c428a439104.jpg",
+    "criado_em": "2026-11-11T21:10:19.566995+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1006,
+        "altura": 700,
+        "bytes": 237677,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          227,
+          222,
+          200
+        ],
+        "luminosidade_media": 221.4,
+        "contraste_desvio": 49.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4b4abba3fdcbb329d7640a82cc568c121f4b34e97ef16017076a2c1bd376a77c",
+    "dhash": "236838e4e5c5c0f1"
   }
 ]
