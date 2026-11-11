@@ -9353,5 +9353,35 @@
     },
     "sha256": "829b3f3dd1ea223e1d6c0bc659734e9ac80a157fc80e9c8b7418254233a7ce09",
     "dhash": "c0d0d3c381c1c2e3"
+  },
+  {
+    "id": "d3835605-2764-40f7-98fb-2c7fe93106c9",
+    "titulo": "668 Secretaria do C P R 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/d3835605-2764-40f7-98fb-2c7fe93106c9.jpg",
+    "original": "./imagens/visualizacao/d3835605-2764-40f7-98fb-2c7fe93106c9.jpg",
+    "criado_em": "2026-11-11T22:44:29.250438+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1374,
+        "altura": 912,
+        "bytes": 376585,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          226,
+          223,
+          212
+        ],
+        "luminosidade_media": 222.7,
+        "contraste_desvio": 49.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a72e9c0e4ee867ee81e35b9d97875b0b8f71311995de46867c4b20d6409ee450",
+    "dhash": "653d19392d842525"
   }
 ]
