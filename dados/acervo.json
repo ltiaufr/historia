@@ -2603,5 +2603,35 @@
     },
     "sha256": "fa868cc9915e533a4236c73328fcd69e50aa0424abb846f572f741472191a432",
     "dhash": "787478f5f2cb7b1d"
+  },
+  {
+    "id": "bd41d45e-7931-49b1-82fd-d5443f8d2391",
+    "titulo": "266 D Vunibaldo em Chapada",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/bd41d45e-7931-49b1-82fd-d5443f8d2391.jpg",
+    "original": "./imagens/visualizacao/bd41d45e-7931-49b1-82fd-d5443f8d2391.jpg",
+    "criado_em": "2026-11-11T21:27:43.751987+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 862,
+        "altura": 491,
+        "bytes": 183974,
+        "exif_data_digital": "2011:02:11 07:55:46",
+        "cor_media_rgb": [
+          128,
+          120,
+          89
+        ],
+        "luminosidade_media": 119.0,
+        "contraste_desvio": 54.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "bc8bd931b100d04f94e6b4a9d93f1f8d7c870f0067ef53c633dc42bcfc7c981f",
+    "dhash": "98f0f2383032300a"
   }
 ]
