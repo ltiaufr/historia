@@ -6413,5 +6413,35 @@
     },
     "sha256": "e341ce6d105387725804f45cbf64403d2047b27f3d221f25cbaee7458547fc08",
     "dhash": "d233338ccc8cdcd0"
+  },
+  {
+    "id": "40082c5b-70a6-4621-a916-a3d218208a52",
+    "titulo": "473 LANCAMENTO DO LIVRO DA PROF LACI C U R 1 995",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/40082c5b-70a6-4621-a916-a3d218208a52.jpg",
+    "original": "./imagens/visualizacao/40082c5b-70a6-4621-a916-a3d218208a52.jpg",
+    "criado_em": "2026-11-11T22:10:57.932370+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1147,
+        "altura": 780,
+        "bytes": 451449,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          132,
+          111,
+          108
+        ],
+        "luminosidade_media": 116.9,
+        "contraste_desvio": 69.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4151abdd14b5195598a3c09e3f667b7dfa421c8ae8f4093ca168f3aaa8b1a9f9",
+    "dhash": "464d0c4c89a92292"
   }
 ]
