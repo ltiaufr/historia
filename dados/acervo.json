@@ -8843,5 +8843,35 @@
     },
     "sha256": "ac07ee68f15b6270633104d6cba8a397375044ed155b9c765aaf0cad943ebf4c",
     "dhash": "35377e3212501c56"
+  },
+  {
+    "id": "112ae726-a662-4a8d-b836-42e19c7ae94c",
+    "titulo": "642 Sala de memoria da Diocese 8",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/112ae726-a662-4a8d-b836-42e19c7ae94c.jpg",
+    "original": "./imagens/visualizacao/112ae726-a662-4a8d-b836-42e19c7ae94c.jpg",
+    "criado_em": "2026-11-11T22:38:35.715205+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1382825,
+        "exif_data_digital": "2011:02:11 08:10:32",
+        "cor_media_rgb": [
+          139,
+          108,
+          76
+        ],
+        "luminosidade_media": 113.8,
+        "contraste_desvio": 42.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4c8165e19c5aeb54235774b3e5aee467f1c037c1611d8968515db41dd8f0b337",
+    "dhash": "121712175d4b5b16"
   }
 ]
