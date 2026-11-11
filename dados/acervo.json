@@ -5933,5 +5933,35 @@
     },
     "sha256": "e4c19c7716c8d24d4324ea7ff66c46338c009c1848609dafa67d627ad178fdf6",
     "dhash": "12ccc5f114517034"
+  },
+  {
+    "id": "bbba5fc3-4c35-467a-9f16-da37131c2a11",
+    "titulo": "444 Laboratorio do C P R 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/bbba5fc3-4c35-467a-9f16-da37131c2a11.jpg",
+    "original": "./imagens/visualizacao/bbba5fc3-4c35-467a-9f16-da37131c2a11.jpg",
+    "criado_em": "2026-11-11T22:05:30.660024+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1888,
+        "altura": 1374,
+        "bytes": 999757,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          205,
+          200,
+          183
+        ],
+        "luminosidade_media": 199.7,
+        "contraste_desvio": 57.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "6a551af1263ca1cbf025e2a5cc46989796d9cb4bdfbff17c64074584edcedfb1",
+    "dhash": "c98888a084c86c24"
   }
 ]
