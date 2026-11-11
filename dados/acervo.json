@@ -9953,5 +9953,35 @@
     },
     "sha256": "18b0393618ab585624ce33de3bc4d03d59d2572a27dfa991d6844c227eb67788",
     "dhash": "a0824a74a5c7474f"
+  },
+  {
+    "id": "db30bfa2-d2f8-429d-9817-ac1579bd9973",
+    "titulo": "707 VESTIBULAR 1978",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/db30bfa2-d2f8-429d-9817-ac1579bd9973.jpg",
+    "original": "./imagens/visualizacao/db30bfa2-d2f8-429d-9817-ac1579bd9973.jpg",
+    "criado_em": "2026-11-11T22:51:25.774826+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 987,
+        "altura": 693,
+        "bytes": 308523,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          127,
+          122,
+          109
+        ],
+        "luminosidade_media": 122.4,
+        "contraste_desvio": 51.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1fe6a34ee7dc21a50eda7d2c901140f0ce842b9edee63704c63bc2c4e3ffbaec",
+    "dhash": "0001ca99b3c78f8e"
   }
 ]
