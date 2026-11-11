@@ -6953,5 +6953,35 @@
     },
     "sha256": "22d0422008c1571a1f3d1f0a559cfcce09e4728a617d8efe9af58f2f22458d0a",
     "dhash": "e0e69aaeae8e8793"
+  },
+  {
+    "id": "7d23902e-41e4-4ea3-a510-0644a37b2e25",
+    "titulo": "499 MARECHAL RONDON DIGITANDO CODIGO EM APARELHO MORSE MAIS SOFI",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7d23902e-41e4-4ea3-a510-0644a37b2e25.jpg",
+    "original": "./imagens/visualizacao/7d23902e-41e4-4ea3-a510-0644a37b2e25.jpg",
+    "criado_em": "2026-11-11T22:17:12.713843+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1160,
+        "altura": 787,
+        "bytes": 564536,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          66,
+          51,
+          66
+        ],
+        "luminosidade_media": 57.1,
+        "contraste_desvio": 51.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "198a4a5156cd7890564bf268b52fcf80b9fc0079a79059075c75b060ed54062b",
+    "dhash": "b2b2b2923826462e"
   }
 ]
