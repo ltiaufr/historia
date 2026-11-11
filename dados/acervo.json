@@ -953,5 +953,35 @@
     },
     "sha256": "25c88c15cf519463b2e1f9d08720c7effea584491eb2fc2df1cf742d5ba9737c",
     "dhash": "cc2a9286a6fc78ec"
+  },
+  {
+    "id": "575b47f0-f6d2-4f35-a25a-08774b527a5b",
+    "titulo": "158 CONSTRUCAO DO RONDONOPOLIS CLUB NA DECADA DE 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/575b47f0-f6d2-4f35-a25a-08774b527a5b.jpg",
+    "original": "./imagens/visualizacao/575b47f0-f6d2-4f35-a25a-08774b527a5b.jpg",
+    "criado_em": "2026-11-11T21:10:00.287887+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1380,
+        "bytes": 1202146,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          172,
+          161,
+          139
+        ],
+        "luminosidade_media": 161.8,
+        "contraste_desvio": 48.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2b60cbc0a28e46ca4eff76a3c26177bd4f43ae34e875585fc9be0a9e3f3405a3",
+    "dhash": "ac3d90c8c3fbacf4"
   }
 ]
