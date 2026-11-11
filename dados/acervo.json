@@ -13,5 +13,15 @@
     ],
     "miniatura": "",
     "original": ""
+  },
+  {
+    "id": "33b59fd7-b406-422a-b6f6-708cda9f690b",
+    "titulo": "Mona Lisa",
+    "descricao": "(\"Senhora Lisa\")[a] é um retrato de meio-corpo do artista italiano Leonardo da Vinci. Considerada uma obra-prima arquetípica da Renascença italiana,[4][5] foi descrita como \"a obra de arte mais conhecida, mais visitada, sobre a qual mais se escreveu, mais se cantou [e] que mais foi parodiada no mundo\".",
+    "ano": "1503 e 1506",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/33b59fd7-b406-422a-b6f6-708cda9f690b.jpg",
+    "original": "./imagens/visualizacao/33b59fd7-b406-422a-b6f6-708cda9f690b.jpg",
+    "criado_em": "2026-11-10T23:40:56.404Z"
   }
 ]
