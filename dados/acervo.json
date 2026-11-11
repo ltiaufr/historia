@@ -10043,5 +10043,35 @@
     },
     "sha256": "202c424bd069b379b9510d298f013d43be7101d41da75f01a1145f9366388bf8",
     "dhash": "1a43636723230303"
+  },
+  {
+    "id": "784b0339-7e6c-4c02-a56f-c639efba53b2",
+    "titulo": "713 Visista aos Bororo",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/784b0339-7e6c-4c02-a56f-c639efba53b2.jpg",
+    "original": "./imagens/visualizacao/784b0339-7e6c-4c02-a56f-c639efba53b2.jpg",
+    "criado_em": "2026-11-11T22:52:30.616960+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1422236,
+        "exif_data_digital": "2011:01:06 14:50:36",
+        "cor_media_rgb": [
+          132,
+          121,
+          108
+        ],
+        "luminosidade_media": 122.9,
+        "contraste_desvio": 54.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "fc83e8908e0a777d2e825e6bf95d918ee0e45e07a9b7be188ade764a817759bf",
+    "dhash": "6406c0c0e8c4c4c4"
   }
 ]
