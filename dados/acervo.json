@@ -8693,5 +8693,35 @@
     },
     "sha256": "f7f8a47f6503c1be15e87a7e07e0ebcc88c4227e4ac7c934e8016c0e081a7017",
     "dhash": "1d19191d1d193333"
+  },
+  {
+    "id": "70eda5ca-27d0-4587-bbae-dc7bf7c54fe1",
+    "titulo": "637 Sala de memoria da Diocese 3",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/70eda5ca-27d0-4587-bbae-dc7bf7c54fe1.jpg",
+    "original": "./imagens/visualizacao/70eda5ca-27d0-4587-bbae-dc7bf7c54fe1.jpg",
+    "criado_em": "2026-11-11T22:36:47.391633+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1274088,
+        "exif_data_digital": "2011:02:11 08:10:45",
+        "cor_media_rgb": [
+          128,
+          98,
+          82
+        ],
+        "luminosidade_media": 105.2,
+        "contraste_desvio": 49.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2dcdf655bd3808d58926b2e2442ed087e1d9cbc914b8d49c34b1991677d3387b",
+    "dhash": "0605717979783373"
   }
 ]
