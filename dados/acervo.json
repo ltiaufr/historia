@@ -6833,5 +6833,35 @@
     },
     "sha256": "24f78bfb26b9c70516792a81e412e2a13f9607fec9ac204ebe3e87ab217069bf",
     "dhash": "1e0f8e8fcdcc4fce"
+  },
+  {
+    "id": "14d79a0c-835b-4b20-9955-6cfe9a933ed8",
+    "titulo": "489 LOJA A REVOLUCAO DECADA DE 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/14d79a0c-835b-4b20-9955-6cfe9a933ed8.jpg",
+    "original": "./imagens/visualizacao/14d79a0c-835b-4b20-9955-6cfe9a933ed8.jpg",
+    "criado_em": "2026-11-11T22:15:45.318375+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1380,
+        "bytes": 1256797,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          184,
+          172,
+          147
+        ],
+        "luminosidade_media": 172.5,
+        "contraste_desvio": 45.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "966a059694606def1dfb3ae17f8016ac6397c454f937ce423c24da9a7fcbc028",
+    "dhash": "9890d0eace949078"
   }
 ]
