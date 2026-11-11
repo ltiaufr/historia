@@ -5993,5 +5993,35 @@
     },
     "sha256": "35c489ac7d3233b40916b404f38e0c8fbaeaf2da939809b0b6601e5c5cc61aba",
     "dhash": "1091c9cc87c12103"
+  },
+  {
+    "id": "bc34db01-f8ad-4f49-8185-c9bc907698c8",
+    "titulo": "446 Laboratorio Mato de 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/bc34db01-f8ad-4f49-8185-c9bc907698c8.jpg",
+    "original": "./imagens/visualizacao/bc34db01-f8ad-4f49-8185-c9bc907698c8.jpg",
+    "criado_em": "2026-11-11T22:06:09.837474+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1904,
+        "altura": 1392,
+        "bytes": 1069116,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          184,
+          178,
+          161
+        ],
+        "luminosidade_media": 177.9,
+        "contraste_desvio": 67.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "295241452716c767872668e5cdea80bcca7dee5c848d6da2d2363e87449c573b",
+    "dhash": "b4b6b2993c381061"
   }
 ]
