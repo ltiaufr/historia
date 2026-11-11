@@ -713,5 +713,35 @@
     },
     "sha256": "2a1f4441b520e4939d80178b41d6e460b27e62fce51c1c576597dcd999516211",
     "dhash": "f4f99bb95ac2c2ec"
+  },
+  {
+    "id": "15b1ddd1-d39f-4911-b23d-581b1414a0a6",
+    "titulo": "13 80 anos D Osorio",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/15b1ddd1-d39f-4911-b23d-581b1414a0a6.jpg",
+    "original": "./imagens/visualizacao/15b1ddd1-d39f-4911-b23d-581b1414a0a6.jpg",
+    "criado_em": "2026-11-11T21:07:27.981981+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1578,
+        "altura": 915,
+        "bytes": 595179,
+        "exif_data_digital": "2011:01:05 14:11:43",
+        "cor_media_rgb": [
+          108,
+          110,
+          141
+        ],
+        "luminosidade_media": 113.0,
+        "contraste_desvio": 55.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "125c16fd562715f19a1b09b4a78f37e7055f44d8392903bfa18428c1ccfa2f95",
+    "dhash": "2c275cf40d634389"
   }
 ]
