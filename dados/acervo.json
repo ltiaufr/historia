@@ -4253,5 +4253,35 @@
     },
     "sha256": "a60f42e87a362be4a5d18920b6a3f101ae2f60ad1c2bc4a33b413f5ce007356e",
     "dhash": "4fb332530a8523a3"
+  },
+  {
+    "id": "c00c708a-456b-43c6-bc4c-9b0659b5f893",
+    "titulo": "366 Igreja Matriz de Chapada 1939",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c00c708a-456b-43c6-bc4c-9b0659b5f893.jpg",
+    "original": "./imagens/visualizacao/c00c708a-456b-43c6-bc4c-9b0659b5f893.jpg",
+    "criado_em": "2026-11-11T21:46:24.520706+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1111,
+        "altura": 755,
+        "bytes": 367954,
+        "exif_data_digital": "2011:02:11 07:32:26",
+        "cor_media_rgb": [
+          148,
+          131,
+          87
+        ],
+        "luminosidade_media": 131.1,
+        "contraste_desvio": 54.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9e346697ea00f277aa9f2a780b096196e8d249d291a17178076bc9a4428bb430",
+    "dhash": "23401213066e6d6f"
   }
 ]
