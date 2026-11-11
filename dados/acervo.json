@@ -9473,5 +9473,35 @@
     },
     "sha256": "dde0b23cce3433527d0341eecd79a9aa399ea9b728dbc597f885209bf206e61c",
     "dhash": "8cb2b63125262e2c"
+  },
+  {
+    "id": "70a4cd30-7289-46cb-8084-e1c4649ff078",
+    "titulo": "684 SILOS DA CASEMAT DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/70a4cd30-7289-46cb-8084-e1c4649ff078.jpg",
+    "original": "./imagens/visualizacao/70a4cd30-7289-46cb-8084-e1c4649ff078.jpg",
+    "criado_em": "2026-11-11T22:45:50.943484+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1380,
+        "bytes": 781404,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          203,
+          201,
+          185
+        ],
+        "luminosidade_media": 199.5,
+        "contraste_desvio": 70.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "8e0e6840a94a12230a49ce505d2ca3abb8515aeb11100369f211f30dc6e94d2b",
+    "dhash": "7f2d725232134641"
   }
 ]
