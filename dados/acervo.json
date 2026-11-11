@@ -7013,5 +7013,35 @@
     },
     "sha256": "661808b379a7cdb7c629beb1cf2755266faae583ded463ad828b25adcd6305f1",
     "dhash": "0f204dc3618dc383"
+  },
+  {
+    "id": "c030cf76-b77f-48e5-ba0c-84bdc502bb58",
+    "titulo": "504 Matriculas C P R 1982 2 Prof Geraldo e aluno Crisostomo",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c030cf76-b77f-48e5-ba0c-84bdc502bb58.jpg",
+    "original": "./imagens/visualizacao/c030cf76-b77f-48e5-ba0c-84bdc502bb58.jpg",
+    "criado_em": "2026-11-11T22:17:51.429350+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 816,
+        "bytes": 329600,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          198,
+          156,
+          141
+        ],
+        "luminosidade_media": 167.1,
+        "contraste_desvio": 49.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c7ad853957333c8083072656b7eafc33554abb7aec5b18c7b2ba45609cba91a2",
+    "dhash": "90d8d8a020a0a098"
   }
 ]
