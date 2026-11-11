@@ -6713,5 +6713,35 @@
     },
     "sha256": "e436c83799f03efe7a807e5e2237d728dd6980cebbb41c2ffdacd20941ac2c02",
     "dhash": "70e84ecee4100a41"
+  },
+  {
+    "id": "a4fa86fe-3f54-4702-8807-82f796ff60b5",
+    "titulo": "485 LOCAL ONDE HAVIA O PRIMEIRO CARREIRO AVENIDA MARECHAL RONDO",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a4fa86fe-3f54-4702-8807-82f796ff60b5.jpg",
+    "original": "./imagens/visualizacao/a4fa86fe-3f54-4702-8807-82f796ff60b5.jpg",
+    "criado_em": "2026-11-11T22:14:23.530306+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 964,
+        "altura": 594,
+        "bytes": 521847,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          127,
+          120,
+          103
+        ],
+        "luminosidade_media": 120.5,
+        "contraste_desvio": 61.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "60f94dfeebda11b90c3d3d50f56f90b3cb96af1904a60701f222e90f2b2799b0",
+    "dhash": "e66ff7f7e7cadac8"
   }
 ]
