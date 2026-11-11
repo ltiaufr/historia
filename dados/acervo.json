@@ -8993,5 +8993,35 @@
     },
     "sha256": "b9ee9525db697c2b662e2e48186252cf84a6b4df9fa7a364e17542dbe203bb36",
     "dhash": "40e8e86c6e828a01"
+  },
+  {
+    "id": "ed38714a-4ce2-4b2b-a45b-5632538b21c2",
+    "titulo": "64 BENJAMIN RONDON FILHO DE MARECHAL RONDON",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ed38714a-4ce2-4b2b-a45b-5632538b21c2.jpg",
+    "original": "./imagens/visualizacao/ed38714a-4ce2-4b2b-a45b-5632538b21c2.jpg",
+    "criado_em": "2026-11-11T22:40:27.705225+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 833,
+        "altura": 913,
+        "bytes": 696905,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          147,
+          147,
+          149
+        ],
+        "luminosidade_media": 146.9,
+        "contraste_desvio": 46.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7a569e22071f341016826a440c09d09e505d380f5f2adcd4b6438704359c7096",
+    "dhash": "9c9c9c9c9e8c9e9e"
   }
 ]
