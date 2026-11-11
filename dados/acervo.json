@@ -1403,5 +1403,35 @@
     },
     "sha256": "6c4d202c78724f9be2497a38f71b7b8c01bf5f5a867ade9ce43b9e894192e07e",
     "dhash": "2410eb0707401189"
+  },
+  {
+    "id": "7fd536ac-1464-4925-9d8d-b1d36a6f4828",
+    "titulo": "181 C P R 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7fd536ac-1464-4925-9d8d-b1d36a6f4828.jpg",
+    "original": "./imagens/visualizacao/7fd536ac-1464-4925-9d8d-b1d36a6f4828.jpg",
+    "criado_em": "2026-11-11T21:14:52.468535+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1376,
+        "altura": 912,
+        "bytes": 295934,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          246,
+          242,
+          225
+        ],
+        "luminosidade_media": 241.4,
+        "contraste_desvio": 24.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "8cf4610d3ab794e47d52e15437bfaa1237d33bffd71fe03a522eec1c9f89586d",
+    "dhash": "40026848e0c003e0"
   }
 ]
