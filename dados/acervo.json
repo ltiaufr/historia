@@ -4103,5 +4103,35 @@
     },
     "sha256": "48838aa4e0f0aba3b3c62fa836c6287a35194386a5280f70408bd88457654977",
     "dhash": "f0f0f2caabe2e8e0"
+  },
+  {
+    "id": "e1efe2bb-655a-4543-b8cb-ce13e851e3d9",
+    "titulo": "346 Grupo Escolar Hoje Escola Marechal Dutra",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e1efe2bb-655a-4543-b8cb-ce13e851e3d9.jpg",
+    "original": "./imagens/visualizacao/e1efe2bb-655a-4543-b8cb-ce13e851e3d9.jpg",
+    "criado_em": "2026-11-11T21:44:43.805893+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1427,
+        "altura": 950,
+        "bytes": 476312,
+        "exif_data_digital": "2011:02:11 07:47:40",
+        "cor_media_rgb": [
+          134,
+          131,
+          110
+        ],
+        "luminosidade_media": 129.6,
+        "contraste_desvio": 50.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4fa76c04748a5c2a85b9f6d5781ea5512b56917b104b814701e7afd71f120df6",
+    "dhash": "b0270d757542220f"
   }
 ]
