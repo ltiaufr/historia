@@ -3713,5 +3713,35 @@
     },
     "sha256": "d99e1a0eebd20cf04459aee88e56e5bb61f7918fba7b818e84e0114d9548b424",
     "dhash": "c9d9c9c1578cbabe"
+  },
+  {
+    "id": "1ed5ea34-84a1-4308-99e3-b10c009f3dac",
+    "titulo": "326 Freis franciscanos e D Vunibaldo",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1ed5ea34-84a1-4308-99e3-b10c009f3dac.jpg",
+    "original": "./imagens/visualizacao/1ed5ea34-84a1-4308-99e3-b10c009f3dac.jpg",
+    "criado_em": "2026-11-11T21:40:07.090351+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1560,
+        "altura": 1154,
+        "bytes": 638872,
+        "exif_data_digital": "2011:02:11 07:40:55",
+        "cor_media_rgb": [
+          121,
+          111,
+          84
+        ],
+        "luminosidade_media": 111.0,
+        "contraste_desvio": 60.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ce01f52a315e4836570816d5ac09dc650a8a296b74c216b2ad2f8b7e3c1a12ac",
+    "dhash": "0160ec9e9c9cdc9c"
   }
 ]
