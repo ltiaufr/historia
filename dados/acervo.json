@@ -5963,5 +5963,35 @@
     },
     "sha256": "6a551af1263ca1cbf025e2a5cc46989796d9cb4bdfbff17c64074584edcedfb1",
     "dhash": "c98888a084c86c24"
+  },
+  {
+    "id": "fa37db5c-0e77-40da-bc4a-73467b30e269",
+    "titulo": "445 Laboratorio do C U R 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/fa37db5c-0e77-40da-bc4a-73467b30e269.jpg",
+    "original": "./imagens/visualizacao/fa37db5c-0e77-40da-bc4a-73467b30e269.jpg",
+    "criado_em": "2026-11-11T22:05:50.087504+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1136,
+        "altura": 768,
+        "bytes": 254588,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          197,
+          151,
+          137
+        ],
+        "luminosidade_media": 163.4,
+        "contraste_desvio": 39.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "35c489ac7d3233b40916b404f38e0c8fbaeaf2da939809b0b6601e5c5cc61aba",
+    "dhash": "1091c9cc87c12103"
   }
 ]
