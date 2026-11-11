@@ -2753,5 +2753,35 @@
     },
     "sha256": "08c3d0fd545f15f87ab56fb23d10a8b054306701b3b863d5b78dddbcd5f8cf12",
     "dhash": "9c9c3836c3c3c7d2"
+  },
+  {
+    "id": "1e727597-1a30-4488-9882-4020dbd9ea58",
+    "titulo": "270 D Vunibaldo e alunas internas Chapada 1945",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1e727597-1a30-4488-9882-4020dbd9ea58.jpg",
+    "original": "./imagens/visualizacao/1e727597-1a30-4488-9882-4020dbd9ea58.jpg",
+    "criado_em": "2026-11-11T21:29:20.592020+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1205,
+        "altura": 847,
+        "bytes": 376978,
+        "exif_data_digital": "2011:02:11 07:29:10",
+        "cor_media_rgb": [
+          129,
+          116,
+          79
+        ],
+        "luminosidade_media": 115.9,
+        "contraste_desvio": 54.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f012c7dc8799b8000ced36728345f5e7da2f187f771356a98413d43da0233795",
+    "dhash": "7eb43139ddef9ecc"
   }
 ]
