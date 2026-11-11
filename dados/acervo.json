@@ -3593,5 +3593,35 @@
     },
     "sha256": "2b4e2b5ab64bdb81482bb4084c5506f505f8a202446cb8bec6e1a21b2ca98bed",
     "dhash": "ccfcaca4b4b4bed4"
+  },
+  {
+    "id": "da692c43-cb65-420a-a367-e1a45899eba0",
+    "titulo": "31 Assembleia 2009",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/da692c43-cb65-420a-a367-e1a45899eba0.jpg",
+    "original": "./imagens/visualizacao/da692c43-cb65-420a-a367-e1a45899eba0.jpg",
+    "criado_em": "2026-11-11T21:38:45.326583+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 400,
+        "altura": 300,
+        "bytes": 68943,
+        "exif_data_digital": "2010:03:29 19:17:56",
+        "cor_media_rgb": [
+          115,
+          110,
+          102
+        ],
+        "luminosidade_media": 110.7,
+        "contraste_desvio": 46.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "841db7bb0a525d71b0b952bd99e77d2aad6e07bc10d3c93627dcfb6a33b8f6fd",
+    "dhash": "637372b64e4d5c49"
   }
 ]
