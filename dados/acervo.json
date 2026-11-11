@@ -8633,5 +8633,35 @@
     },
     "sha256": "f1dbbbc4485537d766d2ff0b1ad64d54b4462e3b7c6020ee2a5ca6b40e31e2e9",
     "dhash": "641296cc6c554602"
+  },
+  {
+    "id": "3087ab3f-8abf-4f91-866b-75b867a77f05",
+    "titulo": "635 Sala de memoria da Diocese",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3087ab3f-8abf-4f91-866b-75b867a77f05.jpg",
+    "original": "./imagens/visualizacao/3087ab3f-8abf-4f91-866b-75b867a77f05.jpg",
+    "criado_em": "2026-11-11T22:36:02.742227+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1345082,
+        "exif_data_digital": "2011:02:11 08:10:38",
+        "cor_media_rgb": [
+          133,
+          114,
+          90
+        ],
+        "luminosidade_media": 117.2,
+        "contraste_desvio": 42.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "351a35deb4826928c9c84dc396776919cc9b9c514bd103799a4278d340ef0c73",
+    "dhash": "6150261b191a2613"
   }
 ]
