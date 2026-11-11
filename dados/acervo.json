@@ -4673,5 +4673,35 @@
     },
     "sha256": "f7f3dccf48e896418a1568212aa4f535fa74b563267b9a4c21569c222dfa869f",
     "dhash": "8eda98989b8e8486"
+  },
+  {
+    "id": "8325d85d-e25a-4b9c-a7cc-4eb6785edb57",
+    "titulo": "386 II SEMANA CULTURAL C P R 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8325d85d-e25a-4b9c-a7cc-4eb6785edb57.jpg",
+    "original": "./imagens/visualizacao/8325d85d-e25a-4b9c-a7cc-4eb6785edb57.jpg",
+    "criado_em": "2026-11-11T21:51:11.330123+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1047,
+        "altura": 926,
+        "bytes": 373413,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          149,
+          147,
+          141
+        ],
+        "luminosidade_media": 146.8,
+        "contraste_desvio": 64.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f5f68d83840fbdaf060f584d56e8095e07b78953b7331187b9b5d2f8d6f8db93",
+    "dhash": "b64e5b4b763b8080"
   }
 ]
