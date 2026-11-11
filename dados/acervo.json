@@ -9683,5 +9683,35 @@
     },
     "sha256": "899b268e9437305d2d0d44a33d82aa24e4d5057c257f2194ca004a4408290a8e",
     "dhash": "03000c8989a98004"
+  },
+  {
+    "id": "a78dbb4a-6246-4227-b764-20d60f5c1553",
+    "titulo": "697 TURMA DE ESTUDOS SOCIAIS 1981 1 ESCOLA JOAQUIM NUNES ROCHA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a78dbb4a-6246-4227-b764-20d60f5c1553.jpg",
+    "original": "./imagens/visualizacao/a78dbb4a-6246-4227-b764-20d60f5c1553.jpg",
+    "criado_em": "2026-11-11T22:48:15.602132+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1880,
+        "altura": 1673,
+        "bytes": 1439734,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          204,
+          200,
+          186
+        ],
+        "luminosidade_media": 199.5,
+        "contraste_desvio": 54.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c11fbc5681a000e8d83244a5cc67a1d207a67ce9554c463fd9b2156c2a104ce1",
+    "dhash": "246e34c84b270300"
   }
 ]
