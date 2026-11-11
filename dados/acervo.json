@@ -1613,5 +1613,35 @@
     },
     "sha256": "ead363ca5a26caf32e5551f5033605c3f50dded20db3675c03f1a410637df173",
     "dhash": "99fcd9f77ddf6f43"
+  },
+  {
+    "id": "87e9bf5b-4e65-49f5-893b-bc4da2446f86",
+    "titulo": "188 C P R 1982 4",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/87e9bf5b-4e65-49f5-893b-bc4da2446f86.jpg",
+    "original": "./imagens/visualizacao/87e9bf5b-4e65-49f5-893b-bc4da2446f86.jpg",
+    "criado_em": "2026-11-11T21:17:09.622572+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 992,
+        "altura": 688,
+        "bytes": 233023,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          156,
+          107,
+          95
+        ],
+        "luminosidade_media": 120.5,
+        "contraste_desvio": 39.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "615394d9a3fd99c5456686ac8356332d1605fa33847e66f5fa7baa3ac789603f",
+    "dhash": "f5f9fe3eac92b6ec"
   }
 ]
