@@ -5513,5 +5513,35 @@
     },
     "sha256": "2a37395cbc1e729ba1ee794c0f972fe39403e596b2afe2eb44424b9508c1ea60",
     "dhash": "fcf4ecec4c6cd0e4"
+  },
+  {
+    "id": "1e6dcba6-1149-4748-a0cc-4003c9c23b18",
+    "titulo": "428 INTERIOR DA PAROQUIA NOSSA SENHORA APARECIDA ANO 2000",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1e6dcba6-1149-4748-a0cc-4003c9c23b18.jpg",
+    "original": "./imagens/visualizacao/1e6dcba6-1149-4748-a0cc-4003c9c23b18.jpg",
+    "criado_em": "2026-11-11T22:00:54.486560+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1166,
+        "altura": 780,
+        "bytes": 332661,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          128,
+          141,
+          142
+        ],
+        "luminosidade_media": 137.0,
+        "contraste_desvio": 33.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7bd9f16de00fd7e76a370dba8f10622f848c8aedaab2233524f032f26c074796",
+    "dhash": "fc5ddd9c8e8f8ece"
   }
 ]
