@@ -7373,5 +7373,35 @@
     },
     "sha256": "415cccb6067d755343ef37cd6244b9bccac1221a5bc2a8a2281ffbfbdbda3dfa",
     "dhash": "e9a91a9ab6a6870e"
+  },
+  {
+    "id": "e370fee6-4f3b-4017-ac95-8d32c02a2f4f",
+    "titulo": "521 MOVEIS GG DECADA DE 70 RUA MARECHAL RONDON",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e370fee6-4f3b-4017-ac95-8d32c02a2f4f.jpg",
+    "original": "./imagens/visualizacao/e370fee6-4f3b-4017-ac95-8d32c02a2f4f.jpg",
+    "criado_em": "2026-11-11T22:22:03.214740+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1380,
+        "bytes": 924540,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          226,
+          218,
+          194
+        ],
+        "luminosidade_media": 217.9,
+        "contraste_desvio": 43.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c9a70d660c174e39d7688329e53656781325b005dd3f712002abba538224b052",
+    "dhash": "2ded8d3fb597d3e5"
   }
 ]
