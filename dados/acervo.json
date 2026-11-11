@@ -8093,5 +8093,35 @@
     },
     "sha256": "910389e091d7cfb4abc0a871fdef2374e37f33f9ce0016b349dec4e324cb779c",
     "dhash": "bd0151f1e160f030"
+  },
+  {
+    "id": "dc53fd7d-0d54-4835-a31f-9a6f0c4c725a",
+    "titulo": "58 Banheiro do C P R 1982 1",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/dc53fd7d-0d54-4835-a31f-9a6f0c4c725a.jpg",
+    "original": "./imagens/visualizacao/dc53fd7d-0d54-4835-a31f-9a6f0c4c725a.jpg",
+    "criado_em": "2026-11-11T22:29:50.626722+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1374,
+        "altura": 944,
+        "bytes": 418286,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          195,
+          192,
+          176
+        ],
+        "luminosidade_media": 191.0,
+        "contraste_desvio": 65.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "372cc34b9ad857b94d8bd44f4d2a755e774480c198749e5a11b35367d0452a99",
+    "dhash": "706565656467e092"
   }
 ]
