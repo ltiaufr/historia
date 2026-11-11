@@ -533,5 +533,35 @@
     },
     "sha256": "997daadb232b0fe9adb665e06c0036056ccd90ccce5234630cc6165566b9bcde",
     "dhash": "e9136ce9c9e0d8b4"
+  },
+  {
+    "id": "a1874650-fcc6-4cf1-8fc8-69d4105c0fbb",
+    "titulo": "125 COLACAO DE GRAU 1980 1",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a1874650-fcc6-4cf1-8fc8-69d4105c0fbb.jpg",
+    "original": "./imagens/visualizacao/a1874650-fcc6-4cf1-8fc8-69d4105c0fbb.jpg",
+    "criado_em": "2026-11-11T21:05:31.167037+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 860,
+        "altura": 713,
+        "bytes": 265493,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          191,
+          190,
+          180
+        ],
+        "luminosidade_media": 189.3,
+        "contraste_desvio": 57.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a73fe112c98fedbffb85a64f87f4bc9d37e9b2a4c9dd958626154d48690285a5",
+    "dhash": "000000cbc737271f"
   }
 ]
