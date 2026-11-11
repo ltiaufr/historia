@@ -7673,5 +7673,35 @@
     },
     "sha256": "a513e8bb67ababa0809fd97523759e429c7ab13cb2480662a95d2c7ae8863ba0",
     "dhash": "5f4b1b47e26b7f67"
+  },
+  {
+    "id": "955918e2-715e-470e-bf14-922b8a3ddbec",
+    "titulo": "554 PEQUENOS BALSEIROS TRANSPORTE BARBOSA INDO DE ALTO ARAGUIA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/955918e2-715e-470e-bf14-922b8a3ddbec.jpg",
+    "original": "./imagens/visualizacao/955918e2-715e-470e-bf14-922b8a3ddbec.jpg",
+    "criado_em": "2026-11-11T22:25:19.418327+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1160,
+        "altura": 787,
+        "bytes": 512568,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          169,
+          104,
+          86
+        ],
+        "luminosidade_media": 121.1,
+        "contraste_desvio": 36.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b328a3078c46d9166d530fc56d4c1caea9fa649cad9e813d686e922d2fa0a913",
+    "dhash": "3e723e1e163a383a"
   }
 ]
