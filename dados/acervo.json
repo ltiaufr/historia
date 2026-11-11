@@ -7133,5 +7133,35 @@
     },
     "sha256": "e41990caa89143d59460dabdfcc282b78965c8619e5aa23ade5933926ea48ad0",
     "dhash": "68e86a6dbfd0e8ea"
+  },
+  {
+    "id": "568ac36b-d376-4ad7-ae03-651e7c80878d",
+    "titulo": "509 Meninas Brincando durante o Funeral na parte de tras da casa",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/568ac36b-d376-4ad7-ae03-651e7c80878d.jpg",
+    "original": "./imagens/visualizacao/568ac36b-d376-4ad7-ae03-651e7c80878d.jpg",
+    "criado_em": "2026-11-11T22:19:12.653019+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 816,
+        "bytes": 511408,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          167,
+          135,
+          118
+        ],
+        "luminosidade_media": 142.8,
+        "contraste_desvio": 56.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "254af2070db02d8627f7b8e71852aee3d578bd0d7781bfe9d51c7f27f3bb2626",
+    "dhash": "97d256dc8585a534"
   }
 ]
