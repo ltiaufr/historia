@@ -833,5 +833,35 @@
     },
     "sha256": "3ae79a12ef88b108e74c10459039b35a390a0aa3a9f7bd29ce5a85fb5345e37c",
     "dhash": "2181c0e0f8f0f8e0"
+  },
+  {
+    "id": "0883c2b9-51df-4dea-b87d-e73a04558c20",
+    "titulo": "154 CONSTRUCAO DA PONTE SOBRE O RIO VERMELHO DECADA DE 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0883c2b9-51df-4dea-b87d-e73a04558c20.jpg",
+    "original": "./imagens/visualizacao/0883c2b9-51df-4dea-b87d-e73a04558c20.jpg",
+    "criado_em": "2026-11-11T21:08:45.032532+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1386,
+        "bytes": 1073769,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          191,
+          186,
+          167
+        ],
+        "luminosidade_media": 185.2,
+        "contraste_desvio": 52.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a5abd8f25301546379184f38c001b6b8f36faf1476b877d13c648ac42cee164d",
+    "dhash": "bd75a9a084e6b2e5"
   }
 ]
