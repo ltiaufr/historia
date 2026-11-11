@@ -1103,5 +1103,35 @@
     },
     "sha256": "63b0b95df129f99e7e4e74b8169d3bbb56dcd4c476363d085b581fc230f33d2b",
     "dhash": "2208c95372aeda38"
+  },
+  {
+    "id": "81046183-3f6c-425e-8cec-927cd95174b8",
+    "titulo": "162 CONSTRUCAO C P R 1981",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/81046183-3f6c-425e-8cec-927cd95174b8.jpg",
+    "original": "./imagens/visualizacao/81046183-3f6c-425e-8cec-927cd95174b8.jpg",
+    "criado_em": "2026-11-11T21:11:37.398067+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 970,
+        "altura": 800,
+        "bytes": 203911,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          220,
+          182,
+          165
+        ],
+        "luminosidade_media": 191.4,
+        "contraste_desvio": 34.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "748af41a1cd95c914a52fc6274cd7f08c09692b97a68716e41009cd746cd3c8d",
+    "dhash": "c7f9b8dafcfc9c98"
   }
 ]
