@@ -3473,5 +3473,35 @@
     },
     "sha256": "e02ca8a50d7631b75f34cea1f1ba9fbf4227a57bb4d0eb28346963c278d867e5",
     "dhash": "a4f63e96e6a2c6ca"
+  },
+  {
+    "id": "dd1d9874-c602-44e8-a400-12069ef75443",
+    "titulo": "308 FARMACIA SANTA TEREZINHA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/dd1d9874-c602-44e8-a400-12069ef75443.jpg",
+    "original": "./imagens/visualizacao/dd1d9874-c602-44e8-a400-12069ef75443.jpg",
+    "criado_em": "2026-11-11T21:37:28.972970+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 766,
+        "altura": 1167,
+        "bytes": 401662,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          191,
+          156,
+          153
+        ],
+        "luminosidade_media": 166.1,
+        "contraste_desvio": 50.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "061e45f9015313438ac15c912a58d0c765a09e922ea648a08e7ce52fd1e4ed70",
+    "dhash": "9ce6d65666d226a2"
   }
 ]
