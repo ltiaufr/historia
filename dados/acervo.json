@@ -1373,5 +1373,35 @@
     },
     "sha256": "40e963490e4d95d1709e3518d76dd5a2027f6523191f8a34bf5e981378648e64",
     "dhash": "8b8b8b872684c740"
+  },
+  {
+    "id": "5252ee41-3394-4ed1-9b6b-b0a6b8225e73",
+    "titulo": "180 C P R 1980 ESCOLA JOAQUIM NUNES ROCHA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5252ee41-3394-4ed1-9b6b-b0a6b8225e73.jpg",
+    "original": "./imagens/visualizacao/5252ee41-3394-4ed1-9b6b-b0a6b8225e73.jpg",
+    "criado_em": "2026-11-11T21:14:33.680549+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1886,
+        "altura": 1027,
+        "bytes": 387729,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          235,
+          234,
+          228
+        ],
+        "luminosidade_media": 233.9,
+        "contraste_desvio": 47.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "6c4d202c78724f9be2497a38f71b7b8c01bf5f5a867ade9ce43b9e894192e07e",
+    "dhash": "2410eb0707401189"
   }
 ]
