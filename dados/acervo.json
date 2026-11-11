@@ -7403,5 +7403,35 @@
     },
     "sha256": "c9a70d660c174e39d7688329e53656781325b005dd3f712002abba538224b052",
     "dhash": "2ded8d3fb597d3e5"
+  },
+  {
+    "id": "f381ef19-63aa-4bab-9bb1-ece42d912aa5",
+    "titulo": "523 Niver D JUventino 19 maio 2001",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f381ef19-63aa-4bab-9bb1-ece42d912aa5.jpg",
+    "original": "./imagens/visualizacao/f381ef19-63aa-4bab-9bb1-ece42d912aa5.jpg",
+    "criado_em": "2026-11-11T22:22:22.690337+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1588,
+        "altura": 1019,
+        "bytes": 602165,
+        "exif_data_digital": "2011:01:05 14:55:26",
+        "cor_media_rgb": [
+          125,
+          105,
+          108
+        ],
+        "luminosidade_media": 111.5,
+        "contraste_desvio": 64.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1670cc3e8eb92da3a77cbaf8badb8fdce0ca63d6929c18ea8ef8cf66b9922e0f",
+    "dhash": "061b3334724a2a9b"
   }
 ]
