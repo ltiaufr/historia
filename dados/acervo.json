@@ -8813,5 +8813,35 @@
     },
     "sha256": "52e162f26916d8884c3e72fdb25e42ba39c6a9855c4cea299eaf64787ff976fb",
     "dhash": "2707890119150f1e"
+  },
+  {
+    "id": "19e8bae3-ad60-4b08-87e1-60e5b15a48b8",
+    "titulo": "641 Sala de memoria da Diocese 7",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/19e8bae3-ad60-4b08-87e1-60e5b15a48b8.jpg",
+    "original": "./imagens/visualizacao/19e8bae3-ad60-4b08-87e1-60e5b15a48b8.jpg",
+    "criado_em": "2026-11-11T22:38:14.297016+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1310840,
+        "exif_data_digital": "2011:02:11 08:11:01",
+        "cor_media_rgb": [
+          121,
+          90,
+          69
+        ],
+        "luminosidade_media": 96.6,
+        "contraste_desvio": 51.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ac07ee68f15b6270633104d6cba8a397375044ed155b9c765aaf0cad943ebf4c",
+    "dhash": "35377e3212501c56"
   }
 ]
