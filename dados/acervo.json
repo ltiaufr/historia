@@ -6803,5 +6803,35 @@
     },
     "sha256": "df6f8b124d06eb44e9d55a89bf24deea9dd8771f8a63e771e3d4bd6908e8e560",
     "dhash": "37cfa7a7878f2d37"
+  },
+  {
+    "id": "cc443414-7a89-4820-bae7-7dfd8f3cfcaf",
+    "titulo": "488 Local Preparado para que o Bari possa receber o Espirito da Finada",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/cc443414-7a89-4820-bae7-7dfd8f3cfcaf.jpg",
+    "original": "./imagens/visualizacao/cc443414-7a89-4820-bae7-7dfd8f3cfcaf.jpg",
+    "criado_em": "2026-11-11T22:15:23.545473+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 784,
+        "bytes": 407120,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          165,
+          114,
+          86
+        ],
+        "luminosidade_media": 125.8,
+        "contraste_desvio": 33.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "24f78bfb26b9c70516792a81e412e2a13f9607fec9ac204ebe3e87ab217069bf",
+    "dhash": "1e0f8e8fcdcc4fce"
   }
 ]
