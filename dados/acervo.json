@@ -10163,5 +10163,35 @@
     },
     "sha256": "25243382b8ba474708086a7282822ebed8ba1735ad0a0e086d28d89514942896",
     "dhash": "a0c090b084cca0e0"
+  },
+  {
+    "id": "34ffbc6d-0315-400f-80f3-479c9704380a",
+    "titulo": "722 Vista parcial Igreja Matriz ao centro",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/34ffbc6d-0315-400f-80f3-479c9704380a.jpg",
+    "original": "./imagens/visualizacao/34ffbc6d-0315-400f-80f3-479c9704380a.jpg",
+    "criado_em": "2026-11-11T22:54:02.236506+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1478192,
+        "exif_data_digital": "2011:01:06 14:48:31",
+        "cor_media_rgb": [
+          110,
+          103,
+          101
+        ],
+        "luminosidade_media": 104.9,
+        "contraste_desvio": 58.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1bff031c46f531a7ff7eee52c19222e5e170df6c0361b0dd7adf6dbb0ef97360",
+    "dhash": "13036cc6d4888011"
   }
 ]
