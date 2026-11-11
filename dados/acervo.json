@@ -9173,5 +9173,35 @@
     },
     "sha256": "2d36d47d2befc69f443cc2777663e0921d59bd67d797a036cd4f70b69f75a0f2",
     "dhash": "e0e4c0ece4ecfcfc"
+  },
+  {
+    "id": "73b70708-9f3f-47e2-a373-a9a35cabfc25",
+    "titulo": "660 SANTA CASA DE MISERICORDIA DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/73b70708-9f3f-47e2-a373-a9a35cabfc25.jpg",
+    "original": "./imagens/visualizacao/73b70708-9f3f-47e2-a373-a9a35cabfc25.jpg",
+    "criado_em": "2026-11-11T22:42:29.704963+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 913,
+        "altura": 694,
+        "bytes": 299851,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          198,
+          193,
+          176
+        ],
+        "luminosidade_media": 192.3,
+        "contraste_desvio": 38.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "682ccf64b4db21ee736b40d7365d60d3748384bc65f009ed17dc63108f971088",
+    "dhash": "f829f9e1c9fc7d7d"
   }
 ]
