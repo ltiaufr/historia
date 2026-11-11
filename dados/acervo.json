@@ -5753,5 +5753,35 @@
     },
     "sha256": "1c6753dbbae5ef15b589753321495287d949fb643ed0316887265d3a86aac0d7",
     "dhash": "b42403369484cc52"
+  },
+  {
+    "id": "ce83fc46-ec0e-4e93-afda-ca4c576b337e",
+    "titulo": "435 I Eleicao para Coodernador 1984",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ce83fc46-ec0e-4e93-afda-ca4c576b337e.jpg",
+    "original": "./imagens/visualizacao/ce83fc46-ec0e-4e93-afda-ca4c576b337e.jpg",
+    "criado_em": "2026-11-11T22:03:28.910617+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1408,
+        "altura": 944,
+        "bytes": 519699,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          212,
+          167,
+          150
+        ],
+        "luminosidade_media": 178.6,
+        "contraste_desvio": 50.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "020a1d09ad3310071f999c5b8733d8cb7a11aecd18232d391754fe304d8252aa",
+    "dhash": "845094d2d2cc4023"
   }
 ]
