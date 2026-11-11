@@ -8453,5 +8453,35 @@
     },
     "sha256": "7811ac300661f86b2b59a920275fc75be790800eed0ecacd6cc354102a6c0686",
     "dhash": "4c4c6cecc74105f4"
+  },
+  {
+    "id": "9b67b236-147d-4ddb-8c49-4cec03285bba",
+    "titulo": "620 Ruinas da Igreja Matriz de Vila Bela da Santissima Trindade MT",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9b67b236-147d-4ddb-8c49-4cec03285bba.jpg",
+    "original": "./imagens/visualizacao/9b67b236-147d-4ddb-8c49-4cec03285bba.jpg",
+    "criado_em": "2026-11-11T22:34:00.341413+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 768,
+        "bytes": 455784,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          134,
+          122,
+          128
+        ],
+        "luminosidade_media": 126.3,
+        "contraste_desvio": 48.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "d51f02d567c5476a68aeed68af6554538df31726c7251a699f9712747cc1947c",
+    "dhash": "03032327a60e0e02"
   }
 ]
