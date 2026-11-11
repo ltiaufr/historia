@@ -10373,5 +10373,35 @@
     },
     "sha256": "dc727b1bee0ba0f9032058131e9cf15c649e38e075e9b152775cc22afc5537e3",
     "dhash": "6718992258fc9ddb"
+  },
+  {
+    "id": "a81d32d5-010a-48e1-bade-4414e4176ce2",
+    "titulo": "78 BIBLIOTECA REGIONAL CAMPUS UNIVERSITARIO DE RONDONOPOLIS 19",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a81d32d5-010a-48e1-bade-4414e4176ce2.jpg",
+    "original": "./imagens/visualizacao/a81d32d5-010a-48e1-bade-4414e4176ce2.jpg",
+    "criado_em": "2026-11-11T22:56:33.774005+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1147,
+        "altura": 806,
+        "bytes": 533388,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          172,
+          152,
+          156
+        ],
+        "luminosidade_media": 158.6,
+        "contraste_desvio": 52.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "0fcf959d4e47914a991338fca023bf389235415f540c19224faa9af71b23d20d",
+    "dhash": "4c20286b1a5ea4ca"
   }
 ]
