@@ -503,5 +503,35 @@
     },
     "sha256": "1c0d523b2fca0e40c9c8aa6ccf89fea812e47a99c060cb934273754535187f72",
     "dhash": "13391998265e1809"
+  },
+  {
+    "id": "1d6c9286-aa04-4e57-8ef1-bea8ca7201b0",
+    "titulo": "122 CHARRETE DECADA DE 50",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1d6c9286-aa04-4e57-8ef1-bea8ca7201b0.jpg",
+    "original": "./imagens/visualizacao/1d6c9286-aa04-4e57-8ef1-bea8ca7201b0.jpg",
+    "criado_em": "2026-11-11T21:05:11.373594+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 994,
+        "altura": 694,
+        "bytes": 282769,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          237,
+          232,
+          205
+        ],
+        "luminosidade_media": 230.1,
+        "contraste_desvio": 42.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "997daadb232b0fe9adb665e06c0036056ccd90ccce5234630cc6165566b9bcde",
+    "dhash": "e9136ce9c9e0d8b4"
   }
 ]
