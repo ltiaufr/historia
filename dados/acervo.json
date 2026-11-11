@@ -9023,5 +9023,35 @@
     },
     "sha256": "7a569e22071f341016826a440c09d09e505d380f5f2adcd4b6438704359c7096",
     "dhash": "9c9c9c9c9e8c9e9e"
+  },
+  {
+    "id": "c373818f-5d24-4382-9c0e-f1ca7bcb3ac4",
+    "titulo": "653 SALA DOS PROFESSORES C P R 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c373818f-5d24-4382-9c0e-f1ca7bcb3ac4.jpg",
+    "original": "./imagens/visualizacao/c373818f-5d24-4382-9c0e-f1ca7bcb3ac4.jpg",
+    "criado_em": "2026-11-11T22:40:47.782482+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1140,
+        "altura": 793,
+        "bytes": 331827,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          192,
+          140,
+          130
+        ],
+        "luminosidade_media": 154.3,
+        "contraste_desvio": 44.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "12537785dee119de04d46da64f10b8d19765995fb3384b8c7a56f06fd1c83f8a",
+    "dhash": "c1c0c1db72d2c048"
   }
 ]
