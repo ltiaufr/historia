@@ -7793,5 +7793,35 @@
     },
     "sha256": "c69082500a3808c3bf765ea531f89c80df11ba1c5bbf0530a51ae8e86b0b707a",
     "dhash": "5922c6c206c6e1cc"
+  },
+  {
+    "id": "69682a55-5cc6-489a-97e2-17f736473514",
+    "titulo": "56 A B R ASSOCIACAO BANCARIA DE RONDONOPOLIS DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/69682a55-5cc6-489a-97e2-17f736473514.jpg",
+    "original": "./imagens/visualizacao/69682a55-5cc6-489a-97e2-17f736473514.jpg",
+    "criado_em": "2026-11-11T22:26:36.985660+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1033,
+        "altura": 680,
+        "bytes": 318150,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          200,
+          197,
+          184
+        ],
+        "luminosidade_media": 196.7,
+        "contraste_desvio": 59.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b73211af22ade41989960b351999e923186f3bd6b1c5379b74d5318bba87eacf",
+    "dhash": "d4c0e0c0eec9e068"
   }
 ]
