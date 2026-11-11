@@ -7283,5 +7283,35 @@
     },
     "sha256": "0ac96bc058a67e37104530e9048987d1a730ad7ba113f85d5fb86c68660e43ab",
     "dhash": "720a1a1c0212e0c6"
+  },
+  {
+    "id": "dac5a6d0-9a77-4c23-9b8d-0be960c1ebdf",
+    "titulo": "519 Monjolo dos padres em Chapada anos 40",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/dac5a6d0-9a77-4c23-9b8d-0be960c1ebdf.jpg",
+    "original": "./imagens/visualizacao/dac5a6d0-9a77-4c23-9b8d-0be960c1ebdf.jpg",
+    "criado_em": "2026-11-11T22:21:01.624941+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1355150,
+        "exif_data_digital": "2011:02:11 07:26:11",
+        "cor_media_rgb": [
+          109,
+          99,
+          72
+        ],
+        "luminosidade_media": 99.2,
+        "contraste_desvio": 53.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c679f5459c3bedd9da8aadb5202730c811199872196d8c3f1202c375d03d7d35",
+    "dhash": "2f63514d5b0f3f3f"
   }
 ]
