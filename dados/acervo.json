@@ -1913,5 +1913,35 @@
     },
     "sha256": "f64dc47380eceebc3a4645ca5ee3b44c44e24068fb6d2c92ea741bf2b998800c",
     "dhash": "b9b9acd9f9f97eb9"
+  },
+  {
+    "id": "f481df5a-9d27-4564-a77f-7268742d5180",
+    "titulo": "19 Altar mor Igreja Chapada 1944",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f481df5a-9d27-4564-a77f-7268742d5180.jpg",
+    "original": "./imagens/visualizacao/f481df5a-9d27-4564-a77f-7268742d5180.jpg",
+    "criado_em": "2026-11-11T21:20:17.555804+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1026,
+        "altura": 1582,
+        "bytes": 729930,
+        "exif_data_digital": "2011:02:11 08:02:38",
+        "cor_media_rgb": [
+          131,
+          111,
+          69
+        ],
+        "luminosidade_media": 112.2,
+        "contraste_desvio": 39.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4f6f109cfb38aa89628825a9f78ae37d2b1e43a91e125a1cdbedf2e08bb4cebf",
+    "dhash": "8ca5eb6bd1b99180"
   }
 ]
