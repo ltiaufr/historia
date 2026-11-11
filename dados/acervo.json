@@ -10133,5 +10133,35 @@
     },
     "sha256": "48c6c0685c47df76faefe544b42f329be8b0bcfdb9aaa44ef25e348b50cd67bc",
     "dhash": "9c2478dcb0f163e6"
+  },
+  {
+    "id": "97398b97-dd2b-4eba-9122-0454214588e4",
+    "titulo": "721 VISTA PARCIAL DE RONDONOPOLIS DECADA DE 60 FUNDOS DA IGREJA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/97398b97-dd2b-4eba-9122-0454214588e4.jpg",
+    "original": "./imagens/visualizacao/97398b97-dd2b-4eba-9122-0454214588e4.jpg",
+    "criado_em": "2026-11-11T22:53:37.953929+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1380,
+        "altura": 1867,
+        "bytes": 575049,
+        "exif_data_digital": "2026:11:10 23:43:50",
+        "cor_media_rgb": [
+          159,
+          149,
+          128
+        ],
+        "luminosidade_media": 149.2,
+        "contraste_desvio": 44.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "25243382b8ba474708086a7282822ebed8ba1735ad0a0e086d28d89514942896",
+    "dhash": "a0c090b084cca0e0"
   }
 ]
