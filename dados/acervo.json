@@ -383,5 +383,35 @@
     },
     "sha256": "c10b731544c216ef1a50b7f8e2e73fa2a56cc9038c24e7ff75e4e0124d122dba",
     "dhash": "e69e9e9a9a892358"
+  },
+  {
+    "id": "4830a40d-f5c7-4fc9-9089-647c26f72ed0",
+    "titulo": "117 Centro Pedagogico de Roo 1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4830a40d-f5c7-4fc9-9089-647c26f72ed0.jpg",
+    "original": "./imagens/visualizacao/4830a40d-f5c7-4fc9-9089-647c26f72ed0.jpg",
+    "criado_em": "2026-11-11T21:03:49.965328+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1360,
+        "altura": 928,
+        "bytes": 605487,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          153,
+          148,
+          134
+        ],
+        "luminosidade_media": 148.0,
+        "contraste_desvio": 65.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c09196fee11cd191e9edac4400d22ff1acf4c3a3535620e8c828a21844890668",
+    "dhash": "d8f0e0e0f0f0f8e4"
   }
 ]
