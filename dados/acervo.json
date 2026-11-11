@@ -9143,5 +9143,35 @@
     },
     "sha256": "d6fd1fd1cb8597c89c2b3a056dec63e7e12ebec0415bf2cd58ee9904c65bc7f3",
     "dhash": "ddcd3379ffb97979"
+  },
+  {
+    "id": "17143fa0-0af2-4018-a434-faf024432a19",
+    "titulo": "65 BIBLIOTECA COZINHA LABORATORIO DO C P R NO PREDIO DA ESCOLA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/17143fa0-0af2-4018-a434-faf024432a19.jpg",
+    "original": "./imagens/visualizacao/17143fa0-0af2-4018-a434-faf024432a19.jpg",
+    "criado_em": "2026-11-11T22:42:09.619657+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1846,
+        "altura": 1367,
+        "bytes": 1020831,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          130,
+          128,
+          120
+        ],
+        "luminosidade_media": 128.0,
+        "contraste_desvio": 72.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2d36d47d2befc69f443cc2777663e0921d59bd67d797a036cd4f70b69f75a0f2",
+    "dhash": "e0e4c0ece4ecfcfc"
   }
 ]
