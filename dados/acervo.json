@@ -563,5 +563,35 @@
     },
     "sha256": "a73fe112c98fedbffb85a64f87f4bc9d37e9b2a4c9dd958626154d48690285a5",
     "dhash": "000000cbc737271f"
+  },
+  {
+    "id": "e808b1a4-588a-4e67-9e73-31c7811eeb8c",
+    "titulo": "126 Colegio Sagrado Coracao de Jesus Rondonopolis",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e808b1a4-588a-4e67-9e73-31c7811eeb8c.jpg",
+    "original": "./imagens/visualizacao/e808b1a4-588a-4e67-9e73-31c7811eeb8c.jpg",
+    "criado_em": "2026-11-11T21:05:51.173421+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1433,
+        "altura": 935,
+        "bytes": 563045,
+        "exif_data_digital": "2011:02:11 08:05:50",
+        "cor_media_rgb": [
+          155,
+          137,
+          92
+        ],
+        "luminosidade_media": 137.3,
+        "contraste_desvio": 46.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "29a729627213f8cc490bbe46489466948188f608523b7839bfacef87cfa9e842",
+    "dhash": "0f0f7ebfb3f3a1cb"
   }
 ]
