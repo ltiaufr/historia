@@ -6233,5 +6233,35 @@
     },
     "sha256": "88c31f82367146ed3a452bf0eaea1a64d6d993a3e9d2356ba45345d56b965234",
     "dhash": "37f9e9f93162561a"
+  },
+  {
+    "id": "4f3be967-60eb-4516-804e-9e55ed9c56b3",
+    "titulo": "453 Laboratorio C P R 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4f3be967-60eb-4516-804e-9e55ed9c56b3.jpg",
+    "original": "./imagens/visualizacao/4f3be967-60eb-4516-804e-9e55ed9c56b3.jpg",
+    "criado_em": "2026-11-11T22:08:55.541698+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1872,
+        "altura": 1408,
+        "bytes": 1298211,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          183,
+          175,
+          155
+        ],
+        "luminosidade_media": 174.9,
+        "contraste_desvio": 52.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9f6f03c56002e87ae147c3aa9b67155d6f6aea5f4b0f84672694122beeec5306",
+    "dhash": "d9da694949693b3b"
   }
 ]
