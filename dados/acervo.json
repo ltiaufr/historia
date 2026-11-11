@@ -5063,5 +5063,35 @@
     },
     "sha256": "f6ad4bc263bd05b53e094e38a462afa294a7f820a01ae7b8ff729149e6ad4634",
     "dhash": "8e8ece9672f3f7fb"
+  },
+  {
+    "id": "491033c9-30f7-435e-bb77-7c934fee134c",
+    "titulo": "399 II SEMANA CULTURAL 1982 C P R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/491033c9-30f7-435e-bb77-7c934fee134c.jpg",
+    "original": "./imagens/visualizacao/491033c9-30f7-435e-bb77-7c934fee134c.jpg",
+    "criado_em": "2026-11-11T21:55:36.733184+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1367,
+        "altura": 960,
+        "bytes": 461155,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          175,
+          174,
+          165
+        ],
+        "luminosidade_media": 173.5,
+        "contraste_desvio": 56.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "da0cfd0a506510792445f342694bca25aece0bedfa2a77a8712c89f18cd7565b",
+    "dhash": "a303256686275be1"
   }
 ]
