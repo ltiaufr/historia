@@ -4373,5 +4373,35 @@
     },
     "sha256": "7e64f557a72b4a6209844e80d9647caad8519733ced1d1150d7d5795f9cc5af1",
     "dhash": "5a1a1a1a1c2f7f73"
+  },
+  {
+    "id": "8b7ac96d-9504-4512-9a3e-cda95c5a38e7",
+    "titulo": "374 II SEMANA CULTURAL",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8b7ac96d-9504-4512-9a3e-cda95c5a38e7.jpg",
+    "original": "./imagens/visualizacao/8b7ac96d-9504-4512-9a3e-cda95c5a38e7.jpg",
+    "criado_em": "2026-11-11T21:47:45.691953+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 667,
+        "altura": 1133,
+        "bytes": 380411,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          137,
+          134,
+          122
+        ],
+        "luminosidade_media": 133.5,
+        "contraste_desvio": 61.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c67b1de9a1bf928c1f824901064435c3c9d4c2d0a7335c410a2f10adaf79956f",
+    "dhash": "74e0705c8e4c9a19"
   }
 ]
