@@ -2033,5 +2033,35 @@
     },
     "sha256": "42b5a4d012bf416813d98de4b9318d048da05da74472fb5cda8cbd00006268e6",
     "dhash": "fffffefa0f6767c0"
+  },
+  {
+    "id": "92f07921-f125-466b-8575-4ad0bf380145",
+    "titulo": "202 C P R 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/92f07921-f125-466b-8575-4ad0bf380145.jpg",
+    "original": "./imagens/visualizacao/92f07921-f125-466b-8575-4ad0bf380145.jpg",
+    "criado_em": "2026-11-11T21:21:31.778925+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 970,
+        "altura": 688,
+        "bytes": 172430,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          231,
+          184,
+          160
+        ],
+        "luminosidade_media": 195.2,
+        "contraste_desvio": 35.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "63c286603e637b3300249971ef7ba0dfa1fe5d4b373edba9ac4d54b3afd7d0d7",
+    "dhash": "73d3c48c7c7c7fef"
   }
 ]
