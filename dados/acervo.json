@@ -8033,5 +8033,35 @@
     },
     "sha256": "e1184a585c53d03e7544e21946c99ee3dcf9a7715053b86428c048b99619d8ed",
     "dhash": "48a084d0d9d18d64"
+  },
+  {
+    "id": "acd5446a-2af1-4cc2-b36f-313df063d1d9",
+    "titulo": "581 PREFEITURA MUNICIPAL DE RONDONOPOLIS DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/acd5446a-2af1-4cc2-b36f-313df063d1d9.jpg",
+    "original": "./imagens/visualizacao/acd5446a-2af1-4cc2-b36f-313df063d1d9.jpg",
+    "criado_em": "2026-11-11T22:29:11.847384+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 933,
+        "altura": 320,
+        "bytes": 91326,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          208,
+          206,
+          196
+        ],
+        "luminosidade_media": 205.9,
+        "contraste_desvio": 68.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7c9ca2126d6687fd6ea159f1012a10ab51aa2977e971d0440d17cc00ac9aad21",
+    "dhash": "0048481449c87460"
   }
 ]
