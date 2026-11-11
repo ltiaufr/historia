@@ -5903,5 +5903,35 @@
     },
     "sha256": "967c8f74e3f23a2b821af957cea7252f8e33b49259828ec0aac6f6a3569b011f",
     "dhash": "e6e6e61838e5cdf5"
+  },
+  {
+    "id": "c7c365f3-10e6-40aa-a4c5-a37a75c0c7eb",
+    "titulo": "443 LABORATORIO DA ESCOLA JOAQUIM NUNES ROCHA 1980",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c7c365f3-10e6-40aa-a4c5-a37a75c0c7eb.jpg",
+    "original": "./imagens/visualizacao/c7c365f3-10e6-40aa-a4c5-a37a75c0c7eb.jpg",
+    "criado_em": "2026-11-11T22:05:09.856817+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1873,
+        "altura": 1387,
+        "bytes": 1087024,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          190,
+          188,
+          178
+        ],
+        "luminosidade_media": 187.5,
+        "contraste_desvio": 61.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e4c19c7716c8d24d4324ea7ff66c46338c009c1848609dafa67d627ad178fdf6",
+    "dhash": "12ccc5f114517034"
   }
 ]
