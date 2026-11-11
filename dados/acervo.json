@@ -3833,5 +3833,35 @@
     },
     "sha256": "11f78b3302109baaae1938c3bde176ddb734ef1dfa47ef338f6b93839b4e8951",
     "dhash": "88f9f89c34a6e6a6"
+  },
+  {
+    "id": "3782e339-e930-496c-b5a2-ac088d300b5d",
+    "titulo": "330 Frei Osvaldo e internos Chapada 1945",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3782e339-e930-496c-b5a2-ac088d300b5d.jpg",
+    "original": "./imagens/visualizacao/3782e339-e930-496c-b5a2-ac088d300b5d.jpg",
+    "criado_em": "2026-11-11T21:41:41.658085+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1217,
+        "altura": 892,
+        "bytes": 420530,
+        "exif_data_digital": "2011:02:11 07:29:01",
+        "cor_media_rgb": [
+          137,
+          121,
+          84
+        ],
+        "luminosidade_media": 121.6,
+        "contraste_desvio": 45.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "246601ded917c1395f1c711c1bae3387dd0c1d072fd9a85ada97d6a3543749bb",
+    "dhash": "3f2f9b9b71282f4b"
   }
 ]
