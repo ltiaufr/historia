@@ -9923,5 +9923,35 @@
     },
     "sha256": "0fe84c12f53acd8041f7e8d506fa118119e956b3148455f84ff5ef417d4b4f1e",
     "dhash": "14132dabb6923a12"
+  },
+  {
+    "id": "5d4184b5-820a-4ab2-8bcf-1d16d3b81fbc",
+    "titulo": "706 VESTIBULAR1 978",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5d4184b5-820a-4ab2-8bcf-1d16d3b81fbc.jpg",
+    "original": "./imagens/visualizacao/5d4184b5-820a-4ab2-8bcf-1d16d3b81fbc.jpg",
+    "criado_em": "2026-11-11T22:51:05.442555+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 980,
+        "altura": 693,
+        "bytes": 274275,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          170,
+          163,
+          143
+        ],
+        "luminosidade_media": 162.8,
+        "contraste_desvio": 64.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "18b0393618ab585624ce33de3bc4d03d59d2572a27dfa991d6844c227eb67788",
+    "dhash": "a0824a74a5c7474f"
   }
 ]
