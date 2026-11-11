@@ -4043,5 +4043,35 @@
     },
     "sha256": "ea830570b76260fd63671207e4bb804231fd750aa4b535f8026b71736a1064e7",
     "dhash": "938b87a78f878779"
+  },
+  {
+    "id": "7acb2908-a7e4-462e-ba25-006b35b2be73",
+    "titulo": "33 Assembleia Pastoral Social CEPA fev 2001",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7acb2908-a7e4-462e-ba25-006b35b2be73.jpg",
+    "original": "./imagens/visualizacao/7acb2908-a7e4-462e-ba25-006b35b2be73.jpg",
+    "criado_em": "2026-11-11T21:44:02.540284+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1884,
+        "altura": 1230,
+        "bytes": 961164,
+        "exif_data_digital": "2011:01:05 14:51:43",
+        "cor_media_rgb": [
+          140,
+          122,
+          119
+        ],
+        "luminosidade_media": 126.8,
+        "contraste_desvio": 67.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "02d8e150bf68acbc322f32a2b17867cdb77ea2ee407845ac7e4faccb01aee726",
+    "dhash": "8dc5c30919950d59"
   }
 ]
