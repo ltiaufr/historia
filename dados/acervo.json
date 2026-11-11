@@ -10223,5 +10223,35 @@
     },
     "sha256": "8c2d69f6dc8bf33b43979d611b0e439356f0ca6b77d7cb449bb45dfb3d9ccf06",
     "dhash": "4940c45b01041000"
+  },
+  {
+    "id": "f2b0729f-578f-404f-8ee4-d77938014872",
+    "titulo": "72 BIBLIOTECA DO C P R 1981 ESCOLA JOAQUIM NUNES ROCHA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f2b0729f-578f-404f-8ee4-d77938014872.jpg",
+    "original": "./imagens/visualizacao/f2b0729f-578f-404f-8ee4-d77938014872.jpg",
+    "criado_em": "2026-11-11T22:54:48.505645+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1873,
+        "altura": 1367,
+        "bytes": 948262,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          165,
+          161,
+          149
+        ],
+        "luminosidade_media": 161.0,
+        "contraste_desvio": 65.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "756fd4283f10425fd2a29a3f83f85c24900ad08fd98c5fac599de10fa3e87f4f",
+    "dhash": "9989091834386062"
   }
 ]
