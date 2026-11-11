@@ -3083,5 +3083,35 @@
     },
     "sha256": "bb3e095c8080868672e930e1172f19e36e32e8a580dab6a79f56df2a9e842965",
     "dhash": "3031303131355137"
+  },
+  {
+    "id": "5f01ace6-42a7-49d6-95d7-681a3dcc9851",
+    "titulo": "281 D Vunibaldo desastre viagem a Frutal 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5f01ace6-42a7-49d6-95d7-681a3dcc9851.jpg",
+    "original": "./imagens/visualizacao/5f01ace6-42a7-49d6-95d7-681a3dcc9851.jpg",
+    "criado_em": "2026-11-11T21:33:07.257343+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1044,
+        "altura": 768,
+        "bytes": 390879,
+        "exif_data_digital": "2011:01:06 14:48:09",
+        "cor_media_rgb": [
+          110,
+          58,
+          100
+        ],
+        "luminosidade_media": 78.1,
+        "contraste_desvio": 34.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e3f9313a571575b65f7a6b6ed2bf4d343978ed9b058e3e931402f0fcdfe3a2df",
+    "dhash": "27131b6c4c65858e"
   }
 ]
