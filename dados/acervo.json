@@ -8333,5 +8333,35 @@
     },
     "sha256": "9db8a9f77c6a26b11f19e713b2da84eaf0dc50e9177ba108fa1f1faf625e0771",
     "dhash": "e470f0b8b3f2d8e3"
+  },
+  {
+    "id": "cbef925a-499b-47b8-bd2a-f80e03d601a5",
+    "titulo": "615 Roo Anos 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/cbef925a-499b-47b8-bd2a-f80e03d601a5.jpg",
+    "original": "./imagens/visualizacao/cbef925a-499b-47b8-bd2a-f80e03d601a5.jpg",
+    "criado_em": "2026-11-11T22:32:34.665922+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1320776,
+        "exif_data_digital": "2011:01:06 14:48:44",
+        "cor_media_rgb": [
+          106,
+          98,
+          96
+        ],
+        "luminosidade_media": 100.1,
+        "contraste_desvio": 57.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "448f5e44bfd4a2e53c6321a06d25b898b4a2aa0230488eb7c6e1701cc962bfeb",
+    "dhash": "0142eccad68c8c90"
   }
 ]
