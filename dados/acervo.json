@@ -6323,5 +6323,35 @@
     },
     "sha256": "a7628c0814c0e0029b1d7e398e9250abf7ca9fde6c445e8c1724e7e2dab98b9b",
     "dhash": "7957c69c9fcb86c6"
+  },
+  {
+    "id": "cab2a85d-861d-40ef-849c-485ab49879b5",
+    "titulo": "468 LANCAMENTO DA REVISTA DE HISTORIA MAIO DE 1997",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/cab2a85d-861d-40ef-849c-485ab49879b5.jpg",
+    "original": "./imagens/visualizacao/cab2a85d-861d-40ef-849c-485ab49879b5.jpg",
+    "criado_em": "2026-11-11T22:09:59.793699+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1127,
+        "altura": 780,
+        "bytes": 363678,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          164,
+          142,
+          126
+        ],
+        "luminosidade_media": 146.9,
+        "contraste_desvio": 43.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "16870cbcf4762b953afb8722cd230069268e35fba24f9587aa66b8863c938d23",
+    "dhash": "bdebeb6476f2e6c6"
   }
 ]
