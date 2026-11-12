@@ -15713,5 +15713,35 @@
     },
     "sha256": "e8b34dba2227d8e7d2b0a6461675824398f0a95a8f68f779cdb428c3390ff18e",
     "dhash": "2cccc4e4e4f070f0"
+  },
+  {
+    "id": "a04218b2-3937-43bc-b1a4-c87f241f4e3e",
+    "titulo": "PRAÇA BRASIL ESQUINA DA AVENIDA ESTEVÃO DE FIGUEIREDO  COM A",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a04218b2-3937-43bc-b1a4-c87f241f4e3e.jpg",
+    "original": "./imagens/visualizacao/a04218b2-3937-43bc-b1a4-c87f241f4e3e.jpg",
+    "criado_em": "2026-11-12T00:00:02.210867+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 993,
+        "altura": 707,
+        "bytes": 309606,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          202,
+          199,
+          188
+        ],
+        "luminosidade_media": 198.6,
+        "contraste_desvio": 67.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2982a7e8cdca3241ea76b8cac64d8101971b948530304d3aefa2f19e16bc4061",
+    "dhash": "8600f6d080836b69"
   }
 ]
