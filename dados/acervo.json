@@ -17603,5 +17603,35 @@
     },
     "sha256": "4d41ccfa0f0ff1a0aefae86bd1104f3e58cad8a76eb0cbfb51a1c28be815d6b6",
     "dhash": "0f276166647c2c3e"
+  },
+  {
+    "id": "1f6522b7-1449-477a-a67d-903c9ab8ecd5",
+    "titulo": "Índios Dançando no Funeral",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1f6522b7-1449-477a-a67d-903c9ab8ecd5.jpg",
+    "original": "./imagens/visualizacao/1f6522b7-1449-477a-a67d-903c9ab8ecd5.jpg",
+    "criado_em": "2026-11-12T00:23:41.887219+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 816,
+        "bytes": 395803,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          155,
+          114,
+          103
+        ],
+        "luminosidade_media": 125.4,
+        "contraste_desvio": 40.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "45e2923a3b3feaafac56179f1bb7ac665853043c2a6b1daa629c003b28793b9d",
+    "dhash": "5d5959595d27979f"
   }
 ]
