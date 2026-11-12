@@ -12353,5 +12353,35 @@
     },
     "sha256": "09a3072aa6279c3568a857a039abf98fa788aeaf0b28a2239bf3a4bc4829fbc5",
     "dhash": "0595d5535b6a6461"
+  },
+  {
+    "id": "7bca426f-b6d1-4a36-80b0-782561e37950",
+    "titulo": "D. Osório  Escola Sagrado",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7bca426f-b6d1-4a36-80b0-782561e37950.jpg",
+    "original": "./imagens/visualizacao/7bca426f-b6d1-4a36-80b0-782561e37950.jpg",
+    "criado_em": "2026-11-11T23:20:01.616086+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1535,
+        "altura": 930,
+        "bytes": 598500,
+        "exif_data_digital": "2011:01:06 14:33:02",
+        "cor_media_rgb": [
+          132,
+          128,
+          118
+        ],
+        "luminosidade_media": 128.2,
+        "contraste_desvio": 42.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "533c2530dd3529078c6e13840c4bfca91aed3e0cf4e3196dab3db9cc02f3cc19",
+    "dhash": "c1ec46a92cacb0c6"
   }
 ]
