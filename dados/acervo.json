@@ -17483,5 +17483,35 @@
     },
     "sha256": "5e2f10a9e03158f2c33a2b6f6dbcf882e3c70278ec4dc34fe7e83aa806d5fa11",
     "dhash": "8fdf1ba9b9f9694b"
+  },
+  {
+    "id": "c36987d5-be0d-4849-a66e-ea5d6cf876c6",
+    "titulo": "Vista Aéria C.P.R  1982   2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c36987d5-be0d-4849-a66e-ea5d6cf876c6.jpg",
+    "original": "./imagens/visualizacao/c36987d5-be0d-4849-a66e-ea5d6cf876c6.jpg",
+    "criado_em": "2026-11-12T00:22:12.768401+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1424,
+        "altura": 816,
+        "bytes": 689579,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          170,
+          166,
+          150
+        ],
+        "luminosidade_media": 165.2,
+        "contraste_desvio": 58.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "dfafd34b6a88885b2b6cb4c2ad7d714972baf9695036731cede0a603a5e7fadb",
+    "dhash": "b01e604043c58972"
   }
 ]
