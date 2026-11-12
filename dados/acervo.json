@@ -12563,5 +12563,35 @@
     },
     "sha256": "28e406f81b5d577cbed8117e17450acd8a7e91925061a6869bb1989da8ee57aa",
     "dhash": "52545549a82626c0"
+  },
+  {
+    "id": "085751b1-9309-427b-b81a-d9e4a9b06d63",
+    "titulo": "D. Vunibaldo no Concílio  Roma 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/085751b1-9309-427b-b81a-d9e4a9b06d63.jpg",
+    "original": "./imagens/visualizacao/085751b1-9309-427b-b81a-d9e4a9b06d63.jpg",
+    "criado_em": "2026-11-11T23:22:33.884168+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1596,
+        "altura": 1024,
+        "bytes": 792917,
+        "exif_data_digital": "2011:02:11 08:02:08",
+        "cor_media_rgb": [
+          168,
+          77,
+          112
+        ],
+        "luminosidade_media": 108.3,
+        "contraste_desvio": 44.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2d7e8d35cf36347c961ac5fc24c9b8899bff5478b1d1bdd402f97cc7be517ef3",
+    "dhash": "3474b6b17134b20f"
   }
 ]
