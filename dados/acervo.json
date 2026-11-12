@@ -15623,5 +15623,35 @@
     },
     "sha256": "326d15266499ec91b088ffcf3cdae0073e0db86feb80145374215efd8225ada4",
     "dhash": "0f0f396997170f0f"
+  },
+  {
+    "id": "4b511300-b270-4135-817c-165991e676ff",
+    "titulo": "Pintura no Rosto da menina representa o Clã Baadojeba.",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4b511300-b270-4135-817c-165991e676ff.jpg",
+    "original": "./imagens/visualizacao/4b511300-b270-4135-817c-165991e676ff.jpg",
+    "criado_em": "2026-11-11T23:59:00.287755+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 800,
+        "bytes": 454497,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          157,
+          120,
+          88
+        ],
+        "luminosidade_media": 127.3,
+        "contraste_desvio": 51.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2cb017b45500e90f18ac4b58f08afc0fb2f8ffb10a991d18f863939c498b2826",
+    "dhash": "322b8b8bcb930f2b"
   }
 ]
