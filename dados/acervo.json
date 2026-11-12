@@ -15173,5 +15173,35 @@
     },
     "sha256": "7a0604cdf7cb950432ad529efd45e41a450e090eb26de4d4b00d899d1b9035b0",
     "dhash": "47c3d7db5b5b5377"
+  },
+  {
+    "id": "0005ca82-de21-410c-a6cd-6265b8a3cd3e",
+    "titulo": "Ordenacao Padre Miguel 26 março 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0005ca82-de21-410c-a6cd-6265b8a3cd3e.jpg",
+    "original": "./imagens/visualizacao/0005ca82-de21-410c-a6cd-6265b8a3cd3e.jpg",
+    "criado_em": "2026-11-11T23:53:40.544985+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1536,
+        "altura": 2048,
+        "bytes": 1313994,
+        "exif_data_digital": "2011:01:06 14:49:03",
+        "cor_media_rgb": [
+          125,
+          124,
+          123
+        ],
+        "luminosidade_media": 124.3,
+        "contraste_desvio": 57.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "05c51982b360a9c7fe5fdc66591aaec36d2df579ffa1c2d21f35958f861525b5",
+    "dhash": "0b65c0d9e9a90002"
   }
 ]
