@@ -13763,5 +13763,35 @@
     },
     "sha256": "b473de762f284817e839c67fd01621c0a0c250db2a57ffe741bf6e3414e0ad70",
     "dhash": "5f5b9b13350c5f5f"
+  },
+  {
+    "id": "60176edd-61fc-44e5-8684-63386dabfc94",
+    "titulo": "Igreja Matiz Roo Missões 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/60176edd-61fc-44e5-8684-63386dabfc94.jpg",
+    "original": "./imagens/visualizacao/60176edd-61fc-44e5-8684-63386dabfc94.jpg",
+    "criado_em": "2026-11-11T23:37:06.083439+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1699,
+        "altura": 1108,
+        "bytes": 645058,
+        "exif_data_digital": "2011:02:11 07:49:29",
+        "cor_media_rgb": [
+          129,
+          131,
+          115
+        ],
+        "luminosidade_media": 128.5,
+        "contraste_desvio": 52.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f454c013dc8c8df006fedd3f8cf3b58a6956f6c6b8cd27bee67c9781f45ff040",
+    "dhash": "2767f63e1a391171"
   }
 ]
