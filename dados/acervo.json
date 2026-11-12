@@ -16733,5 +16733,35 @@
     },
     "sha256": "a75d5c87288216e26ac9580d72204eae99e040c69418bd175b2989bb6c8712c9",
     "dhash": "c140239b92076107"
+  },
+  {
+    "id": "1895d50e-6c6d-45c3-b19f-5eed0c8f9886",
+    "titulo": "SAGUAO  DO CENTRO PEDAGOGICO DE RONDONOPOLIS   1ª ELEleicaoA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1895d50e-6c6d-45c3-b19f-5eed0c8f9886.jpg",
+    "original": "./imagens/visualizacao/1895d50e-6c6d-45c3-b19f-5eed0c8f9886.jpg",
+    "criado_em": "2026-11-12T00:12:43.361258+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1374,
+        "altura": 933,
+        "bytes": 605735,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          203,
+          148,
+          122
+        ],
+        "luminosidade_media": 161.8,
+        "contraste_desvio": 37.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "26bcd4a24c9251db6b2af3c3f787450a2a3bed0d5eeebc3f50c9d81fabc269f3",
+    "dhash": "90191796d5e6c721"
   }
 ]
