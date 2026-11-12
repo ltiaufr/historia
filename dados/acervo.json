@@ -14603,5 +14603,35 @@
     },
     "sha256": "cd2157f4dfb3cdba62054fe70eba5c3fc5350b0228c10f122e7b498316030128",
     "dhash": "9e8e1f0f262f1f5f"
+  },
+  {
+    "id": "df2dd510-0b99-4346-b016-58ce07875600",
+    "titulo": "LOCAL ONDE HAVIA O 1º CARREIRO EM RONDONOPOLIS DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/df2dd510-0b99-4346-b016-58ce07875600.jpg",
+    "original": "./imagens/visualizacao/df2dd510-0b99-4346-b016-58ce07875600.jpg",
+    "criado_em": "2026-11-11T23:47:05.453649+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 958,
+        "altura": 609,
+        "bytes": 532282,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          143,
+          140,
+          128
+        ],
+        "luminosidade_media": 139.3,
+        "contraste_desvio": 76.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "8ca9fa0eb3c2914de53d9897109ebc4a5915dded16e045aec4b312b90e5e47de",
+    "dhash": "b4f47e3f68fdad2d"
   }
 ]
