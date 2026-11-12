@@ -16703,5 +16703,35 @@
     },
     "sha256": "4cb805286484f3aaf2cee88fa8d59ada960ce4daf1d5b91f67d1f939e626321f",
     "dhash": "c7cb6b4f672b1905"
+  },
+  {
+    "id": "d271d542-dd41-4294-a5ed-1660fddbcfee",
+    "titulo": "RUA DOMINGOS DE LIMA ENTRE AS AVENIDAS CUIABÁ E AMAZONAS DEC",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/d271d542-dd41-4294-a5ed-1660fddbcfee.jpg",
+    "original": "./imagens/visualizacao/d271d542-dd41-4294-a5ed-1660fddbcfee.jpg",
+    "criado_em": "2026-11-12T00:12:18.817111+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 907,
+        "altura": 680,
+        "bytes": 270556,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          214,
+          213,
+          198
+        ],
+        "luminosidade_media": 211.4,
+        "contraste_desvio": 60.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a75d5c87288216e26ac9580d72204eae99e040c69418bd175b2989bb6c8712c9",
+    "dhash": "c140239b92076107"
   }
 ]
