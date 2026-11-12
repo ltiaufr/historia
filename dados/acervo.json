@@ -17423,5 +17423,35 @@
     },
     "sha256": "bcacaf39c8cae6cddb9425adf6c5c4fef9ce1cda045bceb395c24d229d0df128",
     "dhash": "796b27425253d206"
+  },
+  {
+    "id": "e4f97c0e-affe-45f4-b89b-43f082a36430",
+    "titulo": "Visita a aldeia indígena",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e4f97c0e-affe-45f4-b89b-43f082a36430.jpg",
+    "original": "./imagens/visualizacao/e4f97c0e-affe-45f4-b89b-43f082a36430.jpg",
+    "criado_em": "2026-11-12T00:21:23.977724+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1428204,
+        "exif_data_digital": "2011:02:11 07:56:25",
+        "cor_media_rgb": [
+          143,
+          121,
+          86
+        ],
+        "luminosidade_media": 123.5,
+        "contraste_desvio": 43.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7cb4f84b567e6cd721b8e2320aabea40d04238667cf17d11f00a661d30874504",
+    "dhash": "2b8d4b0b9f6b8bb7"
   }
 ]
