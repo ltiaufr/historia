@@ -12983,5 +12983,35 @@
     },
     "sha256": "a0b058c6498df0dd31b919134e62f8911b436b4d218944f794aeb2fb6c0a1a64",
     "dhash": "b6268d810f972464"
+  },
+  {
+    "id": "2638e3c3-d041-413c-8613-64ea6c8df1f4",
+    "titulo": "Equipe Vila Operária Irmã Elza, Dona Calu...",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2638e3c3-d041-413c-8613-64ea6c8df1f4.jpg",
+    "original": "./imagens/visualizacao/2638e3c3-d041-413c-8613-64ea6c8df1f4.jpg",
+    "criado_em": "2026-11-11T23:27:39.000409+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 942,
+        "altura": 1494,
+        "bytes": 625406,
+        "exif_data_digital": "2011:01:06 14:56:36",
+        "cor_media_rgb": [
+          145,
+          146,
+          159
+        ],
+        "luminosidade_media": 147.3,
+        "contraste_desvio": 66.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4b10b24586ab7547832eee27b58835b54c754dfe2583d29d71120ac425c092b3",
+    "dhash": "9fd7e794989383ba"
   }
 ]
