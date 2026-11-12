@@ -16583,5 +16583,35 @@
     },
     "sha256": "71c5fdd71b6faa09a32a81a9b04b65dfde9e356b38453f6adbd6e12be78af2cc",
     "dhash": "0d0e1bb3979ff894"
+  },
+  {
+    "id": "8862c71d-4458-47b7-ac59-bd4901ee1e00",
+    "titulo": "Romaria dos Mártires 2010",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8862c71d-4458-47b7-ac59-bd4901ee1e00.jpg",
+    "original": "./imagens/visualizacao/8862c71d-4458-47b7-ac59-bd4901ee1e00.jpg",
+    "criado_em": "2026-11-12T00:10:46.154861+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2304,
+        "altura": 1536,
+        "bytes": 1910649,
+        "exif_data_digital": "2010:03:22 03:43:52",
+        "cor_media_rgb": [
+          105,
+          97,
+          99
+        ],
+        "luminosidade_media": 99.7,
+        "contraste_desvio": 67.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "bd4d8dbafb6056e2c36c9fdb1d0d051a693e97cf2d14580f4976fe3cff2bc458",
+    "dhash": "676fcf5751190a03"
   }
 ]
