@@ -11153,5 +11153,35 @@
     },
     "sha256": "58df32a10c8f3b689948d4c9a1ea790ec540008ac4a4ef756c0d881dd63472c7",
     "dhash": "0f41091d4800049c"
+  },
+  {
+    "id": "cbfa3a9f-c33e-494a-8b4f-5c8358c00939",
+    "titulo": "BANDA MARINHO E SEUS BEAT BOY´S RONDONOPOLIS DECADA DE 50",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/cbfa3a9f-c33e-494a-8b4f-5c8358c00939.jpg",
+    "original": "./imagens/visualizacao/cbfa3a9f-c33e-494a-8b4f-5c8358c00939.jpg",
+    "criado_em": "2026-11-11T23:06:04.953418+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 993,
+        "altura": 694,
+        "bytes": 311694,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          232,
+          217,
+          174
+        ],
+        "luminosidade_media": 216.3,
+        "contraste_desvio": 26.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e421971c54d1c56a147990f4c1932c326d8d3a197f336d634fc603ed9ab8f054",
+    "dhash": "d86464e4b2a6a684"
   }
 ]
