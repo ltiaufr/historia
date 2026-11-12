@@ -16913,5 +16913,35 @@
     },
     "sha256": "d0a5cf1288a52cf5fbedeae41046c4e77c72bd5112f89f697476fe0590b02c0a",
     "dhash": "2129a9190686c3e0"
+  },
+  {
+    "id": "4e07228b-f304-43ad-9bae-63bd7363118b",
+    "titulo": "Seminaristas Seminário Cuiabá 2009",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4e07228b-f304-43ad-9bae-63bd7363118b.jpg",
+    "original": "./imagens/visualizacao/4e07228b-f304-43ad-9bae-63bd7363118b.jpg",
+    "criado_em": "2026-11-12T00:15:01.772007+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 450,
+        "altura": 253,
+        "bytes": 33040,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          109,
+          106,
+          79
+        ],
+        "luminosidade_media": 103.9,
+        "contraste_desvio": 62.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "63caca4ad0bff3fa799c577c974f6483548e5cd3b3773ee5849553418059e499",
+    "dhash": "22331799dc3c3436"
   }
 ]
