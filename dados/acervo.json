@@ -14903,5 +14903,35 @@
     },
     "sha256": "cafff59c2baba97ca52a602425eb0dc8dcddd54123b72785cf389330541d087a",
     "dhash": "2f6bda9494d8fc3f"
+  },
+  {
+    "id": "85c805b2-60ae-4d6b-a861-c574c614000d",
+    "titulo": "Missões Igreja Matriz",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/85c805b2-60ae-4d6b-a861-c574c614000d.jpg",
+    "original": "./imagens/visualizacao/85c805b2-60ae-4d6b-a861-c574c614000d.jpg",
+    "criado_em": "2026-11-11T23:50:36.350175+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1672,
+        "altura": 1169,
+        "bytes": 788538,
+        "exif_data_digital": "2011:02:11 07:49:44",
+        "cor_media_rgb": [
+          104,
+          105,
+          92
+        ],
+        "luminosidade_media": 103.3,
+        "contraste_desvio": 47.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "0b6b1607f7395f9a2cb470eac25b6ffe4cc88dcdd61a008f44e86155741f8482",
+    "dhash": "b9399dd07a3a1eee"
   }
 ]
