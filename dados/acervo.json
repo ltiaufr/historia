@@ -17693,5 +17693,35 @@
     },
     "sha256": "2c6d522629b66060044b59c65654b25ec6a34613c944ff2e3b6ff624b8266654",
     "dhash": "7757373375f1ff79"
+  },
+  {
+    "id": "c49f8806-f261-42a9-aaff-ae791011968b",
+    "titulo": "Casario 1",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c49f8806-f261-42a9-aaff-ae791011968b.jpg",
+    "original": "./imagens/visualizacao/c49f8806-f261-42a9-aaff-ae791011968b.jpg",
+    "criado_em": "2026-11-12T00:59:20.397077+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 240,
+        "altura": 166,
+        "bytes": 11573,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          115,
+          122,
+          98
+        ],
+        "luminosidade_media": 117.0,
+        "contraste_desvio": 73.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b2107534c14b31ef244094876e232c3ad47c40ec9ec0e26de09ba4983de5f28f",
+    "dhash": "cd9a9f2343c9de9e"
   }
 ]
