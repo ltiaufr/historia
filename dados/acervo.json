@@ -11603,5 +11603,35 @@
     },
     "sha256": "bd2d23475bb12496b25d4355fefd95328c3d88beb7cd85cf3ca97382878f7205",
     "dhash": "ece93b3ebcfcd8f2"
+  },
+  {
+    "id": "28e9e507-b4c9-4428-ba17-872f2f854ee9",
+    "titulo": "CONJUNTO MARINHO E SEUS BEAT BOY´S DÉCADA DE 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/28e9e507-b4c9-4428-ba17-872f2f854ee9.jpg",
+    "original": "./imagens/visualizacao/28e9e507-b4c9-4428-ba17-872f2f854ee9.jpg",
+    "criado_em": "2026-11-11T23:11:19.145419+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 906,
+        "altura": 680,
+        "bytes": 210173,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          234,
+          223,
+          188
+        ],
+        "luminosidade_media": 222.3,
+        "contraste_desvio": 34.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a2264c69b6125738cc445070625dfc63deba54c7554ebacd8a964ad63e5d7122",
+    "dhash": "40032d6972e8d88f"
   }
 ]
