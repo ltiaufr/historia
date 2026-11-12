@@ -15503,5 +15503,35 @@
     },
     "sha256": "cd3d1362812d93605137b6755db882a89f77e251c02e1c2dbb5b1b456b6aa2e0",
     "dhash": "329c9c3c3cf6cabe"
+  },
+  {
+    "id": "2ffa87cd-ff31-4713-be04-8d7bac9c2b81",
+    "titulo": "PEOCISSÃO EM FRENTE Á ANTIGA IGREJA MATRIZ DECADA DE 50",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2ffa87cd-ff31-4713-be04-8d7bac9c2b81.jpg",
+    "original": "./imagens/visualizacao/2ffa87cd-ff31-4713-be04-8d7bac9c2b81.jpg",
+    "criado_em": "2026-11-11T23:57:35.414520+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1660,
+        "altura": 1387,
+        "bytes": 909816,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          204,
+          200,
+          180
+        ],
+        "luminosidade_media": 198.9,
+        "contraste_desvio": 64.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "94855c9db17d8c074daa6c4d7884298e3db5aaeec1abb69638cd185fb9467b6e",
+    "dhash": "717101c21200b067"
   }
 ]
