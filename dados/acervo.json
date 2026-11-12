@@ -14933,5 +14933,35 @@
     },
     "sha256": "0b6b1607f7395f9a2cb470eac25b6ffe4cc88dcdd61a008f44e86155741f8482",
     "dhash": "b9399dd07a3a1eee"
+  },
+  {
+    "id": "cd540697-b74f-4b6d-bf90-0ffbe220d110",
+    "titulo": "Missões Populares em Rondonópiolis 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/cd540697-b74f-4b6d-bf90-0ffbe220d110.jpg",
+    "original": "./imagens/visualizacao/cd540697-b74f-4b6d-bf90-0ffbe220d110.jpg",
+    "criado_em": "2026-11-11T23:50:56.943092+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1578,
+        "altura": 1129,
+        "bytes": 685633,
+        "exif_data_digital": "2011:02:11 07:48:54",
+        "cor_media_rgb": [
+          103,
+          102,
+          87
+        ],
+        "luminosidade_media": 100.7,
+        "contraste_desvio": 57.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "00cd4872df712737429f947fdbf86e29d0642a7f2b7faa556d64b6df9a7e1e46",
+    "dhash": "47074375cc469cdc"
   }
 ]
