@@ -11543,5 +11543,35 @@
     },
     "sha256": "717e30816b0223090df01e8fb0bf2dd16f006d81fbb8f4644dd2694e0b405a9f",
     "dhash": "18dab98898293d30"
+  },
+  {
+    "id": "90028e85-10b4-4e6a-91ae-15b51640a318",
+    "titulo": "Colégio Santo Antônio 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/90028e85-10b4-4e6a-91ae-15b51640a318.jpg",
+    "original": "./imagens/visualizacao/90028e85-10b4-4e6a-91ae-15b51640a318.jpg",
+    "criado_em": "2026-11-11T23:10:36.630834+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 821,
+        "bytes": 578668,
+        "exif_data_digital": "2011:02:11 07:50:03",
+        "cor_media_rgb": [
+          109,
+          111,
+          95
+        ],
+        "luminosidade_media": 108.7,
+        "contraste_desvio": 57.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "824cdd492813091edb69028a199b846be666d3dbd63d4b0d68a1f0a3fe6234fc",
+    "dhash": "96963c341494988c"
   }
 ]
