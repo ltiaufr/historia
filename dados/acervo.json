@@ -11513,5 +11513,35 @@
     },
     "sha256": "dcda4558b94e1631ad29858d45a929cb8715236359e9fe1c800a45a67dbf9141",
     "dhash": "8785958d060c31c4"
+  },
+  {
+    "id": "6c5983bd-a09c-485c-93d3-d6bef71cd697",
+    "titulo": "Cisterna Vila Operária",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/6c5983bd-a09c-485c-93d3-d6bef71cd697.jpg",
+    "original": "./imagens/visualizacao/6c5983bd-a09c-485c-93d3-d6bef71cd697.jpg",
+    "criado_em": "2026-11-11T23:10:16.507010+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 712,
+        "altura": 1074,
+        "bytes": 500375,
+        "exif_data_digital": "2011:02:11 07:23:11",
+        "cor_media_rgb": [
+          156,
+          149,
+          148
+        ],
+        "luminosidade_media": 150.9,
+        "contraste_desvio": 84.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "717e30816b0223090df01e8fb0bf2dd16f006d81fbb8f4644dd2694e0b405a9f",
+    "dhash": "18dab98898293d30"
   }
 ]
