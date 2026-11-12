@@ -13913,5 +13913,35 @@
     },
     "sha256": "375cfadbe40b7c1c5f123b508f83b1fa73473d057eaddf7451029859f9f4f587",
     "dhash": "991c3a96623cb8e0"
+  },
+  {
+    "id": "f6188694-2ddb-4f7a-8641-28d76971afe9",
+    "titulo": "II Assembléia Diocesana Liturgia 0ut 1996",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f6188694-2ddb-4f7a-8641-28d76971afe9.jpg",
+    "original": "./imagens/visualizacao/f6188694-2ddb-4f7a-8641-28d76971afe9.jpg",
+    "criado_em": "2026-11-11T23:38:51.429018+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1498,
+        "altura": 991,
+        "bytes": 700961,
+        "exif_data_digital": "2011:01:05 14:45:56",
+        "cor_media_rgb": [
+          97,
+          78,
+          79
+        ],
+        "luminosidade_media": 83.8,
+        "contraste_desvio": 52.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "53e42f61cca1b6ee6ecde8f4f7ee25116c5ca151e4d8d7cb1cf362d64a43349e",
+    "dhash": "a0b41414830b23a7"
   }
 ]
