@@ -12263,5 +12263,35 @@
     },
     "sha256": "21a724d687a2c1ff077ca8e34cd0cad9510005508c131545614675f183f302a4",
     "dhash": "63ded6d4dcdcda2f"
+  },
+  {
+    "id": "bd114032-edfa-4102-a1ee-a95338956ded",
+    "titulo": "D. Osório com equipe Vila Operária",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/bd114032-edfa-4102-a1ee-a95338956ded.jpg",
+    "original": "./imagens/visualizacao/bd114032-edfa-4102-a1ee-a95338956ded.jpg",
+    "criado_em": "2026-11-11T23:18:56.483143+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1588,
+        "altura": 1080,
+        "bytes": 711871,
+        "exif_data_digital": "2011:01:06 15:08:12",
+        "cor_media_rgb": [
+          101,
+          100,
+          95
+        ],
+        "luminosidade_media": 99.8,
+        "contraste_desvio": 49.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "73a3bbbab39c632d003ea880fd9b0d488e0fffd24d92da261d28c2f8e918295a",
+    "dhash": "233b3bcc4d09ea26"
   }
 ]
