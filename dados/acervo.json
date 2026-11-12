@@ -13823,5 +13823,35 @@
     },
     "sha256": "5aa1bc339f71fefb4a2d2a3955d30d8f7b38d624f8ac2545e48a669d9c602a97",
     "dhash": "4c0c4882a664c008"
+  },
+  {
+    "id": "e725fed2-36d5-4fc6-b894-07df608f0794",
+    "titulo": "Igreja Matriz de Cáceres MT",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e725fed2-36d5-4fc6-b894-07df608f0794.jpg",
+    "original": "./imagens/visualizacao/e725fed2-36d5-4fc6-b894-07df608f0794.jpg",
+    "criado_em": "2026-11-11T23:37:47.460727+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 768,
+        "bytes": 384177,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          82,
+          74,
+          82
+        ],
+        "luminosidade_media": 77.4,
+        "contraste_desvio": 32.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "01d5196e567ad58c8493ccb4c91e371a5b1a6c26c25ddd10b0efead47febb39c",
+    "dhash": "6a523a1a9e9ebcbe"
   }
 ]
