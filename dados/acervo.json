@@ -17303,5 +17303,35 @@
     },
     "sha256": "ded0687ca4c8aa327c2c23cd4b40c5c095b9e416e1bd8be698962ac99adc2cb5",
     "dhash": "2343c2524b444a62"
+  },
+  {
+    "id": "68e636bc-5f27-4b9a-9050-320f91fdadd3",
+    "titulo": "TURMA DE ESTUDOS SOCIAIS C P R 1980 (ESCOLA JOAQUIM NUNES RO",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/68e636bc-5f27-4b9a-9050-320f91fdadd3.jpg",
+    "original": "./imagens/visualizacao/68e636bc-5f27-4b9a-9050-320f91fdadd3.jpg",
+    "criado_em": "2026-11-12T00:19:48.778894+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1880,
+        "altura": 1387,
+        "bytes": 1109605,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          151,
+          146,
+          131
+        ],
+        "luminosidade_media": 145.9,
+        "contraste_desvio": 50.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "78f4dcd129c69e88e5eab41f0fb5e1d03a426271852b9e415f794d47bab8784e",
+    "dhash": "1a30206054942c01"
   }
 ]
