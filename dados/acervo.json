@@ -12893,5 +12893,35 @@
     },
     "sha256": "7d4b11677e7575934accb5a96a0377a99872c57b8ea2b03e66295b37b43a73c8",
     "dhash": "1f0f1b0a1a1a1e0f"
+  },
+  {
+    "id": "4dcb6d74-5df1-494b-bd8a-7242f21ff185",
+    "titulo": "Entrevista Fátima 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4dcb6d74-5df1-494b-bd8a-7242f21ff185.jpg",
+    "original": "./imagens/visualizacao/4dcb6d74-5df1-494b-bd8a-7242f21ff185.jpg",
+    "criado_em": "2026-11-11T23:26:35.611289+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1280,
+        "altura": 960,
+        "bytes": 363133,
+        "exif_data_digital": "2008:01:01 12:00:00",
+        "cor_media_rgb": [
+          97,
+          108,
+          89
+        ],
+        "luminosidade_media": 102.3,
+        "contraste_desvio": 47.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a85ced66d1ef3de30ce55231da1151e5b658a910897d88fbfe5223dd3168e44d",
+    "dhash": "cfa6bf27273bb3bb"
   }
 ]
