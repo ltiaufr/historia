@@ -15113,5 +15113,35 @@
     },
     "sha256": "8e1cfd9744f175d1f40a50a579ac09ab438f69eeea39bfdeaaf7ec073957d642",
     "dhash": "0e8c129282848e8a"
+  },
+  {
+    "id": "c034098c-95b5-47bc-b5a3-dbc41ca585d7",
+    "titulo": "O Bari   Xamã, que preside o Ritual Funeral",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c034098c-95b5-47bc-b5a3-dbc41ca585d7.jpg",
+    "original": "./imagens/visualizacao/c034098c-95b5-47bc-b5a3-dbc41ca585d7.jpg",
+    "criado_em": "2026-11-11T23:52:58.161979+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 800,
+        "altura": 1184,
+        "bytes": 380517,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          118,
+          99,
+          102
+        ],
+        "luminosidade_media": 104.7,
+        "contraste_desvio": 48.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "702c2a9044602d54876d4f200b25776bc92079b1762de811aa3aaa64d0edb7e4",
+    "dhash": "b88e89312819ccf2"
   }
 ]
