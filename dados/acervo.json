@@ -17333,5 +17333,35 @@
     },
     "sha256": "78f4dcd129c69e88e5eab41f0fb5e1d03a426271852b9e415f794d47bab8784e",
     "dhash": "1a30206054942c01"
+  },
+  {
+    "id": "420fcbbc-269e-4fd8-bd32-e227ea4bb136",
+    "titulo": "Túmulo de D. Vunibaldo Alemanha",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/420fcbbc-269e-4fd8-bd32-e227ea4bb136.jpg",
+    "original": "./imagens/visualizacao/420fcbbc-269e-4fd8-bd32-e227ea4bb136.jpg",
+    "criado_em": "2026-11-12T00:20:12.206666+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1040,
+        "altura": 1426,
+        "bytes": 639811,
+        "exif_data_digital": "2011:02:11 08:06:24",
+        "cor_media_rgb": [
+          165,
+          119,
+          86
+        ],
+        "luminosidade_media": 129.1,
+        "contraste_desvio": 34.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a2c7b675ffc56d1250b5d126150fff4cfd18ec427dd29fd34c8cbe28e4a25507",
+    "dhash": "a0346c615cd9a02c"
   }
 ]
