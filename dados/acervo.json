@@ -17753,5 +17753,35 @@
     },
     "sha256": "235f967ad1e8a63b7f15f3d23581d9b722ebaf0f5a56ae20346efab9a448cf04",
     "dhash": "9c0c5a1e31791d17"
+  },
+  {
+    "id": "4a037dc3-6d1e-4f71-8f35-8eec812bd621",
+    "titulo": "Guarita do Campus de Roo 1986",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4a037dc3-6d1e-4f71-8f35-8eec812bd621.jpg",
+    "original": "./imagens/visualizacao/4a037dc3-6d1e-4f71-8f35-8eec812bd621.jpg",
+    "criado_em": "2026-11-12T01:00:02.134189+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2340,
+        "altura": 1700,
+        "bytes": 2082448,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          207,
+          209,
+          212
+        ],
+        "luminosidade_media": 209.0,
+        "contraste_desvio": 52.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "20b6322b79d9ca209ed63e006d212bc7a7ad0c5ec0a834e28ffb736cb484a911",
+    "dhash": "010100a5630e060e"
   }
 ]
