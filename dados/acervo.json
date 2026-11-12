@@ -11273,5 +11273,35 @@
     },
     "sha256": "e1c26bf5e07800a2ef13f7f0d284dc5292d09148420e7e07f995c05dd30a81b3",
     "dhash": "fdd252f4e6e030fc"
+  },
+  {
+    "id": "fdd88dc0-e9f1-4434-82e3-c9716fcd9c38",
+    "titulo": "CARRO DE BOI NA PRAÇA DOS CARREIROS NA DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/fdd88dc0-e9f1-4434-82e3-c9716fcd9c38.jpg",
+    "original": "./imagens/visualizacao/fdd88dc0-e9f1-4434-82e3-c9716fcd9c38.jpg",
+    "criado_em": "2026-11-11T23:07:31.441183+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1024,
+        "altura": 706,
+        "bytes": 417572,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          206,
+          203,
+          189
+        ],
+        "luminosidade_media": 202.5,
+        "contraste_desvio": 63.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "64aeeafb00067fd0c57ad830899250dcade11225fd8ad17516ca997b6bd9cfd0",
+    "dhash": "4b410e6ca048f0e0"
   }
 ]
