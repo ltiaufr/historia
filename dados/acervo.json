@@ -17213,5 +17213,35 @@
     },
     "sha256": "406d9a8deb587d3258f828bf0cf3fa7ee45925c8ba914b15d5518a168c82355b",
     "dhash": "3b02d0f8b0f0e089"
+  },
+  {
+    "id": "659f084d-bf98-4906-9f7a-6c29123fcf46",
+    "titulo": "TRABALHADOR DA CEMAT ( MOTOR DE LUZ) DECADA DE 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/659f084d-bf98-4906-9f7a-6c29123fcf46.jpg",
+    "original": "./imagens/visualizacao/659f084d-bf98-4906-9f7a-6c29123fcf46.jpg",
+    "criado_em": "2026-11-12T00:18:39.318421+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 687,
+        "altura": 940,
+        "bytes": 179088,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          229,
+          223,
+          201
+        ],
+        "luminosidade_media": 222.1,
+        "contraste_desvio": 56.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1b846396d0307eabb1a521b139afdd1749974bfefefac94ab482d7006a1f29fc",
+    "dhash": "50515153573f7c2c"
   }
 ]
