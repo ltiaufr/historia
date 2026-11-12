@@ -14723,5 +14723,35 @@
     },
     "sha256": "11c3eb2725d89f08fafd5e4f1fe2dd46214b2bbe5a15d9ffb35cb70a097e236e",
     "dhash": "dc79793899969b8d"
+  },
+  {
+    "id": "8551aa91-0391-4291-b1d6-a821be8ddebc",
+    "titulo": "MAJOR OTAVIOP PITALUGA FAZENDO ANOTAÇÕES JUNTO AO APARELHO M",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8551aa91-0391-4291-b1d6-a821be8ddebc.jpg",
+    "original": "./imagens/visualizacao/8551aa91-0391-4291-b1d6-a821be8ddebc.jpg",
+    "criado_em": "2026-11-11T23:48:26.688904+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1166,
+        "altura": 787,
+        "bytes": 386789,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          152,
+          105,
+          107
+        ],
+        "luminosidade_media": 119.1,
+        "contraste_desvio": 36.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "de689153c949f167fa59c5308e5710c7085a580bfb9c8bed21a6b3ddde1c402c",
+    "dhash": "3c38983939191938"
   }
 ]
