@@ -13313,5 +13313,35 @@
     },
     "sha256": "fd8ebc808ef0bf2223c09dca9e461fbe7273ba696e33ce315bf2f856f01e7ac2",
     "dhash": "91a0216e36f793e0"
+  },
+  {
+    "id": "8303cdb7-a03b-4779-b43e-0a4e4024faeb",
+    "titulo": "Freis em São Lourenço de Fátima",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8303cdb7-a03b-4779-b43e-0a4e4024faeb.jpg",
+    "original": "./imagens/visualizacao/8303cdb7-a03b-4779-b43e-0a4e4024faeb.jpg",
+    "criado_em": "2026-11-11T23:31:35.896742+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 824,
+        "altura": 603,
+        "bytes": 175919,
+        "exif_data_digital": "2011:02:11 07:51:19",
+        "cor_media_rgb": [
+          108,
+          104,
+          84
+        ],
+        "luminosidade_media": 103.2,
+        "contraste_desvio": 66.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "894e260bdb767442f8268c6a3d2650a153931768f9b4b5a6d755e82dbe59ac3b",
+    "dhash": "cc882424260b2f4c"
   }
 ]
