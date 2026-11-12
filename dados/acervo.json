@@ -15743,5 +15743,35 @@
     },
     "sha256": "2982a7e8cdca3241ea76b8cac64d8101971b948530304d3aefa2f19e16bc4061",
     "dhash": "8600f6d080836b69"
+  },
+  {
+    "id": "21a16d93-da40-4adc-93a9-8f176b27dd18",
+    "titulo": "PRAÇA CENTRAL DE RONDONOPOLIS DECADA DE 50",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/21a16d93-da40-4adc-93a9-8f176b27dd18.jpg",
+    "original": "./imagens/visualizacao/21a16d93-da40-4adc-93a9-8f176b27dd18.jpg",
+    "criado_em": "2026-11-12T00:00:21.978346+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 827,
+        "altura": 620,
+        "bytes": 193312,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          191,
+          188,
+          174
+        ],
+        "luminosidade_media": 187.5,
+        "contraste_desvio": 66.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1bcf7dc247fbee4b1bc0f08b97597a9feaa561c3a5ebc2724f97189e002b34b4",
+    "dhash": "12960f5ee4e4e8f0"
   }
 ]
