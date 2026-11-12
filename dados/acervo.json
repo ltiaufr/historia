@@ -10823,5 +10823,35 @@
     },
     "sha256": "4541290b016ce8dcf42e874caac0f23af23aa673edd90c20f3b6d9032a69f81f",
     "dhash": "86869c853d6863c2"
+  },
+  {
+    "id": "35d99761-4d6d-4b6e-b09b-ec94ccad2709",
+    "titulo": "AGÊNCIA DA BALEIA DECADA DE 50 AVENIDA MARECHAL RONDON",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/35d99761-4d6d-4b6e-b09b-ec94ccad2709.jpg",
+    "original": "./imagens/visualizacao/35d99761-4d6d-4b6e-b09b-ec94ccad2709.jpg",
+    "criado_em": "2026-11-11T23:01:52.505113+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1000,
+        "altura": 700,
+        "bytes": 210946,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          231,
+          224,
+          199
+        ],
+        "luminosidade_media": 223.2,
+        "contraste_desvio": 36.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "d2e2fdfa49f1d15a8a6a08669ff82f7d5f0466318fa07a0e60f99f9a8dd67d05",
+    "dhash": "f3fbf97473f861c2"
   }
 ]
