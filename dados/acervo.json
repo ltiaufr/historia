@@ -15053,5 +15053,35 @@
     },
     "sha256": "8af40e1b1f60d3e7dc42399d83afe4e604c003798ff1381fc8aa1c96767da20a",
     "dhash": "363f15d793c30727"
+  },
+  {
+    "id": "1a86449d-734f-4d68-812d-a269f723c41a",
+    "titulo": "Não a Legenda",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1a86449d-734f-4d68-812d-a269f723c41a.jpg",
+    "original": "./imagens/visualizacao/1a86449d-734f-4d68-812d-a269f723c41a.jpg",
+    "criado_em": "2026-11-11T23:52:19.025437+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 800,
+        "bytes": 384217,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          178,
+          144,
+          147
+        ],
+        "luminosidade_media": 154.8,
+        "contraste_desvio": 57.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "bb4108b358f4d27fa0ae1b84fafc27f29ccf2948c4d8cfab7a8221eeb1d16805",
+    "dhash": "9f9f83e3e6dadab6"
   }
 ]
