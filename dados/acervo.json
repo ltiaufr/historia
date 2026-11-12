@@ -17363,5 +17363,35 @@
     },
     "sha256": "a2c7b675ffc56d1250b5d126150fff4cfd18ec427dd29fd34c8cbe28e4a25507",
     "dhash": "a0346c615cd9a02c"
+  },
+  {
+    "id": "ebabd4ef-303d-4879-937c-92bb2220cb91",
+    "titulo": "Viagem para Vila Bela da Santíssima Trindade",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ebabd4ef-303d-4879-937c-92bb2220cb91.jpg",
+    "original": "./imagens/visualizacao/ebabd4ef-303d-4879-937c-92bb2220cb91.jpg",
+    "criado_em": "2026-11-12T00:20:36.478618+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1248,
+        "altura": 1632,
+        "bytes": 652218,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          226,
+          227,
+          230
+        ],
+        "luminosidade_media": 227.4,
+        "contraste_desvio": 49.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e25ecbc5446cc21ef64ed06454222e7a8beabbb886e3a32ae957469f37934edf",
+    "dhash": "a0a23820e4a48050"
   }
 ]
