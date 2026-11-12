@@ -17003,5 +17003,35 @@
     },
     "sha256": "602a671a21c4a01d58c660b3ba21a986550fe1be15aece5c039dec388a5c0791",
     "dhash": "1c7d6c6c1cdde3b9"
+  },
+  {
+    "id": "a4e5c96a-de2d-4007-87d8-60086597b686",
+    "titulo": "Seminário 4",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a4e5c96a-de2d-4007-87d8-60086597b686.jpg",
+    "original": "./imagens/visualizacao/a4e5c96a-de2d-4007-87d8-60086597b686.jpg",
+    "criado_em": "2026-11-12T00:16:02.514502+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 450,
+        "altura": 338,
+        "bytes": 43806,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          118,
+          133,
+          96
+        ],
+        "luminosidade_media": 124.4,
+        "contraste_desvio": 75.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "30555db84b20cd4cfe914fc53086928721901e6df16d7fadf3badae3aa792138",
+    "dhash": "989899999e969efe"
   }
 ]
