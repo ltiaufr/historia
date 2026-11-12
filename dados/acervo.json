@@ -14873,5 +14873,35 @@
     },
     "sha256": "f77bd1aee10e4f9f932ecf6da0b4e4a15ddc9470d72bc26a08e2c13c2a76ca36",
     "dhash": "755dcad326852a74"
+  },
+  {
+    "id": "e83b3c60-9155-4057-99f5-da9f9a6a2e01",
+    "titulo": "Missões   Relojoaria Cyma Rondonópolis",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e83b3c60-9155-4057-99f5-da9f9a6a2e01.jpg",
+    "original": "./imagens/visualizacao/e83b3c60-9155-4057-99f5-da9f9a6a2e01.jpg",
+    "criado_em": "2026-11-11T23:50:14.169139+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1337,
+        "altura": 971,
+        "bytes": 504079,
+        "exif_data_digital": "2011:02:11 07:47:32",
+        "cor_media_rgb": [
+          151,
+          148,
+          125
+        ],
+        "luminosidade_media": 146.1,
+        "contraste_desvio": 50.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "cafff59c2baba97ca52a602425eb0dc8dcddd54123b72785cf389330541d087a",
+    "dhash": "2f6bda9494d8fc3f"
   }
 ]
