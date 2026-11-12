@@ -15233,5 +15233,35 @@
     },
     "sha256": "5b2a34e7f1e4c51e1968dec0260a7a25a90fc9eaa4fe5611c335a1dafbefca6b",
     "dhash": "64c4c4d4d9b1b0e8"
+  },
+  {
+    "id": "dcc3e18b-fc57-45af-ba36-04b614ac9654",
+    "titulo": "padres e D. Osório",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/dcc3e18b-fc57-45af-ba36-04b614ac9654.jpg",
+    "original": "./imagens/visualizacao/dcc3e18b-fc57-45af-ba36-04b614ac9654.jpg",
+    "criado_em": "2026-11-11T23:54:22.735333+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1308853,
+        "exif_data_digital": "2011:01:06 14:31:10",
+        "cor_media_rgb": [
+          132,
+          96,
+          94
+        ],
+        "luminosidade_media": 106.4,
+        "contraste_desvio": 42.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "3f4a4e6cc14ccf96b14131730d3da0ed01db8ff32d152e8a06cb7bea9edd4123",
+    "dhash": "4256d2d264496337"
   }
 ]
