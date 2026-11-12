@@ -13373,5 +13373,35 @@
     },
     "sha256": "e0bddefbe857456271c4e0ac2e224ba649e3983b8ed9f9cc0c2a95c9b4da3b4a",
     "dhash": "89690eaae3938283"
+  },
+  {
+    "id": "6f8275c7-9740-46bd-a8a9-c66a31b77bfd",
+    "titulo": "FRENTE DA IGREJA MATRIZ RUA ARNALDO ESTEVÃO DE FIGUEIREDO DE",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/6f8275c7-9740-46bd-a8a9-c66a31b77bfd.jpg",
+    "original": "./imagens/visualizacao/6f8275c7-9740-46bd-a8a9-c66a31b77bfd.jpg",
+    "criado_em": "2026-11-11T23:32:19.528388+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 913,
+        "altura": 680,
+        "bytes": 411363,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          189,
+          185,
+          167
+        ],
+        "luminosidade_media": 184.0,
+        "contraste_desvio": 33.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "62dcec0619449acd081a23b34d4e2549fc04ccc21a582cf249630a45dfd0d22a",
+    "dhash": "b9394b16b0a10580"
   }
 ]
