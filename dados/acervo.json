@@ -12623,5 +12623,35 @@
     },
     "sha256": "c34f10719740fae2eb1ba47215112b81ba0acb9653158a9f880614d39ae8beb9",
     "dhash": "056161d1c0048283"
+  },
+  {
+    "id": "a2df7c39-de6e-4168-ab86-7be36439ac52",
+    "titulo": "D. Vunibaldo visita região de diamentes",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a2df7c39-de6e-4168-ab86-7be36439ac52.jpg",
+    "original": "./imagens/visualizacao/a2df7c39-de6e-4168-ab86-7be36439ac52.jpg",
+    "criado_em": "2026-11-11T23:23:15.980684+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1298,
+        "altura": 852,
+        "bytes": 454773,
+        "exif_data_digital": "2011:02:11 07:26:46",
+        "cor_media_rgb": [
+          121,
+          118,
+          94
+        ],
+        "luminosidade_media": 116.0,
+        "contraste_desvio": 47.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ed25d4b041eb1127b1d38313709c599b0c45189358959a813e977a87e2e212c5",
+    "dhash": "13194caf9b9b1b37"
   }
 ]
