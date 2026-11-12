@@ -16103,5 +16103,35 @@
     },
     "sha256": "f85f51ee668056bf217a21109475636e44e2a062a218e8365c765a53ffd9fce5",
     "dhash": "6363a3c3cb893321"
+  },
+  {
+    "id": "c08cbbc9-b3fa-4568-8bb6-e771d8a8c9df",
+    "titulo": "PROF LUZIA GUIMARÃES REITORA DA UFMT CUR 1995",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c08cbbc9-b3fa-4568-8bb6-e771d8a8c9df.jpg",
+    "original": "./imagens/visualizacao/c08cbbc9-b3fa-4568-8bb6-e771d8a8c9df.jpg",
+    "criado_em": "2026-11-12T00:04:44.471216+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 774,
+        "altura": 1146,
+        "bytes": 369591,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          114,
+          105,
+          116
+        ],
+        "luminosidade_media": 108.6,
+        "contraste_desvio": 54.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "d385e7b3a5a958763d27bbf247e251dfc6ab3011f31c0b34e81906d60c7918c6",
+    "dhash": "aecd43c7c7c38383"
   }
 ]
