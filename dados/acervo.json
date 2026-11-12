@@ -14753,5 +14753,35 @@
     },
     "sha256": "de689153c949f167fa59c5308e5710c7085a580bfb9c8bed21a6b3ddde1c402c",
     "dhash": "3c38983939191938"
+  },
+  {
+    "id": "2ed135f5-8685-42c5-a6ed-86ec7a4f4bf7",
+    "titulo": "MARCOS TERENA  2ªSEMANA CULTURAL 1982 C.P.R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2ed135f5-8685-42c5-a6ed-86ec7a4f4bf7.jpg",
+    "original": "./imagens/visualizacao/2ed135f5-8685-42c5-a6ed-86ec7a4f4bf7.jpg",
+    "criado_em": "2026-11-11T23:48:46.849431+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 900,
+        "altura": 1380,
+        "bytes": 419872,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          174,
+          173,
+          163
+        ],
+        "luminosidade_media": 172.5,
+        "contraste_desvio": 67.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "433b17c6406474c7ac4f5bc69bdb93f2dd5fbb1e5725182ea7e2bb19d6b188d4",
+    "dhash": "e6e5e2c7435ac010"
   }
 ]
