@@ -11003,5 +11003,35 @@
     },
     "sha256": "3d3252d873eda7928a5f505731f3c6eb17d0cd9583022ac4410335153f5b1886",
     "dhash": "c2ea7c0c2619f8d2"
+  },
+  {
+    "id": "7811c625-ff8e-4e4d-b869-8e6507471a7d",
+    "titulo": "AVENIDA AMAZONAS ENTRE AS RUAS ARNALDO ESTEVÃO E 13 DE MAIO",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7811c625-ff8e-4e4d-b869-8e6507471a7d.jpg",
+    "original": "./imagens/visualizacao/7811c625-ff8e-4e4d-b869-8e6507471a7d.jpg",
+    "criado_em": "2026-11-11T23:04:14.326038+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1002,
+        "altura": 698,
+        "bytes": 431105,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          168,
+          161,
+          144
+        ],
+        "luminosidade_media": 161.4,
+        "contraste_desvio": 71.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b01c03e8baf36f6edad21395f825232a7610a8fb19c2696e1c69a95dabe55d44",
+    "dhash": "cc949cc862c26226"
   }
 ]
