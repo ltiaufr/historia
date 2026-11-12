@@ -11213,5 +11213,35 @@
     },
     "sha256": "4a1a1a95d77ff338df0d81a2959994e58a2f377aab20b37ebdb2266f063baeb4",
     "dhash": "3c2c2386cc4401a8"
+  },
+  {
+    "id": "c3cf637e-9f2a-4059-a8da-2132a662ab11",
+    "titulo": "C P R(da esquerda para direita) professores CIRANY DILCENY",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c3cf637e-9f2a-4059-a8da-2132a662ab11.jpg",
+    "original": "./imagens/visualizacao/c3cf637e-9f2a-4059-a8da-2132a662ab11.jpg",
+    "criado_em": "2026-11-11T23:06:47.463556+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1886,
+        "altura": 1374,
+        "bytes": 610307,
+        "exif_data_digital": "2026:11:10 23:44:27",
+        "cor_media_rgb": [
+          156,
+          153,
+          141
+        ],
+        "luminosidade_media": 152.2,
+        "contraste_desvio": 55.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "34979d8529cbba5e8cc690344501583da28ac1f18101e1db0952e5903df76bfe",
+    "dhash": "d8500c4d526c393e"
   }
 ]
