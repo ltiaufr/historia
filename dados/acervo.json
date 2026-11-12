@@ -17813,5 +17813,35 @@
     },
     "sha256": "d70a89c6814bad024be2494bf006c2c4994b88567b062574494fea343f880a36",
     "dhash": "dcf8d8babefefbf9"
+  },
+  {
+    "id": "8ea9886e-2c43-4129-855f-b1ee2ead6ae1",
+    "titulo": "Igreja Matriz   década de 60 cópia",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8ea9886e-2c43-4129-855f-b1ee2ead6ae1.jpg",
+    "original": "./imagens/visualizacao/8ea9886e-2c43-4129-855f-b1ee2ead6ae1.jpg",
+    "criado_em": "2026-11-12T01:00:45.674184+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1575,
+        "altura": 1150,
+        "bytes": 274621,
+        "exif_data_digital": "2009:09:13 11:03:42",
+        "cor_media_rgb": [
+          188,
+          182,
+          164
+        ],
+        "luminosidade_media": 181.3,
+        "contraste_desvio": 40.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "48b38838441d559aee67075e7f493156844ea339c998b0a78f88fa469133a050",
+    "dhash": "b9396b1e181711d0"
   }
 ]
