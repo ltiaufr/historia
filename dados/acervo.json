@@ -11183,5 +11183,35 @@
     },
     "sha256": "e421971c54d1c56a147990f4c1932c326d8d3a197f336d634fc603ed9ab8f054",
     "dhash": "d86464e4b2a6a684"
+  },
+  {
+    "id": "87898db4-0490-42c6-8cb5-e958eec5119c",
+    "titulo": "Bóe emejera Lider Político da Aldeia",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/87898db4-0490-42c6-8cb5-e958eec5119c.jpg",
+    "original": "./imagens/visualizacao/87898db4-0490-42c6-8cb5-e958eec5119c.jpg",
+    "criado_em": "2026-11-11T23:06:25.086340+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 800,
+        "bytes": 273014,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          173,
+          135,
+          113
+        ],
+        "luminosidade_media": 143.9,
+        "contraste_desvio": 35.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4a1a1a95d77ff338df0d81a2959994e58a2f377aab20b37ebdb2266f063baeb4",
+    "dhash": "3c2c2386cc4401a8"
   }
 ]
