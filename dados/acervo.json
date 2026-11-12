@@ -11483,5 +11483,35 @@
     },
     "sha256": "d32e0d65f08bbc62e26cd24314b57f5332edc585bfe9cb22531e72247359c696",
     "dhash": "34a4e66662f273bf"
+  },
+  {
+    "id": "5150a833-102c-4910-bae7-608afbee2745",
+    "titulo": "CEPA  Década de 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5150a833-102c-4910-bae7-608afbee2745.jpg",
+    "original": "./imagens/visualizacao/5150a833-102c-4910-bae7-608afbee2745.jpg",
+    "criado_em": "2026-11-11T23:09:55.702816+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1593,
+        "altura": 889,
+        "bytes": 560007,
+        "exif_data_digital": "2011:01:05 14:18:39",
+        "cor_media_rgb": [
+          86,
+          88,
+          130
+        ],
+        "luminosidade_media": 92.1,
+        "contraste_desvio": 48.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "dcda4558b94e1631ad29858d45a929cb8715236359e9fe1c800a45a67dbf9141",
+    "dhash": "8785958d060c31c4"
   }
 ]
