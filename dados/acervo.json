@@ -15803,5 +15803,35 @@
     },
     "sha256": "fc3d2c1dc1e98531c90489b442a4d5e869a7e10ea23c110e979246f3e63bc1a6",
     "dhash": "c3b8b1c0f8f8d060"
+  },
+  {
+    "id": "662a2f09-1479-46f4-a354-554d314ce184",
+    "titulo": "PRAÇA DOS CARREIROS ( AO FUNDO ESQUINA DA AVENIDA MARECHAL R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/662a2f09-1479-46f4-a354-554d314ce184.jpg",
+    "original": "./imagens/visualizacao/662a2f09-1479-46f4-a354-554d314ce184.jpg",
+    "criado_em": "2026-11-12T00:01:06.881941+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 928,
+        "altura": 683,
+        "bytes": 128610,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          191,
+          189,
+          177
+        ],
+        "luminosidade_media": 188.2,
+        "contraste_desvio": 70.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "324d78e242f61c0e0e67da6215d8c3372a2e897df5cb2784399bd8202ada19de",
+    "dhash": "88e3f17870e00160"
   }
 ]
