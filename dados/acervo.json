@@ -13703,5 +13703,35 @@
     },
     "sha256": "9bc508a22c9eca4d826ed1c521fe067071d31523da986499fc9eff9e9de4a39a",
     "dhash": "1911919a0a2d0141"
+  },
+  {
+    "id": "024631cd-a3da-4b38-8c93-91449ff3b4f6",
+    "titulo": "Igreja Católica e Igreja Batista em Jaciara",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/024631cd-a3da-4b38-8c93-91449ff3b4f6.jpg",
+    "original": "./imagens/visualizacao/024631cd-a3da-4b38-8c93-91449ff3b4f6.jpg",
+    "criado_em": "2026-11-11T23:36:21.612933+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1936,
+        "altura": 631,
+        "bytes": 351358,
+        "exif_data_digital": "2011:02:11 07:36:45",
+        "cor_media_rgb": [
+          147,
+          139,
+          112
+        ],
+        "luminosidade_media": 138.6,
+        "contraste_desvio": 71.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9d88d67febb0bd3a441cfd6c0db8dc7b324b6d2b4df25b49e993fc6eee36d2b0",
+    "dhash": "0f47175d650b1f1f"
   }
 ]
