@@ -17543,5 +17543,35 @@
     },
     "sha256": "de8cfdca73031c3458268ebb4da5a88b5a2b29d3343d51cc551892c48e32b20d",
     "dhash": "81c68696beb49098"
+  },
+  {
+    "id": "3aa64248-53eb-4d39-b2e0-4d75a8d28aa4",
+    "titulo": "VISTA PARCIAL DE RONDONOPOLIS DECADA DE 70( EMBAIXO PRAÇA BR",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3aa64248-53eb-4d39-b2e0-4d75a8d28aa4.jpg",
+    "original": "./imagens/visualizacao/3aa64248-53eb-4d39-b2e0-4d75a8d28aa4.jpg",
+    "criado_em": "2026-11-12T00:22:56.483716+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 906,
+        "altura": 714,
+        "bytes": 316516,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          209,
+          190,
+          148
+        ],
+        "luminosidade_media": 191.2,
+        "contraste_desvio": 39.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ce5d33945accc6e1e014cea702b99feb87b7116a93b58c6cc0e8f7dda1288e11",
+    "dhash": "e0e4646270e0f131"
   }
 ]
