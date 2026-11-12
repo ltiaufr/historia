@@ -12383,5 +12383,35 @@
     },
     "sha256": "533c2530dd3529078c6e13840c4bfca91aed3e0cf4e3196dab3db9cc02f3cc19",
     "dhash": "c1ec46a92cacb0c6"
+  },
+  {
+    "id": "2e60e506-1212-4f23-94df-e20dc58635a7",
+    "titulo": "D. Vunibaldo e caciques indígenas 1944",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2e60e506-1212-4f23-94df-e20dc58635a7.jpg",
+    "original": "./imagens/visualizacao/2e60e506-1212-4f23-94df-e20dc58635a7.jpg",
+    "criado_em": "2026-11-11T23:20:22.010261+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1410,
+        "altura": 920,
+        "bytes": 454541,
+        "exif_data_digital": "2011:02:11 07:27:48",
+        "cor_media_rgb": [
+          156,
+          152,
+          143
+        ],
+        "luminosidade_media": 152.0,
+        "contraste_desvio": 69.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "6dd522b1afb56ea7e7ed0312147b2404e2f49c8ef4654569d34cca2a80e0b212",
+    "dhash": "210d36764282460c"
   }
 ]
