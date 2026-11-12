@@ -17513,5 +17513,35 @@
     },
     "sha256": "dfafd34b6a88885b2b6cb4c2ad7d714972baf9695036731cede0a603a5e7fadb",
     "dhash": "b01e604043c58972"
+  },
+  {
+    "id": "65020496-cf26-46ab-baa8-c2838a8c4229",
+    "titulo": "VISTA PARCIAL DE RONDONOPOLIS APROXIMADAMENTE 1948 (1ºPLANO",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/65020496-cf26-46ab-baa8-c2838a8c4229.jpg",
+    "original": "./imagens/visualizacao/65020496-cf26-46ab-baa8-c2838a8c4229.jpg",
+    "criado_em": "2026-11-12T00:22:34.876145+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 926,
+        "altura": 647,
+        "bytes": 339646,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          237,
+          224,
+          185
+        ],
+        "luminosidade_media": 223.3,
+        "contraste_desvio": 25.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "de8cfdca73031c3458268ebb4da5a88b5a2b29d3343d51cc551892c48e32b20d",
+    "dhash": "81c68696beb49098"
   }
 ]
