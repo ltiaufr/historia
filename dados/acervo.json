@@ -12773,5 +12773,35 @@
     },
     "sha256": "936afb96af492755ce2b0a44758e483f12f59457071f793ec548508603f688f1",
     "dhash": "07060280d4942683"
+  },
+  {
+    "id": "e6ee4c9a-4f8f-4022-ba68-db75eaf89966",
+    "titulo": "Elvira São Lourenço 1948",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e6ee4c9a-4f8f-4022-ba68-db75eaf89966.jpg",
+    "original": "./imagens/visualizacao/e6ee4c9a-4f8f-4022-ba68-db75eaf89966.jpg",
+    "criado_em": "2026-11-11T23:25:08.732452+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1666,
+        "altura": 1052,
+        "bytes": 734460,
+        "exif_data_digital": "2011:02:11 08:05:22",
+        "cor_media_rgb": [
+          106,
+          97,
+          73
+        ],
+        "luminosidade_media": 97.0,
+        "contraste_desvio": 48.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2c02501dab75936d2fdf656712e3ab597ea212f73013f5fa24e9f1f8ab8af811",
+    "dhash": "2f6de9ebfdd5e599"
   }
 ]
