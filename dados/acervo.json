@@ -11033,5 +11033,35 @@
     },
     "sha256": "b01c03e8baf36f6edad21395f825232a7610a8fb19c2696e1c69a95dabe55d44",
     "dhash": "cc949cc862c26226"
+  },
+  {
+    "id": "f898a030-5825-4378-95c7-1697695a0ea9",
+    "titulo": "AVENIDA JOÃO PESSOA ESQUINA COM A MARECHAL RONDON DECADA DE",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f898a030-5825-4378-95c7-1697695a0ea9.jpg",
+    "original": "./imagens/visualizacao/f898a030-5825-4378-95c7-1697695a0ea9.jpg",
+    "criado_em": "2026-11-11T23:04:36.048003+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1380,
+        "bytes": 1372337,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          204,
+          194,
+          166
+        ],
+        "luminosidade_media": 194.0,
+        "contraste_desvio": 48.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "5eabf7998b4aa58d00625ab80ff9d5c14fe888e11390db436ee65ae70c052691",
+    "dhash": "c90c9cdd4d574dcd"
   }
 ]
