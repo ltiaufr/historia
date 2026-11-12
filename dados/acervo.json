@@ -16673,5 +16673,35 @@
     },
     "sha256": "a0c5c6a4ba437840ba99c1473697bc27341989fc41d6b1d47dfeb6d9cd26863e",
     "dhash": "195d560f9b7c5547"
+  },
+  {
+    "id": "acc606b7-6491-492a-b0e8-3b0538402dae",
+    "titulo": "Romaria dos Mártires 5",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/acc606b7-6491-492a-b0e8-3b0538402dae.jpg",
+    "original": "./imagens/visualizacao/acc606b7-6491-492a-b0e8-3b0538402dae.jpg",
+    "criado_em": "2026-11-12T00:11:56.049502+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1280,
+        "altura": 960,
+        "bytes": 502935,
+        "exif_data_digital": "2008:03:10 06:06:04",
+        "cor_media_rgb": [
+          133,
+          126,
+          131
+        ],
+        "luminosidade_media": 128.7,
+        "contraste_desvio": 69.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4cb805286484f3aaf2cee88fa8d59ada960ce4daf1d5b91f67d1f939e626321f",
+    "dhash": "c7cb6b4f672b1905"
   }
 ]
