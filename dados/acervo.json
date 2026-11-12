@@ -11663,5 +11663,35 @@
     },
     "sha256": "d142a7854de1546ad49ab35f793a13e26f39b32777660af5457c7c6d1451b623",
     "dhash": "4f4e4d4fdbd8c471"
+  },
+  {
+    "id": "09831ede-f260-4022-a2b1-12390fd88ca4",
+    "titulo": "CONSTRUCAO do Centro Pedagogico de Rondonópolis  C.P.R 1.982   2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/09831ede-f260-4022-a2b1-12390fd88ca4.jpg",
+    "original": "./imagens/visualizacao/09831ede-f260-4022-a2b1-12390fd88ca4.jpg",
+    "criado_em": "2026-11-11T23:12:00.203833+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1364,
+        "altura": 944,
+        "bytes": 607416,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          216,
+          201,
+          174
+        ],
+        "luminosidade_media": 202.5,
+        "contraste_desvio": 34.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b8e81d9ad1e20a2a9953c548318b1de720407ca0d7c88af57f999103d3bc137d",
+    "dhash": "60f43c7471b9d8d8"
   }
 ]
