@@ -16313,5 +16313,35 @@
     },
     "sha256": "77fda8ea51392a79218fc8a11aad4d3e04255b7da64d1e7cfcc1785ce987ee0d",
     "dhash": "1f9f4f4d31320f0f"
+  },
+  {
+    "id": "22b6086b-bb90-43ab-9966-25672095e8df",
+    "titulo": "Reunião de Professores C P R 1982   2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/22b6086b-bb90-43ab-9966-25672095e8df.jpg",
+    "original": "./imagens/visualizacao/22b6086b-bb90-43ab-9966-25672095e8df.jpg",
+    "criado_em": "2026-11-12T00:07:21.564465+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1392,
+        "altura": 944,
+        "bytes": 558816,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          181,
+          178,
+          167
+        ],
+        "luminosidade_media": 177.5,
+        "contraste_desvio": 73.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "72a4b82991419268b104aac8dd5e30355b3203fac290c5240cbf64159fa24ba9",
+    "dhash": "9a9a9052544f34b6"
   }
 ]
