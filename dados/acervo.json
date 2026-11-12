@@ -14243,5 +14243,35 @@
     },
     "sha256": "56216db7296e884d507f02aca2b401cd3a58c62488a5fd2cbbd7d72ed571f32d",
     "dhash": "b9daca7e33373634"
+  },
+  {
+    "id": "232d35ff-8696-4e2e-8847-7808a2e08a21",
+    "titulo": "LANCAMENTO DO LIVRO DA PROFª LACI C.P.R 1995",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/232d35ff-8696-4e2e-8847-7808a2e08a21.jpg",
+    "original": "./imagens/visualizacao/232d35ff-8696-4e2e-8847-7808a2e08a21.jpg",
+    "criado_em": "2026-11-11T23:43:03.523317+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 987,
+        "altura": 1166,
+        "bytes": 436883,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          144,
+          139,
+          139
+        ],
+        "luminosidade_media": 140.3,
+        "contraste_desvio": 69.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "708933e50b423c24f3f30019c8284d625b3e313d962ba1f1dc27b282db6d0cf3",
+    "dhash": "62f36666e6e6e6e8"
   }
 ]
