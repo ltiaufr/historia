@@ -15593,5 +15593,35 @@
     },
     "sha256": "08f48c29e1a3ec7c3ee88aaef73516667397920cfe3359ef89ccd0714760e010",
     "dhash": "0a95b5b8b4a4f8f8"
+  },
+  {
+    "id": "297ed07e-7738-4ba6-b79f-dd15c6cb68fb",
+    "titulo": "Peça de Artilharia do Século XVIII",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/297ed07e-7738-4ba6-b79f-dd15c6cb68fb.jpg",
+    "original": "./imagens/visualizacao/297ed07e-7738-4ba6-b79f-dd15c6cb68fb.jpg",
+    "criado_em": "2026-11-11T23:58:38.549104+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 768,
+        "bytes": 432525,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          143,
+          141,
+          146
+        ],
+        "luminosidade_media": 142.0,
+        "contraste_desvio": 40.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "326d15266499ec91b088ffcf3cdae0073e0db86feb80145374215efd8225ada4",
+    "dhash": "0f0f396997170f0f"
   }
 ]
