@@ -15353,5 +15353,35 @@
     },
     "sha256": "153c0833f7d3b4e52521cc16da0a2d11abee5ef950da8886faeb45862c234ddb",
     "dhash": "e70fca9a9b899d9d"
+  },
+  {
+    "id": "998f0c9b-cd70-4e18-ac89-69944a8eea46",
+    "titulo": "Paróquia Sanat Cruz",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/998f0c9b-cd70-4e18-ac89-69944a8eea46.jpg",
+    "original": "./imagens/visualizacao/998f0c9b-cd70-4e18-ac89-69944a8eea46.jpg",
+    "criado_em": "2026-11-11T23:55:49.819684+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1857,
+        "altura": 1291,
+        "bytes": 1024127,
+        "exif_data_digital": "2011:02:11 08:06:49",
+        "cor_media_rgb": [
+          116,
+          100,
+          89
+        ],
+        "luminosidade_media": 103.9,
+        "contraste_desvio": 46.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "34047707b7ccddb00309669e26d21b100e65a5483285f2c1acd1b9a4b2b7642c",
+    "dhash": "cecb7b4fcedbd7e6"
   }
 ]
