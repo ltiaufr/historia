@@ -15473,5 +15473,35 @@
     },
     "sha256": "7a36989df93a2b5eebccc40678e0137a02bcb8ed2c1a8402532cfbb359fb982e",
     "dhash": "c9c96d2d371a93d2"
+  },
+  {
+    "id": "7c1ffd0a-d7a3-458f-8265-e2760e3742d6",
+    "titulo": "Pe. Lothar  Rondonópolis  Década de 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7c1ffd0a-d7a3-458f-8265-e2760e3742d6.jpg",
+    "original": "./imagens/visualizacao/7c1ffd0a-d7a3-458f-8265-e2760e3742d6.jpg",
+    "criado_em": "2026-11-11T23:57:13.203751+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 651,
+        "altura": 922,
+        "bytes": 162221,
+        "exif_data_digital": "2011:02:11 07:43:27",
+        "cor_media_rgb": [
+          121,
+          105,
+          67
+        ],
+        "luminosidade_media": 105.2,
+        "contraste_desvio": 51.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "cd3d1362812d93605137b6755db882a89f77e251c02e1c2dbb5b1b456b6aa2e0",
+    "dhash": "329c9c3c3cf6cabe"
   }
 ]
