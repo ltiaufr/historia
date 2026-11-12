@@ -12863,5 +12863,35 @@
     },
     "sha256": "045ceed0882b98078e62c4487ce13e7713a58fabc2361cce57ef68ccceb4408c",
     "dhash": "9fc7e3fbfefeff4f"
+  },
+  {
+    "id": "80f3923a-1cdf-4985-8e8f-dd3abe16a1ae",
+    "titulo": "Ensaio da Dança do Congo Vila Bela Santissima Tridade  MT",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/80f3923a-1cdf-4985-8e8f-dd3abe16a1ae.jpg",
+    "original": "./imagens/visualizacao/80f3923a-1cdf-4985-8e8f-dd3abe16a1ae.jpg",
+    "criado_em": "2026-11-11T23:26:14.400497+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1184,
+        "altura": 768,
+        "bytes": 407832,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          101,
+          99,
+          108
+        ],
+        "luminosidade_media": 100.5,
+        "contraste_desvio": 39.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7d4b11677e7575934accb5a96a0377a99872c57b8ea2b03e66295b37b43a73c8",
+    "dhash": "1f0f1b0a1a1a1e0f"
   }
 ]
