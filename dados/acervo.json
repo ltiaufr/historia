@@ -12173,5 +12173,35 @@
     },
     "sha256": "a16af28b24ea619876c6b799531e9018451c58053c4bd1b99db6c0f4fe2bbee4",
     "dhash": "1aa331254d4bcbcd"
+  },
+  {
+    "id": "be95666a-a628-417d-b0fa-6bca79469380",
+    "titulo": "D. Calu  Vila Operária",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/be95666a-a628-417d-b0fa-6bca79469380.jpg",
+    "original": "./imagens/visualizacao/be95666a-a628-417d-b0fa-6bca79469380.jpg",
+    "criado_em": "2026-11-11T23:17:52.917977+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 837,
+        "altura": 1240,
+        "bytes": 447145,
+        "exif_data_digital": "2011:01:06 14:33:54",
+        "cor_media_rgb": [
+          178,
+          113,
+          110
+        ],
+        "luminosidade_media": 132.2,
+        "contraste_desvio": 40.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f115bdbe0d2bb2f95560c9079170683cac39bf8f013014df14e42435c78fe4d8",
+    "dhash": "2100948c4a63b370"
   }
 ]
