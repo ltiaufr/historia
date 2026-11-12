@@ -15383,5 +15383,35 @@
     },
     "sha256": "34047707b7ccddb00309669e26d21b100e65a5483285f2c1acd1b9a4b2b7642c",
     "dhash": "cecb7b4fcedbd7e6"
+  },
+  {
+    "id": "283b720d-5b46-4cb8-b97c-3659e8a5cbb1",
+    "titulo": "Paróquia São José Operário   Rooo MT",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/283b720d-5b46-4cb8-b97c-3659e8a5cbb1.jpg",
+    "original": "./imagens/visualizacao/283b720d-5b46-4cb8-b97c-3659e8a5cbb1.jpg",
+    "criado_em": "2026-11-11T23:56:12.332686+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1705,
+        "altura": 1237,
+        "bytes": 826497,
+        "exif_data_digital": "2011:02:11 07:43:34",
+        "cor_media_rgb": [
+          134,
+          128,
+          99
+        ],
+        "luminosidade_media": 126.6,
+        "contraste_desvio": 73.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "15e96c99cdfbdf9b731505a646110a5357928b222615f809c56bfe0a9afc0a4d",
+    "dhash": "3f6779bc4c4c4cfb"
   }
 ]
