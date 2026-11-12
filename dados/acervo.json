@@ -10883,5 +10883,35 @@
     },
     "sha256": "17de4034eb08dec26d4be03bdabf6bc643bf2d992d664758d6bc2f78afef8ba9",
     "dhash": "114b02129a81b232"
+  },
+  {
+    "id": "0cb6604a-2b64-4edd-af4a-f75732a6a2af",
+    "titulo": "Assembleia Liturgia março 2009",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0cb6604a-2b64-4edd-af4a-f75732a6a2af.jpg",
+    "original": "./imagens/visualizacao/0cb6604a-2b64-4edd-af4a-f75732a6a2af.jpg",
+    "criado_em": "2026-11-11T23:02:39.026429+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1580,
+        "altura": 1004,
+        "bytes": 633480,
+        "exif_data_digital": "2011:01:05 14:39:11",
+        "cor_media_rgb": [
+          128,
+          131,
+          129
+        ],
+        "luminosidade_media": 129.8,
+        "contraste_desvio": 47.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "04e8a60aef034e9ec6849166c1369151f18679d9499dab0b29cc6cbe97e9cc77",
+    "dhash": "47c38704410ab223"
   }
 ]
