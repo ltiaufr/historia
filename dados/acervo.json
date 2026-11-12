@@ -13073,5 +13073,35 @@
     },
     "sha256": "25281969e5ffc58ec20fdb127982a3182e3f6687d23af4d402d61a649d93293b",
     "dhash": "872f2f1b2f07130b"
+  },
+  {
+    "id": "0417cd72-b7b3-49aa-8f1d-648c3bdb23e4",
+    "titulo": "ESTACAO TELEGRÁFICA DE SANTA RITA DO ARAGUAI   ULTIMO ACAMPA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0417cd72-b7b3-49aa-8f1d-648c3bdb23e4.jpg",
+    "original": "./imagens/visualizacao/0417cd72-b7b3-49aa-8f1d-648c3bdb23e4.jpg",
+    "criado_em": "2026-11-11T23:28:44.037180+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1160,
+        "altura": 774,
+        "bytes": 454824,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          174,
+          136,
+          141
+        ],
+        "luminosidade_media": 148.0,
+        "contraste_desvio": 49.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "fa101d0ec5c53aff6b7f7c5db28a38bd809c528b52daec2e8f96ee62f86847f1",
+    "dhash": "b8f8f0c8c397377f"
   }
 ]
