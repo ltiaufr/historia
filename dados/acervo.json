@@ -11243,5 +11243,35 @@
     },
     "sha256": "34979d8529cbba5e8cc690344501583da28ac1f18101e1db0952e5903df76bfe",
     "dhash": "d8500c4d526c393e"
+  },
+  {
+    "id": "e98fe0a1-1305-44c2-9aa1-497618a59660",
+    "titulo": "Canteiros de Obras 1982   2  Vista Aéria C.P.R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e98fe0a1-1305-44c2-9aa1-497618a59660.jpg",
+    "original": "./imagens/visualizacao/e98fe0a1-1305-44c2-9aa1-497618a59660.jpg",
+    "criado_em": "2026-11-11T23:07:09.923921+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1384,
+        "altura": 800,
+        "bytes": 588569,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          154,
+          150,
+          135
+        ],
+        "luminosidade_media": 149.3,
+        "contraste_desvio": 58.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e1c26bf5e07800a2ef13f7f0d284dc5292d09148420e7e07f995c05dd30a81b3",
+    "dhash": "fdd252f4e6e030fc"
   }
 ]
