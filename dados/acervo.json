@@ -15413,5 +15413,35 @@
     },
     "sha256": "15e96c99cdfbdf9b731505a646110a5357928b222615f809c56bfe0a9afc0a4d",
     "dhash": "3f6779bc4c4c4cfb"
+  },
+  {
+    "id": "813f2fb4-786f-4661-911c-f70f2cf5b9a5",
+    "titulo": "Paróquia São José Operário Rondonópolis",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/813f2fb4-786f-4661-911c-f70f2cf5b9a5.jpg",
+    "original": "./imagens/visualizacao/813f2fb4-786f-4661-911c-f70f2cf5b9a5.jpg",
+    "criado_em": "2026-11-11T23:56:32.227154+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 777,
+        "altura": 588,
+        "bytes": 175420,
+        "exif_data_digital": "2011:02:11 07:47:10",
+        "cor_media_rgb": [
+          144,
+          141,
+          115
+        ],
+        "luminosidade_media": 139.2,
+        "contraste_desvio": 44.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2360346bded6524e060425368ce35631bc5fc9ce89427ea91844d336a7ea3ab9",
+    "dhash": "f8f0ec4ed23b7e22"
   }
 ]
