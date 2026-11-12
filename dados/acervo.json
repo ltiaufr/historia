@@ -15323,5 +15323,35 @@
     },
     "sha256": "f5d26d0a69ff21f7e5c4259c3af1de8e0e475294897855fdc4c5833ccb2e6f26",
     "dhash": "b0e0f0b02b63cb99"
+  },
+  {
+    "id": "f1abfd18-f9ba-496a-8ce3-a8cc30f64cf8",
+    "titulo": "Paróquia Bom Pastor 1978",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f1abfd18-f9ba-496a-8ce3-a8cc30f64cf8.jpg",
+    "original": "./imagens/visualizacao/f1abfd18-f9ba-496a-8ce3-a8cc30f64cf8.jpg",
+    "criado_em": "2026-11-11T23:55:26.798297+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1831,
+        "altura": 1210,
+        "bytes": 893154,
+        "exif_data_digital": "2011:02:11 08:06:39",
+        "cor_media_rgb": [
+          151,
+          91,
+          73
+        ],
+        "luminosidade_media": 106.9,
+        "contraste_desvio": 39.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "153c0833f7d3b4e52521cc16da0a2d11abee5ef950da8886faeb45862c234ddb",
+    "dhash": "e70fca9a9b899d9d"
   }
 ]
