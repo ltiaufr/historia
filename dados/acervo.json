@@ -11303,5 +11303,35 @@
     },
     "sha256": "64aeeafb00067fd0c57ad830899250dcade11225fd8ad17516ca997b6bd9cfd0",
     "dhash": "4b410e6ca048f0e0"
+  },
+  {
+    "id": "12c319e1-9622-4ed1-ada1-e630d250c647",
+    "titulo": "CASARIO AVENIDA MAL.RONDON EM FRENTE A PRAÇA DOS CARREIRO DE",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/12c319e1-9622-4ed1-ada1-e630d250c647.jpg",
+    "original": "./imagens/visualizacao/12c319e1-9622-4ed1-ada1-e630d250c647.jpg",
+    "criado_em": "2026-11-11T23:07:51.757414+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 926,
+        "altura": 680,
+        "bytes": 308689,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          207,
+          205,
+          189
+        ],
+        "luminosidade_media": 203.7,
+        "contraste_desvio": 57.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9f2c030ab472764f5002d9567c07126e8e3c9288962143ef224d69661ee8a71d",
+    "dhash": "41424f290be0a0f0"
   }
 ]
