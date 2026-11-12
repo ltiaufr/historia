@@ -14213,5 +14213,35 @@
     },
     "sha256": "ca08bb6a1c24566cf68d48a2511997edd2733db5cd1e2500ce99b40ca1ce15fd",
     "dhash": "ed6d2139fd3ff5e5"
+  },
+  {
+    "id": "85d857ae-8c4b-43f4-b860-ab34097bcf14",
+    "titulo": "Laboratório   C.P.R 1982",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/85d857ae-8c4b-43f4-b860-ab34097bcf14.jpg",
+    "original": "./imagens/visualizacao/85d857ae-8c4b-43f4-b860-ab34097bcf14.jpg",
+    "criado_em": "2026-11-11T23:42:45.027645+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1392,
+        "altura": 1904,
+        "bytes": 915337,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          193,
+          187,
+          171
+        ],
+        "luminosidade_media": 186.9,
+        "contraste_desvio": 60.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "56216db7296e884d507f02aca2b401cd3a58c62488a5fd2cbbd7d72ed571f32d",
+    "dhash": "b9daca7e33373634"
   }
 ]
