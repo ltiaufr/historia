@@ -16223,5 +16223,35 @@
     },
     "sha256": "aba0481812119a7a62fbbe4bb9ed70e5a613e81f744ddeca96bf9b43f5fd966c",
     "dhash": "0f8f97278587261d"
+  },
+  {
+    "id": "b9efa59d-3413-4c97-b72d-7a05bcffa0c2",
+    "titulo": "REAL AEROVIAS AEROPORTO DE RONDONOPOLIS (BAIRRO CAIXA D´AGUA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b9efa59d-3413-4c97-b72d-7a05bcffa0c2.jpg",
+    "original": "./imagens/visualizacao/b9efa59d-3413-4c97-b72d-7a05bcffa0c2.jpg",
+    "criado_em": "2026-11-12T00:06:15.056278+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 912,
+        "altura": 674,
+        "bytes": 184532,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          219,
+          206,
+          169
+        ],
+        "luminosidade_media": 205.4,
+        "contraste_desvio": 53.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "115cdfda97e6f8b5ff67b8168d1bf3cdba66a6c69832f34a543857c9721ae844",
+    "dhash": "3a3339944c0000c0"
   }
 ]
