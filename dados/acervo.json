@@ -16793,5 +16793,35 @@
     },
     "sha256": "e158ad44ccb74f6565534d3b0247b9ad34fbdfb5dae4a0d976abdf756b43386d",
     "dhash": "767a6c6e6ee0c0c0"
+  },
+  {
+    "id": "d8548214-6561-4af2-b033-a2c795484936",
+    "titulo": "SALA DE AULA CENTRO PEDAGOGICO DE RONDONOPOLIS (PREDIO DA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/d8548214-6561-4af2-b033-a2c795484936.jpg",
+    "original": "./imagens/visualizacao/d8548214-6561-4af2-b033-a2c795484936.jpg",
+    "criado_em": "2026-11-12T00:13:33.126028+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1893,
+        "altura": 1373,
+        "bytes": 986121,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          188,
+          184,
+          167
+        ],
+        "luminosidade_media": 183.0,
+        "contraste_desvio": 53.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b4dccca6e6296c5f6a0494d3557a0aea818a70dde8d9412536edcb1e31987598",
+    "dhash": "104c4c4c2c2c1408"
   }
 ]
