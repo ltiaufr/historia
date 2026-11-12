@@ -16643,5 +16643,35 @@
     },
     "sha256": "ae81657cceed291e087348157af6612989f8fecd358047109f6c0073fffb3cff",
     "dhash": "c81737330b15262b"
+  },
+  {
+    "id": "11deefe4-c6a7-4738-8f71-d370eb9ca2a8",
+    "titulo": "Romaria dos Mártires 4",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/11deefe4-c6a7-4738-8f71-d370eb9ca2a8.jpg",
+    "original": "./imagens/visualizacao/11deefe4-c6a7-4738-8f71-d370eb9ca2a8.jpg",
+    "criado_em": "2026-11-12T00:11:32.436315+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1280,
+        "altura": 960,
+        "bytes": 557636,
+        "exif_data_digital": "2008:03:10 05:58:09",
+        "cor_media_rgb": [
+          136,
+          130,
+          139
+        ],
+        "luminosidade_media": 132.7,
+        "contraste_desvio": 72.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a0c5c6a4ba437840ba99c1473697bc27341989fc41d6b1d47dfeb6d9cd26863e",
+    "dhash": "195d560f9b7c5547"
   }
 ]
