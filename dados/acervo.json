@@ -12713,5 +12713,35 @@
     },
     "sha256": "127b04ac3ca508dcbd2607d35b977618066e44c58b7aedcb834d5cd87c649935",
     "dhash": "99b93ceefe566072"
+  },
+  {
+    "id": "cd0b7fc5-84f0-45ad-bcbb-bc46f2a95b51",
+    "titulo": "DOM AQUINO CORRÊA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/cd0b7fc5-84f0-45ad-bcbb-bc46f2a95b51.jpg",
+    "original": "./imagens/visualizacao/cd0b7fc5-84f0-45ad-bcbb-bc46f2a95b51.jpg",
+    "criado_em": "2026-11-11T23:24:23.139775+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 887,
+        "altura": 1340,
+        "bytes": 598597,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          157,
+          151,
+          134
+        ],
+        "luminosidade_media": 150.9,
+        "contraste_desvio": 61.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "eef0e510492b03b453ee945906ceab1b9cef3a91c7942c7f3d61102bdcd249b1",
+    "dhash": "c998ccccf8f8d8d8"
   }
 ]
