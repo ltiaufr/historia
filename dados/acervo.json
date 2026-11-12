@@ -13343,5 +13343,35 @@
     },
     "sha256": "894e260bdb767442f8268c6a3d2650a153931768f9b4b5a6d755e82dbe59ac3b",
     "dhash": "cc882424260b2f4c"
+  },
+  {
+    "id": "e8cffc2e-2958-4a2b-806b-36fcea048ed6",
+    "titulo": "Freis franciscanos  Década de 40",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e8cffc2e-2958-4a2b-806b-36fcea048ed6.jpg",
+    "original": "./imagens/visualizacao/e8cffc2e-2958-4a2b-806b-36fcea048ed6.jpg",
+    "criado_em": "2026-11-11T23:31:56.718989+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1608,
+        "altura": 1075,
+        "bytes": 624007,
+        "exif_data_digital": "2011:02:11 07:39:56",
+        "cor_media_rgb": [
+          127,
+          115,
+          81
+        ],
+        "luminosidade_media": 115.1,
+        "contraste_desvio": 42.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e0bddefbe857456271c4e0ac2e224ba649e3983b8ed9f9cc0c2a95c9b4da3b4a",
+    "dhash": "89690eaae3938283"
   }
 ]
