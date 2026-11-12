@@ -15443,5 +15443,35 @@
     },
     "sha256": "2360346bded6524e060425368ce35631bc5fc9ce89427ea91844d336a7ea3ab9",
     "dhash": "f8f0ec4ed23b7e22"
+  },
+  {
+    "id": "07411e95-b9ee-428f-b2d1-fe0e28062db5",
+    "titulo": "Paróquia São JoséOperário 1967",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/07411e95-b9ee-428f-b2d1-fe0e28062db5.jpg",
+    "original": "./imagens/visualizacao/07411e95-b9ee-428f-b2d1-fe0e28062db5.jpg",
+    "criado_em": "2026-11-11T23:56:53.123914+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1214,
+        "altura": 864,
+        "bytes": 419452,
+        "exif_data_digital": "2011:02:11 07:23:38",
+        "cor_media_rgb": [
+          101,
+          66,
+          79
+        ],
+        "luminosidade_media": 77.9,
+        "contraste_desvio": 38.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7a36989df93a2b5eebccc40678e0137a02bcb8ed2c1a8402532cfbb359fb982e",
+    "dhash": "c9c96d2d371a93d2"
   }
 ]
