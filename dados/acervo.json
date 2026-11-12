@@ -15983,5 +15983,35 @@
     },
     "sha256": "b6a58554663c9a638c9615c957233c7b7207eb0dde16a002deebab8e97957fcc",
     "dhash": "25180b3b33431100"
+  },
+  {
+    "id": "468bc408-9292-44d2-8d5d-e6b53c690e10",
+    "titulo": "PREFEITO INTERINO 1954 ( DE OCULOS)",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/468bc408-9292-44d2-8d5d-e6b53c690e10.jpg",
+    "original": "./imagens/visualizacao/468bc408-9292-44d2-8d5d-e6b53c690e10.jpg",
+    "criado_em": "2026-11-12T00:03:16.285090+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1153,
+        "altura": 787,
+        "bytes": 403942,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          177,
+          136,
+          138
+        ],
+        "luminosidade_media": 148.4,
+        "contraste_desvio": 55.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b569cc5b36169d0a8ad6f5f18d2523afa755b2d74fc25b440a0be02945e9b193",
+    "dhash": "1137178d397967af"
   }
 ]
