@@ -16943,5 +16943,35 @@
     },
     "sha256": "63caca4ad0bff3fa799c577c974f6483548e5cd3b3773ee5849553418059e499",
     "dhash": "22331799dc3c3436"
+  },
+  {
+    "id": "0178c223-6064-4610-8389-fa76a002db97",
+    "titulo": "Seminário 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0178c223-6064-4610-8389-fa76a002db97.jpg",
+    "original": "./imagens/visualizacao/0178c223-6064-4610-8389-fa76a002db97.jpg",
+    "criado_em": "2026-11-12T00:15:22.572136+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 450,
+        "altura": 253,
+        "bytes": 25657,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          123,
+          122,
+          88
+        ],
+        "luminosidade_media": 118.2,
+        "contraste_desvio": 55.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "6822f9c4690a7faca7b5dec6881691b41384d320065e29b89e27914fe322dbf4",
+    "dhash": "0d3f8bcb8d253e01"
   }
 ]
