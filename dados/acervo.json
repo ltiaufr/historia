@@ -17063,5 +17063,35 @@
     },
     "sha256": "82999488f4b82553f8e87169c7f13a65489247b1e4410a158cadaf899c15fc53",
     "dhash": "31f11e1f6f7ef639"
+  },
+  {
+    "id": "f69b2256-b708-43e0-9c6f-0f2f5f3ef012",
+    "titulo": "Seminário de Fátima de São Lourenço",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f69b2256-b708-43e0-9c6f-0f2f5f3ef012.jpg",
+    "original": "./imagens/visualizacao/f69b2256-b708-43e0-9c6f-0f2f5f3ef012.jpg",
+    "criado_em": "2026-11-12T00:16:44.772979+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 958,
+        "altura": 659,
+        "bytes": 210427,
+        "exif_data_digital": "2011:02:11 07:37:55",
+        "cor_media_rgb": [
+          160,
+          156,
+          129
+        ],
+        "luminosidade_media": 154.0,
+        "contraste_desvio": 52.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a5d96e5ebd5a1bb42db5ff939b9dc036468a7b2efcddee5e0bd1d76e437720d1",
+    "dhash": "331203c2781808f8"
   }
 ]
