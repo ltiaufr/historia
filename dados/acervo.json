@@ -14633,5 +14633,35 @@
     },
     "sha256": "8ca9fa0eb3c2914de53d9897109ebc4a5915dded16e045aec4b312b90e5e47de",
     "dhash": "b4f47e3f68fdad2d"
+  },
+  {
+    "id": "b0f406c7-5532-498a-885c-036c09feb312",
+    "titulo": "macledi calçados avenida mal.rondon decada de70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b0f406c7-5532-498a-885c-036c09feb312.jpg",
+    "original": "./imagens/visualizacao/b0f406c7-5532-498a-885c-036c09feb312.jpg",
+    "criado_em": "2026-11-11T23:47:25.816390+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 683,
+        "altura": 937,
+        "bytes": 70220,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          205,
+          197,
+          170
+        ],
+        "luminosidade_media": 196.3,
+        "contraste_desvio": 58.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1171921b1c1dcc5888becc238726be4e2fc9bbf9fd1be38b4396f78af8031003",
+    "dhash": "2183c484848686c0"
   }
 ]
