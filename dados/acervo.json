@@ -15563,5 +15563,35 @@
     },
     "sha256": "d4dc8c52b5d240f398453b5344bd6770df9ba10cbef59168e281345ed8c8a6a3",
     "dhash": "0a95b5b8b4a4f8f8"
+  },
+  {
+    "id": "4f80c1cb-d0a3-4118-845b-112b55ec9cab",
+    "titulo": "PEQUENO ENGRAXATE   PRAÇA BRASIL DÉCADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4f80c1cb-d0a3-4118-845b-112b55ec9cab.jpg",
+    "original": "./imagens/visualizacao/4f80c1cb-d0a3-4118-845b-112b55ec9cab.jpg",
+    "criado_em": "2026-11-11T23:58:17.879652+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 913,
+        "altura": 674,
+        "bytes": 256672,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          226,
+          210,
+          168
+        ],
+        "luminosidade_media": 209.8,
+        "contraste_desvio": 30.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "08f48c29e1a3ec7c3ee88aaef73516667397920cfe3359ef89ccd0714760e010",
+    "dhash": "0a95b5b8b4a4f8f8"
   }
 ]
