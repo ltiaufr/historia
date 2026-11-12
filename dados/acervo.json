@@ -14573,5 +14573,35 @@
     },
     "sha256": "c80f9e38c638289e63f379d89a70a25379d56b8a51275a9d1f9395095f7bba00",
     "dhash": "e9e5e4a5949494c8"
+  },
+  {
+    "id": "344365ab-4aec-40e4-9806-49c4fe3d131e",
+    "titulo": "Lavadeiras rio Arareau  Rondonópolis 1967",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/344365ab-4aec-40e4-9806-49c4fe3d131e.jpg",
+    "original": "./imagens/visualizacao/344365ab-4aec-40e4-9806-49c4fe3d131e.jpg",
+    "criado_em": "2026-11-11T23:46:44.275754+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1108,
+        "altura": 798,
+        "bytes": 416685,
+        "exif_data_digital": "2011:02:11 07:22:07",
+        "cor_media_rgb": [
+          97,
+          57,
+          74
+        ],
+        "luminosidade_media": 70.7,
+        "contraste_desvio": 33.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "cd2157f4dfb3cdba62054fe70eba5c3fc5350b0228c10f122e7b498316030128",
+    "dhash": "9e8e1f0f262f1f5f"
   }
 ]
