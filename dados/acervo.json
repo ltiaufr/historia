@@ -15203,5 +15203,35 @@
     },
     "sha256": "05c51982b360a9c7fe5fdc66591aaec36d2df579ffa1c2d21f35958f861525b5",
     "dhash": "0b65c0d9e9a90002"
+  },
+  {
+    "id": "9f393b3e-72cb-430e-b08a-403838fd03fe",
+    "titulo": "PADARIA PÃO GOSTOSO AVENIDA MARECHAL RONDON DECADA DE 90",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9f393b3e-72cb-430e-b08a-403838fd03fe.jpg",
+    "original": "./imagens/visualizacao/9f393b3e-72cb-430e-b08a-403838fd03fe.jpg",
+    "criado_em": "2026-11-11T23:54:00.488890+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1158,
+        "altura": 788,
+        "bytes": 488093,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          149,
+          124,
+          127
+        ],
+        "luminosidade_media": 131.8,
+        "contraste_desvio": 61.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "5b2a34e7f1e4c51e1968dec0260a7a25a90fc9eaa4fe5611c335a1dafbefca6b",
+    "dhash": "64c4c4d4d9b1b0e8"
   }
 ]
