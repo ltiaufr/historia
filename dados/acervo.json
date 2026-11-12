@@ -16823,5 +16823,35 @@
     },
     "sha256": "b4dccca6e6296c5f6a0494d3557a0aea818a70dde8d9412536edcb1e31987598",
     "dhash": "104c4c4c2c2c1408"
+  },
+  {
+    "id": "a9df24b8-1c30-4fd2-9550-579f10dd52a9",
+    "titulo": "Secretaria do C P R 1982 2 ( Pedro Dorileo Etevaldo e Scalop )",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a9df24b8-1c30-4fd2-9550-579f10dd52a9.jpg",
+    "original": "./imagens/visualizacao/a9df24b8-1c30-4fd2-9550-579f10dd52a9.jpg",
+    "criado_em": "2026-11-12T00:13:55.080540+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1344,
+        "altura": 944,
+        "bytes": 385536,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          224,
+          221,
+          210
+        ],
+        "luminosidade_media": 220.4,
+        "contraste_desvio": 49.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2e203377fcd5d3dba965dc8ad6eed0ab9563687e330f604f537282d3ddaeddd3",
+    "dhash": "ed6979394dc1e098"
   }
 ]
