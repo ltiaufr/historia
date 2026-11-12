@@ -16133,5 +16133,35 @@
     },
     "sha256": "d385e7b3a5a958763d27bbf247e251dfc6ab3011f31c0b34e81906d60c7918c6",
     "dhash": "aecd43c7c7c38383"
+  },
+  {
+    "id": "1c7b3c65-e581-4071-8057-13a07eee9c08",
+    "titulo": "PROFESSOR IVANILDO NO LANÇAMENTO DO LIVRO  HISTORIA DA EDUCA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1c7b3c65-e581-4071-8057-13a07eee9c08.jpg",
+    "original": "./imagens/visualizacao/1c7b3c65-e581-4071-8057-13a07eee9c08.jpg",
+    "criado_em": "2026-11-12T00:05:05.506067+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 987,
+        "altura": 1166,
+        "bytes": 96342,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          187,
+          175,
+          166
+        ],
+        "luminosidade_media": 177.5,
+        "contraste_desvio": 75.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b2450d100f32c3c21ba3ef4bb2812357f3da467c18104f144237618f2cde834c",
+    "dhash": "5558dacc6eeddb67"
   }
 ]
