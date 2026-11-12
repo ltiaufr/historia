@@ -12293,5 +12293,35 @@
     },
     "sha256": "73a3bbbab39c632d003ea880fd9b0d488e0fffd24d92da261d28c2f8e918295a",
     "dhash": "233b3bcc4d09ea26"
+  },
+  {
+    "id": "8d02acf6-d98e-4651-8939-44436d85d419",
+    "titulo": "D. Osório e autoridades",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8d02acf6-d98e-4651-8939-44436d85d419.jpg",
+    "original": "./imagens/visualizacao/8d02acf6-d98e-4651-8939-44436d85d419.jpg",
+    "criado_em": "2026-11-11T23:19:19.329944+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1427773,
+        "exif_data_digital": "2011:01:06 14:34:07",
+        "cor_media_rgb": [
+          120,
+          113,
+          108
+        ],
+        "luminosidade_media": 114.3,
+        "contraste_desvio": 66.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "d3da9e936946e4136321b7770d4454ca88a1a8ec0d25b00ed8b8044da24969c1",
+    "dhash": "92a8b8b9c7070301"
   }
 ]
