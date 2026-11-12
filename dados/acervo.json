@@ -13733,5 +13733,35 @@
     },
     "sha256": "9d88d67febb0bd3a441cfd6c0db8dc7b324b6d2b4df25b49e993fc6eee36d2b0",
     "dhash": "0f47175d650b1f1f"
+  },
+  {
+    "id": "25af06bc-7171-4226-be62-614ecb851489",
+    "titulo": "Igreja em Chapada Guimarães",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/25af06bc-7171-4226-be62-614ecb851489.jpg",
+    "original": "./imagens/visualizacao/25af06bc-7171-4226-be62-614ecb851489.jpg",
+    "criado_em": "2026-11-11T23:36:43.984295+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1164,
+        "bytes": 917850,
+        "exif_data_digital": "2011:02:11 07:48:03",
+        "cor_media_rgb": [
+          153,
+          138,
+          98
+        ],
+        "luminosidade_media": 137.8,
+        "contraste_desvio": 52.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b473de762f284817e839c67fd01621c0a0c250db2a57ffe741bf6e3414e0ad70",
+    "dhash": "5f5b9b13350c5f5f"
   }
 ]
