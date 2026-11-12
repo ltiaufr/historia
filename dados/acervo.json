@@ -12053,5 +12053,35 @@
     },
     "sha256": "c86890c21538accbcc0a3fc42f2e924b8080162bc33a85c419bb541d95e2fe28",
     "dhash": "6cf0f0a0d8c8e8cc"
+  },
+  {
+    "id": "f1465c0e-4b88-4949-8c96-1d7e639028c7",
+    "titulo": "CONSTRUCAO do Prédio do C.P.R 1981",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f1465c0e-4b88-4949-8c96-1d7e639028c7.jpg",
+    "original": "./imagens/visualizacao/f1465c0e-4b88-4949-8c96-1d7e639028c7.jpg",
+    "criado_em": "2026-11-11T23:16:26.342870+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 944,
+        "altura": 768,
+        "bytes": 205091,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          214,
+          173,
+          154
+        ],
+        "luminosidade_media": 183.0,
+        "contraste_desvio": 37.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "fa2640cea9f45168128fdbdc213eaa2bf053b5344b6d54e3c884d15a4101904e",
+    "dhash": "ae2cbc0464a30400"
   }
 ]
