@@ -17033,5 +17033,35 @@
     },
     "sha256": "30555db84b20cd4cfe914fc53086928721901e6df16d7fadf3badae3aa792138",
     "dhash": "989899999e969efe"
+  },
+  {
+    "id": "9e3efccb-6de6-445c-98b2-af0556a209cb",
+    "titulo": "Seminário 5",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9e3efccb-6de6-445c-98b2-af0556a209cb.jpg",
+    "original": "./imagens/visualizacao/9e3efccb-6de6-445c-98b2-af0556a209cb.jpg",
+    "criado_em": "2026-11-12T00:16:22.687847+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 450,
+        "altura": 253,
+        "bytes": 36482,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          101,
+          95,
+          73
+        ],
+        "luminosidade_media": 94.5,
+        "contraste_desvio": 71.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "82999488f4b82553f8e87169c7f13a65489247b1e4410a158cadaf899c15fc53",
+    "dhash": "31f11e1f6f7ef639"
   }
 ]
