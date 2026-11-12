@@ -14963,5 +14963,35 @@
     },
     "sha256": "00cd4872df712737429f947fdbf86e29d0642a7f2b7faa556d64b6df9a7e1e46",
     "dhash": "47074375cc469cdc"
+  },
+  {
+    "id": "457676c5-b07c-4f3a-b6f6-dfd02ff81fd8",
+    "titulo": "Missões  1966  Rondonópolis",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/457676c5-b07c-4f3a-b6f6-dfd02ff81fd8.jpg",
+    "original": "./imagens/visualizacao/457676c5-b07c-4f3a-b6f6-dfd02ff81fd8.jpg",
+    "criado_em": "2026-11-11T23:51:19.842058+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1765,
+        "altura": 1316,
+        "bytes": 970929,
+        "exif_data_digital": "2011:02:11 07:49:09",
+        "cor_media_rgb": [
+          112,
+          113,
+          98
+        ],
+        "luminosidade_media": 111.4,
+        "contraste_desvio": 49.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "5a1c528eee3ca38cc74fa7a9c2b879027931596e663132e035d52f4d3e1a66d8",
+    "dhash": "9ea60e85e46e63e2"
   }
 ]
