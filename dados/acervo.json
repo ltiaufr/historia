@@ -15683,5 +15683,35 @@
     },
     "sha256": "4d6332d598539fab5e26f78bed161e1eb570715c5d067adb4f71fe0f8c9344fc",
     "dhash": "6939b030f0706060"
+  },
+  {
+    "id": "1d2a0068-add4-42eb-9ca6-b44ad35c63bb",
+    "titulo": "PRAÇA BRASIL DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1d2a0068-add4-42eb-9ca6-b44ad35c63bb.jpg",
+    "original": "./imagens/visualizacao/1d2a0068-add4-42eb-9ca6-b44ad35c63bb.jpg",
+    "criado_em": "2026-11-11T23:59:41.678772+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1013,
+        "altura": 687,
+        "bytes": 249391,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          233,
+          220,
+          183
+        ],
+        "luminosidade_media": 219.7,
+        "contraste_desvio": 32.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e8b34dba2227d8e7d2b0a6461675824398f0a95a8f68f779cdb428c3390ff18e",
+    "dhash": "2cccc4e4e4f070f0"
   }
 ]
