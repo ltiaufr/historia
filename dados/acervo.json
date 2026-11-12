@@ -16613,5 +16613,35 @@
     },
     "sha256": "bd4d8dbafb6056e2c36c9fdb1d0d051a693e97cf2d14580f4976fe3cff2bc458",
     "dhash": "676fcf5751190a03"
+  },
+  {
+    "id": "16b92174-1fad-488f-b337-b77ea06c7a5f",
+    "titulo": "Romaria dos Mártires 3",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/16b92174-1fad-488f-b337-b77ea06c7a5f.jpg",
+    "original": "./imagens/visualizacao/16b92174-1fad-488f-b337-b77ea06c7a5f.jpg",
+    "criado_em": "2026-11-12T00:11:08.280127+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1228,
+        "altura": 765,
+        "bytes": 433465,
+        "exif_data_digital": "2008:03:10 05:56:07",
+        "cor_media_rgb": [
+          133,
+          101,
+          97
+        ],
+        "luminosidade_media": 110.2,
+        "contraste_desvio": 78.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ae81657cceed291e087348157af6612989f8fecd358047109f6c0073fffb3cff",
+    "dhash": "c81737330b15262b"
   }
 ]
