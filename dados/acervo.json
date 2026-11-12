@@ -13103,5 +13103,35 @@
     },
     "sha256": "fa101d0ec5c53aff6b7f7c5db28a38bd809c528b52daec2e8f96ee62f86847f1",
     "dhash": "b8f8f0c8c397377f"
+  },
+  {
+    "id": "d3ea8e5a-97f8-4e1c-8890-736a81cb3a24",
+    "titulo": "Estatua na praça de Cáceres",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/d3ea8e5a-97f8-4e1c-8890-736a81cb3a24.jpg",
+    "original": "./imagens/visualizacao/d3ea8e5a-97f8-4e1c-8890-736a81cb3a24.jpg",
+    "criado_em": "2026-11-11T23:29:07.058087+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 800,
+        "altura": 1200,
+        "bytes": 552785,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          145,
+          136,
+          144
+        ],
+        "luminosidade_media": 139.5,
+        "contraste_desvio": 57.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ec9ce447ddce517f06a23aa5ed23d9b06080f1a814bd51a2fd0b46fb28d785c0",
+    "dhash": "8a0231b5b663621e"
   }
 ]
