@@ -14663,5 +14663,35 @@
     },
     "sha256": "1171921b1c1dcc5888becc238726be4e2fc9bbf9fd1be38b4396f78af8031003",
     "dhash": "2183c484848686c0"
+  },
+  {
+    "id": "e6155b7a-d843-4d19-be50-99cf3580bf97",
+    "titulo": "MAIO DE 1.997  LANÇAMENTO DA REVISTA DE HISTORIA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e6155b7a-d843-4d19-be50-99cf3580bf97.jpg",
+    "original": "./imagens/visualizacao/e6155b7a-d843-4d19-be50-99cf3580bf97.jpg",
+    "criado_em": "2026-11-11T23:47:45.862576+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1140,
+        "altura": 806,
+        "bytes": 365793,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          164,
+          153,
+          134
+        ],
+        "luminosidade_media": 154.1,
+        "contraste_desvio": 53.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "516ec95652a207de3ce5f367d2792dcb73a062891a5daed669e272818c62cd8f",
+    "dhash": "5141606860644cc4"
   }
 ]
