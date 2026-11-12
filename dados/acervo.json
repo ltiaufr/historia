@@ -17123,5 +17123,35 @@
     },
     "sha256": "17be4d8da27cc73f97cf27b2f4488aa083ed9336c8c335817443020070e1aa74",
     "dhash": "cf8f9f9f9319d6ed"
+  },
+  {
+    "id": "f8534c0f-fb19-48c3-92bd-13f212553698",
+    "titulo": "Seminário Várzea Grande",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f8534c0f-fb19-48c3-92bd-13f212553698.jpg",
+    "original": "./imagens/visualizacao/f8534c0f-fb19-48c3-92bd-13f212553698.jpg",
+    "criado_em": "2026-11-12T00:17:32.225926+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 450,
+        "altura": 338,
+        "bytes": 27378,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          126,
+          121,
+          112
+        ],
+        "luminosidade_media": 121.5,
+        "contraste_desvio": 72.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e8a9d006643b881c0f53bb5298bcdb4b0e079d4951e9f09335e47240ea08e93a",
+    "dhash": "570e5c363261ecec"
   }
 ]
