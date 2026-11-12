@@ -16073,5 +16073,35 @@
     },
     "sha256": "939d09080c44c34325be29660b1749ea7d2df1a3aa7513517b1b06ccd548e74a",
     "dhash": "064000a02d248685"
+  },
+  {
+    "id": "927c007a-a26c-4650-8640-04c6686d694f",
+    "titulo": "PROF LACI E LAURIVERA LANÇAMENTO DO LIVRO  HISTORIA DA EDUCA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/927c007a-a26c-4650-8640-04c6686d694f.jpg",
+    "original": "./imagens/visualizacao/927c007a-a26c-4650-8640-04c6686d694f.jpg",
+    "criado_em": "2026-11-12T00:04:22.244111+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1147,
+        "altura": 806,
+        "bytes": 406233,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          151,
+          136,
+          127
+        ],
+        "luminosidade_media": 139.2,
+        "contraste_desvio": 63.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f85f51ee668056bf217a21109475636e44e2a062a218e8365c765a53ffd9fce5",
+    "dhash": "6363a3c3cb893321"
   }
 ]
