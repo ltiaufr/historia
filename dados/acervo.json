@@ -10943,5 +10943,35 @@
     },
     "sha256": "326e2a373fe9808132b8f8ab0554426ccf72d7a46415e4c9fcb43a6135c61140",
     "dhash": "c3c125ae9292d888"
+  },
+  {
+    "id": "38073690-4d71-4546-b22d-ac041d4904d3",
+    "titulo": "AULA NO LABORATORIO   CURSO DE CIÊNCIAS EXATAS C.P.R 1980",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/38073690-4d71-4546-b22d-ac041d4904d3.jpg",
+    "original": "./imagens/visualizacao/38073690-4d71-4546-b22d-ac041d4904d3.jpg",
+    "criado_em": "2026-11-11T23:03:30.353477+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1880,
+        "altura": 1374,
+        "bytes": 1348556,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          193,
+          190,
+          175
+        ],
+        "luminosidade_media": 189.2,
+        "contraste_desvio": 54.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "0af5af1f242e8724604a8d88bf88aba00ece3a2e90dd7be07c02ac5bb171e985",
+    "dhash": "333317b8b58d1733"
   }
 ]
