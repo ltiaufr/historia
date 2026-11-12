@@ -12653,5 +12653,35 @@
     },
     "sha256": "ed25d4b041eb1127b1d38313709c599b0c45189358959a813e977a87e2e212c5",
     "dhash": "13194caf9b9b1b37"
+  },
+  {
+    "id": "a366eb17-bc68-4e36-88cc-e6ca372187f9",
+    "titulo": "D. Vunibaldo, freis e família",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a366eb17-bc68-4e36-88cc-e6ca372187f9.jpg",
+    "original": "./imagens/visualizacao/a366eb17-bc68-4e36-88cc-e6ca372187f9.jpg",
+    "criado_em": "2026-11-11T23:23:38.387540+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1469,
+        "altura": 897,
+        "bytes": 594533,
+        "exif_data_digital": "2011:02:11 07:40:10",
+        "cor_media_rgb": [
+          99,
+          88,
+          66
+        ],
+        "luminosidade_media": 89.1,
+        "contraste_desvio": 66.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1bb82b4c8fffc9aebf517e1df8797135a647f4a59e0e0a920f458ebde2415658",
+    "dhash": "661e96ccce8ec8cc"
   }
 ]
