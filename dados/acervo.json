@@ -17783,5 +17783,35 @@
     },
     "sha256": "20b6322b79d9ca209ed63e006d212bc7a7ad0c5ec0a834e28ffb736cb484a911",
     "dhash": "010100a5630e060e"
+  },
+  {
+    "id": "495babb5-2d71-4ac5-9c58-ab3c57afac8d",
+    "titulo": "Guarita 1995 CUR UFMT",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/495babb5-2d71-4ac5-9c58-ab3c57afac8d.jpg",
+    "original": "./imagens/visualizacao/495babb5-2d71-4ac5-9c58-ab3c57afac8d.jpg",
+    "criado_em": "2026-11-12T01:00:21.894776+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1232,
+        "altura": 816,
+        "bytes": 421427,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          172,
+          143,
+          150
+        ],
+        "luminosidade_media": 152.8,
+        "contraste_desvio": 43.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "d70a89c6814bad024be2494bf006c2c4994b88567b062574494fea343f880a36",
+    "dhash": "dcf8d8babefefbf9"
   }
 ]
