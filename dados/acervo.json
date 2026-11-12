@@ -12743,5 +12743,35 @@
     },
     "sha256": "eef0e510492b03b453ee945906ceab1b9cef3a91c7942c7f3d61102bdcd249b1",
     "dhash": "c998ccccf8f8d8d8"
+  },
+  {
+    "id": "86635008-7ecc-4db9-a07c-f175f7c645c7",
+    "titulo": "Educandário São José  Chapada  1946",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/86635008-7ecc-4db9-a07c-f175f7c645c7.jpg",
+    "original": "./imagens/visualizacao/86635008-7ecc-4db9-a07c-f175f7c645c7.jpg",
+    "criado_em": "2026-11-11T23:24:44.626684+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1171,
+        "altura": 740,
+        "bytes": 336085,
+        "exif_data_digital": "2011:02:11 07:28:26",
+        "cor_media_rgb": [
+          175,
+          159,
+          114
+        ],
+        "luminosidade_media": 158.4,
+        "contraste_desvio": 32.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "936afb96af492755ce2b0a44758e483f12f59457071f793ec548508603f688f1",
+    "dhash": "07060280d4942683"
   }
 ]
