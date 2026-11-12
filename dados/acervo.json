@@ -17243,5 +17243,35 @@
     },
     "sha256": "1b846396d0307eabb1a521b139afdd1749974bfefefac94ab482d7006a1f29fc",
     "dhash": "50515153573f7c2c"
+  },
+  {
+    "id": "91ad5719-b92f-43df-aa93-207b7420f7a5",
+    "titulo": "TURMA DE CIÊNCIAS EXATAS 1981.1 C.P.R (ESCOLA JOAQUIM NUNES",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/91ad5719-b92f-43df-aa93-207b7420f7a5.jpg",
+    "original": "./imagens/visualizacao/91ad5719-b92f-43df-aa93-207b7420f7a5.jpg",
+    "criado_em": "2026-11-12T00:19:01.373507+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1226,
+        "altura": 800,
+        "bytes": 336954,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          199,
+          196,
+          182
+        ],
+        "luminosidade_media": 195.4,
+        "contraste_desvio": 40.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ce4b3df4c362579b409d18390e03cc6886297a530d8de47296399504fab13daa",
+    "dhash": "1d2b8001050b3a48"
   }
 ]
