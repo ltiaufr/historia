@@ -14783,5 +14783,35 @@
     },
     "sha256": "433b17c6406474c7ac4f5bc69bdb93f2dd5fbb1e5725182ea7e2bb19d6b188d4",
     "dhash": "e6e5e2c7435ac010"
+  },
+  {
+    "id": "22b643ee-e3e6-4761-86d0-54ea7df9776e",
+    "titulo": "Matriculas C P R 1982 2 ( Prof Elson )",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/22b643ee-e3e6-4761-86d0-54ea7df9776e.jpg",
+    "original": "./imagens/visualizacao/22b643ee-e3e6-4761-86d0-54ea7df9776e.jpg",
+    "criado_em": "2026-11-11T23:49:08.357229+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1134,
+        "altura": 768,
+        "bytes": 284533,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          196,
+          146,
+          136
+        ],
+        "luminosidade_media": 159.8,
+        "contraste_desvio": 41.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f761ac0a88b3ab8f0399134bcf57f7861322ac3412cb8103a1d7617cd5428998",
+    "dhash": "7f76737238b2e2c8"
   }
 ]
