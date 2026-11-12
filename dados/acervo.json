@@ -12533,5 +12533,35 @@
     },
     "sha256": "5a6028680c7483345e14bd1ef6facc69cc3610d6894e95343cc26e46d919626a",
     "dhash": "faf2b2b69797965f"
+  },
+  {
+    "id": "c99a666e-4462-4eca-83ff-f6dcfd1f4ae7",
+    "titulo": "D. Vunibaldo no Concílio Vaticano",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c99a666e-4462-4eca-83ff-f6dcfd1f4ae7.jpg",
+    "original": "./imagens/visualizacao/c99a666e-4462-4eca-83ff-f6dcfd1f4ae7.jpg",
+    "criado_em": "2026-11-11T23:22:09.686368+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1890,
+        "altura": 1126,
+        "bytes": 892793,
+        "exif_data_digital": "2011:02:11 07:45:56",
+        "cor_media_rgb": [
+          100,
+          95,
+          75
+        ],
+        "luminosidade_media": 94.4,
+        "contraste_desvio": 53.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "28e406f81b5d577cbed8117e17450acd8a7e91925061a6869bb1989da8ee57aa",
+    "dhash": "52545549a82626c0"
   }
 ]
