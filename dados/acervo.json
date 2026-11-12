@@ -11333,5 +11333,35 @@
     },
     "sha256": "9f2c030ab472764f5002d9567c07126e8e3c9288962143ef224d69661ee8a71d",
     "dhash": "41424f290be0a0f0"
+  },
+  {
+    "id": "b494c659-3abd-4d83-93f6-f04511c027a3",
+    "titulo": "CASARIO AVENIDA MARECHAL RONDON PERTO DO CORTIÇO DECADA DE 90",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b494c659-3abd-4d83-93f6-f04511c027a3.jpg",
+    "original": "./imagens/visualizacao/b494c659-3abd-4d83-93f6-f04511c027a3.jpg",
+    "criado_em": "2026-11-11T23:08:12.185220+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1143,
+        "altura": 772,
+        "bytes": 504087,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          153,
+          125,
+          125
+        ],
+        "luminosidade_media": 133.5,
+        "contraste_desvio": 47.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "0dab717a4f24035967ecadee97a53897b2510da8805207e07806a08f25093359",
+    "dhash": "93f3e0c2eaeafe00"
   }
 ]
