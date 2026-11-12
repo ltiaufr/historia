@@ -13523,5 +13523,35 @@
     },
     "sha256": "315665568b1f2cd0e47842818facfd3f913cf1282a6c8a9098c9769383ccdad8",
     "dhash": "270f173434777931"
+  },
+  {
+    "id": "4c86bfc6-4ff0-4e3b-ab75-ef3e93442f93",
+    "titulo": "GENERAL MARECHAL CÂNDIDO RONDON",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4c86bfc6-4ff0-4e3b-ab75-ef3e93442f93.jpg",
+    "original": "./imagens/visualizacao/4c86bfc6-4ff0-4e3b-ab75-ef3e93442f93.jpg",
+    "criado_em": "2026-11-11T23:34:09.325480+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 787,
+        "altura": 1160,
+        "bytes": 416708,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          122,
+          89,
+          97
+        ],
+        "luminosidade_media": 99.7,
+        "contraste_desvio": 59.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "da9f4664cf40c46c22a77c0b3ac179b8e4ea1684f8188a5d30cdc9f24f1ff57a",
+    "dhash": "d8bce6ecf897b5a4"
   }
 ]
