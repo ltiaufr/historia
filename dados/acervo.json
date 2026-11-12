@@ -15893,5 +15893,35 @@
     },
     "sha256": "88047a23ab7c13020b3c9c2b63114d0ac0ccb66dd87e6c79cd0ac8b6f2dc983e",
     "dhash": "f1f8e0b0d4d0d4f8"
+  },
+  {
+    "id": "4b927ded-4345-457b-815c-76da706ead7b",
+    "titulo": "PRAÇA DOS CARREIROS EM RONDONOPOLIS DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/4b927ded-4345-457b-815c-76da706ead7b.jpg",
+    "original": "./imagens/visualizacao/4b927ded-4345-457b-815c-76da706ead7b.jpg",
+    "criado_em": "2026-11-12T00:02:12.244797+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 660,
+        "altura": 920,
+        "bytes": 376760,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          192,
+          187,
+          172
+        ],
+        "luminosidade_media": 186.6,
+        "contraste_desvio": 58.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "0701f9945bc48993e75112a26e154b9b0110dc4995c68c745f68676b981f1c0e",
+    "dhash": "9fcfc6b7ffbba3b5"
   }
 ]
