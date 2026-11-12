@@ -14153,5 +14153,35 @@
     },
     "sha256": "c79011c000e6f835fafa255f60761ee29dd793e93806018b3a7aebd71ba37372",
     "dhash": "828082b0d098d092"
+  },
+  {
+    "id": "cdeaaaa0-ab9d-41a3-b2ce-82f84eb49a1a",
+    "titulo": "INTERIOR DA ASSOCIACAO BANCARIA (ATUAL CANADA CLUB) DECADA D",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/cdeaaaa0-ab9d-41a3-b2ce-82f84eb49a1a.jpg",
+    "original": "./imagens/visualizacao/cdeaaaa0-ab9d-41a3-b2ce-82f84eb49a1a.jpg",
+    "criado_em": "2026-11-11T23:42:02.144421+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1033,
+        "altura": 694,
+        "bytes": 335571,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          168,
+          162,
+          146
+        ],
+        "luminosidade_media": 162.1,
+        "contraste_desvio": 54.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ab627e37b474764b1569951dec1905157b6b9f4a6dc12b40cd383bf6c08779f3",
+    "dhash": "d0c0e0e0ca99e0e9"
   }
 ]
