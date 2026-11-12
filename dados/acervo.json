@@ -10913,5 +10913,35 @@
     },
     "sha256": "04e8a60aef034e9ec6849166c1369151f18679d9499dab0b29cc6cbe97e9cc77",
     "dhash": "47c38704410ab223"
+  },
+  {
+    "id": "44eef0e7-8e32-411c-891d-17150bde2610",
+    "titulo": "Assembleia Prelazia   Década de 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/44eef0e7-8e32-411c-891d-17150bde2610.jpg",
+    "original": "./imagens/visualizacao/44eef0e7-8e32-411c-891d-17150bde2610.jpg",
+    "criado_em": "2026-11-11T23:03:04.399578+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1847,
+        "altura": 1141,
+        "bytes": 860866,
+        "exif_data_digital": "2011:02:11 08:08:16",
+        "cor_media_rgb": [
+          130,
+          118,
+          88
+        ],
+        "luminosidade_media": 118.3,
+        "contraste_desvio": 58.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "326e2a373fe9808132b8f8ab0554426ccf72d7a46415e4c9fcb43a6135c61140",
+    "dhash": "c3c125ae9292d888"
   }
 ]
