@@ -12503,5 +12503,35 @@
     },
     "sha256": "685bdf28213373ccd5e46ed510b0e1601672e2b0e25958650350b54f6333aff5",
     "dhash": "0f2f8088ce2f3160"
+  },
+  {
+    "id": "e47d7f1c-4440-4664-b546-9fb0177dbd06",
+    "titulo": "D. Vunibaldo no Concíliio Vaticano II 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e47d7f1c-4440-4664-b546-9fb0177dbd06.jpg",
+    "original": "./imagens/visualizacao/e47d7f1c-4440-4664-b546-9fb0177dbd06.jpg",
+    "criado_em": "2026-11-11T23:21:48.001980+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1406038,
+        "exif_data_digital": "2011:02:11 08:01:54",
+        "cor_media_rgb": [
+          164,
+          115,
+          117
+        ],
+        "luminosidade_media": 130.0,
+        "contraste_desvio": 41.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "5a6028680c7483345e14bd1ef6facc69cc3610d6894e95343cc26e46d919626a",
+    "dhash": "faf2b2b69797965f"
   }
 ]
