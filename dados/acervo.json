@@ -13403,5 +13403,35 @@
     },
     "sha256": "62dcec0619449acd081a23b34d4e2549fc04ccc21a582cf249630a45dfd0d22a",
     "dhash": "b9394b16b0a10580"
+  },
+  {
+    "id": "b11a74e3-fbdc-4f0d-b786-005e85726df4",
+    "titulo": "Frente Matriz após missa domingo",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b11a74e3-fbdc-4f0d-b786-005e85726df4.jpg",
+    "original": "./imagens/visualizacao/b11a74e3-fbdc-4f0d-b786-005e85726df4.jpg",
+    "criado_em": "2026-11-11T23:32:40.475358+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1212,
+        "altura": 880,
+        "bytes": 474258,
+        "exif_data_digital": "2011:02:11 07:21:05",
+        "cor_media_rgb": [
+          113,
+          60,
+          60
+        ],
+        "luminosidade_media": 76.0,
+        "contraste_desvio": 41.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a40f586af382af0b25c888db84a8ef7d6eedd6b7e971e4152c798e106807f972",
+    "dhash": "e4cd77738ba5adaa"
   }
 ]
