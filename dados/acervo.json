@@ -17453,5 +17453,35 @@
     },
     "sha256": "7cb4f84b567e6cd721b8e2320aabea40d04238667cf17d11f00a661d30874504",
     "dhash": "2b8d4b0b9f6b8bb7"
+  },
+  {
+    "id": "777b9dac-5c66-49ba-89a2-23bc5ab16bbc",
+    "titulo": "Visita aos povos indígenas",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/777b9dac-5c66-49ba-89a2-23bc5ab16bbc.jpg",
+    "original": "./imagens/visualizacao/777b9dac-5c66-49ba-89a2-23bc5ab16bbc.jpg",
+    "criado_em": "2026-11-12T00:21:48.605176+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1761,
+        "altura": 1210,
+        "bytes": 931243,
+        "exif_data_digital": "2011:02:11 08:03:28",
+        "cor_media_rgb": [
+          140,
+          125,
+          88
+        ],
+        "luminosidade_media": 125.2,
+        "contraste_desvio": 45.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "5e2f10a9e03158f2c33a2b6f6dbcf882e3c70278ec4dc34fe7e83aa806d5fa11",
+    "dhash": "8fdf1ba9b9f9694b"
   }
 ]
