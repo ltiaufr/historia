@@ -14813,5 +14813,35 @@
     },
     "sha256": "f761ac0a88b3ab8f0399134bcf57f7861322ac3412cb8103a1d7617cd5428998",
     "dhash": "7f76737238b2e2c8"
+  },
+  {
+    "id": "267f8c54-437e-439e-aad1-0961bdf6cc50",
+    "titulo": "Migrantes chegando em Rondonópolis",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/267f8c54-437e-439e-aad1-0961bdf6cc50.jpg",
+    "original": "./imagens/visualizacao/267f8c54-437e-439e-aad1-0961bdf6cc50.jpg",
+    "criado_em": "2026-11-11T23:49:29.721308+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1334,
+        "altura": 903,
+        "bytes": 489070,
+        "exif_data_digital": "2011:02:11 07:26:29",
+        "cor_media_rgb": [
+          129,
+          123,
+          96
+        ],
+        "luminosidade_media": 121.4,
+        "contraste_desvio": 57.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "44324e1471e6adcd2d88c9d90e99e3f47d54bca281a89114bc68b575e97ce496",
+    "dhash": "23f198a975f54103"
   }
 ]
