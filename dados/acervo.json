@@ -16343,5 +16343,35 @@
     },
     "sha256": "72a4b82991419268b104aac8dd5e30355b3203fac290c5240cbf64159fa24ba9",
     "dhash": "9a9a9052544f34b6"
+  },
+  {
+    "id": "8b69e1a2-aa37-4aa9-a17c-5a22db793bb3",
+    "titulo": "Reunião de Professores e Reitor 1982   2   C.P.R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8b69e1a2-aa37-4aa9-a17c-5a22db793bb3.jpg",
+    "original": "./imagens/visualizacao/8b69e1a2-aa37-4aa9-a17c-5a22db793bb3.jpg",
+    "criado_em": "2026-11-12T00:07:45.669654+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1360,
+        "altura": 928,
+        "bytes": 550790,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          183,
+          181,
+          171
+        ],
+        "luminosidade_media": 180.2,
+        "contraste_desvio": 74.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7c5fc0485d3da55b163e242cb31f4a2fcd00ab2fe54ac77b9dcb8c50d9160191",
+    "dhash": "b475a6954f746288"
   }
 ]
