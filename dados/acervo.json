@@ -13193,5 +13193,35 @@
     },
     "sha256": "776602d428db237765a80e27d5941e6962fabba04f70cd51586764f7a75629b3",
     "dhash": "e0dcfeeeecf09280"
+  },
+  {
+    "id": "14587b83-8acb-4a6a-aff2-017c3e03fe7e",
+    "titulo": "FEIRA LIVRE   PRAÇA DOS CARREIROS DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/14587b83-8acb-4a6a-aff2-017c3e03fe7e.jpg",
+    "original": "./imagens/visualizacao/14587b83-8acb-4a6a-aff2-017c3e03fe7e.jpg",
+    "criado_em": "2026-11-11T23:30:10.002006+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1033,
+        "altura": 680,
+        "bytes": 259552,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          237,
+          231,
+          205
+        ],
+        "luminosidade_media": 229.6,
+        "contraste_desvio": 38.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "3bb4830d9df0b84a2a585ca01af603a2d259e5987fb745206bf94a0539f5f464",
+    "dhash": "eec6d3eaccf9b3af"
   }
 ]
