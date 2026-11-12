@@ -14453,5 +14453,35 @@
     },
     "sha256": "f3ea4fa0a632b727a05707b1e035c9955e04148df4da16fb7263148b5f4c7085",
     "dhash": "640c1ed69795d517"
+  },
+  {
+    "id": "b02afa82-0080-41ff-98e9-9207bd4d1ee3",
+    "titulo": "LANCAMENTO DO LIVRO DA PROFª LACI  C.U.R 1.995",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b02afa82-0080-41ff-98e9-9207bd4d1ee3.jpg",
+    "original": "./imagens/visualizacao/b02afa82-0080-41ff-98e9-9207bd4d1ee3.jpg",
+    "criado_em": "2026-11-11T23:45:22.075235+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1147,
+        "altura": 806,
+        "bytes": 398473,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          151,
+          140,
+          135
+        ],
+        "luminosidade_media": 142.9,
+        "contraste_desvio": 58.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "41161d30501140ce37cc0882ed6f5a1de74941e49c53b3c13d64b0d25fb7d817",
+    "dhash": "bfac6c7bd79cdecc"
   }
 ]
