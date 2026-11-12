@@ -16493,5 +16493,35 @@
     },
     "sha256": "ce33487f7b924a37e7e2e355944850f1a89743e7a090b3ebbcb60c0f424fe4f5",
     "dhash": "852328f962260702"
+  },
+  {
+    "id": "5f112267-997d-4ae3-819a-406c2e0de83d",
+    "titulo": "Rio Paraguai, Cáceres",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5f112267-997d-4ae3-819a-406c2e0de83d.jpg",
+    "original": "./imagens/visualizacao/5f112267-997d-4ae3-819a-406c2e0de83d.jpg",
+    "criado_em": "2026-11-12T00:09:36.754336+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 768,
+        "bytes": 335400,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          136,
+          149,
+          154
+        ],
+        "luminosidade_media": 145.5,
+        "contraste_desvio": 56.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "5d96f50bbe6ba485efeb9b4972800b4b0ce27cfe86cfdc6f4281396997373f74",
+    "dhash": "0f8392070f96da6e"
   }
 ]
