@@ -12923,5 +12923,35 @@
     },
     "sha256": "a85ced66d1ef3de30ce55231da1151e5b658a910897d88fbfe5223dd3168e44d",
     "dhash": "cfa6bf27273bb3bb"
+  },
+  {
+    "id": "32c5b45f-db54-42be-8f15-42c20cc799c0",
+    "titulo": "Entrevista Fátima",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/32c5b45f-db54-42be-8f15-42c20cc799c0.jpg",
+    "original": "./imagens/visualizacao/32c5b45f-db54-42be-8f15-42c20cc799c0.jpg",
+    "criado_em": "2026-11-11T23:26:56.464639+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1280,
+        "altura": 960,
+        "bytes": 359757,
+        "exif_data_digital": "2008:01:01 12:00:00",
+        "cor_media_rgb": [
+          130,
+          130,
+          113
+        ],
+        "luminosidade_media": 128.2,
+        "contraste_desvio": 61.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "80b3b7910ceadb40b76e923a92d9f84686adfe06cd74723761a817c2d7a559ed",
+    "dhash": "ecacb0b2b2967042"
   }
 ]
