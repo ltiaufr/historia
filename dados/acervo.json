@@ -16553,5 +16553,35 @@
     },
     "sha256": "bf8d8d3b75e8e0af6380126fdb2f4e2159e8f2489ebcf1f552c63e79732aff2d",
     "dhash": "9bbbbba3a9ad8696"
+  },
+  {
+    "id": "81ac04b6-c2c7-4190-bcfb-848ad9fe717b",
+    "titulo": "Romaria dos Mártires 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/81ac04b6-c2c7-4190-bcfb-848ad9fe717b.jpg",
+    "original": "./imagens/visualizacao/81ac04b6-c2c7-4190-bcfb-848ad9fe717b.jpg",
+    "criado_em": "2026-11-12T00:10:20.360428+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 960,
+        "altura": 1280,
+        "bytes": 565157,
+        "exif_data_digital": "2008:03:10 05:45:41",
+        "cor_media_rgb": [
+          121,
+          115,
+          124
+        ],
+        "luminosidade_media": 117.9,
+        "contraste_desvio": 64.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "71c5fdd71b6faa09a32a81a9b04b65dfde9e356b38453f6adbd6e12be78af2cc",
+    "dhash": "0d0e1bb3979ff894"
   }
 ]
