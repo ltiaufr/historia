@@ -15293,5 +15293,35 @@
     },
     "sha256": "9922287600a92391fb4aa6dc579b2d6d3d8d413b52402a4664fbbe27b156b14e",
     "dhash": "c4d8903c3c3b191d"
+  },
+  {
+    "id": "ee49ca35-f01f-4b20-ac44-741501d6ad5c",
+    "titulo": "parque de exposições decada se 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ee49ca35-f01f-4b20-ac44-741501d6ad5c.jpg",
+    "original": "./imagens/visualizacao/ee49ca35-f01f-4b20-ac44-741501d6ad5c.jpg",
+    "criado_em": "2026-11-11T23:55:05.196971+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 813,
+        "altura": 920,
+        "bytes": 221301,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          242,
+          235,
+          203
+        ],
+        "luminosidade_media": 233.3,
+        "contraste_desvio": 29.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f5d26d0a69ff21f7e5c4259c3af1de8e0e475294897855fdc4c5833ccb2e6f26",
+    "dhash": "b0e0f0b02b63cb99"
   }
 ]
