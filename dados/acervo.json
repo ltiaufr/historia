@@ -16763,5 +16763,35 @@
     },
     "sha256": "26bcd4a24c9251db6b2af3c3f787450a2a3bed0d5eeebc3f50c9d81fabc269f3",
     "dhash": "90191796d5e6c721"
+  },
+  {
+    "id": "06a0cfb5-31fa-494c-91b7-93924b16575e",
+    "titulo": "Sala da Cúria Diocesana 2011",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/06a0cfb5-31fa-494c-91b7-93924b16575e.jpg",
+    "original": "./imagens/visualizacao/06a0cfb5-31fa-494c-91b7-93924b16575e.jpg",
+    "criado_em": "2026-11-12T00:13:07.993533+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1290245,
+        "exif_data_digital": "2011:02:11 08:17:06",
+        "cor_media_rgb": [
+          127,
+          123,
+          99
+        ],
+        "luminosidade_media": 121.6,
+        "contraste_desvio": 46.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e158ad44ccb74f6565534d3b0247b9ad34fbdfb5dae4a0d976abdf756b43386d",
+    "dhash": "767a6c6e6ee0c0c0"
   }
 ]
