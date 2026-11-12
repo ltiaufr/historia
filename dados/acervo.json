@@ -17933,5 +17933,35 @@
     },
     "sha256": "707a03cb4d1a9efc2e4e50e721c2a819a1cc3110f208116a5ff51058a4c25721",
     "dhash": "2f67155b93a735cd"
+  },
+  {
+    "id": "2a0f315f-faf4-4caa-85bb-1f02fd678d5a",
+    "titulo": "Sitio Arqueologico  na caverna do cipó",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2a0f315f-faf4-4caa-85bb-1f02fd678d5a.jpg",
+    "original": "./imagens/visualizacao/2a0f315f-faf4-4caa-85bb-1f02fd678d5a.jpg",
+    "criado_em": "2026-11-12T01:02:14.382538+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1168,
+        "altura": 848,
+        "bytes": 880229,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          175,
+          147,
+          135
+        ],
+        "luminosidade_media": 154.3,
+        "contraste_desvio": 51.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "416782fba5fd1605a9f309a95d4b2420c5c57a31bb4a209211d9ec26bcdfbf87",
+    "dhash": "c2c8c0dc9da986a2"
   }
 ]
