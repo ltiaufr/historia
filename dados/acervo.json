@@ -16373,5 +16373,35 @@
     },
     "sha256": "7c5fc0485d3da55b163e242cb31f4a2fcd00ab2fe54ac77b9dcb8c50d9160191",
     "dhash": "b475a6954f746288"
+  },
+  {
+    "id": "ffd50a11-e5fd-48f9-819e-59e1a7ab29dc",
+    "titulo": "Reunião de Professores e Reitor Pedro Dorileo 1982   2   C.P.R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ffd50a11-e5fd-48f9-819e-59e1a7ab29dc.jpg",
+    "original": "./imagens/visualizacao/ffd50a11-e5fd-48f9-819e-59e1a7ab29dc.jpg",
+    "criado_em": "2026-11-12T00:08:07.714415+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1392,
+        "altura": 944,
+        "bytes": 585563,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          172,
+          169,
+          158
+        ],
+        "luminosidade_media": 168.4,
+        "contraste_desvio": 72.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "20524d68af84bc3c17fd9a2fb0c5e1d83633f237cb29b9180d25483f19ce5382",
+    "dhash": "e4d5b60f9bc64429"
   }
 ]
