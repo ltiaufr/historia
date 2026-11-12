@@ -14063,5 +14063,35 @@
     },
     "sha256": "cf85178e533d489103e809ed4a02d3c5de626b40b2bf20c121da64f56fc4ed6a",
     "dhash": "199392baf6561610"
+  },
+  {
+    "id": "5a792948-6400-4aaf-9a1c-a69ebd24e8df",
+    "titulo": "INAUGURACAO Escola S. José Operário 31 julho 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5a792948-6400-4aaf-9a1c-a69ebd24e8df.jpg",
+    "original": "./imagens/visualizacao/5a792948-6400-4aaf-9a1c-a69ebd24e8df.jpg",
+    "criado_em": "2026-11-11T23:40:36.009167+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1225,
+        "altura": 844,
+        "bytes": 427017,
+        "exif_data_digital": "2011:02:11 07:22:58",
+        "cor_media_rgb": [
+          114,
+          77,
+          95
+        ],
+        "luminosidade_media": 90.0,
+        "contraste_desvio": 34.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "cbc987b3b213444d16fa81965450605155236f6441a4fadba77bf562c50f18ef",
+    "dhash": "1e5f1f8dc95b1f4f"
   }
 ]
