@@ -16973,5 +16973,35 @@
     },
     "sha256": "6822f9c4690a7faca7b5dec6881691b41384d320065e29b89e27914fe322dbf4",
     "dhash": "0d3f8bcb8d253e01"
+  },
+  {
+    "id": "3da57b5f-bd43-442c-b508-b7fef2c1a76b",
+    "titulo": "Seminário 3",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3da57b5f-bd43-442c-b508-b7fef2c1a76b.jpg",
+    "original": "./imagens/visualizacao/3da57b5f-bd43-442c-b508-b7fef2c1a76b.jpg",
+    "criado_em": "2026-11-12T00:15:42.096024+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 450,
+        "altura": 253,
+        "bytes": 29228,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          125,
+          111,
+          69
+        ],
+        "luminosidade_media": 110.2,
+        "contraste_desvio": 65.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "602a671a21c4a01d58c660b3ba21a986550fe1be15aece5c039dec388a5c0791",
+    "dhash": "1c7d6c6c1cdde3b9"
   }
 ]
