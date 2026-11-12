@@ -13133,5 +13133,35 @@
     },
     "sha256": "ec9ce447ddce517f06a23aa5ed23d9b06080f1a814bd51a2fd0b46fb28d785c0",
     "dhash": "8a0231b5b663621e"
+  },
+  {
+    "id": "3d85f021-57aa-4971-a660-6b69694bd9d3",
+    "titulo": "FARMACIA SANTA TEREZINHA (NO INTERIOR O PROPRIETARIO ELZIO)",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3d85f021-57aa-4971-a660-6b69694bd9d3.jpg",
+    "original": "./imagens/visualizacao/3d85f021-57aa-4971-a660-6b69694bd9d3.jpg",
+    "criado_em": "2026-11-11T23:29:27.898870+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 962,
+        "altura": 1165,
+        "bytes": 78700,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          206,
+          169,
+          176
+        ],
+        "luminosidade_media": 181.0,
+        "contraste_desvio": 46.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "b2aff88dc4e15d99ca8f9658563801dbc7de8abaf81b39ffd7c2bf2e9524fceb",
+    "dhash": "c0840444909494f0"
   }
 ]
