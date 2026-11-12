@@ -12203,5 +12203,35 @@
     },
     "sha256": "f115bdbe0d2bb2f95560c9079170683cac39bf8f013014df14e42435c78fe4d8",
     "dhash": "2100948c4a63b370"
+  },
+  {
+    "id": "0c9ce297-1972-4bdd-ac2c-d59cd1f777f7",
+    "titulo": "D. Olívia e cozinheira Prelazia de Rondonópolis",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0c9ce297-1972-4bdd-ac2c-d59cd1f777f7.jpg",
+    "original": "./imagens/visualizacao/0c9ce297-1972-4bdd-ac2c-d59cd1f777f7.jpg",
+    "criado_em": "2026-11-11T23:18:13.082818+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 979,
+        "altura": 704,
+        "bytes": 315075,
+        "exif_data_digital": "2011:02:11 07:19:12",
+        "cor_media_rgb": [
+          163,
+          110,
+          105
+        ],
+        "luminosidade_media": 125.1,
+        "contraste_desvio": 55.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f50bfc7c43dfcd2f508fe48aec64cbc892c19e4efdd552166619e69b88368440",
+    "dhash": "b7b63636363e3a91"
   }
 ]
