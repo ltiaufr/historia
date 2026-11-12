@@ -11063,5 +11063,35 @@
     },
     "sha256": "5eabf7998b4aa58d00625ab80ff9d5c14fe888e11390db436ee65ae70c052691",
     "dhash": "c90c9cdd4d574dcd"
+  },
+  {
+    "id": "99d78236-541d-45dd-986c-5059e5270be6",
+    "titulo": "AVENIDA MARECHAL RONDON EM FRENTE A PRAÇA DOS CARREIROS DECA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/99d78236-541d-45dd-986c-5059e5270be6.jpg",
+    "original": "./imagens/visualizacao/99d78236-541d-45dd-986c-5059e5270be6.jpg",
+    "criado_em": "2026-11-11T23:04:56.579457+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 926,
+        "altura": 687,
+        "bytes": 318576,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          184,
+          183,
+          174
+        ],
+        "luminosidade_media": 182.1,
+        "contraste_desvio": 80.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "56ef09056bfd78e0b25e7602eaa9ecea17bf1b04ff34eae3931df087d7fa19ee",
+    "dhash": "443c3c68ca386c23"
   }
 ]
