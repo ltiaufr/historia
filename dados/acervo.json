@@ -14033,5 +14033,35 @@
     },
     "sha256": "d26502fa5967361ae90f9707480351bac0b8c7433f09832d17e928bac5735d78",
     "dhash": "63ede5e323878787"
+  },
+  {
+    "id": "70d08953-a3d8-4376-a81f-e31ef1dc4abb",
+    "titulo": "INAUGURACAO DO GRUPO ESCOLAR SÃO JOSÉ OPERARIO   VILA OPERAR",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/70d08953-a3d8-4376-a81f-e31ef1dc4abb.jpg",
+    "original": "./imagens/visualizacao/70d08953-a3d8-4376-a81f-e31ef1dc4abb.jpg",
+    "criado_em": "2026-11-11T23:40:15.589176+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1020,
+        "altura": 693,
+        "bytes": 264189,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          236,
+          225,
+          193
+        ],
+        "luminosidade_media": 224.9,
+        "contraste_desvio": 39.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "cf85178e533d489103e809ed4a02d3c5de626b40b2bf20c121da64f56fc4ed6a",
+    "dhash": "199392baf6561610"
   }
 ]
