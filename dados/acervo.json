@@ -13283,5 +13283,35 @@
     },
     "sha256": "e53dab8ebdd09b9b1e163b645c9f19a94a00dc51d0d4c5b7d59e54208db7572b",
     "dhash": "e4e5e4e5ede7e45d"
+  },
+  {
+    "id": "2933c844-65f2-4a3d-a625-279fd5a8695f",
+    "titulo": "Frei Servácio  Escola Santo Antônio  Rondonópolis 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2933c844-65f2-4a3d-a625-279fd5a8695f.jpg",
+    "original": "./imagens/visualizacao/2933c844-65f2-4a3d-a625-279fd5a8695f.jpg",
+    "criado_em": "2026-11-11T23:31:14.982703+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1024,
+        "altura": 994,
+        "bytes": 385419,
+        "exif_data_digital": "2011:02:11 07:46:33",
+        "cor_media_rgb": [
+          134,
+          130,
+          107
+        ],
+        "luminosidade_media": 128.7,
+        "contraste_desvio": 50.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "fd8ebc808ef0bf2223c09dca9e461fbe7273ba696e33ce315bf2f856f01e7ac2",
+    "dhash": "91a0216e36f793e0"
   }
 ]
