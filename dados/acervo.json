@@ -15143,5 +15143,35 @@
     },
     "sha256": "702c2a9044602d54876d4f200b25776bc92079b1762de811aa3aaa64d0edb7e4",
     "dhash": "b88e89312819ccf2"
+  },
+  {
+    "id": "50052e7f-3dfb-4f73-baea-27472ac8191c",
+    "titulo": "Ordenacao D. Osório",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/50052e7f-3dfb-4f73-baea-27472ac8191c.jpg",
+    "original": "./imagens/visualizacao/50052e7f-3dfb-4f73-baea-27472ac8191c.jpg",
+    "criado_em": "2026-11-11T23:53:18.045079+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1311,
+        "altura": 963,
+        "bytes": 421735,
+        "exif_data_digital": "2011:01:05 14:25:03",
+        "cor_media_rgb": [
+          128,
+          117,
+          105
+        ],
+        "luminosidade_media": 118.9,
+        "contraste_desvio": 42.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7a0604cdf7cb950432ad529efd45e41a450e090eb26de4d4b00d899d1b9035b0",
+    "dhash": "47c3d7db5b5b5377"
   }
 ]
