@@ -17183,5 +17183,35 @@
     },
     "sha256": "cabad392f6512452040e55e0d687e6e0d4b0e9cd8cb34b605aa0d3b36f356d90",
     "dhash": "585a5a0a939b4fc7"
+  },
+  {
+    "id": "bd33838b-0e48-4a0a-bfb3-eadc09c8a22d",
+    "titulo": "SOMAI ESQUINA DA AVENIDA CUIABÁ COM A RUAFERNANDO CORREIA DA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/bd33838b-0e48-4a0a-bfb3-eadc09c8a22d.jpg",
+    "original": "./imagens/visualizacao/bd33838b-0e48-4a0a-bfb3-eadc09c8a22d.jpg",
+    "criado_em": "2026-11-12T00:18:16.753209+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1386,
+        "bytes": 1039705,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          199,
+          195,
+          180
+        ],
+        "luminosidade_media": 194.5,
+        "contraste_desvio": 62.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "406d9a8deb587d3258f828bf0cf3fa7ee45925c8ba914b15d5518a168c82355b",
+    "dhash": "3b02d0f8b0f0e089"
   }
 ]
