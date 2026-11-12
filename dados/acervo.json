@@ -11393,5 +11393,35 @@
     },
     "sha256": "094202d5d6936905662b5ef6bc5289f821bc56eb702b5477a09a490060224a3c",
     "dhash": "727271398be080e0"
+  },
+  {
+    "id": "93c0fa06-c464-46e5-b7c1-9779bddae88f",
+    "titulo": "Cemitério onde hoje está a Praça da Saudade",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/93c0fa06-c464-46e5-b7c1-9779bddae88f.jpg",
+    "original": "./imagens/visualizacao/93c0fa06-c464-46e5-b7c1-9779bddae88f.jpg",
+    "criado_em": "2026-11-11T23:08:53.994137+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1296,
+        "altura": 903,
+        "bytes": 512810,
+        "exif_data_digital": "2011:02:11 07:21:24",
+        "cor_media_rgb": [
+          90,
+          86,
+          72
+        ],
+        "luminosidade_media": 85.7,
+        "contraste_desvio": 57.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e2fc1a4c61ac3be6bcfd81a796346ef6c757c3b13ba301b74c58a6fc786003b7",
+    "dhash": "29d6c8b9f7e59293"
   }
 ]
