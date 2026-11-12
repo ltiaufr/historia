@@ -16043,5 +16043,35 @@
     },
     "sha256": "8d27c5c9eb1b448328f0d132463f00b56f18352755172965c06d9fb8bf83cd80",
     "dhash": "ff0d87071f27071b"
+  },
+  {
+    "id": "3979c987-1b4c-4f56-9f46-3ce12445c645",
+    "titulo": "PROCISSÃO EM FRENTE A ANTIGA IGREJA MATRIZ .AVENIDA ARNALDO",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/3979c987-1b4c-4f56-9f46-3ce12445c645.jpg",
+    "original": "./imagens/visualizacao/3979c987-1b4c-4f56-9f46-3ce12445c645.jpg",
+    "criado_em": "2026-11-12T00:03:59.834481+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 594,
+        "altura": 633,
+        "bytes": 243674,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          197,
+          193,
+          174
+        ],
+        "luminosidade_media": 191.6,
+        "contraste_desvio": 41.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "939d09080c44c34325be29660b1749ea7d2df1a3aa7513517b1b06ccd548e74a",
+    "dhash": "064000a02d248685"
   }
 ]
