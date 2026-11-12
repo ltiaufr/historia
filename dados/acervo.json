@@ -13433,5 +13433,35 @@
     },
     "sha256": "a40f586af382af0b25c888db84a8ef7d6eedd6b7e971e4152c798e106807f972",
     "dhash": "e4cd77738ba5adaa"
+  },
+  {
+    "id": "940e947a-971e-41a3-a31f-0f1b95369f38",
+    "titulo": "Funeral A casa fica fechada e o Pátio interditado para as mulheres",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/940e947a-971e-41a3-a31f-0f1b95369f38.jpg",
+    "original": "./imagens/visualizacao/940e947a-971e-41a3-a31f-0f1b95369f38.jpg",
+    "criado_em": "2026-11-11T23:33:02.231305+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1184,
+        "altura": 784,
+        "bytes": 440017,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          147,
+          126,
+          116
+        ],
+        "luminosidade_media": 131.2,
+        "contraste_desvio": 53.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ec25c741b8b272b1135b3e7488f67e809021e0555a820cd03b07096b0eb7f0db",
+    "dhash": "1989032b829616de"
   }
 ]
