@@ -12683,5 +12683,35 @@
     },
     "sha256": "1bb82b4c8fffc9aebf517e1df8797135a647f4a59e0e0a920f458ebde2415658",
     "dhash": "661e96ccce8ec8cc"
+  },
+  {
+    "id": "c8c4926b-5f4e-4ff1-abe4-36e604266bb0",
+    "titulo": "D. Vunibaldo final da década de 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c8c4926b-5f4e-4ff1-abe4-36e604266bb0.jpg",
+    "original": "./imagens/visualizacao/c8c4926b-5f4e-4ff1-abe4-36e604266bb0.jpg",
+    "criado_em": "2026-11-11T23:24:01.700921+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1026,
+        "altura": 1673,
+        "bytes": 593842,
+        "exif_data_digital": "2011:02:11 07:50:48",
+        "cor_media_rgb": [
+          109,
+          106,
+          86
+        ],
+        "luminosidade_media": 104.4,
+        "contraste_desvio": 69.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "127b04ac3ca508dcbd2607d35b977618066e44c58b7aedcb834d5cd87c649935",
+    "dhash": "99b93ceefe566072"
   }
 ]
