@@ -13463,5 +13463,35 @@
     },
     "sha256": "ec25c741b8b272b1135b3e7488f67e809021e0555a820cd03b07096b0eb7f0db",
     "dhash": "1989032b829616de"
+  },
+  {
+    "id": "c3840ebd-f009-408b-98b4-a2b83c5fc3df",
+    "titulo": "Fátima 2011",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c3840ebd-f009-408b-98b4-a2b83c5fc3df.jpg",
+    "original": "./imagens/visualizacao/c3840ebd-f009-408b-98b4-a2b83c5fc3df.jpg",
+    "criado_em": "2026-11-11T23:33:25.023885+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 960,
+        "altura": 1280,
+        "bytes": 545255,
+        "exif_data_digital": "2008:01:01 12:00:00",
+        "cor_media_rgb": [
+          117,
+          126,
+          95
+        ],
+        "luminosidade_media": 119.7,
+        "contraste_desvio": 48.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "20097ce6d07c082a11c7f13df3c58987c5e28514022ccf180fe25f341b763943",
+    "dhash": "1c3c98eab6dac0e5"
   }
 ]
