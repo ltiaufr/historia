@@ -13883,5 +13883,35 @@
     },
     "sha256": "c100901d442528fa598ef17ff79ffeb5f01f54d09cb9d5ddb15dfba58a7b6349",
     "dhash": "7b73651d51954166"
+  },
+  {
+    "id": "0ca3eb2b-3faa-4454-9e18-b260ea7d1386",
+    "titulo": "Igreja Matriz em Rondonópolis  1954",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0ca3eb2b-3faa-4454-9e18-b260ea7d1386.jpg",
+    "original": "./imagens/visualizacao/0ca3eb2b-3faa-4454-9e18-b260ea7d1386.jpg",
+    "criado_em": "2026-11-11T23:38:29.098512+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1080,
+        "altura": 664,
+        "bytes": 196577,
+        "exif_data_digital": "2011:02:11 07:44:38",
+        "cor_media_rgb": [
+          127,
+          125,
+          105
+        ],
+        "luminosidade_media": 123.1,
+        "contraste_desvio": 70.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "375cfadbe40b7c1c5f123b508f83b1fa73473d057eaddf7451029859f9f4f587",
+    "dhash": "991c3a96623cb8e0"
   }
 ]
