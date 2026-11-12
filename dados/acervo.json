@@ -12473,5 +12473,35 @@
     },
     "sha256": "cbc35b8e32cdab9d93e4331cd8704e0821e185ce5c8649bd4ed5f8b8950883b1",
     "dhash": "8c98988c8c880808"
+  },
+  {
+    "id": "ed2fd35d-d90d-4a62-9c0d-374946883977",
+    "titulo": "D. Vunibaldo na Escola São José  Chapada  1944",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ed2fd35d-d90d-4a62-9c0d-374946883977.jpg",
+    "original": "./imagens/visualizacao/ed2fd35d-d90d-4a62-9c0d-374946883977.jpg",
+    "criado_em": "2026-11-11T23:21:26.212456+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1332,
+        "altura": 912,
+        "bytes": 375006,
+        "exif_data_digital": "2011:02:11 07:28:44",
+        "cor_media_rgb": [
+          150,
+          136,
+          96
+        ],
+        "luminosidade_media": 135.5,
+        "contraste_desvio": 46.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "685bdf28213373ccd5e46ed510b0e1601672e2b0e25958650350b54f6333aff5",
+    "dhash": "0f2f8088ce2f3160"
   }
 ]
