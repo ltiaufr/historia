@@ -13163,5 +13163,35 @@
     },
     "sha256": "b2aff88dc4e15d99ca8f9658563801dbc7de8abaf81b39ffd7c2bf2e9524fceb",
     "dhash": "c0840444909494f0"
+  },
+  {
+    "id": "e03a89cc-854f-4919-804e-18e915990a04",
+    "titulo": "Farmácia Frei Osvaldo. Chapada 1944",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e03a89cc-854f-4919-804e-18e915990a04.jpg",
+    "original": "./imagens/visualizacao/e03a89cc-854f-4919-804e-18e915990a04.jpg",
+    "criado_em": "2026-11-11T23:29:48.653521+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 763,
+        "altura": 1192,
+        "bytes": 259097,
+        "exif_data_digital": "2011:02:11 07:31:28",
+        "cor_media_rgb": [
+          123,
+          111,
+          77
+        ],
+        "luminosidade_media": 110.8,
+        "contraste_desvio": 61.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "776602d428db237765a80e27d5941e6962fabba04f70cd51586764f7a75629b3",
+    "dhash": "e0dcfeeeecf09280"
   }
 ]
