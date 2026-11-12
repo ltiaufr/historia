@@ -16253,5 +16253,35 @@
     },
     "sha256": "115cdfda97e6f8b5ff67b8168d1bf3cdba66a6c69832f34a543857c9721ae844",
     "dhash": "3a3339944c0000c0"
+  },
+  {
+    "id": "b28d0538-7143-402d-aed2-3e3f681a061e",
+    "titulo": "Residência Bispo  1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b28d0538-7143-402d-aed2-3e3f681a061e.jpg",
+    "original": "./imagens/visualizacao/b28d0538-7143-402d-aed2-3e3f681a061e.jpg",
+    "criado_em": "2026-11-12T00:06:36.855322+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1266,
+        "altura": 976,
+        "bytes": 544746,
+        "exif_data_digital": "2011:02:11 07:18:31",
+        "cor_media_rgb": [
+          125,
+          88,
+          83
+        ],
+        "luminosidade_media": 98.8,
+        "contraste_desvio": 33.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "8ced2cace07d51efb92ee6ff936823a151008d4dfd826ef68360983dfa2918e1",
+    "dhash": "86e2f20a0e0e2e2c"
   }
 ]
