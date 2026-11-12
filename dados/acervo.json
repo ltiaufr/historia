@@ -14093,5 +14093,35 @@
     },
     "sha256": "cbc987b3b213444d16fa81965450605155236f6441a4fadba77bf562c50f18ef",
     "dhash": "1e5f1f8dc95b1f4f"
+  },
+  {
+    "id": "57e35667-f80a-4078-9421-2078824219ef",
+    "titulo": "INAUGURACAO DA BIBLIOTECA C P R (1995)",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/57e35667-f80a-4078-9421-2078824219ef.jpg",
+    "original": "./imagens/visualizacao/57e35667-f80a-4078-9421-2078824219ef.jpg",
+    "criado_em": "2026-11-11T23:40:58.100060+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1147,
+        "altura": 806,
+        "bytes": 476878,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          182,
+          164,
+          145
+        ],
+        "luminosidade_media": 167.6,
+        "contraste_desvio": 59.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "72431b929b46853bb5a7f00380f4324a8d957a855527535161f9ca636d7d14f8",
+    "dhash": "1c326363dcf3b3c2"
   }
 ]
