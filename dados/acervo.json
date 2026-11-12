@@ -17633,5 +17633,35 @@
     },
     "sha256": "45e2923a3b3feaafac56179f1bb7ac665853043c2a6b1daa629c003b28793b9d",
     "dhash": "5d5959595d27979f"
+  },
+  {
+    "id": "b2831703-99cf-4ba5-bc87-ffae6e1372fe",
+    "titulo": "Biblioteca Campus de Rondonopolis 1996.",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/b2831703-99cf-4ba5-bc87-ffae6e1372fe.jpg",
+    "original": "./imagens/visualizacao/b2831703-99cf-4ba5-bc87-ffae6e1372fe.jpg",
+    "criado_em": "2026-11-12T00:58:34.221208+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1456,
+        "altura": 960,
+        "bytes": 360867,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          210,
+          212,
+          211
+        ],
+        "luminosidade_media": 211.1,
+        "contraste_desvio": 48.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ebefe359ed958299c0b3e28bbe53dff940e18a8e1dbcb9d79500289d5ff5d193",
+    "dhash": "413e72e2e6ecc025"
   }
 ]
