@@ -16283,5 +16283,35 @@
     },
     "sha256": "8ced2cace07d51efb92ee6ff936823a151008d4dfd826ef68360983dfa2918e1",
     "dhash": "86e2f20a0e0e2e2c"
+  },
+  {
+    "id": "1ab55d66-223c-4d1a-95bd-b1a460fcf3aa",
+    "titulo": "Residência do Prelado  e dos franciscanos Chapada  1944",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1ab55d66-223c-4d1a-95bd-b1a460fcf3aa.jpg",
+    "original": "./imagens/visualizacao/1ab55d66-223c-4d1a-95bd-b1a460fcf3aa.jpg",
+    "criado_em": "2026-11-12T00:06:58.306280+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1235,
+        "altura": 809,
+        "bytes": 375329,
+        "exif_data_digital": "2011:02:11 07:32:44",
+        "cor_media_rgb": [
+          150,
+          141,
+          106
+        ],
+        "luminosidade_media": 139.5,
+        "contraste_desvio": 56.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "77fda8ea51392a79218fc8a11aad4d3e04255b7da64d1e7cfcc1785ce987ee0d",
+    "dhash": "1f9f4f4d31320f0f"
   }
 ]
