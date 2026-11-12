@@ -13613,5 +13613,35 @@
     },
     "sha256": "af02959a9215d75188aa678d29e1244ffad6ee2961bcc6ddbdfda1179f47cdcc",
     "dhash": "820c480814142013"
+  },
+  {
+    "id": "d3dc21ea-a86a-446c-b96c-1c5e325ea8ea",
+    "titulo": "I Assembleía Diocesana de CEBS set 1996",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/d3dc21ea-a86a-446c-b96c-1c5e325ea8ea.jpg",
+    "original": "./imagens/visualizacao/d3dc21ea-a86a-446c-b96c-1c5e325ea8ea.jpg",
+    "criado_em": "2026-11-11T23:35:16.715409+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1834,
+        "altura": 1118,
+        "bytes": 800856,
+        "exif_data_digital": "2011:01:05 14:44:22",
+        "cor_media_rgb": [
+          112,
+          112,
+          129
+        ],
+        "luminosidade_media": 113.8,
+        "contraste_desvio": 62.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "194b79a0652fff43504796010e68f66ac070cfaaf046ce677da95b8cd992d14e",
+    "dhash": "038dd59b9c1e1a07"
   }
 ]
