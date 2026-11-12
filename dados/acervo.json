@@ -13853,5 +13853,35 @@
     },
     "sha256": "01d5196e567ad58c8493ccb4c91e371a5b1a6c26c25ddd10b0efead47febb39c",
     "dhash": "6a523a1a9e9ebcbe"
+  },
+  {
+    "id": "947d57f1-db86-4880-820c-39e9be6121e9",
+    "titulo": "IGREJA MATRIZ DECADA DE 50 RUA ARNALDO ESTEVÃO",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/947d57f1-db86-4880-820c-39e9be6121e9.jpg",
+    "original": "./imagens/visualizacao/947d57f1-db86-4880-820c-39e9be6121e9.jpg",
+    "criado_em": "2026-11-11T23:38:08.977522+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 886,
+        "bytes": 560880,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          136,
+          131,
+          115
+        ],
+        "luminosidade_media": 130.6,
+        "contraste_desvio": 63.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c100901d442528fa598ef17ff79ffeb5f01f54d09cb9d5ddb15dfba58a7b6349",
+    "dhash": "7b73651d51954166"
   }
 ]
