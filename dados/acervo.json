@@ -12143,5 +12143,35 @@
     },
     "sha256": "a114a08bdf417cf901613192e4b2b0ab8e18b2df42360883fd263c74bb9e6f32",
     "dhash": "b102716162806221"
+  },
+  {
+    "id": "eb7a3749-0853-4870-80c5-73ee1f036c8d",
+    "titulo": "D. Aquino Corrêa e D. Vunibaldo",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/eb7a3749-0853-4870-80c5-73ee1f036c8d.jpg",
+    "original": "./imagens/visualizacao/eb7a3749-0853-4870-80c5-73ee1f036c8d.jpg",
+    "criado_em": "2026-11-11T23:17:30.606393+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1765,
+        "altura": 1068,
+        "bytes": 765025,
+        "exif_data_digital": "2011:02:11 07:41:43",
+        "cor_media_rgb": [
+          128,
+          122,
+          97
+        ],
+        "luminosidade_media": 120.9,
+        "contraste_desvio": 50.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a16af28b24ea619876c6b799531e9018451c58053c4bd1b99db6c0f4fe2bbee4",
+    "dhash": "1aa331254d4bcbcd"
   }
 ]
