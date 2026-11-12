@@ -12083,5 +12083,35 @@
     },
     "sha256": "fa2640cea9f45168128fdbdc213eaa2bf053b5344b6d54e3c884d15a4101904e",
     "dhash": "ae2cbc0464a30400"
+  },
+  {
+    "id": "fdb11590-0a46-4952-83a2-bbfa43be071d",
+    "titulo": "CONSTRUCAO prédio da Diocese",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/fdb11590-0a46-4952-83a2-bbfa43be071d.jpg",
+    "original": "./imagens/visualizacao/fdb11590-0a46-4952-83a2-bbfa43be071d.jpg",
+    "criado_em": "2026-11-11T23:16:48.055856+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1761,
+        "altura": 973,
+        "bytes": 771756,
+        "exif_data_digital": "2011:02:11 08:07:51",
+        "cor_media_rgb": [
+          164,
+          103,
+          80
+        ],
+        "luminosidade_media": 118.4,
+        "contraste_desvio": 49.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "5d87efbd0f3808a14d6b62a3f653697c50c01a6f6211f4da7a990ec5e0048071",
+    "dhash": "1f07402aaa8b1e03"
   }
 ]
