@@ -15923,5 +15923,35 @@
     },
     "sha256": "0701f9945bc48993e75112a26e154b9b0110dc4995c68c745f68676b981f1c0e",
     "dhash": "9fcfc6b7ffbba3b5"
+  },
+  {
+    "id": "8d39a390-2cbd-4301-99f1-44af75428cd0",
+    "titulo": "PRAÇA DOS CARREIROS NA DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/8d39a390-2cbd-4301-99f1-44af75428cd0.jpg",
+    "original": "./imagens/visualizacao/8d39a390-2cbd-4301-99f1-44af75428cd0.jpg",
+    "criado_em": "2026-11-12T00:02:32.953401+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 905,
+        "altura": 691,
+        "bytes": 248516,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          219,
+          217,
+          210
+        ],
+        "luminosidade_media": 217.1,
+        "contraste_desvio": 69.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c0fbc0d90377d4be5177ec0cc763daf8022a70f7f52de843d6b33f3579c2b303",
+    "dhash": "09201cd804238684"
   }
 ]
