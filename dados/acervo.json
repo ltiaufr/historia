@@ -12233,5 +12233,35 @@
     },
     "sha256": "f50bfc7c43dfcd2f508fe48aec64cbc892c19e4efdd552166619e69b88368440",
     "dhash": "b7b63636363e3a91"
+  },
+  {
+    "id": "9e83fcde-451c-49c8-8c0d-73cc04c45f74",
+    "titulo": "D. Olívia e D. Anastácia  1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9e83fcde-451c-49c8-8c0d-73cc04c45f74.jpg",
+    "original": "./imagens/visualizacao/9e83fcde-451c-49c8-8c0d-73cc04c45f74.jpg",
+    "criado_em": "2026-11-11T23:18:35.079389+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1315790,
+        "exif_data_digital": "2011:02:11 07:19:29",
+        "cor_media_rgb": [
+          142,
+          119,
+          108
+        ],
+        "luminosidade_media": 124.8,
+        "contraste_desvio": 44.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "21a724d687a2c1ff077ca8e34cd0cad9510005508c131545614675f183f302a4",
+    "dhash": "63ded6d4dcdcda2f"
   }
 ]
