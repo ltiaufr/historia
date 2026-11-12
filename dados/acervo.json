@@ -13643,5 +13643,35 @@
     },
     "sha256": "194b79a0652fff43504796010e68f66ac070cfaaf046ce677da95b8cd992d14e",
     "dhash": "038dd59b9c1e1a07"
+  },
+  {
+    "id": "622a5fcb-255f-41a9-a90f-3f6f3854137e",
+    "titulo": "I escola em Fátima  espera de D. Vunibaldo  1948",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/622a5fcb-255f-41a9-a90f-3f6f3854137e.jpg",
+    "original": "./imagens/visualizacao/622a5fcb-255f-41a9-a90f-3f6f3854137e.jpg",
+    "criado_em": "2026-11-11T23:35:39.669143+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1615,
+        "altura": 971,
+        "bytes": 653475,
+        "exif_data_digital": "2011:02:11 08:05:09",
+        "cor_media_rgb": [
+          125,
+          115,
+          84
+        ],
+        "luminosidade_media": 114.5,
+        "contraste_desvio": 51.8
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "59a036ab82ec6f287489456974f92571f5724c1352a46a249fd115365e5c9ee8",
+    "dhash": "5f9f9f4c4c9c9cff"
   }
 ]
