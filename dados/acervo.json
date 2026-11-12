@@ -13043,5 +13043,35 @@
     },
     "sha256": "b9eef7122139fa38918a280bc1a4f7b471c8d85901208ac1a4ce103cef23ea39",
     "dhash": "185c59922521a630"
+  },
+  {
+    "id": "7aa00ecf-75d3-4be3-9230-24afb4382a0b",
+    "titulo": "Esq. Av.Cuiabá c Arnaldo Estevão  Igreja Matriz",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7aa00ecf-75d3-4be3-9230-24afb4382a0b.jpg",
+    "original": "./imagens/visualizacao/7aa00ecf-75d3-4be3-9230-24afb4382a0b.jpg",
+    "criado_em": "2026-11-11T23:28:22.446963+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1281,
+        "altura": 920,
+        "bytes": 498379,
+        "exif_data_digital": "2011:02:11 07:20:14",
+        "cor_media_rgb": [
+          129,
+          93,
+          87
+        ],
+        "luminosidade_media": 103.5,
+        "contraste_desvio": 28.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "25281969e5ffc58ec20fdb127982a3182e3f6687d23af4d402d61a649d93293b",
+    "dhash": "872f2f1b2f07130b"
   }
 ]
