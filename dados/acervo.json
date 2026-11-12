@@ -15653,5 +15653,35 @@
     },
     "sha256": "2cb017b45500e90f18ac4b58f08afc0fb2f8ffb10a991d18f863939c498b2826",
     "dhash": "322b8b8bcb930f2b"
+  },
+  {
+    "id": "60f141b4-ab20-46a4-bfb6-fa0b137196ed",
+    "titulo": "PISTA DE POUSO DE AVIÕES 1967 9 HOJE BAIRRO CAIXA D ´ AGUA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/60f141b4-ab20-46a4-bfb6-fa0b137196ed.jpg",
+    "original": "./imagens/visualizacao/60f141b4-ab20-46a4-bfb6-fa0b137196ed.jpg",
+    "criado_em": "2026-11-11T23:59:21.512878+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 994,
+        "altura": 700,
+        "bytes": 295730,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          218,
+          204,
+          173
+        ],
+        "luminosidade_media": 204.7,
+        "contraste_desvio": 40.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4d6332d598539fab5e26f78bed161e1eb570715c5d067adb4f71fe0f8c9344fc",
+    "dhash": "6939b030f0706060"
   }
 ]
