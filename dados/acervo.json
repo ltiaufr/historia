@@ -17843,5 +17843,35 @@
     },
     "sha256": "48b38838441d559aee67075e7f493156844ea339c998b0a78f88fa469133a050",
     "dhash": "b9396b1e181711d0"
+  },
+  {
+    "id": "f273412a-6d70-4bd1-b2ac-ac21f8a6bc9d",
+    "titulo": "Parque ecologico Jõao Baso Cidade de Pedra",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f273412a-6d70-4bd1-b2ac-ac21f8a6bc9d.jpg",
+    "original": "./imagens/visualizacao/f273412a-6d70-4bd1-b2ac-ac21f8a6bc9d.jpg",
+    "criado_em": "2026-11-12T01:01:09.029461+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1184,
+        "altura": 816,
+        "bytes": 870064,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          214,
+          194,
+          186
+        ],
+        "luminosidade_media": 199.4,
+        "contraste_desvio": 41.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "78c022905df46e78ef099dd4a40b4d5adf8bdc2a1f9034cbda9fc203ed91c09a",
+    "dhash": "5676dfd4dcdfcfd6"
   }
 ]
