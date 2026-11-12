@@ -14993,5 +14993,35 @@
     },
     "sha256": "5a1c528eee3ca38cc74fa7a9c2b879027931596e663132e035d52f4d3e1a66d8",
     "dhash": "9ea60e85e46e63e2"
+  },
+  {
+    "id": "6db489bf-68ef-485d-bd0e-0b132f9c1b0c",
+    "titulo": "MOVÉIS GG AVENIDA ARNALDO ESTEVÃO DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/6db489bf-68ef-485d-bd0e-0b132f9c1b0c.jpg",
+    "original": "./imagens/visualizacao/6db489bf-68ef-485d-bd0e-0b132f9c1b0c.jpg",
+    "criado_em": "2026-11-11T23:51:39.712174+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1013,
+        "altura": 707,
+        "bytes": 247818,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          237,
+          226,
+          192
+        ],
+        "luminosidade_media": 225.5,
+        "contraste_desvio": 29.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "7cce0c70ef39f5d306fc57dee146e9af59b76a507243edc5f68cd2bebda8da9e",
+    "dhash": "e41f3ff6b2d9f0e2"
   }
 ]
