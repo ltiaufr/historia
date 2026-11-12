@@ -12413,5 +12413,35 @@
     },
     "sha256": "6dd522b1afb56ea7e7ed0312147b2404e2f49c8ef4654569d34cca2a80e0b212",
     "dhash": "210d36764282460c"
+  },
+  {
+    "id": "30b5c241-ad44-45d2-a687-1cc5f20da175",
+    "titulo": "D. Vunibaldo e seu irmãos  Alemanha",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/30b5c241-ad44-45d2-a687-1cc5f20da175.jpg",
+    "original": "./imagens/visualizacao/30b5c241-ad44-45d2-a687-1cc5f20da175.jpg",
+    "criado_em": "2026-11-11T23:20:43.892513+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1020,
+        "altura": 1412,
+        "bytes": 563325,
+        "exif_data_digital": "2011:02:11 07:34:13",
+        "cor_media_rgb": [
+          97,
+          84,
+          52
+        ],
+        "luminosidade_media": 84.3,
+        "contraste_desvio": 35.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "1704631f783f0fe4713cca1e7afbb400c55f996a6ee9c03151b36ab5d2bf2138",
+    "dhash": "4f97177d2c2d2ba9"
   }
 ]
