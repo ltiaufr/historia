@@ -17393,5 +17393,35 @@
     },
     "sha256": "e25ecbc5446cc21ef64ed06454222e7a8beabbb886e3a32ae957469f37934edf",
     "dhash": "a0a23820e4a48050"
+  },
+  {
+    "id": "776e52e9-3575-4352-b2b6-ad3468ac923f",
+    "titulo": "VILA OPERARIA EM FRENTE Á PRAÇA DECADA DE 90",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/776e52e9-3575-4352-b2b6-ad3468ac923f.jpg",
+    "original": "./imagens/visualizacao/776e52e9-3575-4352-b2b6-ad3468ac923f.jpg",
+    "criado_em": "2026-11-12T00:20:58.638441+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1142,
+        "altura": 788,
+        "bytes": 593870,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          144,
+          121,
+          117
+        ],
+        "luminosidade_media": 127.3,
+        "contraste_desvio": 57.4
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "bcacaf39c8cae6cddb9425adf6c5c4fef9ce1cda045bceb395c24d229d0df128",
+    "dhash": "796b27425253d206"
   }
 ]
