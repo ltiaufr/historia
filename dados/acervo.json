@@ -11453,5 +11453,35 @@
     },
     "sha256": "09e4c0277033e0667cd5c19c24bcda3ae1be17eb8fedab9413aacb1613728052",
     "dhash": "2001606666f0e0e0"
+  },
+  {
+    "id": "1e4b8f64-8609-40b0-aa6b-09531563a928",
+    "titulo": "CENTRO UNIVERSITARIO DE RONDONOPOLIS DECADA DE 80 ( KOMBI)",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/1e4b8f64-8609-40b0-aa6b-09531563a928.jpg",
+    "original": "./imagens/visualizacao/1e4b8f64-8609-40b0-aa6b-09531563a928.jpg",
+    "criado_em": "2026-11-11T23:09:35.038577+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 987,
+        "altura": 693,
+        "bytes": 314956,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          125,
+          106,
+          109
+        ],
+        "luminosidade_media": 112.2,
+        "contraste_desvio": 32.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "d32e0d65f08bbc62e26cd24314b57f5332edc585bfe9cb22531e72247359c696",
+    "dhash": "34a4e66662f273bf"
   }
 ]
