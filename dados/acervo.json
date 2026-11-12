@@ -12323,5 +12323,35 @@
     },
     "sha256": "d3da9e936946e4136321b7770d4454ca88a1a8ec0d25b00ed8b8044da24969c1",
     "dhash": "92a8b8b9c7070301"
+  },
+  {
+    "id": "9bb0c42a-2779-473d-8591-e16105750393",
+    "titulo": "D. Osório, Dr. Osvaldo e outros",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9bb0c42a-2779-473d-8591-e16105750393.jpg",
+    "original": "./imagens/visualizacao/9bb0c42a-2779-473d-8591-e16105750393.jpg",
+    "criado_em": "2026-11-11T23:19:40.949696+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1362,
+        "altura": 851,
+        "bytes": 446466,
+        "exif_data_digital": "2011:01:06 14:37:09",
+        "cor_media_rgb": [
+          143,
+          143,
+          139
+        ],
+        "luminosidade_media": 142.7,
+        "contraste_desvio": 34.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "09a3072aa6279c3568a857a039abf98fa788aeaf0b28a2239bf3a4bc4829fbc5",
+    "dhash": "0595d5535b6a6461"
   }
 ]
