@@ -12023,5 +12023,35 @@
     },
     "sha256": "64578038115597c94c8da18b35af8c557e0ff787befbce455c6652a943b2bc12",
     "dhash": "900981d117140e9a"
+  },
+  {
+    "id": "aaeec12c-0f94-48d1-8697-f5f69c2d7b60",
+    "titulo": "CONSTRUCAO DO PREDIO DA I PREFEITURA ( DEPOIS DA CÂMARA MUN",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/aaeec12c-0f94-48d1-8697-f5f69c2d7b60.jpg",
+    "original": "./imagens/visualizacao/aaeec12c-0f94-48d1-8697-f5f69c2d7b60.jpg",
+    "criado_em": "2026-11-11T23:16:06.262036+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 886,
+        "bytes": 499283,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          173,
+          157,
+          130
+        ],
+        "luminosidade_media": 158.8,
+        "contraste_desvio": 36.3
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c86890c21538accbcc0a3fc42f2e924b8080162bc33a85c419bb541d95e2fe28",
+    "dhash": "6cf0f0a0d8c8e8cc"
   }
 ]
