@@ -16013,5 +16013,35 @@
     },
     "sha256": "b569cc5b36169d0a8ad6f5f18d2523afa755b2d74fc25b440a0be02945e9b193",
     "dhash": "1137178d397967af"
+  },
+  {
+    "id": "786118f9-08e8-4a41-a3e4-dca09bcd71ab",
+    "titulo": "Procissão da cruz Vila Operária  1967",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/786118f9-08e8-4a41-a3e4-dca09bcd71ab.jpg",
+    "original": "./imagens/visualizacao/786118f9-08e8-4a41-a3e4-dca09bcd71ab.jpg",
+    "criado_em": "2026-11-12T00:03:38.691512+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1219,
+        "altura": 867,
+        "bytes": 422565,
+        "exif_data_digital": "2011:02:11 07:23:59",
+        "cor_media_rgb": [
+          136,
+          136,
+          136
+        ],
+        "luminosidade_media": 136.2,
+        "contraste_desvio": 83.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "8d27c5c9eb1b448328f0d132463f00b56f18352755172965c06d9fb8bf83cd80",
+    "dhash": "ff0d87071f27071b"
   }
 ]
