@@ -17723,5 +17723,35 @@
     },
     "sha256": "b2107534c14b31ef244094876e232c3ad47c40ec9ec0e26de09ba4983de5f28f",
     "dhash": "cd9a9f2343c9de9e"
+  },
+  {
+    "id": "a3510caf-0b58-4731-aac8-d3102285433d",
+    "titulo": "foto balsa 1",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a3510caf-0b58-4731-aac8-d3102285433d.jpg",
+    "original": "./imagens/visualizacao/a3510caf-0b58-4731-aac8-d3102285433d.jpg",
+    "criado_em": "2026-11-12T00:59:40.200404+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2450,
+        "altura": 1710,
+        "bytes": 641867,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          120,
+          128,
+          117
+        ],
+        "luminosidade_media": 124.1,
+        "contraste_desvio": 56.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "235f967ad1e8a63b7f15f3d23581d9b722ebaf0f5a56ae20346efab9a448cf04",
+    "dhash": "9c0c5a1e31791d17"
   }
 ]
