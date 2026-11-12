@@ -12593,5 +12593,35 @@
     },
     "sha256": "2d7e8d35cf36347c961ac5fc24c9b8899bff5478b1d1bdd402f97cc7be517ef3",
     "dhash": "3474b6b17134b20f"
+  },
+  {
+    "id": "f7c97ff8-8a7c-47c9-84a2-4b54f0bc8761",
+    "titulo": "D. Vunibaldo Talleur Década de 60",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/f7c97ff8-8a7c-47c9-84a2-4b54f0bc8761.jpg",
+    "original": "./imagens/visualizacao/f7c97ff8-8a7c-47c9-84a2-4b54f0bc8761.jpg",
+    "criado_em": "2026-11-11T23:22:54.655651+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1209,
+        "altura": 1764,
+        "bytes": 770342,
+        "exif_data_digital": "2011:02:11 07:48:27",
+        "cor_media_rgb": [
+          128,
+          110,
+          85
+        ],
+        "luminosidade_media": 112.7,
+        "contraste_desvio": 54.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c34f10719740fae2eb1ba47215112b81ba0acb9653158a9f880614d39ae8beb9",
+    "dhash": "056161d1c0048283"
   }
 ]
