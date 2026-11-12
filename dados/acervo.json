@@ -17153,5 +17153,35 @@
     },
     "sha256": "e8a9d006643b881c0f53bb5298bcdb4b0e079d4951e9f09335e47240ea08e93a",
     "dhash": "570e5c363261ecec"
+  },
+  {
+    "id": "30459f59-62dc-4855-b957-12824d6dc8d4",
+    "titulo": "SESSÃO DE AUTOGRAFOS NO LANÇAMENTO DO LIVRO DA PROFª LACI C.",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/30459f59-62dc-4855-b957-12824d6dc8d4.jpg",
+    "original": "./imagens/visualizacao/30459f59-62dc-4855-b957-12824d6dc8d4.jpg",
+    "criado_em": "2026-11-12T00:17:53.446132+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1147,
+        "altura": 793,
+        "bytes": 417894,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          152,
+          136,
+          127
+        ],
+        "luminosidade_media": 139.6,
+        "contraste_desvio": 66.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "cabad392f6512452040e55e0d687e6e0d4b0e9cd8cb34b605aa0d3b36f356d90",
+    "dhash": "585a5a0a939b4fc7"
   }
 ]
