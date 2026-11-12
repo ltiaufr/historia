@@ -16523,5 +16523,35 @@
     },
     "sha256": "5d96f50bbe6ba485efeb9b4972800b4b0ce27cfe86cfdc6f4281396997373f74",
     "dhash": "0f8392070f96da6e"
+  },
+  {
+    "id": "7350a29d-f695-41da-83e7-e2bb31559ab0",
+    "titulo": "ROBERTO LIBERATO DA SILVA,FUNCIONARIO DO CORREIO TÉLEGRAFO D",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7350a29d-f695-41da-83e7-e2bb31559ab0.jpg",
+    "original": "./imagens/visualizacao/7350a29d-f695-41da-83e7-e2bb31559ab0.jpg",
+    "criado_em": "2026-11-12T00:09:58.138966+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1166,
+        "altura": 787,
+        "bytes": 499912,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          163,
+          116,
+          117
+        ],
+        "luminosidade_media": 130.0,
+        "contraste_desvio": 42.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "bf8d8d3b75e8e0af6380126fdb2f4e2159e8f2489ebcf1f552c63e79732aff2d",
+    "dhash": "9bbbbba3a9ad8696"
   }
 ]
