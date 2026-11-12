@@ -12113,5 +12113,35 @@
     },
     "sha256": "5d87efbd0f3808a14d6b62a3f653697c50c01a6f6211f4da7a990ec5e0048071",
     "dhash": "1f07402aaa8b1e03"
+  },
+  {
+    "id": "2bc61dac-808f-4635-a155-75b75adb4956",
+    "titulo": "CORRETO DA PRAÇA DOS CARREIROS DECADA DE 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/2bc61dac-808f-4635-a155-75b75adb4956.jpg",
+    "original": "./imagens/visualizacao/2bc61dac-808f-4635-a155-75b75adb4956.jpg",
+    "criado_em": "2026-11-11T23:17:09.072395+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 943,
+        "altura": 750,
+        "bytes": 246649,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          219,
+          217,
+          206
+        ],
+        "luminosidade_media": 216.5,
+        "contraste_desvio": 66.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "a114a08bdf417cf901613192e4b2b0ab8e18b2df42360883fd263c74bb9e6f32",
+    "dhash": "b102716162806221"
   }
 ]
