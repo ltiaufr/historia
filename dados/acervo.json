@@ -17903,5 +17903,35 @@
     },
     "sha256": "2b24abfae1ac46966282aaed0bd45ece3a26d4540e41eb3dd29fe85b72a00652",
     "dhash": "86a6d8c363c34364"
+  },
+  {
+    "id": "fe6e6493-6ba4-4220-b010-4cf05b2d711b",
+    "titulo": "Rondonópolis MT",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/fe6e6493-6ba4-4220-b010-4cf05b2d711b.jpg",
+    "original": "./imagens/visualizacao/fe6e6493-6ba4-4220-b010-4cf05b2d711b.jpg",
+    "criado_em": "2026-11-12T01:01:52.531753+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1168,
+        "altura": 816,
+        "bytes": 988545,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          158,
+          149,
+          140
+        ],
+        "luminosidade_media": 150.9,
+        "contraste_desvio": 56.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "707a03cb4d1a9efc2e4e50e721c2a819a1cc3110f208116a5ff51058a4c25721",
+    "dhash": "2f67155b93a735cd"
   }
 ]
