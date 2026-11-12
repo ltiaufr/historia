@@ -13673,5 +13673,35 @@
     },
     "sha256": "59a036ab82ec6f287489456974f92571f5724c1352a46a249fd115365e5c9ee8",
     "dhash": "5f9f9f4c4c9c9cff"
+  },
+  {
+    "id": "e8504fa0-4b27-4de2-b9bf-35f05ce440ff",
+    "titulo": "I RESIDENCIA DAS IRMÃS FRANCISCANAS( Mª OSSEMER,Mª BONA,Mª r",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e8504fa0-4b27-4de2-b9bf-35f05ce440ff.jpg",
+    "original": "./imagens/visualizacao/e8504fa0-4b27-4de2-b9bf-35f05ce440ff.jpg",
+    "criado_em": "2026-11-11T23:36:01.054237+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1160,
+        "altura": 774,
+        "bytes": 460655,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          173,
+          132,
+          138
+        ],
+        "luminosidade_media": 145.1,
+        "contraste_desvio": 57.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9bc508a22c9eca4d826ed1c521fe067071d31523da986499fc9eff9e9de4a39a",
+    "dhash": "1911919a0a2d0141"
   }
 ]
