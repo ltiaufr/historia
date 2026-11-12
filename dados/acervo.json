@@ -11123,5 +11123,35 @@
     },
     "sha256": "09cc6d97e9e934ff950e710af1a688b51d83f231ec79bf1b93ebb4855ba1327a",
     "dhash": "8870f59c78f8f4f8"
+  },
+  {
+    "id": "e2adf5cb-eb8b-42d9-8b80-b7a484e22728",
+    "titulo": "AVIÃO DA AEROVIAS AEROPORTO (HOJE BAIRRO SANTA CRUZ) DECADA",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/e2adf5cb-eb8b-42d9-8b80-b7a484e22728.jpg",
+    "original": "./imagens/visualizacao/e2adf5cb-eb8b-42d9-8b80-b7a484e22728.jpg",
+    "criado_em": "2026-11-11T23:05:44.677943+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1380,
+        "bytes": 823324,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          218,
+          214,
+          195
+        ],
+        "luminosidade_media": 213.2,
+        "contraste_desvio": 48.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "58df32a10c8f3b689948d4c9a1ea790ec540008ac4a4ef756c0d881dd63472c7",
+    "dhash": "0f41091d4800049c"
   }
 ]
