@@ -15263,5 +15263,35 @@
     },
     "sha256": "3f4a4e6cc14ccf96b14131730d3da0ed01db8ff32d152e8a06cb7bea9edd4123",
     "dhash": "4256d2d264496337"
+  },
+  {
+    "id": "95c0a626-dbed-4ead-a291-dc77b596416c",
+    "titulo": "Papa João Paulo II e D. Osório Década de 80",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/95c0a626-dbed-4ead-a291-dc77b596416c.jpg",
+    "original": "./imagens/visualizacao/95c0a626-dbed-4ead-a291-dc77b596416c.jpg",
+    "criado_em": "2026-11-11T23:54:45.056824+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1420,
+        "altura": 1316,
+        "bytes": 678944,
+        "exif_data_digital": "2011:01:05 14:15:04",
+        "cor_media_rgb": [
+          115,
+          95,
+          95
+        ],
+        "luminosidade_media": 101.3,
+        "contraste_desvio": 56.5
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "9922287600a92391fb4aa6dc579b2d6d3d8d413b52402a4664fbbe27b156b14e",
+    "dhash": "c4d8903c3c3b191d"
   }
 ]
