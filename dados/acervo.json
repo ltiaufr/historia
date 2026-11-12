@@ -11093,5 +11093,35 @@
     },
     "sha256": "56ef09056bfd78e0b25e7602eaa9ecea17bf1b04ff34eae3931df087d7fa19ee",
     "dhash": "443c3c68ca386c23"
+  },
+  {
+    "id": "a0772ae8-75fd-4ff5-859e-f40aaac72de5",
+    "titulo": "AVENIDA FREI SERVACIO CONSTRUCAO SO CEPA ( DO LADO DIREITO)",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/a0772ae8-75fd-4ff5-859e-f40aaac72de5.jpg",
+    "original": "./imagens/visualizacao/a0772ae8-75fd-4ff5-859e-f40aaac72de5.jpg",
+    "criado_em": "2026-11-11T23:05:21.303697+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1867,
+        "altura": 1380,
+        "bytes": 1347308,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          189,
+          180,
+          154
+        ],
+        "luminosidade_media": 179.9,
+        "contraste_desvio": 50.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "09cc6d97e9e934ff950e710af1a688b51d83f231ec79bf1b93ebb4855ba1327a",
+    "dhash": "8870f59c78f8f4f8"
   }
 ]
