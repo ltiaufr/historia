@@ -12803,5 +12803,35 @@
     },
     "sha256": "2c02501dab75936d2fdf656712e3ab597ea212f73013f5fa24e9f1f8ab8af811",
     "dhash": "2f6de9ebfdd5e599"
+  },
+  {
+    "id": "0a899e0d-7cbf-4385-85c1-8cd547dd434e",
+    "titulo": "Encontro presbíteros em Itaíci 1987",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/0a899e0d-7cbf-4385-85c1-8cd547dd434e.jpg",
+    "original": "./imagens/visualizacao/0a899e0d-7cbf-4385-85c1-8cd547dd434e.jpg",
+    "criado_em": "2026-11-11T23:25:33.654695+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2048,
+        "altura": 1536,
+        "bytes": 1323145,
+        "exif_data_digital": "2011:01:06 14:39:19",
+        "cor_media_rgb": [
+          129,
+          120,
+          110
+        ],
+        "luminosidade_media": 121.7,
+        "contraste_desvio": 46.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ac32b14216d3444a97197f6481d7996cbaebfd074eec52baff92371bb07d2334",
+    "dhash": "0376aa9a92a69e08"
   }
 ]
