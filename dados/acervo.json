@@ -17663,5 +17663,35 @@
     },
     "sha256": "ebefe359ed958299c0b3e28bbe53dff940e18a8e1dbcb9d79500289d5ff5d193",
     "dhash": "413e72e2e6ecc025"
+  },
+  {
+    "id": "c0819162-6859-4da6-9e6a-1b0d86f5acb1",
+    "titulo": "Carro de boi Av Mal. Dutra esq Arnaldo Estevão",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/c0819162-6859-4da6-9e6a-1b0d86f5acb1.jpg",
+    "original": "./imagens/visualizacao/c0819162-6859-4da6-9e6a-1b0d86f5acb1.jpg",
+    "criado_em": "2026-11-12T00:59:00.552117+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 2304,
+        "altura": 1536,
+        "bytes": 1491856,
+        "exif_data_digital": "2009:08:19 04:25:31",
+        "cor_media_rgb": [
+          127,
+          121,
+          150
+        ],
+        "luminosidade_media": 126.0,
+        "contraste_desvio": 53.7
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "2c6d522629b66060044b59c65654b25ec6a34613c944ff2e3b6ff624b8266654",
+    "dhash": "7757373375f1ff79"
   }
 ]
