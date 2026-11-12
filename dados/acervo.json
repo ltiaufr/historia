@@ -16163,5 +16163,35 @@
     },
     "sha256": "b2450d100f32c3c21ba3ef4bb2812357f3da467c18104f144237618f2cde834c",
     "dhash": "5558dacc6eeddb67"
+  },
+  {
+    "id": "ff65d3bc-4cc3-4f72-9d7b-5ffcc2318d2b",
+    "titulo": "PROFESSORA LUCILEIA LANÇAMENTO DO LIVRO  HISTORIA DA EDUCAÇÃ",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/ff65d3bc-4cc3-4f72-9d7b-5ffcc2318d2b.jpg",
+    "original": "./imagens/visualizacao/ff65d3bc-4cc3-4f72-9d7b-5ffcc2318d2b.jpg",
+    "criado_em": "2026-11-12T00:05:27.886323+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 987,
+        "altura": 1166,
+        "bytes": 477848,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          140,
+          133,
+          132
+        ],
+        "luminosidade_media": 135.0,
+        "contraste_desvio": 66.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "f995fed9e834ae347172826eb39964d7b551695d5a428a1926848391a2558553",
+    "dhash": "d1f26c7adbecfaf8"
   }
 ]
