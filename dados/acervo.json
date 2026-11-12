@@ -14513,5 +14513,35 @@
     },
     "sha256": "f35ff54d68e526afbf855c10375aedf878b9d2de50c36a93aeca552adf5d8dbb",
     "dhash": "7bfba339ac84c909"
+  },
+  {
+    "id": "7d2db025-7d6f-45f5-872f-c45fb3e92679",
+    "titulo": "LANCAMENTO DA REVISTA DE HISTORIA (MAIO DE 1997)",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/7d2db025-7d6f-45f5-872f-c45fb3e92679.jpg",
+    "original": "./imagens/visualizacao/7d2db025-7d6f-45f5-872f-c45fb3e92679.jpg",
+    "criado_em": "2026-11-11T23:46:02.433740+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1127,
+        "altura": 786,
+        "bytes": 419234,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          163,
+          140,
+          116
+        ],
+        "luminosidade_media": 144.1,
+        "contraste_desvio": 44.1
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "3af8459a7aac312bac827be4492aa0d6de89689ea3665b1c4ce70217ffc84088",
+    "dhash": "9b86a6320b2fefca"
   }
 ]
