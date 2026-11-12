@@ -17273,5 +17273,35 @@
     },
     "sha256": "ce4b3df4c362579b409d18390e03cc6886297a530d8de47296399504fab13daa",
     "dhash": "1d2b8001050b3a48"
+  },
+  {
+    "id": "beab7f9f-2f56-4633-90f5-d87de4a9a799",
+    "titulo": "TURMA DE CIENCIAS EXATAS C P R 1980 ( ESCOLA JOAQUIM NUNES R",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/beab7f9f-2f56-4633-90f5-d87de4a9a799.jpg",
+    "original": "./imagens/visualizacao/beab7f9f-2f56-4633-90f5-d87de4a9a799.jpg",
+    "criado_em": "2026-11-12T00:19:25.277259+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1873,
+        "altura": 1374,
+        "bytes": 1151674,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          182,
+          178,
+          164
+        ],
+        "luminosidade_media": 177.4,
+        "contraste_desvio": 53.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "ded0687ca4c8aa327c2c23cd4b40c5c095b9e416e1bd8be698962ac99adc2cb5",
+    "dhash": "2343c2524b444a62"
   }
 ]
