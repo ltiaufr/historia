@@ -11423,5 +11423,35 @@
     },
     "sha256": "e2fc1a4c61ac3be6bcfd81a796346ef6c757c3b13ba301b74c58a6fc786003b7",
     "dhash": "29d6c8b9f7e59293"
+  },
+  {
+    "id": "9de15527-c3c3-4f2f-bcae-3053871506d0",
+    "titulo": "Centro Pedagogico de Rondonopolis (C P R)1982 2",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/9de15527-c3c3-4f2f-bcae-3053871506d0.jpg",
+    "original": "./imagens/visualizacao/9de15527-c3c3-4f2f-bcae-3053871506d0.jpg",
+    "criado_em": "2026-11-11T23:09:13.730645+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1384,
+        "altura": 928,
+        "bytes": 444003,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          207,
+          200,
+          186
+        ],
+        "luminosidade_media": 200.2,
+        "contraste_desvio": 51.0
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "09e4c0277033e0667cd5c19c24bcda3ae1be17eb8fedab9413aacb1613728052",
+    "dhash": "2001606666f0e0e0"
   }
 ]
