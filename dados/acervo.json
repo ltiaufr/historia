@@ -14123,5 +14123,35 @@
     },
     "sha256": "72431b929b46853bb5a7f00380f4324a8d957a855527535161f9ca636d7d14f8",
     "dhash": "1c326363dcf3b3c2"
+  },
+  {
+    "id": "97d7fe4b-f3ff-4ac4-a0a1-c32062cbaf83",
+    "titulo": "INSTALAÇÕES DA CEMAT DECADA DE 70",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/97d7fe4b-f3ff-4ac4-a0a1-c32062cbaf83.jpg",
+    "original": "./imagens/visualizacao/97d7fe4b-f3ff-4ac4-a0a1-c32062cbaf83.jpg",
+    "criado_em": "2026-11-11T23:41:41.834046+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 993,
+        "altura": 700,
+        "bytes": 202399,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          238,
+          227,
+          195
+        ],
+        "luminosidade_media": 226.7,
+        "contraste_desvio": 29.6
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "c79011c000e6f835fafa255f60761ee29dd793e93806018b3a7aebd71ba37372",
+    "dhash": "828082b0d098d092"
   }
 ]
