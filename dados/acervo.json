@@ -13253,5 +13253,35 @@
     },
     "sha256": "6f4d01424a1259a3435ff44beb90028d4fc47cc84ce1ca746501c0f20b543b97",
     "dhash": "c060c1c7e0b1c0c8"
+  },
+  {
+    "id": "5bbdbdc3-e829-489f-b50e-a7a95f987562",
+    "titulo": "Frei Servácio Escola Santo Antônio 1966",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/5bbdbdc3-e829-489f-b50e-a7a95f987562.jpg",
+    "original": "./imagens/visualizacao/5bbdbdc3-e829-489f-b50e-a7a95f987562.jpg",
+    "criado_em": "2026-11-11T23:30:53.597529+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1745,
+        "altura": 1101,
+        "bytes": 778580,
+        "exif_data_digital": "2011:02:11 08:06:17",
+        "cor_media_rgb": [
+          121,
+          118,
+          97
+        ],
+        "luminosidade_media": 116.2,
+        "contraste_desvio": 51.9
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "e53dab8ebdd09b9b1e163b645c9f19a94a00dc51d0d4c5b7d59e54208db7572b",
+    "dhash": "e4e5e4e5ede7e45d"
   }
 ]
