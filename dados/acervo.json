@@ -17573,5 +17573,35 @@
     },
     "sha256": "ce5d33945accc6e1e014cea702b99feb87b7116a93b58c6cc0e8f7dda1288e11",
     "dhash": "e0e4646270e0f131"
+  },
+  {
+    "id": "97fcd2f3-3def-4da3-af4c-561e46a25d36",
+    "titulo": "Índios Cantando no Funeral",
+    "descricao": "",
+    "ano": "",
+    "fonte": "",
+    "miniatura": "./imagens/miniaturas/97fcd2f3-3def-4da3-af4c-561e46a25d36.jpg",
+    "original": "./imagens/visualizacao/97fcd2f3-3def-4da3-af4c-561e46a25d36.jpg",
+    "criado_em": "2026-11-12T00:23:19.032132+00:00",
+    "descritores": {
+      "tecnicos": {
+        "formato": "JPEG",
+        "largura": 1200,
+        "altura": 816,
+        "bytes": 385782,
+        "exif_data_digital": null,
+        "cor_media_rgb": [
+          173,
+          132,
+          107
+        ],
+        "luminosidade_media": 141.4,
+        "contraste_desvio": 45.2
+      },
+      "tags_revisadas": [],
+      "contexto_historico_revisado": ""
+    },
+    "sha256": "4d41ccfa0f0ff1a0aefae86bd1104f3e58cad8a76eb0cbfb51a1c28be815d6b6",
+    "dhash": "0f276166647c2c3e"
   }
 ]
